@@ -1,0 +1,85 @@
+{
+    "version": "2025.1",
+    "source": "VIIRS/2025/seine_et_marne",
+    "generated": "2026-07-03T15:47:49Z",
+    "tile": "N047E003",
+    "spots": [
+        {
+            "lat": 47.90625,
+            "lon": 3.08125,
+            "darkness": 0.5651860831280529,
+            "row": 935,
+            "col": 1144,
+            "bortle": 4,
+            "near": "Charny",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.952083333333334,
+            "lon": 3.814583333333333,
+            "darkness": 0.5649915071599382,
+            "row": 924,
+            "col": 1320,
+            "bortle": 4,
+            "near": "Flogny-la-Chapelle",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.952083333333334,
+            "lon": 3.3062500000000004,
+            "darkness": 0.5217759168348677,
+            "row": 924,
+            "col": 1198,
+            "bortle": 4,
+            "near": "La Celle-Saint-Cyr",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.99791666666667,
+            "lon": 3.127083333333333,
+            "darkness": 0.49540302097444144,
+            "row": 913,
+            "col": 1155,
+            "bortle": 5,
+            "near": "Piffonds",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.952083333333334,
+            "lon": 3.3979166666666663,
+            "darkness": 0.4938045426824059,
+            "row": 924,
+            "col": 1220,
+            "bortle": 5,
+            "near": "Chamvres",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.99375,
+            "lon": 3.814583333333333,
+            "darkness": 0.5417292539753588,
+            "row": 914,
+            "col": 1320,
+            "bortle": 4,
+            "near": "Germigny",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.947916666666664,
+            "lon": 3.76875,
+            "darkness": 0.5272896125025808,
+            "row": 925,
+            "col": 1309,
+            "bortle": 4,
+            "near": "Vergigny",
+            "name": null,
+            "altitude": null
+        }
+    ]
+}

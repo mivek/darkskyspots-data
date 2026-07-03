@@ -1,0 +1,107 @@
+{
+    "version": "2025.1",
+    "source": "VIIRS/2025/seine_et_marne",
+    "generated": "2026-07-03T15:47:49Z",
+    "tile": "N047E002",
+    "spots": [
+        {
+            "lat": 47.90625,
+            "lon": 2.852083333333333,
+            "darkness": 0.5114923750375028,
+            "row": 935,
+            "col": 1089,
+            "bortle": 4,
+            "near": "Montcresson",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.90625,
+            "lon": 2.497916666666667,
+            "darkness": 0.4957288853550188,
+            "row": 935,
+            "col": 1004,
+            "bortle": 5,
+            "near": "Noyers",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.90625,
+            "lon": 2.8062500000000004,
+            "darkness": 0.4915340033446072,
+            "row": 935,
+            "col": 1078,
+            "bortle": 5,
+            "near": "Montcresson",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.985416666666666,
+            "lon": 2.3020833333333335,
+            "darkness": 0.43275480808442024,
+            "row": 916,
+            "col": 957,
+            "bortle": 5,
+            "near": "Sury-aux-Bois",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 2.2104166666666667,
+            "darkness": 0.3759210273861523,
+            "row": 946,
+            "col": 935,
+            "bortle": 5,
+            "near": "Châteauneuf-sur-Loire",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 2.1645833333333333,
+            "darkness": 0.3413748595930618,
+            "row": 946,
+            "col": 924,
+            "bortle": 6,
+            "near": "Jargeau",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 2.11875,
+            "darkness": 0.30616871791588185,
+            "row": 946,
+            "col": 913,
+            "bortle": 6,
+            "near": "Jargeau",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 2.0729166666666665,
+            "darkness": 0.2720184365642251,
+            "row": 946,
+            "col": 902,
+            "bortle": 6,
+            "near": "Darvoy",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 2.027083333333333,
+            "darkness": 0.22870068597259552,
+            "row": 946,
+            "col": 891,
+            "bortle": 6,
+            "near": "Sandillon",
+            "name": null,
+            "altitude": null
+        }
+    ]
+}

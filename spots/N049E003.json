@@ -1,0 +1,228 @@
+{
+    "version": "2025.1",
+    "source": "VIIRS/2025/seine_et_marne",
+    "generated": "2026-07-03T15:47:49Z",
+    "tile": "N049E003",
+    "spots": [
+        {
+            "lat": 49.37708333333333,
+            "lon": 3.5854166666666663,
+            "darkness": 0.4369830024063668,
+            "row": 582,
+            "col": 1265,
+            "bortle": 5,
+            "near": "Braine",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.239583333333336,
+            "lon": 3.539583333333333,
+            "darkness": 0.4277329569128878,
+            "row": 615,
+            "col": 1254,
+            "bortle": 5,
+            "near": "Fère-en-Tardenois",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.485416666666666,
+            "lon": 3.447916666666667,
+            "darkness": 0.41479682711286925,
+            "row": 556,
+            "col": 1232,
+            "bortle": 5,
+            "near": "Pinon",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.10208333333333,
+            "lon": 3.5854166666666663,
+            "darkness": 0.4053602716666659,
+            "row": 648,
+            "col": 1265,
+            "bortle": 5,
+            "near": "Jaulgonne",
+            "name": "Barzy-sur-Marne",
+            "altitude": null
+        },
+        {
+            "lat": 49.46875,
+            "lon": 3.21875,
+            "darkness": 0.37621671984172056,
+            "row": 560,
+            "col": 1177,
+            "bortle": 5,
+            "near": "Trosly-Loire",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.14791666666667,
+            "lon": 3.35625,
+            "darkness": 0.37370626751705205,
+            "row": 637,
+            "col": 1210,
+            "bortle": 5,
+            "near": "Épaux-Bézu",
+            "name": "Étrépilly",
+            "altitude": null
+        },
+        {
+            "lat": 49.27291666666667,
+            "lon": 3.2645833333333334,
+            "darkness": 0.3534316358412505,
+            "row": 607,
+            "col": 1188,
+            "bortle": 5,
+            "near": "Courmelles",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.46875,
+            "lon": 3.08125,
+            "darkness": 0.3491504377487621,
+            "row": 560,
+            "col": 1144,
+            "bortle": 6,
+            "near": "Autrêches",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.422916666666666,
+            "lon": 3.4020833333333336,
+            "darkness": 0.3459514867473207,
+            "row": 571,
+            "col": 1221,
+            "bortle": 6,
+            "near": "Bucy-le-Long",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.28125,
+            "lon": 3.21875,
+            "darkness": 0.3438351428239197,
+            "row": 605,
+            "col": 1177,
+            "bortle": 6,
+            "near": "Villers-Cotterêts",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.14791666666667,
+            "lon": 3.2645833333333334,
+            "darkness": 0.3418858954945001,
+            "row": 637,
+            "col": 1188,
+            "bortle": 6,
+            "near": "Neuilly-Saint-Front",
+            "name": "Licy-Clignon",
+            "altitude": null
+        },
+        {
+            "lat": 49.05625,
+            "lon": 3.447916666666667,
+            "darkness": 0.3396320859936498,
+            "row": 659,
+            "col": 1232,
+            "bortle": 6,
+            "near": "Brasles",
+            "name": "Gland",
+            "altitude": null
+        },
+        {
+            "lat": 49.010416666666664,
+            "lon": 3.1729166666666666,
+            "darkness": 0.24078464135064737,
+            "row": 670,
+            "col": 1166,
+            "bortle": 6,
+            "near": "Sainte-Aulde",
+            "name": "Chamoust",
+            "altitude": null
+        },
+        {
+            "lat": 49.197916666666664,
+            "lon": 3.0354166666666664,
+            "darkness": 0.23236665032579673,
+            "row": 625,
+            "col": 1133,
+            "bortle": 6,
+            "near": "Vauciennes",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.10208333333333,
+            "lon": 3.0354166666666664,
+            "darkness": 0.1986807860990124,
+            "row": 648,
+            "col": 1133,
+            "bortle": 7,
+            "near": "Rouvres-en-Multien",
+            "name": "Varinfroy",
+            "altitude": null
+        },
+        {
+            "lat": 49.50625,
+            "lon": 3.627083333333333,
+            "darkness": 0.3811611164423415,
+            "row": 551,
+            "col": 1275,
+            "bortle": 5,
+            "near": "Bruyères-et-Montbérault",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.510416666666664,
+            "lon": 3.64375,
+            "darkness": 0.3754268326106249,
+            "row": 550,
+            "col": 1279,
+            "bortle": 5,
+            "near": "Bruyères-et-Montbérault",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.37708333333333,
+            "lon": 3.66875,
+            "darkness": 0.43040373625375117,
+            "row": 582,
+            "col": 1285,
+            "bortle": 5,
+            "near": "Bourg-et-Comin",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.44375,
+            "lon": 3.6312499999999996,
+            "darkness": 0.4299537409908889,
+            "row": 566,
+            "col": 1276,
+            "bortle": 5,
+            "near": "Bourg-et-Comin",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.44375,
+            "lon": 3.614583333333333,
+            "darkness": 0.42917755807999936,
+            "row": 566,
+            "col": 1272,
+            "bortle": 5,
+            "near": "Bourg-et-Comin",
+            "name": null,
+            "altitude": null
+        }
+    ]
+}

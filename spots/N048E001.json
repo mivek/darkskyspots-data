@@ -1,0 +1,184 @@
+{
+    "version": "2025.1",
+    "source": "VIIRS/2025/seine_et_marne",
+    "generated": "2026-07-03T15:47:49Z",
+    "tile": "N048E001",
+    "spots": [
+        {
+            "lat": 48.18125,
+            "lon": 1.7479166666666668,
+            "darkness": 0.41207078747385384,
+            "row": 869,
+            "col": 824,
+            "bortle": 5,
+            "near": "Orgères-en-Beauce",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.31875,
+            "lon": 1.7479166666666668,
+            "darkness": 0.36297630364923283,
+            "row": 836,
+            "col": 824,
+            "bortle": 5,
+            "near": "Boisville-la-Saint-Père",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.18125,
+            "lon": 1.96875,
+            "darkness": 0.3561819427814268,
+            "row": 869,
+            "col": 877,
+            "bortle": 5,
+            "near": "Toury",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.31875,
+            "lon": 1.8395833333333331,
+            "darkness": 0.3471302068864057,
+            "row": 836,
+            "col": 846,
+            "bortle": 6,
+            "near": "Ouarville",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.09375,
+            "lon": 1.7937499999999997,
+            "darkness": 0.3458458824957409,
+            "row": 890,
+            "col": 835,
+            "bortle": 6,
+            "near": "Terminiers",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.45625,
+            "lon": 1.71875,
+            "darkness": 0.2615501044730233,
+            "row": 803,
+            "col": 817,
+            "bortle": 6,
+            "near": "Béville-le-Comte",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.59375,
+            "lon": 1.7020833333333334,
+            "darkness": 0.2137897184808183,
+            "row": 770,
+            "col": 813,
+            "bortle": 6,
+            "near": "Droue-sur-Drouette",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.59375,
+            "lon": 1.7479166666666668,
+            "darkness": 0.19315811632579583,
+            "row": 770,
+            "col": 824,
+            "bortle": 7,
+            "near": "Émancé",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.73125,
+            "lon": 1.65625,
+            "darkness": 0.1914541721351699,
+            "row": 737,
+            "col": 802,
+            "bortle": 7,
+            "near": "Adainville",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.45625,
+            "lon": 1.9770833333333333,
+            "darkness": 0.1909932189165896,
+            "row": 803,
+            "col": 879,
+            "bortle": 7,
+            "near": "Saint-Escobille",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.86875,
+            "lon": 1.65625,
+            "darkness": 0.13831075108210056,
+            "row": 704,
+            "col": 802,
+            "bortle": 7,
+            "near": "Septeuil",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.59375,
+            "lon": 1.9770833333333333,
+            "darkness": 0.06920264947123078,
+            "row": 770,
+            "col": 879,
+            "bortle": 7,
+            "near": "Rochefort-en-Yvelines",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.73125,
+            "lon": 1.8854166666666665,
+            "darkness": 0.01074165862544818,
+            "row": 737,
+            "col": 857,
+            "bortle": 7,
+            "near": "Les Essarts-le-Roi",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.91458333333333,
+            "lon": 1.9354166666666668,
+            "darkness": 0.0,
+            "row": 693,
+            "col": 869,
+            "bortle": 8,
+            "near": "Les Alluets-le-Roi",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.77708333333334,
+            "lon": 1.8645833333333335,
+            "darkness": 0.0,
+            "row": 726,
+            "col": 852,
+            "bortle": 8,
+            "near": "Bazoches-sur-Guyonne",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 48.00208333333333,
+            "lon": 1.7937499999999997,
+            "darkness": 0.2475918816044621,
+            "row": 912,
+            "col": 835,
+            "bortle": 6,
+            "near": "Bricy",
+            "name": null,
+            "altitude": null
+        }
+    ]
+}

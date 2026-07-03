@@ -1,0 +1,228 @@
+{
+    "version": "2025.1",
+    "source": "VIIRS/2025/seine_et_marne",
+    "generated": "2026-07-03T15:47:49Z",
+    "tile": "N049E002",
+    "spots": [
+        {
+            "lat": 49.33125,
+            "lon": 2.9437499999999996,
+            "darkness": 0.24803776300212255,
+            "row": 593,
+            "col": 1111,
+            "bortle": 6,
+            "near": "Pierrefonds",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.422916666666666,
+            "lon": 2.53125,
+            "darkness": 0.21157620031441682,
+            "row": 571,
+            "col": 1012,
+            "bortle": 6,
+            "near": "Bailleul-le-Soc",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.422916666666666,
+            "lon": 2.3020833333333335,
+            "darkness": 0.2106918589665835,
+            "row": 571,
+            "col": 957,
+            "bortle": 6,
+            "near": "La Rue-Saint-Pierre",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.37291666666667,
+            "lon": 2.0229166666666667,
+            "darkness": 0.19352407798521964,
+            "row": 583,
+            "col": 890,
+            "bortle": 7,
+            "near": "Auneuil",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.28541666666667,
+            "lon": 2.852083333333333,
+            "darkness": 0.18694555292398884,
+            "row": 604,
+            "col": 1089,
+            "bortle": 7,
+            "near": "Orrouy",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.422916666666666,
+            "lon": 2.7104166666666663,
+            "darkness": 0.18621787369557374,
+            "row": 571,
+            "col": 1055,
+            "bortle": 7,
+            "near": "Remy",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.37708333333333,
+            "lon": 2.26875,
+            "darkness": 0.17140871630454912,
+            "row": 582,
+            "col": 949,
+            "bortle": 7,
+            "near": "Saint-Félix",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.37708333333333,
+            "lon": 2.48125,
+            "darkness": 0.14992336016080332,
+            "row": 582,
+            "col": 1000,
+            "bortle": 7,
+            "near": "Breuil-le-Sec",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.239583333333336,
+            "lon": 2.06875,
+            "darkness": 0.11209759050654133,
+            "row": 615,
+            "col": 901,
+            "bortle": 7,
+            "near": "Villeneuve-les-Sablons",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.239583333333336,
+            "lon": 2.622916666666667,
+            "darkness": 0.06904884850062143,
+            "row": 615,
+            "col": 1034,
+            "bortle": 7,
+            "near": "Villers-Saint-Frambourg",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.14791666666667,
+            "lon": 2.8062500000000004,
+            "darkness": 0.06896196515366315,
+            "row": 637,
+            "col": 1078,
+            "bortle": 7,
+            "near": "Nanteuil-le-Haudouin",
+            "name": "Ognes",
+            "altitude": null
+        },
+        {
+            "lat": 49.239583333333336,
+            "lon": 2.2979166666666666,
+            "darkness": 0.04950387033327608,
+            "row": 615,
+            "col": 956,
+            "bortle": 7,
+            "near": "Ercuis",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.197916666666664,
+            "lon": 2.24375,
+            "darkness": 0.0,
+            "row": 625,
+            "col": 943,
+            "bortle": 8,
+            "near": "Fresnoy-en-Thelle",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.22708333333333,
+            "lon": 2.4854166666666666,
+            "darkness": 0.0,
+            "row": 618,
+            "col": 1001,
+            "bortle": 8,
+            "near": "Apremont",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.114583333333336,
+            "lon": 2.0145833333333334,
+            "darkness": 0.0,
+            "row": 645,
+            "col": 888,
+            "bortle": 8,
+            "near": "Cormeilles-en-Vexin",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.14375,
+            "lon": 2.66875,
+            "darkness": 0.0,
+            "row": 638,
+            "col": 1045,
+            "bortle": 8,
+            "near": "Ermenonville",
+            "name": "Ève",
+            "altitude": null
+        },
+        {
+            "lat": 49.09791666666667,
+            "lon": 2.39375,
+            "darkness": 0.0,
+            "row": 649,
+            "col": 979,
+            "bortle": 8,
+            "near": "Belloy-en-France",
+            "name": "Ferme du Trianon",
+            "altitude": null
+        },
+        {
+            "lat": 49.02708333333334,
+            "lon": 2.852083333333333,
+            "darkness": 0.0,
+            "row": 666,
+            "col": 1089,
+            "bortle": 8,
+            "near": "Monthyon",
+            "name": "Fescheux",
+            "altitude": null
+        },
+        {
+            "lat": 49.00625,
+            "lon": 2.1645833333333333,
+            "darkness": 0.0,
+            "row": 671,
+            "col": 924,
+            "bortle": 8,
+            "near": "Pierrelaye",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 49.00625,
+            "lon": 2.5770833333333334,
+            "darkness": 0.0,
+            "row": 671,
+            "col": 1023,
+            "bortle": 8,
+            "near": "Le Mesnil-Amelot",
+            "name": "Le Mesnil-Amelot",
+            "altitude": null
+        }
+    ]
+}

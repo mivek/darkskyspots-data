@@ -1,0 +1,30 @@
+{
+    "version": "2025.1",
+    "source": "VIIRS/2025/seine_et_marne",
+    "generated": "2026-07-03T15:47:49Z",
+    "tile": "N047E001",
+    "spots": [
+        {
+            "lat": 47.95625,
+            "lon": 1.7937499999999997,
+            "darkness": 0.19379814728570377,
+            "row": 923,
+            "col": 835,
+            "bortle": 7,
+            "near": "Ormes",
+            "name": null,
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 1.9812499999999997,
+            "darkness": 0.1507729649689069,
+            "row": 946,
+            "col": 880,
+            "bortle": 7,
+            "near": "Saint-Denis-en-Val",
+            "name": null,
+            "altitude": null
+        }
+    ]
+}
