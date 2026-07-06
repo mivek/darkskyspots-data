@@ -1,17 +1,16 @@
 {
     "version": "2025.1",
     "source": "VIIRS/2025/seine_et_marne",
-    "generated": "2026-07-03T15:47:49Z",
+    "generated": "2026-07-06T11:10:05Z",
     "tile": "N049E001",
     "spots": [
         {
             "lat": 49.37708333333333,
             "lon": 1.65625,
             "darkness": 0.3428970253885466,
-            "row": 582,
-            "col": 802,
             "bortle": 6,
             "near": "Longchamps",
+            "id": "49.3771_1.6562",
             "name": null,
             "altitude": null
         },
@@ -19,10 +18,9 @@
             "lat": 49.239583333333336,
             "lon": 1.6104166666666666,
             "darkness": 0.27621535666214336,
-            "row": 615,
-            "col": 791,
             "bortle": 6,
             "near": "Les Thilliers-en-Vexin",
+            "id": "49.2396_1.6104",
             "name": null,
             "altitude": null
         },
@@ -30,10 +28,9 @@
             "lat": 49.37708333333333,
             "lon": 1.8854166666666665,
             "darkness": 0.2756646306425692,
-            "row": 582,
-            "col": 857,
             "bortle": 6,
             "near": "Le Vauroux",
+            "id": "49.3771_1.8854",
             "name": null,
             "altitude": null
         },
@@ -41,10 +38,9 @@
             "lat": 49.239583333333336,
             "lon": 1.8395833333333331,
             "darkness": 0.19593766430931048,
-            "row": 615,
-            "col": 846,
             "bortle": 7,
             "near": "Delincourt",
+            "id": "49.2396_1.8396",
             "name": null,
             "altitude": null
         },
@@ -52,10 +48,9 @@
             "lat": 49.10208333333333,
             "lon": 1.6104166666666666,
             "darkness": 0.18872367578688587,
-            "row": 648,
-            "col": 791,
             "bortle": 7,
             "near": "Gasny",
+            "id": "49.1021_1.6104",
             "name": null,
             "altitude": null
         },
@@ -63,10 +58,9 @@
             "lat": 49.10208333333333,
             "lon": 1.8395833333333331,
             "darkness": 0.08005362135834415,
-            "row": 648,
-            "col": 846,
             "bortle": 7,
             "near": "Avernes",
+            "id": "49.1021_1.8396",
             "name": null,
             "altitude": null
         },
@@ -74,10 +68,9 @@
             "lat": 49.01875,
             "lon": 1.78125,
             "darkness": 0.0,
-            "row": 668,
-            "col": 832,
             "bortle": 8,
             "near": "Guitrancourt",
+            "id": "49.0187_1.7812",
             "name": null,
             "altitude": null
         }
