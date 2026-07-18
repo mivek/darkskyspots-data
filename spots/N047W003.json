@@ -1,0 +1,341 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N047W003",
+    "spots": [
+        {
+            "lat": 47.21458333333333,
+            "lon": -2.914583333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Le Palais",
+            "id": "47.2146_-2.9146",
+            "altitude": null
+        },
+        {
+            "lat": 47.07708333333333,
+            "lon": -2.8687500000000075,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "47.0771_-2.8688",
+            "altitude": null
+        },
+        {
+            "lat": 47.21458333333333,
+            "lon": -2.827083333333341,
+            "darkness": 0.995957477707333,
+            "bortle": 2,
+            "near": "Le Croisic",
+            "id": "47.2146_-2.8271",
+            "altitude": null
+        },
+        {
+            "lat": 47.12291666666666,
+            "lon": -2.643750000000008,
+            "darkness": 0.916964657718627,
+            "bortle": 2,
+            "near": "Batz-sur-Mer",
+            "id": "47.1229_-2.6438",
+            "altitude": null
+        },
+        {
+            "lat": 47.352083333333326,
+            "lon": -2.7812500000000075,
+            "darkness": 0.9080917161020099,
+            "bortle": 2,
+            "near": "Saint-Gildas-de-Rhuys",
+            "id": "47.3521_-2.7813",
+            "altitude": null
+        },
+        {
+            "lat": 47.48958333333333,
+            "lon": -2.964583333333341,
+            "darkness": 0.861462587822161,
+            "bortle": 2,
+            "near": "Arzon",
+            "id": "47.4896_-2.9646",
+            "altitude": null
+        },
+        {
+            "lat": 47.12291666666666,
+            "lon": -2.552083333333341,
+            "darkness": 0.8471031646041741,
+            "bortle": 3,
+            "near": "Batz-sur-Mer",
+            "id": "47.1229_-2.5521",
+            "altitude": null
+        },
+        {
+            "lat": 47.39791666666666,
+            "lon": -2.6895833333333408,
+            "darkness": 0.8460736892102891,
+            "bortle": 3,
+            "near": "Piriac-sur-Mer",
+            "id": "47.3979_-2.6896",
+            "altitude": null
+        },
+        {
+            "lat": 47.99791666666666,
+            "lon": -2.414583333333341,
+            "darkness": 0.8406496656169609,
+            "bortle": 3,
+            "near": "Loyat",
+            "id": "47.9979_-2.4146",
+            "altitude": null
+        },
+        {
+            "lat": 47.260416666666664,
+            "lon": -2.643750000000008,
+            "darkness": 0.8305986271635158,
+            "bortle": 3,
+            "near": "Le Croisic",
+            "id": "47.2604_-2.6438",
+            "altitude": null
+        },
+        {
+            "lat": 47.76875,
+            "lon": -2.2729166666666742,
+            "darkness": 0.8228957761767965,
+            "bortle": 3,
+            "near": "Saint-Martin-sur-Oust",
+            "id": "47.7687_-2.2729",
+            "altitude": null
+        },
+        {
+            "lat": 47.48958333333333,
+            "lon": -2.8437500000000075,
+            "darkness": 0.8136631815795077,
+            "bortle": 3,
+            "near": "Saint-Gildas-de-Rhuys",
+            "id": "47.4896_-2.8438",
+            "altitude": null
+        },
+        {
+            "lat": 47.95208333333333,
+            "lon": -2.777083333333341,
+            "darkness": 0.8134529876650326,
+            "bortle": 3,
+            "near": "Réguiny",
+            "id": "47.9521_-2.7771",
+            "altitude": null
+        },
+        {
+            "lat": 47.90208333333333,
+            "lon": -2.581250000000008,
+            "darkness": 0.8100795376345888,
+            "bortle": 3,
+            "near": "Cruguel",
+            "id": "47.9021_-2.5813",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": -2.3687500000000075,
+            "darkness": 0.8086396501230602,
+            "bortle": 3,
+            "near": "Noirmoutier-en-l'Île",
+            "id": "47.0312_-2.3688",
+            "altitude": null
+        },
+        {
+            "lat": 47.93541666666666,
+            "lon": -2.2312500000000077,
+            "darkness": 0.8083216856080292,
+            "bortle": 3,
+            "near": "Porcaro",
+            "id": "47.9354_-2.2313",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": -2.456250000000008,
+            "darkness": 0.7926124415585112,
+            "bortle": 3,
+            "near": "Questembert",
+            "id": "47.6771_-2.4563",
+            "altitude": null
+        },
+        {
+            "lat": 47.856249999999996,
+            "lon": -2.047916666666674,
+            "darkness": 0.7881202967834694,
+            "bortle": 3,
+            "near": "Comblessac",
+            "id": "47.8562_-2.0479",
+            "altitude": null
+        },
+        {
+            "lat": 47.52708333333333,
+            "lon": -2.552083333333341,
+            "darkness": 0.7708666462756333,
+            "bortle": 3,
+            "near": "Damgan",
+            "id": "47.5271_-2.5521",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": -2.2312500000000077,
+            "darkness": 0.7665678114341653,
+            "bortle": 3,
+            "near": "Béganne",
+            "id": "47.6312_-2.2313",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": -2.2312500000000077,
+            "darkness": 0.7396737937520903,
+            "bortle": 4,
+            "near": "Noirmoutier-en-l'Île",
+            "id": "47.0312_-2.2313",
+            "altitude": null
+        },
+        {
+            "lat": 47.947916666666664,
+            "lon": -2.0937500000000075,
+            "darkness": 0.7393734498332074,
+            "bortle": 4,
+            "near": "Saint-Malo-de-Beignon",
+            "id": "47.9479_-2.0938",
+            "altitude": null
+        },
+        {
+            "lat": 47.53541666666666,
+            "lon": -2.7187500000000075,
+            "darkness": 0.738768048261182,
+            "bortle": 4,
+            "near": "Sarzeau",
+            "id": "47.5354_-2.7188",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": -2.3687500000000075,
+            "darkness": 0.7382091182087699,
+            "bortle": 4,
+            "near": "Arzal",
+            "id": "47.5396_-2.3688",
+            "altitude": null
+        },
+        {
+            "lat": 47.76875,
+            "lon": -2.8729166666666743,
+            "darkness": 0.7372585021067786,
+            "bortle": 4,
+            "near": "Grand-Champ",
+            "id": "47.7687_-2.8729",
+            "altitude": null
+        },
+        {
+            "lat": 47.58125,
+            "lon": -2.9187500000000077,
+            "darkness": 0.7324558308913647,
+            "bortle": 4,
+            "near": "Larmor-Baden",
+            "id": "47.5812_-2.9188",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": -2.547916666666674,
+            "darkness": 0.7306088794961532,
+            "bortle": 4,
+            "near": "La Vraie-Croix",
+            "id": "47.6771_-2.5479",
+            "altitude": null
+        },
+        {
+            "lat": 47.356249999999996,
+            "lon": -2.552083333333341,
+            "darkness": 0.723084620443546,
+            "bortle": 4,
+            "near": "Piriac-sur-Mer",
+            "id": "47.3562_-2.5521",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": -2.4604166666666742,
+            "darkness": 0.7170052665944973,
+            "bortle": 4,
+            "near": "Le Pouliguen",
+            "id": "47.1687_-2.4604",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": -2.139583333333341,
+            "darkness": 0.7083743754614824,
+            "bortle": 4,
+            "near": "Saint-Perreux",
+            "id": "47.6771_-2.1396",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": -2.139583333333341,
+            "darkness": 0.6904620842492225,
+            "bortle": 4,
+            "near": "Saint-Dolay",
+            "id": "47.5396_-2.1396",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": -2.0020833333333408,
+            "darkness": 0.679534628656818,
+            "bortle": 4,
+            "near": "Les Moutiers-en-Retz",
+            "id": "47.0312_-2.0021",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": -2.3229166666666745,
+            "darkness": 0.5822334895801733,
+            "bortle": 4,
+            "near": "Saint-Lyphard",
+            "id": "47.4021_-2.3229",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": -2.2312500000000077,
+            "darkness": 0.551495474186708,
+            "bortle": 4,
+            "near": "La Plaine-sur-Mer",
+            "id": "47.1687_-2.2313",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": -2.1854166666666743,
+            "darkness": 0.4985368285589208,
+            "bortle": 5,
+            "near": "Crossac",
+            "id": "47.4021_-2.1854",
+            "altitude": null
+        },
+        {
+            "lat": 47.260416666666664,
+            "lon": -2.3687500000000075,
+            "darkness": 0.4934086861836574,
+            "bortle": 5,
+            "near": "Pornichet",
+            "id": "47.2604_-2.3688",
+            "altitude": null
+        },
+        {
+            "lat": 47.356249999999996,
+            "lon": -2.1229166666666743,
+            "darkness": 0.33875945618726233,
+            "bortle": 6,
+            "near": "Le Pin",
+            "id": "47.3562_-2.1229",
+            "altitude": null
+        }
+    ]
+}

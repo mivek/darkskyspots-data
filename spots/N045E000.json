@@ -1,0 +1,377 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N045E000",
+    "spots": [
+        {
+            "lat": 45.65624999999999,
+            "lon": 0.5687499999999925,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Bussière-Badil",
+            "id": "45.6562_0.5687",
+            "altitude": null
+        },
+        {
+            "lat": 45.52291666666666,
+            "lon": 0.656249999999992,
+            "darkness": 0.9995049169911439,
+            "bortle": 1,
+            "near": "Nontron",
+            "id": "45.5229_0.6562",
+            "altitude": null
+        },
+        {
+            "lat": 45.65624999999999,
+            "lon": 0.7937499999999922,
+            "darkness": 0.9954610274956144,
+            "bortle": 2,
+            "near": "Marval",
+            "id": "45.6562_0.7937",
+            "altitude": null
+        },
+        {
+            "lat": 45.947916666666664,
+            "lon": 0.3395833333333256,
+            "darkness": 0.9942132377279873,
+            "bortle": 2,
+            "near": "Nanteuil-en-Vallée",
+            "id": "45.9479_0.3396",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": 0.05208333333332593,
+            "darkness": 0.9933717798437819,
+            "bortle": 2,
+            "near": "Villefagnan",
+            "id": "45.9812_0.0521",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 0.5229166666666591,
+            "darkness": 0.9917562151424235,
+            "bortle": 2,
+            "near": "Écuras",
+            "id": "45.7021_0.5229",
+            "altitude": null
+        },
+        {
+            "lat": 45.568749999999994,
+            "lon": 0.47708333333332575,
+            "darkness": 0.990207219103415,
+            "bortle": 2,
+            "near": "Marthon",
+            "id": "45.5687_0.4771",
+            "altitude": null
+        },
+        {
+            "lat": 45.52291666666666,
+            "lon": 0.7020833333333254,
+            "darkness": 0.98901909437968,
+            "bortle": 2,
+            "near": "Nontron",
+            "id": "45.5229_0.7021",
+            "altitude": null
+        },
+        {
+            "lat": 45.55208333333333,
+            "lon": 0.9312499999999924,
+            "darkness": 0.9725403708841277,
+            "bortle": 2,
+            "near": "Mialet",
+            "id": "45.5521_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 45.43124999999999,
+            "lon": 0.43124999999999236,
+            "darkness": 0.9657696787055574,
+            "bortle": 2,
+            "near": "Mareuil",
+            "id": "45.4312_0.4312",
+            "altitude": null
+        },
+        {
+            "lat": 45.797916666666666,
+            "lon": 0.38541666666665897,
+            "darkness": 0.9542451095853599,
+            "bortle": 2,
+            "near": "Taponnat",
+            "id": "45.7979_0.3854",
+            "altitude": null
+        },
+        {
+            "lat": 45.42708333333333,
+            "lon": 0.2020833333333254,
+            "darkness": 0.9394912351135417,
+            "bortle": 2,
+            "near": "Saint-Amant-de-Montmoreau",
+            "id": "45.4271_0.2021",
+            "altitude": null
+        },
+        {
+            "lat": 45.84374999999999,
+            "lon": 0.06041666666665879,
+            "darkness": 0.9296981749067583,
+            "bortle": 2,
+            "near": "Marcillac-Lanville",
+            "id": "45.8437_0.0604",
+            "altitude": null
+        },
+        {
+            "lat": 45.88958333333333,
+            "lon": 0.5437499999999922,
+            "darkness": 0.9170109666549371,
+            "bortle": 2,
+            "near": "Roumazières-Loubert",
+            "id": "45.8896_0.5437",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 0.11041666666665861,
+            "darkness": 0.915045750488372,
+            "bortle": 2,
+            "near": "Saint-Romain",
+            "id": "45.2937_0.1104",
+            "altitude": null
+        },
+        {
+            "lat": 45.793749999999996,
+            "lon": 0.7020833333333254,
+            "darkness": 0.91061579414736,
+            "bortle": 2,
+            "near": "Chassenon",
+            "id": "45.7937_0.7021",
+            "altitude": null
+        },
+        {
+            "lat": 45.385416666666664,
+            "lon": 0.8895833333333254,
+            "darkness": 0.9065765946598507,
+            "bortle": 2,
+            "near": "Eyzerac",
+            "id": "45.3854_0.8896",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": 0.885416666666659,
+            "darkness": 0.8927139395892716,
+            "bortle": 2,
+            "near": "Brigueuil",
+            "id": "45.9812_0.8854",
+            "altitude": null
+        },
+        {
+            "lat": 45.385416666666664,
+            "lon": 0.656249999999992,
+            "darkness": 0.8917467261056685,
+            "bortle": 2,
+            "near": "Brantôme",
+            "id": "45.3854_0.6562",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 0.9770833333333258,
+            "darkness": 0.8839556900912904,
+            "bortle": 2,
+            "near": "Champsac",
+            "id": "45.7021_0.9771",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 0.33541666666665915,
+            "darkness": 0.878871139463441,
+            "bortle": 2,
+            "near": "Allemans",
+            "id": "45.2937_0.3354",
+            "altitude": null
+        },
+        {
+            "lat": 45.15624999999999,
+            "lon": 0.2479166666666588,
+            "darkness": 0.872227867569843,
+            "bortle": 2,
+            "near": "Vanxains",
+            "id": "45.1562_0.2479",
+            "altitude": null
+        },
+        {
+            "lat": 45.15208333333333,
+            "lon": 0.9354166666666588,
+            "darkness": 0.8578504258902315,
+            "bortle": 2,
+            "near": "Fossemagne",
+            "id": "45.1521_0.9354",
+            "altitude": null
+        },
+        {
+            "lat": 45.20625,
+            "lon": 0.38124999999999254,
+            "darkness": 0.8483689822373974,
+            "bortle": 3,
+            "near": "Saint-Martin-de-Ribérac",
+            "id": "45.2062_0.3812",
+            "altitude": null
+        },
+        {
+            "lat": 45.20208333333333,
+            "lon": 0.06458333333332611,
+            "darkness": 0.8454674823356447,
+            "bortle": 3,
+            "near": "Saint-Aulaye",
+            "id": "45.2021_0.0646",
+            "altitude": null
+        },
+        {
+            "lat": 45.793749999999996,
+            "lon": 0.9312499999999924,
+            "darkness": 0.8392575264203299,
+            "bortle": 3,
+            "near": "Saint-Auvent",
+            "id": "45.7937_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": 0.2479166666666588,
+            "darkness": 0.8366115871050626,
+            "bortle": 3,
+            "near": "Torsac",
+            "id": "45.5646_0.2479",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 0.8895833333333254,
+            "darkness": 0.8286757564634837,
+            "bortle": 3,
+            "near": "Saint-Pierre-de-Chignac",
+            "id": "45.1062_0.8896",
+            "altitude": null
+        },
+        {
+            "lat": 45.93541666666666,
+            "lon": 0.9312499999999924,
+            "darkness": 0.8250121188259905,
+            "bortle": 3,
+            "near": "Javerdat",
+            "id": "45.9354_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 45.06458333333333,
+            "lon": 0.2937499999999922,
+            "darkness": 0.82461555914262,
+            "bortle": 3,
+            "near": "Saint-Laurent-des-Hommes",
+            "id": "45.0646_0.2937",
+            "altitude": null
+        },
+        {
+            "lat": 45.70625,
+            "lon": 0.2937499999999922,
+            "darkness": 0.8148061927279142,
+            "bortle": 3,
+            "near": "Mornac",
+            "id": "45.7062_0.2937",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 0.843749999999992,
+            "darkness": 0.8132690742161577,
+            "bortle": 3,
+            "near": "Sorges",
+            "id": "45.2937_0.8437",
+            "altitude": null
+        },
+        {
+            "lat": 45.75208333333333,
+            "lon": 0.10624999999999218,
+            "darkness": 0.8001315818169815,
+            "bortle": 3,
+            "near": "Vars",
+            "id": "45.7521_0.1062",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 0.6104166666666586,
+            "darkness": 0.7972795464610866,
+            "bortle": 3,
+            "near": "Bourdeilles",
+            "id": "45.2937_0.6104",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 0.5187499999999927,
+            "darkness": 0.7903729533245119,
+            "bortle": 3,
+            "near": "Saint-Léon-sur-l'Isle",
+            "id": "45.1062_0.5187",
+            "altitude": null
+        },
+        {
+            "lat": 45.83958333333333,
+            "lon": 0.7479166666666588,
+            "darkness": 0.7628567349077418,
+            "bortle": 3,
+            "near": "Chassenon",
+            "id": "45.8396_0.7479",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 0.7020833333333254,
+            "darkness": 0.7400155059857317,
+            "bortle": 4,
+            "near": "Notre-Dame-de-Sanilhac",
+            "id": "45.1062_0.7021",
+            "altitude": null
+        },
+        {
+            "lat": 45.06458333333333,
+            "lon": 0.06458333333332611,
+            "darkness": 0.733850742855852,
+            "bortle": 4,
+            "near": "Le Pizou",
+            "id": "45.0646_0.0646",
+            "altitude": null
+        },
+        {
+            "lat": 45.885416666666664,
+            "lon": 0.8395833333333256,
+            "darkness": 0.7325618376475748,
+            "bortle": 4,
+            "near": "Saillat-sur-Vienne",
+            "id": "45.8854_0.8396",
+            "altitude": null
+        },
+        {
+            "lat": 45.24791666666666,
+            "lon": 0.7979166666666586,
+            "darkness": 0.7232810513911683,
+            "bortle": 4,
+            "near": "Cornille",
+            "id": "45.2479_0.7979",
+            "altitude": null
+        },
+        {
+            "lat": 45.70625,
+            "lon": 0.10624999999999218,
+            "darkness": 0.704826451425096,
+            "bortle": 4,
+            "near": "Vindelle",
+            "id": "45.7062_0.1062",
+            "altitude": null
+        }
+    ]
+}

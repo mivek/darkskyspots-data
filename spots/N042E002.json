@@ -1,0 +1,62 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N042E002",
+    "spots": [
+        {
+            "lat": 42.99791666666666,
+            "lon": 2.3104166666666597,
+            "darkness": 0.7234888334456249,
+            "bortle": 4,
+            "near": "Alet-les-Bains",
+            "id": "42.9979_2.3104",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 2.0770833333333254,
+            "darkness": 0.786925212863544,
+            "bortle": 3,
+            "near": "Chalabre",
+            "id": "42.9979_2.0771",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 2.122916666666659,
+            "darkness": 0.7773207733557446,
+            "bortle": 3,
+            "near": "Chalabre",
+            "id": "42.9979_2.1229",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 2.168749999999992,
+            "darkness": 0.748202091211761,
+            "bortle": 3,
+            "near": "Cournanel",
+            "id": "42.9979_2.1687",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 2.393749999999992,
+            "darkness": 0.7227851759954594,
+            "bortle": 4,
+            "near": "Alet-les-Bains",
+            "id": "42.9979_2.3937",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 2.2645833333333254,
+            "darkness": 0.7068795835044901,
+            "bortle": 4,
+            "near": "Alet-les-Bains",
+            "id": "42.9979_2.2646",
+            "altitude": null
+        }
+    ]
+}

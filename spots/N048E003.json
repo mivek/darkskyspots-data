@@ -1,347 +1,304 @@
 {
-    "version": "2025.1",
-    "source": "VIIRS/2025/seine_et_marne",
-    "generated": "2026-07-06T11:10:05Z",
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
     "tile": "N048E003",
     "spots": [
         {
-            "lat": 48.08958333333334,
-            "lon": 3.822916666666667,
-            "darkness": 0.5602360575336671,
+            "lat": 48.039583333333326,
+            "lon": 3.9145833333333258,
+            "darkness": 0.7365821577858426,
             "bortle": 4,
-            "near": "Neuvy-Sautour",
-            "id": "48.0896_3.8229",
-            "name": null,
+            "near": "Ervy-le-Châtel",
+            "id": "48.0396_3.9146",
             "altitude": null
         },
         {
-            "lat": 48.135416666666664,
-            "lon": 3.5854166666666663,
-            "darkness": 0.5299673505787038,
-            "bortle": 4,
-            "near": "Arces-Dilo",
-            "id": "48.1354_3.5854",
-            "name": "Les Loges",
-            "altitude": null
-        },
-        {
-            "lat": 48.27291666666667,
-            "lon": 3.71875,
-            "darkness": 0.5035456999788572,
-            "bortle": 4,
-            "near": "Palis",
-            "id": "48.2729_3.7188",
-            "name": "Vaux Riot",
-            "altitude": null
-        },
-        {
-            "lat": 48.31875,
-            "lon": 3.6312499999999996,
-            "darkness": 0.4995334208091988,
-            "bortle": 5,
-            "near": "Marcilly-le-Hayer",
-            "id": "48.3188_3.6312",
-            "name": "Moque Pannier",
-            "altitude": null
-        },
-        {
-            "lat": 48.01875,
-            "lon": 3.6729166666666666,
-            "darkness": 0.4959047339791477,
-            "bortle": 5,
-            "near": "Champlost",
-            "id": "48.0187_3.6729",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.09375,
-            "lon": 3.4937500000000004,
-            "darkness": 0.495213437555057,
-            "bortle": 5,
-            "near": "Cerisiers",
-            "id": "48.0938_3.4938",
-            "name": "Les Massons",
-            "altitude": null
-        },
-        {
-            "lat": 48.22708333333333,
-            "lon": 3.810416666666667,
-            "darkness": 0.48269019978410244,
-            "bortle": 5,
-            "near": "Estissac",
-            "id": "48.2271_3.8104",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.84791666666667,
-            "lon": 3.7229166666666664,
-            "darkness": 0.4755860236988698,
-            "bortle": 5,
-            "near": "Lucy",
-            "id": "48.8479_3.7229",
-            "name": "Bergères-sous-Montmirail",
-            "altitude": null
-        },
-        {
-            "lat": 48.60625,
-            "lon": 3.76875,
-            "darkness": 0.4627011746909093,
-            "bortle": 5,
-            "near": "Anglure",
-            "id": "48.6063_3.7687",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.22708333333333,
-            "lon": 3.447916666666667,
-            "darkness": 0.44217858643281027,
-            "bortle": 5,
-            "near": "Fontaine-la-Gaillarde",
-            "id": "48.2271_3.4479",
-            "name": "Les Clérimois",
-            "altitude": null
-        },
-        {
-            "lat": 48.96041666666667,
-            "lon": 3.5854166666666663,
-            "darkness": 0.43856645956563245,
-            "bortle": 5,
-            "near": "Condé-en-Brie",
-            "id": "48.9604_3.5854",
-            "name": "Montmarson",
-            "altitude": null
-        },
-        {
-            "lat": 48.364583333333336,
-            "lon": 3.4020833333333336,
-            "darkness": 0.4380120999685282,
-            "bortle": 5,
-            "near": "Fontaine-Fourches",
-            "id": "48.3646_3.4021",
-            "name": "Villiers-Bonneux",
-            "altitude": null
-        },
-        {
-            "lat": 48.78125,
-            "lon": 3.539583333333333,
-            "darkness": 0.4376033666750867,
-            "bortle": 5,
-            "near": "Esternay",
-            "id": "48.7812_3.5396",
-            "name": "Champguyon",
-            "altitude": null
-        },
-        {
-            "lat": 48.45625,
-            "lon": 3.5854166666666663,
-            "darkness": 0.43026632822768096,
-            "bortle": 5,
-            "near": "Saint-Aubin",
-            "id": "48.4562_3.5854",
-            "name": "Les Chaillots",
-            "altitude": null
-        },
-        {
-            "lat": 48.61875,
-            "lon": 3.539583333333333,
-            "darkness": 0.4288037129118242,
-            "bortle": 5,
-            "near": "Villenauxe-la-Grande",
-            "id": "48.6187_3.5396",
-            "name": "La Grange Guillaume",
-            "altitude": null
-        },
-        {
-            "lat": 48.135416666666664,
-            "lon": 3.0770833333333334,
-            "darkness": 0.4225665659553538,
-            "bortle": 5,
-            "near": "Domats",
-            "id": "48.1354_3.0771",
-            "name": "Le Grand Bois",
-            "altitude": null
-        },
-        {
-            "lat": 48.08958333333334,
-            "lon": 3.28125,
-            "darkness": 0.3986874640074163,
-            "bortle": 5,
-            "near": "Villeneuve-sur-Yonne",
-            "id": "48.0896_3.2812",
-            "name": "Passy",
-            "altitude": null
-        },
-        {
-            "lat": 48.27291666666667,
-            "lon": 3.14375,
-            "darkness": 0.3620207311053887,
-            "bortle": 5,
-            "near": "Villemanoche",
-            "id": "48.2729_3.1437",
-            "name": "Saint-Gilles",
-            "altitude": null
-        },
-        {
-            "lat": 48.91458333333333,
-            "lon": 3.35625,
-            "darkness": 0.34949268420719326,
-            "bortle": 5,
-            "near": "Viels-Maisons",
-            "id": "48.9146_3.3563",
-            "name": "Saint-Georges",
-            "altitude": null
-        },
-        {
-            "lat": 48.93125,
-            "lon": 3.35625,
-            "darkness": 0.34818995326913504,
-            "bortle": 6,
-            "near": "Nogent-l'Artaud",
-            "id": "48.9312_3.3563",
-            "name": "La Férotterie",
-            "altitude": null
-        },
-        {
-            "lat": 48.53125,
-            "lon": 3.447916666666667,
-            "darkness": 0.34594563020968805,
-            "bortle": 6,
-            "near": "Chalautre-la-Grande",
-            "id": "48.5312_3.4479",
-            "name": "La Pièce des Douze Arpents",
-            "altitude": null
-        },
-        {
-            "lat": 48.41041666666667,
-            "lon": 3.1729166666666666,
-            "darkness": 0.3434025970209096,
-            "bortle": 6,
-            "near": "Bazoches-lès-Bray",
-            "id": "48.4104_3.1729",
-            "name": "La Noue Noire",
-            "altitude": null
-        },
-        {
-            "lat": 48.68125,
-            "lon": 3.310416666666667,
-            "darkness": 0.3391984055463946,
-            "bortle": 6,
-            "near": "Beton-Bazoches",
-            "id": "48.6812_3.3104",
-            "name": "Les Marêts",
-            "altitude": null
-        },
-        {
-            "lat": 48.23125,
-            "lon": 3.35625,
-            "darkness": 0.3199004893604893,
-            "bortle": 6,
-            "near": "Saligny",
-            "id": "48.2313_3.3563",
-            "name": "La Plaine d'Heuré",
-            "altitude": null
-        },
-        {
-            "lat": 48.547916666666666,
-            "lon": 3.21875,
-            "darkness": 0.28102724735876317,
-            "bortle": 6,
-            "near": "Saint-Loup-de-Naud",
-            "id": "48.5479_3.2188",
-            "name": "Vulaines-lès-Provins",
-            "altitude": null
-        },
-        {
-            "lat": 48.827083333333334,
-            "lon": 3.21875,
-            "darkness": 0.2627540087370577,
-            "bortle": 6,
-            "near": "Saint-Denis-lès-Rebais",
-            "id": "48.8271_3.2188",
-            "name": "Saint-Denis-lès-Rebais",
-            "altitude": null
-        },
-        {
-            "lat": 48.77291666666667,
-            "lon": 3.127083333333333,
-            "darkness": 0.19256295725324235,
-            "bortle": 7,
-            "near": "Chailly-en-Brie",
-            "id": "48.7729_3.1271",
-            "name": "La Hallée",
-            "altitude": null
-        },
-        {
-            "lat": 48.96458333333334,
-            "lon": 3.127083333333333,
-            "darkness": 0.1876370168864674,
-            "bortle": 7,
-            "near": "La Ferté-sous-Jouarre",
-            "id": "48.9646_3.1271",
-            "name": "Favières",
-            "altitude": null
-        },
-        {
-            "lat": 48.59375,
-            "lon": 3.0354166666666664,
-            "darkness": 0.1831061832479025,
-            "bortle": 7,
-            "near": "La Croix-en-Brie",
-            "id": "48.5938_3.0354",
-            "name": "Brizon",
-            "altitude": null
-        },
-        {
-            "lat": 48.12291666666667,
-            "lon": 3.76875,
-            "darkness": 0.5447397173365371,
+            "lat": 48.131249999999994,
+            "lon": 3.7479166666666597,
+            "darkness": 0.6942640972103857,
             "bortle": 4,
             "near": "Saint-Mards-en-Othe",
-            "id": "48.1229_3.7687",
-            "name": null,
+            "id": "48.1312_3.7479",
             "altitude": null
         },
         {
-            "lat": 48.364583333333336,
-            "lon": 3.71875,
-            "darkness": 0.48485279016775895,
-            "bortle": 5,
-            "near": "Marigny-le-Châtel",
-            "id": "48.3646_3.7188",
-            "name": "Le Chemin de Marcilly",
-            "altitude": null
-        },
-        {
-            "lat": 48.00208333333333,
-            "lon": 3.814583333333333,
-            "darkness": 0.5421797343605349,
+            "lat": 48.043749999999996,
+            "lon": 3.593749999999993,
+            "darkness": 0.6755285093141445,
             "bortle": 4,
-            "near": "Germigny",
-            "id": "48.0021_3.8146",
-            "name": null,
+            "near": "Arces-Dilo",
+            "id": "48.0437_3.5937",
             "altitude": null
         },
         {
-            "lat": 48.84375,
-            "lon": 3.677083333333333,
-            "darkness": 0.4693283023886605,
-            "bortle": 5,
-            "near": "Montmirail",
-            "id": "48.8438_3.6771",
-            "name": "Bergères-sous-Montmirail",
+            "lat": 48.17708333333333,
+            "lon": 3.5479166666666586,
+            "darkness": 0.6594278540719704,
+            "bortle": 4,
+            "near": "Cerisiers",
+            "id": "48.1771_3.5479",
             "altitude": null
         },
         {
-            "lat": 48.389583333333334,
-            "lon": 3.7562499999999996,
-            "darkness": 0.46673660160346087,
-            "bortle": 5,
+            "lat": 48.31458333333333,
+            "lon": 3.6395833333333254,
+            "darkness": 0.6531039851712481,
+            "bortle": 4,
+            "near": "Marcilly-le-Hayer",
+            "id": "48.3146_3.6396",
+            "altitude": null
+        },
+        {
+            "lat": 48.50208333333333,
+            "lon": 3.9604166666666583,
+            "darkness": 0.6308246314374566,
+            "bortle": 4,
+            "near": "Méry-sur-Seine",
+            "id": "48.5021_3.9604",
+            "altitude": null
+        },
+        {
+            "lat": 48.84791666666666,
+            "lon": 3.731249999999992,
+            "darkness": 0.6276664218767852,
+            "bortle": 4,
+            "near": "Lucy",
+            "id": "48.8479_3.7312",
+            "altitude": null
+        },
+        {
+            "lat": 48.606249999999996,
+            "lon": 3.822916666666659,
+            "darkness": 0.6195371771123637,
+            "bortle": 4,
+            "near": "Anglure",
+            "id": "48.6062_3.8229",
+            "altitude": null
+        },
+        {
+            "lat": 48.39791666666666,
+            "lon": 3.8187499999999925,
+            "darkness": 0.6022330348157183,
+            "bortle": 4,
             "near": "Marigny-le-Châtel",
-            "id": "48.3896_3.7562",
-            "name": null,
+            "id": "48.3979_3.8187",
+            "altitude": null
+        },
+        {
+            "lat": 48.45208333333333,
+            "lon": 3.593749999999993,
+            "darkness": 0.5973183092088972,
+            "bortle": 4,
+            "near": "Saint-Aubin",
+            "id": "48.4521_3.5937",
+            "altitude": null
+        },
+        {
+            "lat": 48.63958333333333,
+            "lon": 3.593749999999993,
+            "darkness": 0.5949500658644586,
+            "bortle": 4,
+            "near": "Villenauxe-la-Grande",
+            "id": "48.6396_3.5937",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": 3.4104166666666593,
+            "darkness": 0.5945913325953316,
+            "bortle": 4,
+            "near": "Fontaine-Fourches",
+            "id": "48.3604_3.4104",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": 3.593749999999993,
+            "darkness": 0.5934491739901198,
+            "bortle": 4,
+            "near": "Condé-en-Brie",
+            "id": "48.9562_3.5937",
+            "altitude": null
+        },
+        {
+            "lat": 48.77708333333333,
+            "lon": 3.5479166666666586,
+            "darkness": 0.5895871902573016,
+            "bortle": 4,
+            "near": "Esternay",
+            "id": "48.7771_3.5479",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": 3.864583333333325,
+            "darkness": 0.5740297849760815,
+            "bortle": 4,
+            "near": "Lucy",
+            "id": "48.9562_3.8646",
+            "altitude": null
+        },
+        {
+            "lat": 48.17708333333333,
+            "lon": 3.956249999999992,
+            "darkness": 0.5729006564847514,
+            "bortle": 4,
+            "near": "Bouilly",
+            "id": "48.1771_3.9562",
+            "altitude": null
+        },
+        {
+            "lat": 48.68541666666666,
+            "lon": 3.364583333333325,
+            "darkness": 0.518456602030046,
+            "bortle": 4,
+            "near": "Villiers-Saint-Georges",
+            "id": "48.6854_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 48.49791666666666,
+            "lon": 3.364583333333325,
+            "darkness": 0.5132735222637027,
+            "bortle": 4,
+            "near": "Hermé",
+            "id": "48.4979_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 48.26458333333333,
+            "lon": 3.1312499999999925,
+            "darkness": 0.5130512049752948,
+            "bortle": 4,
+            "near": "Brannay",
+            "id": "48.2646_3.1312",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": 3.364583333333325,
+            "darkness": 0.504652857350461,
+            "bortle": 4,
+            "near": "Viels-Maisons",
+            "id": "48.9104_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 48.131249999999994,
+            "lon": 3.2229166666666593,
+            "darkness": 0.5040005141570412,
+            "bortle": 4,
+            "near": "Collemiers",
+            "id": "48.1312_3.2229",
+            "altitude": null
+        },
+        {
+            "lat": 48.40624999999999,
+            "lon": 3.1812499999999915,
+            "darkness": 0.5004001720722125,
+            "bortle": 4,
+            "near": "Bazoches-lès-Bray",
+            "id": "48.4062_3.1812",
+            "altitude": null
+        },
+        {
+            "lat": 48.53541666666666,
+            "lon": 3.456249999999992,
+            "darkness": 0.49952020695724664,
+            "bortle": 5,
+            "near": "Chalautre-la-Grande",
+            "id": "48.5354_3.4562",
+            "altitude": null
+        },
+        {
+            "lat": 48.318749999999994,
+            "lon": 3.9104166666666593,
+            "darkness": 0.49865196821731894,
+            "bortle": 5,
+            "near": "Macey",
+            "id": "48.3187_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 48.18958333333333,
+            "lon": 3.177083333333325,
+            "darkness": 0.49651634038899417,
+            "bortle": 5,
+            "near": "Paron",
+            "id": "48.1896_3.1771",
+            "altitude": null
+        },
+        {
+            "lat": 48.672916666666666,
+            "lon": 3.3187499999999925,
+            "darkness": 0.4943635273974839,
+            "bortle": 5,
+            "near": "Beton-Bazoches",
+            "id": "48.6729_3.3187",
+            "altitude": null
+        },
+        {
+            "lat": 48.45208333333333,
+            "lon": 3.2270833333333258,
+            "darkness": 0.49094410787105325,
+            "bortle": 5,
+            "near": "Les Ormes-sur-Voulzie",
+            "id": "48.4521_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": 3.3187499999999925,
+            "darkness": 0.4858213462077351,
+            "bortle": 5,
+            "near": "La Ferté-Gaucher",
+            "id": "48.8187_3.3187",
+            "altitude": null
+        },
+        {
+            "lat": 48.96041666666666,
+            "lon": 3.2729166666666583,
+            "darkness": 0.44749749993345067,
+            "bortle": 5,
+            "near": "Pavant",
+            "id": "48.9604_3.2729",
+            "altitude": null
+        },
+        {
+            "lat": 48.58958333333333,
+            "lon": 3.135416666666659,
+            "darkness": 0.41360768295853245,
+            "bortle": 5,
+            "near": "La Croix-en-Brie",
+            "id": "48.5896_3.1354",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": 3.135416666666659,
+            "darkness": 0.34686655751746054,
+            "bortle": 6,
+            "near": "Boissy-le-Châtel",
+            "id": "48.8187_3.1354",
+            "altitude": null
+        },
+        {
+            "lat": 48.68124999999999,
+            "lon": 3.0895833333333265,
+            "darkness": 0.34658168562562297,
+            "bortle": 6,
+            "near": "Vaudoy-en-Brie",
+            "id": "48.6812_3.0896",
+            "altitude": null
+        },
+        {
+            "lat": 48.96041666666666,
+            "lon": 3.135416666666659,
+            "darkness": 0.344989627685502,
+            "bortle": 6,
+            "near": "Reuil-en-Brie",
+            "id": "48.9604_3.1354",
             "altitude": null
         }
     ]

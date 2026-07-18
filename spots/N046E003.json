@@ -1,0 +1,368 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N046E003",
+    "spots": [
+        {
+            "lat": 46.985416666666666,
+            "lon": 3.731249999999992,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Moulins-Engilbert",
+            "id": "46.9854_3.7312",
+            "altitude": null
+        },
+        {
+            "lat": 46.80624999999999,
+            "lon": 3.7729166666666583,
+            "darkness": 0.998374401434167,
+            "bortle": 1,
+            "near": "Fours",
+            "id": "46.8062_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 46.852083333333326,
+            "lon": 3.864583333333325,
+            "darkness": 0.9948872419656365,
+            "bortle": 2,
+            "near": "Saint-Honoré-les-Bains",
+            "id": "46.8521_3.8646",
+            "altitude": null
+        },
+        {
+            "lat": 46.852083333333326,
+            "lon": 3.6395833333333254,
+            "darkness": 0.9940295134037782,
+            "bortle": 2,
+            "near": "Cercy-la-Tour",
+            "id": "46.8521_3.6396",
+            "altitude": null
+        },
+        {
+            "lat": 46.71458333333333,
+            "lon": 3.6854166666666597,
+            "darkness": 0.9640174085236225,
+            "bortle": 2,
+            "near": "Cronat",
+            "id": "46.7146_3.6854",
+            "altitude": null
+        },
+        {
+            "lat": 46.756249999999994,
+            "lon": 3.0395833333333258,
+            "darkness": 0.9530252834760576,
+            "bortle": 2,
+            "near": "Le Veurdre",
+            "id": "46.7562_3.0396",
+            "altitude": null
+        },
+        {
+            "lat": 46.71458333333333,
+            "lon": 3.893749999999992,
+            "darkness": 0.9421716832160736,
+            "bortle": 2,
+            "near": "Grury",
+            "id": "46.7146_3.8937",
+            "altitude": null
+        },
+        {
+            "lat": 46.481249999999996,
+            "lon": 3.731249999999992,
+            "darkness": 0.9202337820801973,
+            "bortle": 2,
+            "near": "Saligny-sur-Roudon",
+            "id": "46.4812_3.7312",
+            "altitude": null
+        },
+        {
+            "lat": 46.71874999999999,
+            "lon": 3.4770833333333258,
+            "darkness": 0.9163312955947538,
+            "bortle": 2,
+            "near": "Lucenay-lès-Aix",
+            "id": "46.7187_3.4771",
+            "altitude": null
+        },
+        {
+            "lat": 46.80208333333333,
+            "lon": 3.2270833333333258,
+            "darkness": 0.9147581609423907,
+            "bortle": 2,
+            "near": "Luthenay-Uxeloup",
+            "id": "46.8021_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 46.34791666666666,
+            "lon": 3.8187499999999925,
+            "darkness": 0.9011967681863373,
+            "bortle": 2,
+            "near": "Le Donjon",
+            "id": "46.3479_3.8187",
+            "altitude": null
+        },
+        {
+            "lat": 46.89791666666666,
+            "lon": 3.4354166666666597,
+            "darkness": 0.8965615343071593,
+            "bortle": 2,
+            "near": "La Machine",
+            "id": "46.8979_3.4354",
+            "altitude": null
+        },
+        {
+            "lat": 46.57708333333333,
+            "lon": 3.5479166666666586,
+            "darkness": 0.8913922286566542,
+            "bortle": 2,
+            "near": "Chevagnes",
+            "id": "46.5771_3.5479",
+            "altitude": null
+        },
+        {
+            "lat": 46.57708333333333,
+            "lon": 3.9104166666666593,
+            "darkness": 0.8888452676269968,
+            "bortle": 2,
+            "near": "Neuvy-Grandchamp",
+            "id": "46.5771_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 46.36458333333333,
+            "lon": 3.593749999999993,
+            "darkness": 0.8877595806360816,
+            "bortle": 2,
+            "near": "Jaligny-sur-Besbre",
+            "id": "46.3646_3.5937",
+            "altitude": null
+        },
+        {
+            "lat": 46.55208333333333,
+            "lon": 3.1312499999999925,
+            "darkness": 0.8802340939040669,
+            "bortle": 2,
+            "near": "Saint-Menoux",
+            "id": "46.5521_3.1312",
+            "altitude": null
+        },
+        {
+            "lat": 46.40208333333333,
+            "lon": 3.177083333333325,
+            "darkness": 0.8652798415272354,
+            "bortle": 2,
+            "near": "Cressanges",
+            "id": "46.4021_3.1771",
+            "altitude": null
+        },
+        {
+            "lat": 46.668749999999996,
+            "lon": 3.268749999999992,
+            "darkness": 0.8524065210238061,
+            "bortle": 2,
+            "near": "Villeneuve-sur-Allier",
+            "id": "46.6687_3.2687",
+            "altitude": null
+        },
+        {
+            "lat": 46.256249999999994,
+            "lon": 3.9104166666666593,
+            "darkness": 0.8482595178881649,
+            "bortle": 3,
+            "near": "La Pacaudière",
+            "id": "46.2562_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 46.43124999999999,
+            "lon": 3.456249999999992,
+            "darkness": 0.8464755015796286,
+            "bortle": 3,
+            "near": "Neuilly-le-Réal",
+            "id": "46.4312_3.4562",
+            "altitude": null
+        },
+        {
+            "lat": 46.668749999999996,
+            "lon": 3.4104166666666593,
+            "darkness": 0.8454415921343337,
+            "bortle": 3,
+            "near": "Saint-Ennemond",
+            "id": "46.6687_3.4104",
+            "altitude": null
+        },
+        {
+            "lat": 46.43541666666666,
+            "lon": 3.2229166666666593,
+            "darkness": 0.8440309633572123,
+            "bortle": 3,
+            "near": "Cressanges",
+            "id": "46.4354_3.2229",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": 3.956249999999992,
+            "darkness": 0.8416232567228188,
+            "bortle": 3,
+            "near": "La Motte-Saint-Jean",
+            "id": "46.5312_3.9562",
+            "altitude": null
+        },
+        {
+            "lat": 46.885416666666664,
+            "lon": 3.3187499999999925,
+            "darkness": 0.8406392638371973,
+            "bortle": 3,
+            "near": "Luthenay-Uxeloup",
+            "id": "46.8854_3.3187",
+            "altitude": null
+        },
+        {
+            "lat": 46.256249999999994,
+            "lon": 3.6854166666666597,
+            "darkness": 0.8404551475895494,
+            "bortle": 3,
+            "near": "Saint-Prix",
+            "id": "46.2562_3.6854",
+            "altitude": null
+        },
+        {
+            "lat": 46.57708333333333,
+            "lon": 3.177083333333325,
+            "darkness": 0.8403570031774772,
+            "bortle": 3,
+            "near": "Saint-Menoux",
+            "id": "46.5771_3.1771",
+            "altitude": null
+        },
+        {
+            "lat": 46.21041666666666,
+            "lon": 3.043749999999992,
+            "darkness": 0.8330784251134853,
+            "bortle": 3,
+            "near": "Bellenaves",
+            "id": "46.2104_3.0437",
+            "altitude": null
+        },
+        {
+            "lat": 46.11874999999999,
+            "lon": 3.7729166666666583,
+            "darkness": 0.827021630715042,
+            "bortle": 3,
+            "near": "Arfeuilles",
+            "id": "46.1187_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 46.12708333333333,
+            "lon": 3.5479166666666586,
+            "darkness": 0.7841904792472736,
+            "bortle": 3,
+            "near": "Molles",
+            "id": "46.1271_3.5479",
+            "altitude": null
+        },
+        {
+            "lat": 46.293749999999996,
+            "lon": 3.2229166666666593,
+            "darkness": 0.7814078794480734,
+            "bortle": 3,
+            "near": "Bransat",
+            "id": "46.2937_3.2229",
+            "altitude": null
+        },
+        {
+            "lat": 46.256249999999994,
+            "lon": 3.456249999999992,
+            "darkness": 0.7658084056926279,
+            "bortle": 3,
+            "near": "Billy",
+            "id": "46.2562_3.4562",
+            "altitude": null
+        },
+        {
+            "lat": 46.135416666666664,
+            "lon": 3.314583333333326,
+            "darkness": 0.7416779548663508,
+            "bortle": 3,
+            "near": "Espinasse-Vozelle",
+            "id": "46.1354_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 46.11874999999999,
+            "lon": 3.2270833333333258,
+            "darkness": 0.740073677154393,
+            "bortle": 4,
+            "near": "Gannat",
+            "id": "46.1187_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 46.21041666666666,
+            "lon": 3.406249999999993,
+            "darkness": 0.7381493217722617,
+            "bortle": 4,
+            "near": "Saint-Germain-des-Fossés",
+            "id": "46.2104_3.4062",
+            "altitude": null
+        },
+        {
+            "lat": 46.01458333333333,
+            "lon": 3.502083333333326,
+            "darkness": 0.7353742826738829,
+            "bortle": 4,
+            "near": "Mariol",
+            "id": "46.0146_3.5021",
+            "altitude": null
+        },
+        {
+            "lat": 46.02708333333333,
+            "lon": 3.864583333333325,
+            "darkness": 0.733580757360176,
+            "bortle": 4,
+            "near": "Renaison",
+            "id": "46.0271_3.8646",
+            "altitude": null
+        },
+        {
+            "lat": 46.93958333333333,
+            "lon": 3.1312499999999925,
+            "darkness": 0.7330818960309335,
+            "bortle": 4,
+            "near": "Challuy",
+            "id": "46.9396_3.1312",
+            "altitude": null
+        },
+        {
+            "lat": 46.481249999999996,
+            "lon": 3.314583333333326,
+            "darkness": 0.7289483043144939,
+            "bortle": 4,
+            "near": "Chemilly",
+            "id": "46.4812_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 46.62291666666666,
+            "lon": 3.364583333333325,
+            "darkness": 0.7110242764974334,
+            "bortle": 4,
+            "near": "Trévol",
+            "id": "46.6229_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 46.02708333333333,
+            "lon": 3.0395833333333258,
+            "darkness": 0.689229694527777,
+            "bortle": 4,
+            "near": "Charbonnières-les-Vieilles",
+            "id": "46.0271_3.0396",
+            "altitude": null
+        }
+    ]
+}

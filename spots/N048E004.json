@@ -1,0 +1,305 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N048E004",
+    "spots": [
+        {
+            "lat": 48.039583333333326,
+            "lon": 4.785416666666659,
+            "darkness": 0.8917172663265064,
+            "bortle": 2,
+            "near": "Ville-sous-la-Ferté",
+            "id": "48.0396_4.7854",
+            "altitude": null
+        },
+        {
+            "lat": 48.131249999999994,
+            "lon": 4.827083333333325,
+            "darkness": 0.8451158661542812,
+            "bortle": 3,
+            "near": "Ville-sous-la-Ferté",
+            "id": "48.1312_4.8271",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": 4.922916666666659,
+            "darkness": 0.8151539537965726,
+            "bortle": 3,
+            "near": "Sommevoire",
+            "id": "48.3604_4.9229",
+            "altitude": null
+        },
+        {
+            "lat": 48.131249999999994,
+            "lon": 4.602083333333326,
+            "darkness": 0.8077414437428951,
+            "bortle": 3,
+            "near": "Essoyes",
+            "id": "48.1312_4.6021",
+            "altitude": null
+        },
+        {
+            "lat": 48.977083333333326,
+            "lon": 4.968749999999993,
+            "darkness": 0.7851052063209324,
+            "bortle": 3,
+            "near": "Givry-en-Argonne",
+            "id": "48.9771_4.9687",
+            "altitude": null
+        },
+        {
+            "lat": 48.039583333333326,
+            "lon": 4.322916666666659,
+            "darkness": 0.7817574611948684,
+            "bortle": 3,
+            "near": "Les Riceys",
+            "id": "48.0396_4.3229",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": 4.6937499999999925,
+            "darkness": 0.764829409653873,
+            "bortle": 3,
+            "near": "Dienville",
+            "id": "48.3604_4.6937",
+            "altitude": null
+        },
+        {
+            "lat": 48.86874999999999,
+            "lon": 4.831249999999992,
+            "darkness": 0.7591842716035853,
+            "bortle": 3,
+            "near": "Givry-en-Argonne",
+            "id": "48.8687_4.8312",
+            "altitude": null
+        },
+        {
+            "lat": 48.52291666666666,
+            "lon": 4.602083333333326,
+            "darkness": 0.7498778013079054,
+            "bortle": 3,
+            "near": "Chavanges",
+            "id": "48.5229_4.6021",
+            "altitude": null
+        },
+        {
+            "lat": 48.26875,
+            "lon": 4.522916666666658,
+            "darkness": 0.7400718844775074,
+            "bortle": 4,
+            "near": "Vendeuvre-sur-Barse",
+            "id": "48.2687_4.5229",
+            "altitude": null
+        },
+        {
+            "lat": 48.41041666666666,
+            "lon": 4.602083333333326,
+            "darkness": 0.739561928555813,
+            "bortle": 4,
+            "near": "Brienne-le-Château",
+            "id": "48.4104_4.6021",
+            "altitude": null
+        },
+        {
+            "lat": 48.543749999999996,
+            "lon": 4.4645833333333265,
+            "darkness": 0.7384928918883712,
+            "bortle": 4,
+            "near": "Chavanges",
+            "id": "48.5437_4.4646",
+            "altitude": null
+        },
+        {
+            "lat": 48.87708333333333,
+            "lon": 4.739583333333325,
+            "darkness": 0.738478871401214,
+            "bortle": 4,
+            "near": "Saint-Amand-sur-Fion",
+            "id": "48.8771_4.7396",
+            "altitude": null
+        },
+        {
+            "lat": 48.45208333333333,
+            "lon": 4.827083333333325,
+            "darkness": 0.7383127172416715,
+            "bortle": 4,
+            "near": "Sommevoire",
+            "id": "48.4521_4.8271",
+            "altitude": null
+        },
+        {
+            "lat": 48.08541666666666,
+            "lon": 4.4645833333333265,
+            "darkness": 0.7377141257063201,
+            "bortle": 4,
+            "near": "Landreville",
+            "id": "48.0854_4.4646",
+            "altitude": null
+        },
+        {
+            "lat": 48.08541666666666,
+            "lon": 4.189583333333326,
+            "darkness": 0.7233037553431911,
+            "bortle": 4,
+            "near": "Chaource",
+            "id": "48.0854_4.1896",
+            "altitude": null
+        },
+        {
+            "lat": 48.58958333333333,
+            "lon": 4.6937499999999925,
+            "darkness": 0.7230776927294608,
+            "bortle": 4,
+            "near": "Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson",
+            "id": "48.5896_4.6937",
+            "altitude": null
+        },
+        {
+            "lat": 48.418749999999996,
+            "lon": 4.37291666666666,
+            "darkness": 0.701738942903092,
+            "bortle": 4,
+            "near": "Piney",
+            "id": "48.4187_4.3729",
+            "altitude": null
+        },
+        {
+            "lat": 48.77708333333333,
+            "lon": 4.922916666666659,
+            "darkness": 0.6941011245820214,
+            "bortle": 4,
+            "near": "Sermaize-les-Bains",
+            "id": "48.7771_4.9229",
+            "altitude": null
+        },
+        {
+            "lat": 48.68124999999999,
+            "lon": 4.327083333333325,
+            "darkness": 0.6824725811837221,
+            "bortle": 4,
+            "near": "Mailly-le-Camp",
+            "id": "48.6812_4.3271",
+            "altitude": null
+        },
+        {
+            "lat": 48.547916666666666,
+            "lon": 4.235416666666659,
+            "darkness": 0.664890274951002,
+            "bortle": 4,
+            "near": "Arcis-sur-Aube",
+            "id": "48.5479_4.2354",
+            "altitude": null
+        },
+        {
+            "lat": 48.63958333333333,
+            "lon": 4.0562499999999915,
+            "darkness": 0.6600364099187275,
+            "bortle": 4,
+            "near": "Plancy-l'Abbaye",
+            "id": "48.6396_4.0562",
+            "altitude": null
+        },
+        {
+            "lat": 48.22291666666666,
+            "lon": 4.327083333333325,
+            "darkness": 0.6566527218491307,
+            "bortle": 4,
+            "near": "Lusigny-sur-Barse",
+            "id": "48.2229_4.3271",
+            "altitude": null
+        },
+        {
+            "lat": 48.797916666666666,
+            "lon": 4.052083333333325,
+            "darkness": 0.6320134426668154,
+            "bortle": 4,
+            "near": "Fère-Champenoise",
+            "id": "48.7979_4.0521",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": 4.3687499999999915,
+            "darkness": 0.6283777985218764,
+            "bortle": 4,
+            "near": "Mairy-sur-Marne",
+            "id": "48.8187_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 48.731249999999996,
+            "lon": 4.6937499999999925,
+            "darkness": 0.5944490853872153,
+            "bortle": 4,
+            "near": "Marolles",
+            "id": "48.7312_4.6937",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": 4.18541666666666,
+            "darkness": 0.5698345603852766,
+            "bortle": 4,
+            "near": "Matougues",
+            "id": "48.9104_4.1854",
+            "altitude": null
+        },
+        {
+            "lat": 48.58958333333333,
+            "lon": 4.918749999999992,
+            "darkness": 0.5621498082740657,
+            "bortle": 4,
+            "near": "Humbécourt",
+            "id": "48.5896_4.9187",
+            "altitude": null
+        },
+        {
+            "lat": 48.41041666666666,
+            "lon": 4.143749999999992,
+            "darkness": 0.5409354843749061,
+            "bortle": 4,
+            "near": "Charmont-sous-Barbuise",
+            "id": "48.4104_4.1437",
+            "altitude": null
+        },
+        {
+            "lat": 48.22291666666666,
+            "lon": 4.189583333333326,
+            "darkness": 0.49753884606977605,
+            "bortle": 5,
+            "near": "Clérey",
+            "id": "48.2229_4.1896",
+            "altitude": null
+        },
+        {
+            "lat": 48.36458333333333,
+            "lon": 4.189583333333326,
+            "darkness": 0.4931503002362778,
+            "bortle": 5,
+            "near": "Charmont-sous-Barbuise",
+            "id": "48.3646_4.1896",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": 4.37291666666666,
+            "darkness": 0.4706568898934115,
+            "bortle": 5,
+            "near": "Sarry",
+            "id": "48.9104_4.3729",
+            "altitude": null
+        },
+        {
+            "lat": 48.26875,
+            "lon": 4.143749999999992,
+            "darkness": 0.347137183719215,
+            "bortle": 6,
+            "near": "Rouilly-Saint-Loup",
+            "id": "48.2687_4.1437",
+            "altitude": null
+        }
+    ]
+}

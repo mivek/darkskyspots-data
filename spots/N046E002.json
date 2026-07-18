@@ -1,0 +1,368 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N046E002",
+    "spots": [
+        {
+            "lat": 46.481249999999996,
+            "lon": 2.1729166666666586,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Sainte-Sévère-sur-Indre",
+            "id": "46.4812_2.1729",
+            "altitude": null
+        },
+        {
+            "lat": 46.34374999999999,
+            "lon": 2.218749999999993,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Boussac",
+            "id": "46.3437_2.2187",
+            "altitude": null
+        },
+        {
+            "lat": 46.20625,
+            "lon": 2.0354166666666593,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Ajain",
+            "id": "46.2062_2.0354",
+            "altitude": null
+        },
+        {
+            "lat": 46.20625,
+            "lon": 2.2645833333333254,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Gouzon",
+            "id": "46.2062_2.2646",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": 2.127083333333325,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Saint-Médard-la-Rochette",
+            "id": "46.0687_2.1271",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": 2.356249999999992,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Mainsat",
+            "id": "46.0687_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 46.414583333333326,
+            "lon": 2.3062499999999915,
+            "darkness": 0.9914662289786353,
+            "bortle": 2,
+            "near": "Préveranges",
+            "id": "46.4146_2.3062",
+            "altitude": null
+        },
+        {
+            "lat": 46.11458333333333,
+            "lon": 2.489583333333325,
+            "darkness": 0.9879437882423397,
+            "bortle": 2,
+            "near": "Évaux-les-Bains",
+            "id": "46.1146_2.4896",
+            "altitude": null
+        },
+        {
+            "lat": 46.25208333333333,
+            "lon": 2.3520833333333258,
+            "darkness": 0.9832389804245675,
+            "bortle": 2,
+            "near": "Soumans",
+            "id": "46.2521_2.3521",
+            "altitude": null
+        },
+        {
+            "lat": 46.52708333333333,
+            "lon": 2.1729166666666586,
+            "darkness": 0.982180375610439,
+            "bortle": 2,
+            "near": "Châteaumeillant",
+            "id": "46.5271_2.1729",
+            "altitude": null
+        },
+        {
+            "lat": 46.62291666666666,
+            "lon": 2.947916666666659,
+            "darkness": 0.9694185593100135,
+            "bortle": 2,
+            "near": "Couleuvre",
+            "id": "46.6229_2.9479",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": 2.768749999999992,
+            "darkness": 0.9368317120736762,
+            "bortle": 2,
+            "near": "Hérisson",
+            "id": "46.5312_2.7687",
+            "altitude": null
+        },
+        {
+            "lat": 46.485416666666666,
+            "lon": 2.956249999999992,
+            "darkness": 0.9296097693594758,
+            "bortle": 2,
+            "near": "Buxières-les-Mines",
+            "id": "46.4854_2.9562",
+            "altitude": null
+        },
+        {
+            "lat": 46.756249999999994,
+            "lon": 2.814583333333326,
+            "darkness": 0.9294239602188624,
+            "bortle": 2,
+            "near": "Lurcy-Lévis",
+            "id": "46.7562_2.8146",
+            "altitude": null
+        },
+        {
+            "lat": 46.572916666666664,
+            "lon": 2.385416666666659,
+            "darkness": 0.9252588456083203,
+            "bortle": 2,
+            "near": "Culan",
+            "id": "46.5729_2.3854",
+            "altitude": null
+        },
+        {
+            "lat": 46.664583333333326,
+            "lon": 2.127083333333325,
+            "darkness": 0.9195601667400864,
+            "bortle": 2,
+            "near": "Saint-Hilaire-en-Lignières",
+            "id": "46.6646_2.1271",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": 2.6729166666666586,
+            "darkness": 0.9033799133912997,
+            "bortle": 2,
+            "near": "Pionsat",
+            "id": "46.0687_2.6729",
+            "altitude": null
+        },
+        {
+            "lat": 46.485416666666666,
+            "lon": 2.5354166666666593,
+            "darkness": 0.8999956608972101,
+            "bortle": 2,
+            "near": "La Chapelaude",
+            "id": "46.4854_2.5354",
+            "altitude": null
+        },
+        {
+            "lat": 46.885416666666664,
+            "lon": 2.9729166666666593,
+            "darkness": 0.8895920924969165,
+            "bortle": 2,
+            "near": "Sancoins",
+            "id": "46.8854_2.9729",
+            "altitude": null
+        },
+        {
+            "lat": 46.89375,
+            "lon": 2.768749999999992,
+            "darkness": 0.8734361437338807,
+            "bortle": 2,
+            "near": "Blet",
+            "id": "46.8937_2.7687",
+            "altitude": null
+        },
+        {
+            "lat": 46.80208333333333,
+            "lon": 2.0354166666666593,
+            "darkness": 0.8630165578766582,
+            "bortle": 2,
+            "near": "Pruniers",
+            "id": "46.8021_2.0354",
+            "altitude": null
+        },
+        {
+            "lat": 46.61874999999999,
+            "lon": 2.5854166666666583,
+            "darkness": 0.8554760679897283,
+            "bortle": 2,
+            "near": "Meaulne",
+            "id": "46.6187_2.5854",
+            "altitude": null
+        },
+        {
+            "lat": 46.297916666666666,
+            "lon": 2.489583333333325,
+            "darkness": 0.8468674753663351,
+            "bortle": 3,
+            "near": "Quinssaines",
+            "id": "46.2979_2.4896",
+            "altitude": null
+        },
+        {
+            "lat": 46.664583333333326,
+            "lon": 2.3520833333333258,
+            "darkness": 0.8464635895878003,
+            "bortle": 3,
+            "near": "Le Châtelet",
+            "id": "46.6646_2.3521",
+            "altitude": null
+        },
+        {
+            "lat": 46.09374999999999,
+            "lon": 2.718749999999993,
+            "darkness": 0.845729605789117,
+            "bortle": 3,
+            "near": "Pionsat",
+            "id": "46.0937_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 46.985416666666666,
+            "lon": 2.9937499999999915,
+            "darkness": 0.8445248408585853,
+            "bortle": 3,
+            "near": "Torteron",
+            "id": "46.9854_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 46.34791666666666,
+            "lon": 2.9979166666666597,
+            "darkness": 0.8429312474587894,
+            "bortle": 3,
+            "near": "Montmarault",
+            "id": "46.3479_2.9979",
+            "altitude": null
+        },
+        {
+            "lat": 46.80208333333333,
+            "lon": 2.168749999999992,
+            "darkness": 0.8416470125238052,
+            "bortle": 3,
+            "near": "Chezal-Benoît",
+            "id": "46.8021_2.1687",
+            "altitude": null
+        },
+        {
+            "lat": 46.664583333333326,
+            "lon": 2.6312499999999925,
+            "darkness": 0.8402751468394964,
+            "bortle": 3,
+            "near": "Saint-Bonnet-Tronçais",
+            "id": "46.6646_2.6312",
+            "altitude": null
+        },
+        {
+            "lat": 46.93958333333333,
+            "lon": 2.7229166666666593,
+            "darkness": 0.8348481733533977,
+            "bortle": 3,
+            "near": "Blet",
+            "id": "46.9396_2.7229",
+            "altitude": null
+        },
+        {
+            "lat": 46.43958333333333,
+            "lon": 2.7229166666666593,
+            "darkness": 0.8344103732447293,
+            "bortle": 3,
+            "near": "Verneix",
+            "id": "46.4396_2.7229",
+            "altitude": null
+        },
+        {
+            "lat": 46.83958333333333,
+            "lon": 2.5854166666666583,
+            "darkness": 0.7751347919010114,
+            "bortle": 3,
+            "near": "Dun-sur-Auron",
+            "id": "46.8396_2.5854",
+            "altitude": null
+        },
+        {
+            "lat": 46.039583333333326,
+            "lon": 2.9020833333333265,
+            "darkness": 0.762889101212918,
+            "bortle": 3,
+            "near": "Saint-Gervais-d'Auvergne",
+            "id": "46.0396_2.9021",
+            "altitude": null
+        },
+        {
+            "lat": 46.89375,
+            "lon": 2.260416666666659,
+            "darkness": 0.7391283526029114,
+            "bortle": 4,
+            "near": "Lunery",
+            "id": "46.8937_2.2604",
+            "altitude": null
+        },
+        {
+            "lat": 46.985416666666666,
+            "lon": 2.6312499999999925,
+            "darkness": 0.738208321783745,
+            "bortle": 4,
+            "near": "Avord",
+            "id": "46.9854_2.6312",
+            "altitude": null
+        },
+        {
+            "lat": 46.89375,
+            "lon": 2.4854166666666586,
+            "darkness": 0.7369814946300617,
+            "bortle": 4,
+            "near": "Saint-Germain-des-Bois",
+            "id": "46.8937_2.4854",
+            "altitude": null
+        },
+        {
+            "lat": 46.30208333333333,
+            "lon": 2.814583333333326,
+            "darkness": 0.7365658119781253,
+            "bortle": 4,
+            "near": "Montvicq",
+            "id": "46.3021_2.8146",
+            "altitude": null
+        },
+        {
+            "lat": 46.39375,
+            "lon": 2.5354166666666593,
+            "darkness": 0.7222161649362708,
+            "bortle": 4,
+            "near": "Domérat",
+            "id": "46.3937_2.5354",
+            "altitude": null
+        },
+        {
+            "lat": 46.11458333333333,
+            "lon": 2.8104166666666597,
+            "darkness": 0.7208616208732563,
+            "bortle": 4,
+            "near": "Youx",
+            "id": "46.1146_2.8104",
+            "altitude": null
+        },
+        {
+            "lat": 46.760416666666664,
+            "lon": 2.5854166666666583,
+            "darkness": 0.7194765956430751,
+            "bortle": 4,
+            "near": "Saint-Pierre-les-Étieux",
+            "id": "46.7604_2.5854",
+            "altitude": null
+        }
+    ]
+}

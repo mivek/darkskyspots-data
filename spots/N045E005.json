@@ -1,0 +1,386 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N045E005",
+    "spots": [
+        {
+            "lat": 45.06041666666666,
+            "lon": 5.364583333333325,
+            "darkness": 0.6239124163499279,
+            "bortle": 4,
+            "near": "Sainte-Eulalie-en-Royans",
+            "id": "45.0604_5.3646",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 5.56041666666666,
+            "darkness": 0.6081190215005725,
+            "bortle": 4,
+            "near": "Le Gua",
+            "id": "45.0146_5.5604",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 5.8395833333333265,
+            "darkness": 0.5911876725559544,
+            "bortle": 4,
+            "near": "Saint-Barthélemy-de-Séchilienne",
+            "id": "45.0146_5.8396",
+            "altitude": null
+        },
+        {
+            "lat": 45.164583333333326,
+            "lon": 5.239583333333325,
+            "darkness": 0.5606032320305196,
+            "bortle": 4,
+            "near": "Saint-Antoine-l'Abbaye",
+            "id": "45.1646_5.2396",
+            "altitude": null
+        },
+        {
+            "lat": 45.93124999999999,
+            "lon": 5.656249999999993,
+            "darkness": 0.553417968082658,
+            "bortle": 4,
+            "near": "Cormaranche-en-Bugey",
+            "id": "45.9312_5.6562",
+            "altitude": null
+        },
+        {
+            "lat": 45.385416666666664,
+            "lon": 5.8395833333333265,
+            "darkness": 0.5337942945767554,
+            "bortle": 4,
+            "near": "Saint-Pierre-de-Chartreuse",
+            "id": "45.3854_5.8396",
+            "altitude": null
+        },
+        {
+            "lat": 45.797916666666666,
+            "lon": 5.7437499999999915,
+            "darkness": 0.5321630650614386,
+            "bortle": 4,
+            "near": "Chanaz",
+            "id": "45.7979_5.7437",
+            "altitude": null
+        },
+        {
+            "lat": 45.24374999999999,
+            "lon": 5.422916666666659,
+            "darkness": 0.5267254999101636,
+            "bortle": 4,
+            "near": "Vinay",
+            "id": "45.2437_5.4229",
+            "altitude": null
+        },
+        {
+            "lat": 45.289583333333326,
+            "lon": 5.1520833333333265,
+            "darkness": 0.5265380765118873,
+            "bortle": 4,
+            "near": "Thodure",
+            "id": "45.2896_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 45.47291666666666,
+            "lon": 5.6812499999999915,
+            "darkness": 0.5154272812271519,
+            "bortle": 4,
+            "near": "Saint-Bueil",
+            "id": "45.4729_5.6812",
+            "altitude": null
+        },
+        {
+            "lat": 45.66041666666666,
+            "lon": 5.656249999999993,
+            "darkness": 0.5126924595624325,
+            "bortle": 4,
+            "near": "Brégnier-Cordon",
+            "id": "45.6604_5.6562",
+            "altitude": null
+        },
+        {
+            "lat": 45.172916666666666,
+            "lon": 5.014583333333325,
+            "darkness": 0.5099367526229407,
+            "bortle": 4,
+            "near": "Margès",
+            "id": "45.1729_5.0146",
+            "altitude": null
+        },
+        {
+            "lat": 45.51875,
+            "lon": 5.656249999999993,
+            "darkness": 0.49967548725275457,
+            "bortle": 5,
+            "near": "Pressins",
+            "id": "45.5187_5.6562",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 5.56041666666666,
+            "darkness": 0.4989423899540263,
+            "bortle": 5,
+            "near": "Lans-en-Vercors",
+            "id": "45.1062_5.5604",
+            "altitude": null
+        },
+        {
+            "lat": 45.33541666666666,
+            "lon": 5.1520833333333265,
+            "darkness": 0.4988169793578472,
+            "bortle": 5,
+            "near": "Thodure",
+            "id": "45.3354_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 45.24374999999999,
+            "lon": 5.468749999999993,
+            "darkness": 0.49848841434139446,
+            "bortle": 5,
+            "near": "Poliénas",
+            "id": "45.2437_5.4687",
+            "altitude": null
+        },
+        {
+            "lat": 45.66041666666666,
+            "lon": 5.789583333333326,
+            "darkness": 0.4982167269251747,
+            "bortle": 5,
+            "near": "Le Bourget-du-Lac",
+            "id": "45.6604_5.7896",
+            "altitude": null
+        },
+        {
+            "lat": 45.914583333333326,
+            "lon": 5.518749999999992,
+            "darkness": 0.4970241629156641,
+            "bortle": 5,
+            "near": "Tenay",
+            "id": "45.9146_5.5187",
+            "altitude": null
+        },
+        {
+            "lat": 45.443749999999994,
+            "lon": 5.472916666666659,
+            "darkness": 0.49117013794856135,
+            "bortle": 5,
+            "near": "Oyeu",
+            "id": "45.4437_5.4729",
+            "altitude": null
+        },
+        {
+            "lat": 45.66041666666666,
+            "lon": 5.564583333333326,
+            "darkness": 0.48605700009515007,
+            "bortle": 5,
+            "near": "Les Avenières",
+            "id": "45.6604_5.5646",
+            "altitude": null
+        },
+        {
+            "lat": 45.33958333333333,
+            "lon": 5.74791666666666,
+            "darkness": 0.4812308718926731,
+            "bortle": 5,
+            "near": "Saint-Pierre-de-Chartreuse",
+            "id": "45.3396_5.7479",
+            "altitude": null
+        },
+        {
+            "lat": 45.06041666666666,
+            "lon": 5.793749999999992,
+            "darkness": 0.46589424266614354,
+            "bortle": 5,
+            "near": "Saint-Pierre-de-Mésage",
+            "id": "45.0604_5.7937",
+            "altitude": null
+        },
+        {
+            "lat": 45.47291666666666,
+            "lon": 5.2437499999999915,
+            "darkness": 0.4241849147742651,
+            "bortle": 5,
+            "near": "Châtonnay",
+            "id": "45.4729_5.2437",
+            "altitude": null
+        },
+        {
+            "lat": 45.76458333333333,
+            "lon": 5.427083333333325,
+            "darkness": 0.4074969199180626,
+            "bortle": 5,
+            "near": "Briord",
+            "id": "45.7646_5.4271",
+            "altitude": null
+        },
+        {
+            "lat": 45.606249999999996,
+            "lon": 5.3812499999999925,
+            "darkness": 0.3865430114126823,
+            "bortle": 5,
+            "near": "Rochetoirin",
+            "id": "45.6062_5.3812",
+            "altitude": null
+        },
+        {
+            "lat": 45.20208333333333,
+            "lon": 5.8395833333333265,
+            "darkness": 0.36356324039208376,
+            "bortle": 5,
+            "near": "Domène",
+            "id": "45.2021_5.8396",
+            "altitude": null
+        },
+        {
+            "lat": 45.24791666666666,
+            "lon": 5.6520833333333265,
+            "darkness": 0.34914597831956806,
+            "bortle": 6,
+            "near": "Fontanil-Cornillon",
+            "id": "45.2479_5.6521",
+            "altitude": null
+        },
+        {
+            "lat": 45.47291666666666,
+            "lon": 5.014583333333325,
+            "darkness": 0.34613017294812976,
+            "bortle": 6,
+            "near": "Eyzin-Pinet",
+            "id": "45.4729_5.0146",
+            "altitude": null
+        },
+        {
+            "lat": 45.93541666666666,
+            "lon": 5.289583333333326,
+            "darkness": 0.3460743037157258,
+            "bortle": 6,
+            "near": "Leyment",
+            "id": "45.9354_5.2896",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 5.335416666666658,
+            "darkness": 0.3430257350362327,
+            "bortle": 6,
+            "near": "Soleymieu",
+            "id": "45.7021_5.3354",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 5.697916666666659,
+            "darkness": 0.3409149429963858,
+            "bortle": 6,
+            "near": "Allières-et-Risset",
+            "id": "45.1062_5.6979",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": 5.289583333333326,
+            "darkness": 0.3324135291538357,
+            "bortle": 6,
+            "near": "Meyrié",
+            "id": "45.5646_5.2896",
+            "altitude": null
+        },
+        {
+            "lat": 45.797916666666666,
+            "lon": 5.197916666666659,
+            "darkness": 0.20487125244265392,
+            "bortle": 6,
+            "near": "Anthon",
+            "id": "45.7979_5.1979",
+            "altitude": null
+        },
+        {
+            "lat": 45.74791666666666,
+            "lon": 5.197916666666659,
+            "darkness": 0.19683169287154967,
+            "bortle": 7,
+            "near": "Tignieu",
+            "id": "45.7479_5.1979",
+            "altitude": null
+        },
+        {
+            "lat": 45.610416666666666,
+            "lon": 5.1520833333333265,
+            "darkness": 0.19073242309075766,
+            "bortle": 7,
+            "near": "Villefontaine",
+            "id": "45.6104_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 45.977083333333326,
+            "lon": 5.789583333333326,
+            "darkness": 0.5384000988514788,
+            "bortle": 4,
+            "near": "Corbonod",
+            "id": "45.9771_5.7896",
+            "altitude": null
+        },
+        {
+            "lat": 45.947916666666664,
+            "lon": 5.802083333333325,
+            "darkness": 0.5369452711542959,
+            "bortle": 4,
+            "near": "Seyssel",
+            "id": "45.9479_5.8021",
+            "altitude": null
+        },
+        {
+            "lat": 45.90624999999999,
+            "lon": 5.789583333333326,
+            "darkness": 0.5347237576925392,
+            "bortle": 4,
+            "near": "Anglefort",
+            "id": "45.9062_5.7896",
+            "altitude": null
+        },
+        {
+            "lat": 45.88958333333333,
+            "lon": 5.8062499999999915,
+            "darkness": 0.5325907442996967,
+            "bortle": 4,
+            "near": "Anglefort",
+            "id": "45.8896_5.8062",
+            "altitude": null
+        },
+        {
+            "lat": 45.860416666666666,
+            "lon": 5.81041666666666,
+            "darkness": 0.5285036042626128,
+            "bortle": 4,
+            "near": "Culoz",
+            "id": "45.8604_5.8104",
+            "altitude": null
+        },
+        {
+            "lat": 45.797916666666666,
+            "lon": 5.814583333333326,
+            "darkness": 0.5232003128494346,
+            "bortle": 4,
+            "near": "Chanaz",
+            "id": "45.7979_5.8146",
+            "altitude": null
+        },
+        {
+            "lat": 45.789583333333326,
+            "lon": 5.814583333333326,
+            "darkness": 0.5217184530983403,
+            "bortle": 4,
+            "near": "Châtillon",
+            "id": "45.7896_5.8146",
+            "altitude": null
+        }
+    ]
+}

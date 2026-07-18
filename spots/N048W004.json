@@ -1,0 +1,305 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N048W004",
+    "spots": [
+        {
+            "lat": 48.95625,
+            "lon": -3.5562500000000075,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Trégastel",
+            "id": "48.9562_-3.5563",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": -3.327083333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Plougrescant",
+            "id": "48.9562_-3.3271",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": -3.0979166666666744,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Pleubian",
+            "id": "48.9104_-3.0979",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": -3.7854166666666744,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Plougasnou",
+            "id": "48.8646_-3.7854",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": -3.327083333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Trévou-Tréguignec",
+            "id": "48.8187_-3.3271",
+            "altitude": null
+        },
+        {
+            "lat": 48.727083333333326,
+            "lon": -3.6937500000000076,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Locquirec",
+            "id": "48.7271_-3.6938",
+            "altitude": null
+        },
+        {
+            "lat": 48.635416666666664,
+            "lon": -3.510416666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Lanvellec",
+            "id": "48.6354_-3.5104",
+            "altitude": null
+        },
+        {
+            "lat": 48.49791666666666,
+            "lon": -3.602083333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Guerlesquin",
+            "id": "48.4979_-3.6021",
+            "altitude": null
+        },
+        {
+            "lat": 48.43958333333333,
+            "lon": -3.3770833333333408,
+            "darkness": 0.9984698665240013,
+            "bortle": 1,
+            "near": "Plougonver",
+            "id": "48.4396_-3.3771",
+            "altitude": null
+        },
+        {
+            "lat": 48.731249999999996,
+            "lon": -3.1937500000000076,
+            "darkness": 0.995211494667521,
+            "bortle": 2,
+            "near": "Ploëzal",
+            "id": "48.7312_-3.1938",
+            "altitude": null
+        },
+        {
+            "lat": 48.41041666666666,
+            "lon": -3.3354166666666742,
+            "darkness": 0.9946792370048405,
+            "bortle": 2,
+            "near": "Pont-Melvez",
+            "id": "48.4104_-3.3354",
+            "altitude": null
+        },
+        {
+            "lat": 48.735416666666666,
+            "lon": -3.5604166666666743,
+            "darkness": 0.9938658617287123,
+            "bortle": 2,
+            "near": "Locquémeau",
+            "id": "48.7354_-3.5604",
+            "altitude": null
+        },
+        {
+            "lat": 48.49791666666666,
+            "lon": -3.6479166666666742,
+            "darkness": 0.9930326474614537,
+            "bortle": 2,
+            "near": "Botsorhel",
+            "id": "48.4979_-3.6479",
+            "altitude": null
+        },
+        {
+            "lat": 48.68541666666666,
+            "lon": -3.7854166666666744,
+            "darkness": 0.9871155282158308,
+            "bortle": 2,
+            "near": "Plougasnou",
+            "id": "48.6854_-3.7854",
+            "altitude": null
+        },
+        {
+            "lat": 48.631249999999994,
+            "lon": -3.3770833333333408,
+            "darkness": 0.9813652324861939,
+            "bortle": 2,
+            "near": "Pluzunet",
+            "id": "48.6312_-3.3771",
+            "altitude": null
+        },
+        {
+            "lat": 48.36458333333333,
+            "lon": -3.5562500000000075,
+            "darkness": 0.9734738404644888,
+            "bortle": 2,
+            "near": "Carnoët",
+            "id": "48.3646_-3.5563",
+            "altitude": null
+        },
+        {
+            "lat": 48.28541666666666,
+            "lon": -3.1479166666666742,
+            "darkness": 0.964027316859337,
+            "bortle": 2,
+            "near": "Saint-Nicolas-du-Pélem",
+            "id": "48.2854_-3.1479",
+            "altitude": null
+        },
+        {
+            "lat": 48.40624999999999,
+            "lon": -3.0562500000000075,
+            "darkness": 0.9457984014993905,
+            "bortle": 2,
+            "near": "Plésidy",
+            "id": "48.4062_-3.0563",
+            "altitude": null
+        },
+        {
+            "lat": 48.17708333333333,
+            "lon": -3.2812500000000075,
+            "darkness": 0.9431885967140933,
+            "bortle": 2,
+            "near": "Plélauff",
+            "id": "48.1771_-3.2813",
+            "altitude": null
+        },
+        {
+            "lat": 48.33125,
+            "lon": -3.7854166666666744,
+            "darkness": 0.9420367181169116,
+            "bortle": 2,
+            "near": "Plouyé",
+            "id": "48.3312_-3.7854",
+            "altitude": null
+        },
+        {
+            "lat": 48.135416666666664,
+            "lon": -3.739583333333341,
+            "darkness": 0.9288005594304687,
+            "bortle": 2,
+            "near": "Roudouallec",
+            "id": "48.1354_-3.7396",
+            "altitude": null
+        },
+        {
+            "lat": 48.08958333333333,
+            "lon": -3.4687500000000075,
+            "darkness": 0.9189515080500144,
+            "bortle": 2,
+            "near": "Langonnet",
+            "id": "48.0896_-3.4688",
+            "altitude": null
+        },
+        {
+            "lat": 48.043749999999996,
+            "lon": -3.2104166666666742,
+            "darkness": 0.9105179120060276,
+            "bortle": 2,
+            "near": "Guémené-sur-Scorff",
+            "id": "48.0437_-3.2104",
+            "altitude": null
+        },
+        {
+            "lat": 48.45208333333333,
+            "lon": -3.877083333333341,
+            "darkness": 0.9021719149449363,
+            "bortle": 2,
+            "near": "Plounéour-Ménez",
+            "id": "48.4521_-3.8771",
+            "altitude": null
+        },
+        {
+            "lat": 48.15208333333333,
+            "lon": -3.0562500000000075,
+            "darkness": 0.8888134655552968,
+            "bortle": 2,
+            "near": "Cléguérec",
+            "id": "48.1521_-3.0563",
+            "altitude": null
+        },
+        {
+            "lat": 48.21874999999999,
+            "lon": -3.914583333333341,
+            "darkness": 0.8846746879471319,
+            "bortle": 2,
+            "near": "Lennon",
+            "id": "48.2187_-3.9146",
+            "altitude": null
+        },
+        {
+            "lat": 48.22291666666666,
+            "lon": -3.510416666666674,
+            "darkness": 0.859005198042943,
+            "bortle": 2,
+            "near": "Plévin",
+            "id": "48.2229_-3.5104",
+            "altitude": null
+        },
+        {
+            "lat": 48.27291666666666,
+            "lon": -3.5562500000000075,
+            "darkness": 0.8474104563717494,
+            "bortle": 3,
+            "near": "Carhaix-Plouguer",
+            "id": "48.2729_-3.5563",
+            "altitude": null
+        },
+        {
+            "lat": 48.135416666666664,
+            "lon": -3.010416666666674,
+            "darkness": 0.8427248640073187,
+            "bortle": 3,
+            "near": "Neulliac",
+            "id": "48.1354_-3.0104",
+            "altitude": null
+        },
+        {
+            "lat": 48.49791666666666,
+            "lon": -3.0979166666666744,
+            "darkness": 0.838368499226996,
+            "bortle": 3,
+            "near": "Lanrodec",
+            "id": "48.4979_-3.0979",
+            "altitude": null
+        },
+        {
+            "lat": 48.18124999999999,
+            "lon": -3.989583333333341,
+            "darkness": 0.8367262193635593,
+            "bortle": 3,
+            "near": "Gouézec",
+            "id": "48.1812_-3.9896",
+            "altitude": null
+        },
+        {
+            "lat": 48.49791666666666,
+            "lon": -3.9687500000000075,
+            "darkness": 0.8301794137794969,
+            "bortle": 3,
+            "near": "Guimiliau",
+            "id": "48.4979_-3.9688",
+            "altitude": null
+        },
+        {
+            "lat": 48.59374999999999,
+            "lon": -3.7854166666666744,
+            "darkness": 0.8239503867425886,
+            "bortle": 3,
+            "near": "Garlan",
+            "id": "48.5937_-3.7854",
+            "altitude": null
+        }
+    ]
+}

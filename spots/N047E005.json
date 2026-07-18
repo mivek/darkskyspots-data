@@ -1,0 +1,377 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N047E005",
+    "spots": [
+        {
+            "lat": 47.90208333333333,
+            "lon": 5.010416666666659,
+            "darkness": 0.9049958077412378,
+            "bortle": 2,
+            "near": "Arc-en-Barrois",
+            "id": "47.9021_5.0104",
+            "altitude": null
+        },
+        {
+            "lat": 47.72291666666666,
+            "lon": 5.656249999999993,
+            "darkness": 0.8819708132555911,
+            "bortle": 2,
+            "near": "Fayl-Billot",
+            "id": "47.7229_5.6562",
+            "altitude": null
+        },
+        {
+            "lat": 47.95208333333333,
+            "lon": 5.610416666666659,
+            "darkness": 0.8793927367947865,
+            "bortle": 2,
+            "near": "Saulxures",
+            "id": "47.9521_5.6104",
+            "altitude": null
+        },
+        {
+            "lat": 47.72291666666666,
+            "lon": 5.010416666666659,
+            "darkness": 0.8697678528171318,
+            "bortle": 2,
+            "near": "Selongey",
+            "id": "47.7229_5.0104",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 5.518749999999992,
+            "darkness": 0.8472132809598802,
+            "bortle": 3,
+            "near": "Champlitte",
+            "id": "47.6312_5.5187",
+            "altitude": null
+        },
+        {
+            "lat": 47.97291666666666,
+            "lon": 5.564583333333326,
+            "darkness": 0.8456848976561531,
+            "bortle": 3,
+            "near": "Avrecourt",
+            "id": "47.9729_5.5646",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": 5.102083333333326,
+            "darkness": 0.8375590400209405,
+            "bortle": 3,
+            "near": "Selongey",
+            "id": "47.6771_5.1021",
+            "altitude": null
+        },
+        {
+            "lat": 47.99374999999999,
+            "lon": 5.0562499999999915,
+            "darkness": 0.8365005565186854,
+            "bortle": 3,
+            "near": "Arc-en-Barrois",
+            "id": "47.9937_5.0562",
+            "altitude": null
+        },
+        {
+            "lat": 47.860416666666666,
+            "lon": 5.147916666666658,
+            "darkness": 0.8200256404775701,
+            "bortle": 3,
+            "near": "Humes-Jorquenay",
+            "id": "47.8604_5.1479",
+            "altitude": null
+        },
+        {
+            "lat": 47.99791666666666,
+            "lon": 5.335416666666658,
+            "darkness": 0.8168102147243648,
+            "bortle": 3,
+            "near": "Nogent-le-Bas",
+            "id": "47.9979_5.3354",
+            "altitude": null
+        },
+        {
+            "lat": 47.71874999999999,
+            "lon": 5.335416666666658,
+            "darkness": 0.811641006490502,
+            "bortle": 3,
+            "near": "Villegusien-le-Lac",
+            "id": "47.7187_5.3354",
+            "altitude": null
+        },
+        {
+            "lat": 47.81458333333333,
+            "lon": 5.518749999999992,
+            "darkness": 0.7947470994904894,
+            "bortle": 3,
+            "near": "Haute-Amance",
+            "id": "47.8146_5.5187",
+            "altitude": null
+        },
+        {
+            "lat": 47.58541666666666,
+            "lon": 5.297916666666659,
+            "darkness": 0.785281996128435,
+            "bortle": 3,
+            "near": "Vaux-sous-Aubigny",
+            "id": "47.5854_5.2979",
+            "altitude": null
+        },
+        {
+            "lat": 47.49374999999999,
+            "lon": 5.514583333333325,
+            "darkness": 0.7712484077929374,
+            "bortle": 3,
+            "near": "Nantilly",
+            "id": "47.4937_5.5146",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": 5.289583333333326,
+            "darkness": 0.7400144356487848,
+            "bortle": 4,
+            "near": "Fontaine-Française",
+            "id": "47.5396_5.2896",
+            "altitude": null
+        },
+        {
+            "lat": 47.447916666666664,
+            "lon": 5.656249999999993,
+            "darkness": 0.7320231905018681,
+            "bortle": 4,
+            "near": "Rigny",
+            "id": "47.4479_5.6562",
+            "altitude": null
+        },
+        {
+            "lat": 47.90624999999999,
+            "lon": 5.285416666666659,
+            "darkness": 0.7243066168602138,
+            "bortle": 4,
+            "near": "Humes-Jorquenay",
+            "id": "47.9062_5.2854",
+            "altitude": null
+        },
+        {
+            "lat": 47.31041666666666,
+            "lon": 5.564583333333326,
+            "darkness": 0.7179365745018123,
+            "bortle": 4,
+            "near": "Pesmes",
+            "id": "47.3104_5.5646",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": 5.3812499999999925,
+            "darkness": 0.685460085435929,
+            "bortle": 4,
+            "near": "Mirebeau-sur-Bèze",
+            "id": "47.4021_5.3812",
+            "altitude": null
+        },
+        {
+            "lat": 47.12291666666666,
+            "lon": 5.702083333333325,
+            "darkness": 0.6836590881881666,
+            "bortle": 4,
+            "near": "Orchamps",
+            "id": "47.1229_5.7021",
+            "altitude": null
+        },
+        {
+            "lat": 47.49374999999999,
+            "lon": 5.047916666666659,
+            "darkness": 0.6239285115495926,
+            "bortle": 4,
+            "near": "Is-sur-Tille",
+            "id": "47.4937_5.0479",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": 5.106249999999992,
+            "darkness": 0.6183719884326478,
+            "bortle": 4,
+            "near": "Pouilly-sur-Saône",
+            "id": "47.0312_5.1062",
+            "altitude": null
+        },
+        {
+            "lat": 47.21874999999999,
+            "lon": 5.389583333333325,
+            "darkness": 0.6166552127694426,
+            "bortle": 4,
+            "near": "Athée",
+            "id": "47.2187_5.3896",
+            "altitude": null
+        },
+        {
+            "lat": 47.08125,
+            "lon": 5.331249999999992,
+            "darkness": 0.5527376909152479,
+            "bortle": 4,
+            "near": "Abergement-la-Ronce",
+            "id": "47.0812_5.3312",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": 5.1520833333333265,
+            "darkness": 0.5167594254873362,
+            "bortle": 4,
+            "near": "Aiserey",
+            "id": "47.1687_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 47.07708333333333,
+            "lon": 5.422916666666659,
+            "darkness": 0.4913432712955891,
+            "bortle": 5,
+            "near": "Damparis",
+            "id": "47.0771_5.4229",
+            "altitude": null
+        },
+        {
+            "lat": 47.31041666666666,
+            "lon": 5.2437499999999915,
+            "darkness": 0.4859746868395146,
+            "bortle": 5,
+            "near": "Binges",
+            "id": "47.3104_5.2437",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": 5.06041666666666,
+            "darkness": 0.48096502931500884,
+            "bortle": 5,
+            "near": "Corcelles-lès-Cîteaux",
+            "id": "47.1687_5.0604",
+            "altitude": null
+        },
+        {
+            "lat": 47.30624999999999,
+            "lon": 5.1520833333333265,
+            "darkness": 0.33263064687648247,
+            "bortle": 6,
+            "near": "Chevigny-Saint-Sauveur",
+            "id": "47.3062_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 47.21874999999999,
+            "lon": 5.702083333333325,
+            "darkness": 0.6789640545253341,
+            "bortle": 4,
+            "near": "Évans",
+            "id": "47.2187_5.7021",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": 5.706249999999992,
+            "darkness": 0.6763375559501634,
+            "bortle": 4,
+            "near": "Dampierre",
+            "id": "47.1687_5.7062",
+            "altitude": null
+        },
+        {
+            "lat": 47.193749999999994,
+            "lon": 5.697916666666659,
+            "darkness": 0.6744899379014203,
+            "bortle": 4,
+            "near": "Dampierre",
+            "id": "47.1937_5.6979",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": 5.702083333333325,
+            "darkness": 0.7117261672163242,
+            "bortle": 4,
+            "near": "Arc-et-Senans",
+            "id": "47.0312_5.7021",
+            "altitude": null
+        },
+        {
+            "lat": 47.07708333333333,
+            "lon": 5.702083333333325,
+            "darkness": 0.6994436375361592,
+            "bortle": 4,
+            "near": "Arc-et-Senans",
+            "id": "47.0771_5.7021",
+            "altitude": null
+        },
+        {
+            "lat": 47.31041666666666,
+            "lon": 5.6937499999999925,
+            "darkness": 0.7078858525231245,
+            "bortle": 4,
+            "near": "Valay",
+            "id": "47.3104_5.6937",
+            "altitude": null
+        },
+        {
+            "lat": 47.26458333333333,
+            "lon": 5.697916666666659,
+            "darkness": 0.6838951070660946,
+            "bortle": 4,
+            "near": "Marnay",
+            "id": "47.2646_5.6979",
+            "altitude": null
+        },
+        {
+            "lat": 47.90624999999999,
+            "lon": 5.610416666666659,
+            "darkness": 0.8755426405297817,
+            "bortle": 2,
+            "near": "Chézeaux",
+            "id": "47.9062_5.6104",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": 5.6520833333333265,
+            "darkness": 0.8744202339715166,
+            "bortle": 2,
+            "near": "Champlitte-la-Ville",
+            "id": "47.6771_5.6521",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": 5.660416666666659,
+            "darkness": 0.8737192449626457,
+            "bortle": 2,
+            "near": "Champlitte-la-Ville",
+            "id": "47.6771_5.6604",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 5.664583333333326,
+            "darkness": 0.8594657160454192,
+            "bortle": 2,
+            "near": "Dampierre-sur-Salon",
+            "id": "47.6312_5.6646",
+            "altitude": null
+        },
+        {
+            "lat": 47.58541666666666,
+            "lon": 5.668749999999992,
+            "darkness": 0.8360034968406325,
+            "bortle": 3,
+            "near": "Dampierre-sur-Salon",
+            "id": "47.5854_5.6687",
+            "altitude": null
+        }
+    ]
+}

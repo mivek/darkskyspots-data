@@ -1,0 +1,350 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N049W003",
+    "spots": [
+        {
+            "lat": 49.96458333333333,
+            "lon": -2.364583333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.9646_-2.3646",
+            "altitude": null
+        },
+        {
+            "lat": 49.918749999999996,
+            "lon": -2.777083333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.9187_-2.7771",
+            "altitude": null
+        },
+        {
+            "lat": 49.918749999999996,
+            "lon": -2.1354166666666745,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "St Anne",
+            "id": "49.9187_-2.1354",
+            "altitude": null
+        },
+        {
+            "lat": 49.87291666666666,
+            "lon": -2.547916666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.8729_-2.5479",
+            "altitude": null
+        },
+        {
+            "lat": 49.82708333333333,
+            "lon": -2.3187500000000076,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "St Anne",
+            "id": "49.8271_-2.3188",
+            "altitude": null
+        },
+        {
+            "lat": 49.78124999999999,
+            "lon": -2.9604166666666742,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.7812_-2.9604",
+            "altitude": null
+        },
+        {
+            "lat": 49.78124999999999,
+            "lon": -2.7312500000000077,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.7812_-2.7313",
+            "altitude": null
+        },
+        {
+            "lat": 49.735416666666666,
+            "lon": -2.5020833333333408,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "St Anne",
+            "id": "49.7354_-2.5021",
+            "altitude": null
+        },
+        {
+            "lat": 49.68958333333333,
+            "lon": -2.2729166666666742,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "St Anne",
+            "id": "49.6896_-2.2729",
+            "altitude": null
+        },
+        {
+            "lat": 49.64375,
+            "lon": -2.914583333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.6437_-2.9146",
+            "altitude": null
+        },
+        {
+            "lat": 49.64375,
+            "lon": -2.6854166666666743,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Castel",
+            "id": "49.6437_-2.6854",
+            "altitude": null
+        },
+        {
+            "lat": 49.59791666666666,
+            "lon": -2.456250000000008,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Vale Parish",
+            "id": "49.5979_-2.4563",
+            "altitude": null
+        },
+        {
+            "lat": 49.506249999999994,
+            "lon": -2.8687500000000075,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Saint Pierre du Bois Parish",
+            "id": "49.5062_-2.8688",
+            "altitude": null
+        },
+        {
+            "lat": 49.36874999999999,
+            "lon": -2.822916666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Torteval",
+            "id": "49.3687_-2.8229",
+            "altitude": null
+        },
+        {
+            "lat": 49.36874999999999,
+            "lon": -2.547916666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "St Martin",
+            "id": "49.3687_-2.5479",
+            "altitude": null
+        },
+        {
+            "lat": 49.231249999999996,
+            "lon": -2.777083333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Torteval",
+            "id": "49.2312_-2.7771",
+            "altitude": null
+        },
+        {
+            "lat": 49.231249999999996,
+            "lon": -2.547916666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Forest Parish",
+            "id": "49.2312_-2.5479",
+            "altitude": null
+        },
+        {
+            "lat": 49.13958333333333,
+            "lon": -2.9604166666666742,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.1396_-2.9604",
+            "altitude": null
+        },
+        {
+            "lat": 49.09374999999999,
+            "lon": -2.7312500000000077,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.0937_-2.7313",
+            "altitude": null
+        },
+        {
+            "lat": 49.09374999999999,
+            "lon": -2.5020833333333408,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.0937_-2.5021",
+            "altitude": null
+        },
+        {
+            "lat": 49.00208333333333,
+            "lon": -2.914583333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Ploubazlanec",
+            "id": "49.0021_-2.9146",
+            "altitude": null
+        },
+        {
+            "lat": 49.00208333333333,
+            "lon": -2.3187500000000076,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "49.0021_-2.3188",
+            "altitude": null
+        },
+        {
+            "lat": 49.352083333333326,
+            "lon": -2.4604166666666742,
+            "darkness": 0.997820046291163,
+            "bortle": 2,
+            "near": "St Martin",
+            "id": "49.3521_-2.4604",
+            "altitude": null
+        },
+        {
+            "lat": 49.46458333333333,
+            "lon": -2.277083333333341,
+            "darkness": 0.9974134901614352,
+            "bortle": 2,
+            "near": "Sark",
+            "id": "49.4646_-2.2771",
+            "altitude": null
+        },
+        {
+            "lat": 49.87708333333333,
+            "lon": -2.0020833333333408,
+            "darkness": 0.9943203691050266,
+            "bortle": 2,
+            "near": "Omonville-la-Rogue",
+            "id": "49.8771_-2.0021",
+            "altitude": null
+        },
+        {
+            "lat": 49.693749999999994,
+            "lon": -2.1854166666666743,
+            "darkness": 0.992848232787098,
+            "bortle": 2,
+            "near": "St Anne",
+            "id": "49.6937_-2.1854",
+            "altitude": null
+        },
+        {
+            "lat": 49.18541666666666,
+            "lon": -2.414583333333341,
+            "darkness": 0.9872128961715168,
+            "bortle": 2,
+            "near": "St Lawrence",
+            "id": "49.1854_-2.4146",
+            "altitude": null
+        },
+        {
+            "lat": 49.047916666666666,
+            "lon": -2.3229166666666745,
+            "darkness": 0.982502719150326,
+            "bortle": 2,
+            "near": "Saint Helier",
+            "id": "49.0479_-2.3229",
+            "altitude": null
+        },
+        {
+            "lat": 49.46458333333333,
+            "lon": -2.643750000000008,
+            "darkness": 0.9321789366532613,
+            "bortle": 2,
+            "near": "Saint Saviour",
+            "id": "49.4646_-2.6438",
+            "altitude": null
+        },
+        {
+            "lat": 49.32708333333333,
+            "lon": -2.2312500000000077,
+            "darkness": 0.9185598984331423,
+            "bortle": 2,
+            "near": "Saint John",
+            "id": "49.3271_-2.2313",
+            "altitude": null
+        },
+        {
+            "lat": 49.55624999999999,
+            "lon": -2.0937500000000075,
+            "darkness": 0.8863553577579637,
+            "bortle": 2,
+            "near": "Flamanville",
+            "id": "49.5562_-2.0938",
+            "altitude": null
+        },
+        {
+            "lat": 49.37291666666666,
+            "lon": -2.027083333333341,
+            "darkness": 0.8824332825441259,
+            "bortle": 2,
+            "near": "Trinity",
+            "id": "49.3729_-2.0271",
+            "altitude": null
+        },
+        {
+            "lat": 49.047916666666666,
+            "lon": -2.089583333333341,
+            "darkness": 0.8795549146200894,
+            "bortle": 2,
+            "near": "Le Hocq",
+            "id": "49.0479_-2.0896",
+            "altitude": null
+        },
+        {
+            "lat": 49.46041666666666,
+            "lon": -2.552083333333341,
+            "darkness": 0.8481311819825342,
+            "bortle": 3,
+            "near": "Saint Peter Port",
+            "id": "49.4604_-2.5521",
+            "altitude": null
+        },
+        {
+            "lat": 49.443749999999994,
+            "lon": -2.0020833333333408,
+            "darkness": 0.8467493526828005,
+            "bortle": 3,
+            "near": "Surtainville",
+            "id": "49.4437_-2.0021",
+            "altitude": null
+        },
+        {
+            "lat": 49.693749999999994,
+            "lon": -2.0020833333333408,
+            "darkness": 0.8420393155080493,
+            "bortle": 3,
+            "near": "Omonville-la-Rogue",
+            "id": "49.6937_-2.0021",
+            "altitude": null
+        },
+        {
+            "lat": 49.09374999999999,
+            "lon": -2.2312500000000077,
+            "darkness": 0.8408453764715607,
+            "bortle": 3,
+            "near": "Saint Helier",
+            "id": "49.0937_-2.2313",
+            "altitude": null
+        },
+        {
+            "lat": 49.28124999999999,
+            "lon": -2.2312500000000077,
+            "darkness": 0.8259039524170366,
+            "bortle": 3,
+            "near": "Saint John",
+            "id": "49.2812_-2.2313",
+            "altitude": null
+        }
+    ]
+}

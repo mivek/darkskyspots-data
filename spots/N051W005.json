@@ -1,0 +1,89 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N051W005",
+    "spots": [
+        {
+            "lat": 51.16041666666666,
+            "lon": -4.764583333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "51.1604_-4.7646",
+            "altitude": null
+        },
+        {
+            "lat": 51.18958333333333,
+            "lon": -4.535416666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Hartland",
+            "id": "51.1896_-4.5354",
+            "altitude": null
+        },
+        {
+            "lat": 51.01875,
+            "lon": -4.847916666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "51.0187_-4.8479",
+            "altitude": null
+        },
+        {
+            "lat": 51.01875,
+            "lon": -4.610416666666675,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Hartland",
+            "id": "51.0187_-4.6104",
+            "altitude": null
+        },
+        {
+            "lat": 51.06458333333333,
+            "lon": -4.477083333333341,
+            "darkness": 0.996694723798381,
+            "bortle": 2,
+            "near": "Hartland",
+            "id": "51.0646_-4.4771",
+            "altitude": null
+        },
+        {
+            "lat": 51.20208333333333,
+            "lon": -4.4312500000000075,
+            "darkness": 0.9647304906447836,
+            "bortle": 2,
+            "near": "Woolacombe",
+            "id": "51.2021_-4.4313",
+            "altitude": null
+        },
+        {
+            "lat": 51.01875,
+            "lon": -4.293750000000007,
+            "darkness": 0.8364355300633057,
+            "bortle": 3,
+            "near": "Northam",
+            "id": "51.0187_-4.2938",
+            "altitude": null
+        },
+        {
+            "lat": 51.21874999999999,
+            "lon": -4.202083333333341,
+            "darkness": 0.8268663076187941,
+            "bortle": 3,
+            "near": "Woolacombe",
+            "id": "51.2187_-4.2021",
+            "altitude": null
+        },
+        {
+            "lat": 51.164583333333326,
+            "lon": -4.731250000000007,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "51.1646_-4.7313",
+            "altitude": null
+        }
+    ]
+}

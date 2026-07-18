@@ -1,0 +1,71 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N048W005",
+    "spots": [
+        {
+            "lat": 48.95625,
+            "lon": -4.210416666666674,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "",
+            "id": "48.9562_-4.2104",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": -4.014583333333341,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Roscoff",
+            "id": "48.9104_-4.0146",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": -4.172916666666675,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Santec",
+            "id": "48.8187_-4.1729",
+            "altitude": null
+        },
+        {
+            "lat": 48.731249999999996,
+            "lon": -4.002083333333341,
+            "darkness": 0.9793851028520617,
+            "bortle": 2,
+            "near": "Roscoff",
+            "id": "48.7312_-4.0021",
+            "altitude": null
+        },
+        {
+            "lat": 48.59374999999999,
+            "lon": -4.060416666666674,
+            "darkness": 0.8658080782219907,
+            "bortle": 2,
+            "near": "Plouvorn",
+            "id": "48.5937_-4.0604",
+            "altitude": null
+        },
+        {
+            "lat": 48.34791666666666,
+            "lon": -4.014583333333341,
+            "darkness": 0.8594844477323611,
+            "bortle": 2,
+            "near": "Brasparts",
+            "id": "48.3479_-4.0146",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": -4.039583333333341,
+            "darkness": 0.8468532878243891,
+            "bortle": 3,
+            "near": "Sizun",
+            "id": "48.3604_-4.0396",
+            "altitude": null
+        }
+    ]
+}

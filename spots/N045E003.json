@@ -1,0 +1,377 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N045E003",
+    "spots": [
+        {
+            "lat": 45.15208333333333,
+            "lon": 3.1812499999999915,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Massiac",
+            "id": "45.1521_3.1812",
+            "altitude": null
+        },
+        {
+            "lat": 45.06041666666666,
+            "lon": 3.364583333333325,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Langeac",
+            "id": "45.0604_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 45.197916666666664,
+            "lon": 3.1312499999999925,
+            "darkness": 0.9967981758099955,
+            "bortle": 2,
+            "near": "Massiac",
+            "id": "45.1979_3.1312",
+            "altitude": null
+        },
+        {
+            "lat": 45.15208333333333,
+            "lon": 3.314583333333326,
+            "darkness": 0.9922638433711644,
+            "bortle": 2,
+            "near": "Cerzat",
+            "id": "45.1521_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 45.039583333333326,
+            "lon": 3.1812499999999915,
+            "darkness": 0.9902121357156957,
+            "bortle": 2,
+            "near": "Saint-Flour",
+            "id": "45.0396_3.1812",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 3.4979166666666597,
+            "darkness": 0.962511356495066,
+            "bortle": 2,
+            "near": "Langeac",
+            "id": "45.1062_3.4979",
+            "altitude": null
+        },
+        {
+            "lat": 45.24374999999999,
+            "lon": 3.543749999999992,
+            "darkness": 0.9113133294663374,
+            "bortle": 2,
+            "near": "Paulhaguet",
+            "id": "45.2437_3.5437",
+            "altitude": null
+        },
+        {
+            "lat": 45.33541666666666,
+            "lon": 3.2229166666666593,
+            "darkness": 0.8986481227275556,
+            "bortle": 2,
+            "near": "Blesle",
+            "id": "45.3354_3.2229",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 3.6812499999999915,
+            "darkness": 0.8900975925896399,
+            "bortle": 2,
+            "near": "Bains",
+            "id": "45.0146_3.6812",
+            "altitude": null
+        },
+        {
+            "lat": 45.381249999999994,
+            "lon": 3.635416666666659,
+            "darkness": 0.8646678235694439,
+            "bortle": 2,
+            "near": "Arlanc",
+            "id": "45.3812_3.6354",
+            "altitude": null
+        },
+        {
+            "lat": 45.197916666666664,
+            "lon": 3.7270833333333258,
+            "darkness": 0.8580974673053983,
+            "bortle": 2,
+            "near": "Allègre",
+            "id": "45.1979_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 45.33541666666666,
+            "lon": 3.7270833333333258,
+            "darkness": 0.8482558580330646,
+            "bortle": 3,
+            "near": "La Chaise-Dieu",
+            "id": "45.3354_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 45.289583333333326,
+            "lon": 3.314583333333326,
+            "darkness": 0.8456333055950411,
+            "bortle": 3,
+            "near": "Paulhac",
+            "id": "45.2896_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 45.46458333333333,
+            "lon": 3.5895833333333265,
+            "darkness": 0.8422664666453341,
+            "bortle": 3,
+            "near": "Saint-Germain-l'Herm",
+            "id": "45.4646_3.5896",
+            "altitude": null
+        },
+        {
+            "lat": 45.42708333333333,
+            "lon": 3.177083333333325,
+            "darkness": 0.8357404466714842,
+            "bortle": 3,
+            "near": "Ardes",
+            "id": "45.4271_3.1771",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 3.7270833333333258,
+            "darkness": 0.8314679354914118,
+            "bortle": 3,
+            "near": "Bains",
+            "id": "45.0146_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 45.15624999999999,
+            "lon": 3.7729166666666583,
+            "darkness": 0.8296308649519055,
+            "bortle": 3,
+            "near": "Saint-Paulien",
+            "id": "45.1562_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 45.610416666666666,
+            "lon": 3.5479166666666586,
+            "darkness": 0.8074026826886169,
+            "bortle": 3,
+            "near": "Cunlhat",
+            "id": "45.6104_3.5479",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": 3.6395833333333254,
+            "darkness": 0.7996723567805648,
+            "bortle": 3,
+            "near": "Ferrières-sur-Sichon",
+            "id": "45.9812_3.6396",
+            "altitude": null
+        },
+        {
+            "lat": 45.47291666666666,
+            "lon": 3.364583333333325,
+            "darkness": 0.7931677542825026,
+            "bortle": 3,
+            "near": "Lamontgie",
+            "id": "45.4729_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 45.51875,
+            "lon": 3.7729166666666583,
+            "darkness": 0.789519716676138,
+            "bortle": 3,
+            "near": "Ambert",
+            "id": "45.5187_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 45.78541666666666,
+            "lon": 3.6854166666666597,
+            "darkness": 0.7873786627507634,
+            "bortle": 3,
+            "near": "Vollore-Ville",
+            "id": "45.7854_3.6854",
+            "altitude": null
+        },
+        {
+            "lat": 45.65624999999999,
+            "lon": 3.7729166666666583,
+            "darkness": 0.7756996564396516,
+            "bortle": 3,
+            "near": "Job",
+            "id": "45.6562_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 45.885416666666664,
+            "lon": 3.8187499999999925,
+            "darkness": 0.7684891563973264,
+            "bortle": 3,
+            "near": "Saint-Just-en-Chevalet",
+            "id": "45.8854_3.8187",
+            "altitude": null
+        },
+        {
+            "lat": 45.289583333333326,
+            "lon": 3.9104166666666593,
+            "darkness": 0.7613565689772561,
+            "bortle": 3,
+            "near": "Craponne-sur-Arzon",
+            "id": "45.2896_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 45.110416666666666,
+            "lon": 3.864583333333325,
+            "darkness": 0.737338032915316,
+            "bortle": 4,
+            "near": "Lavoûte-sur-Loire",
+            "id": "45.1104_3.8646",
+            "altitude": null
+        },
+        {
+            "lat": 45.381249999999994,
+            "lon": 3.9104166666666593,
+            "darkness": 0.7341720720979104,
+            "bortle": 4,
+            "near": "Usson-en-Forez",
+            "id": "45.3812_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 45.610416666666666,
+            "lon": 3.4104166666666593,
+            "darkness": 0.7325555556842249,
+            "bortle": 4,
+            "near": "Sugères",
+            "id": "45.6104_3.4104",
+            "altitude": null
+        },
+        {
+            "lat": 45.885416666666664,
+            "lon": 3.9104166666666593,
+            "darkness": 0.7322997442079211,
+            "bortle": 4,
+            "near": "Cremeaux",
+            "id": "45.8854_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 45.84374999999999,
+            "lon": 3.593749999999993,
+            "darkness": 0.73203905670421,
+            "bortle": 4,
+            "near": "La Monnerie-le-Montel",
+            "id": "45.8437_3.5937",
+            "altitude": null
+        },
+        {
+            "lat": 45.73958333333333,
+            "lon": 3.9104166666666593,
+            "darkness": 0.7293400204652665,
+            "bortle": 4,
+            "near": "Sail-sous-Couzan",
+            "id": "45.7396_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 45.51875,
+            "lon": 3.9104166666666593,
+            "darkness": 0.7096793250881994,
+            "bortle": 4,
+            "near": "Saint-Anthème",
+            "id": "45.5187_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 45.74791666666666,
+            "lon": 3.456249999999992,
+            "darkness": 0.7019443632874511,
+            "bortle": 4,
+            "near": "Sermentizon",
+            "id": "45.7479_3.4562",
+            "altitude": null
+        },
+        {
+            "lat": 45.51875,
+            "lon": 3.177083333333325,
+            "darkness": 0.6727144218513504,
+            "bortle": 4,
+            "near": "Perrier",
+            "id": "45.5187_3.1771",
+            "altitude": null
+        },
+        {
+            "lat": 45.88958333333333,
+            "lon": 3.4104166666666593,
+            "darkness": 0.6603051418067621,
+            "bortle": 4,
+            "near": "Orléat",
+            "id": "45.8896_3.4104",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": 3.231249999999992,
+            "darkness": 0.6312096250808152,
+            "bortle": 4,
+            "near": "Thuret",
+            "id": "45.9812_3.2312",
+            "altitude": null
+        },
+        {
+            "lat": 45.65624999999999,
+            "lon": 3.2270833333333258,
+            "darkness": 0.5850342708743053,
+            "bortle": 4,
+            "near": "Saint-Maurice",
+            "id": "45.6562_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 45.84374999999999,
+            "lon": 3.2729166666666583,
+            "darkness": 0.4992886991168718,
+            "bortle": 5,
+            "near": "Les Martres-d'Artière",
+            "id": "45.8437_3.2729",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 3.2270833333333258,
+            "darkness": 0.4922158228807392,
+            "bortle": 5,
+            "near": "Mirefleurs",
+            "id": "45.7021_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 45.88958333333333,
+            "lon": 3.0395833333333258,
+            "darkness": 0.4877797572655247,
+            "bortle": 5,
+            "near": "Enval",
+            "id": "45.8896_3.0396",
+            "altitude": null
+        },
+        {
+            "lat": 45.74791666666666,
+            "lon": 3.1812499999999915,
+            "darkness": 0.34304904760310573,
+            "bortle": 6,
+            "near": "Cournon-d'Auvergne",
+            "id": "45.7479_3.1812",
+            "altitude": null
+        }
+    ]
+}

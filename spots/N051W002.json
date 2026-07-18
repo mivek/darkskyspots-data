@@ -1,0 +1,179 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N051W002",
+    "spots": [
+        {
+            "lat": 51.297916666666666,
+            "lon": -1.8187500000000076,
+            "darkness": 0.5093927221219169,
+            "bortle": 4,
+            "near": "Rushall",
+            "id": "51.2979_-1.8188",
+            "altitude": null
+        },
+        {
+            "lat": 51.18125,
+            "lon": -1.864583333333341,
+            "darkness": 0.4983570313279685,
+            "bortle": 5,
+            "near": "Winterbourne Stoke",
+            "id": "51.1812_-1.8646",
+            "altitude": null
+        },
+        {
+            "lat": 51.33958333333333,
+            "lon": -1.9062500000000075,
+            "darkness": 0.4980089588148817,
+            "bortle": 5,
+            "near": "Urchfont",
+            "id": "51.3396_-1.9063",
+            "altitude": null
+        },
+        {
+            "lat": 51.37291666666666,
+            "lon": -1.6812500000000075,
+            "darkness": 0.4857839574316144,
+            "bortle": 5,
+            "near": "Burbage",
+            "id": "51.3729_-1.6813",
+            "altitude": null
+        },
+        {
+            "lat": 51.110416666666666,
+            "lon": -1.635416666666674,
+            "darkness": 0.451458522171408,
+            "bortle": 5,
+            "near": "Middle Winterslow",
+            "id": "51.1104_-1.6354",
+            "altitude": null
+        },
+        {
+            "lat": 51.33958333333333,
+            "lon": -1.4520833333333414,
+            "darkness": 0.44237048305176807,
+            "bortle": 5,
+            "near": "Highclere",
+            "id": "51.3396_-1.4521",
+            "altitude": null
+        },
+        {
+            "lat": 51.477083333333326,
+            "lon": -1.9562500000000078,
+            "darkness": 0.44131260561222596,
+            "bortle": 5,
+            "near": "Lyneham",
+            "id": "51.4771_-1.9563",
+            "altitude": null
+        },
+        {
+            "lat": 51.477083333333326,
+            "lon": -1.497916666666674,
+            "darkness": 0.43315277128324214,
+            "bortle": 5,
+            "near": "East Garston",
+            "id": "51.4771_-1.4979",
+            "altitude": null
+        },
+        {
+            "lat": 51.164583333333326,
+            "lon": -1.3145833333333412,
+            "darkness": 0.41439230462193144,
+            "bortle": 5,
+            "near": "Sutton Scotney",
+            "id": "51.1646_-1.3146",
+            "altitude": null
+        },
+        {
+            "lat": 51.068749999999994,
+            "lon": -1.1312500000000076,
+            "darkness": 0.39803270458034923,
+            "bortle": 5,
+            "near": "New Alresford",
+            "id": "51.0687_-1.1313",
+            "altitude": null
+        },
+        {
+            "lat": 51.293749999999996,
+            "lon": -1.2229166666666744,
+            "darkness": 0.36148271364281537,
+            "bortle": 5,
+            "near": "Kingsclere",
+            "id": "51.2937_-1.2229",
+            "altitude": null
+        },
+        {
+            "lat": 51.506249999999994,
+            "lon": -1.7229166666666744,
+            "darkness": 0.35660788999210236,
+            "bortle": 5,
+            "near": "Chiseldon",
+            "id": "51.5062_-1.7229",
+            "altitude": null
+        },
+        {
+            "lat": 51.20208333333333,
+            "lon": -1.1312500000000076,
+            "darkness": 0.348431502101741,
+            "bortle": 6,
+            "near": "Preston Candover",
+            "id": "51.2021_-1.1313",
+            "altitude": null
+        },
+        {
+            "lat": 51.52291666666666,
+            "lon": -1.2687500000000078,
+            "darkness": 0.347755065238849,
+            "bortle": 6,
+            "near": "Compton",
+            "id": "51.5229_-1.2688",
+            "altitude": null
+        },
+        {
+            "lat": 51.02291666666666,
+            "lon": -1.497916666666674,
+            "darkness": 0.34618497453381025,
+            "bortle": 6,
+            "near": "Michelmersh",
+            "id": "51.0229_-1.4979",
+            "altitude": null
+        },
+        {
+            "lat": 51.506249999999994,
+            "lon": -1.7520833333333412,
+            "darkness": 0.34316328170187826,
+            "bortle": 6,
+            "near": "Chiseldon",
+            "id": "51.5062_-1.7521",
+            "altitude": null
+        },
+        {
+            "lat": 51.385416666666664,
+            "lon": -1.3145833333333412,
+            "darkness": 0.33926981443539717,
+            "bortle": 6,
+            "near": "Greenham",
+            "id": "51.3854_-1.3146",
+            "altitude": null
+        },
+        {
+            "lat": 51.572916666666664,
+            "lon": -1.0395833333333409,
+            "darkness": 0.2780927621915241,
+            "bortle": 6,
+            "near": "Nuffield",
+            "id": "51.5729_-1.0396",
+            "altitude": null
+        },
+        {
+            "lat": 51.385416666666664,
+            "lon": -1.0854166666666742,
+            "darkness": 0.24174103822626514,
+            "bortle": 6,
+            "near": "Silchester",
+            "id": "51.3854_-1.0854",
+            "altitude": null
+        }
+    ]
+}

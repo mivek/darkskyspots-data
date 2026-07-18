@@ -1,0 +1,377 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N044E001",
+    "spots": [
+        {
+            "lat": 44.87708333333333,
+            "lon": 1.5770833333333254,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Pinsac",
+            "id": "44.8771_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 44.87708333333333,
+            "lon": 1.989583333333326,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Sousceyrac",
+            "id": "44.8771_1.9896",
+            "altitude": null
+        },
+        {
+            "lat": 44.78541666666666,
+            "lon": 1.760416666666659,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Gramat",
+            "id": "44.7854_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 44.73958333333333,
+            "lon": 1.1187499999999924,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Daglan",
+            "id": "44.7396_1.1187",
+            "altitude": null
+        },
+        {
+            "lat": 44.73958333333333,
+            "lon": 1.3937499999999927,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Gourdon",
+            "id": "44.7396_1.3937",
+            "altitude": null
+        },
+        {
+            "lat": 44.73958333333333,
+            "lon": 1.9437499999999925,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Lacapelle-Marival",
+            "id": "44.7396_1.9437",
+            "altitude": null
+        },
+        {
+            "lat": 44.693749999999994,
+            "lon": 1.5770833333333254,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Montfaucon",
+            "id": "44.6937_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 44.64791666666666,
+            "lon": 1.760416666666659,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Livernon",
+            "id": "44.6479_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 44.510416666666664,
+            "lon": 1.6687499999999922,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Arcambal",
+            "id": "44.5104_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 44.59791666666666,
+            "lon": 1.9395833333333252,
+            "darkness": 0.9995771713150381,
+            "bortle": 1,
+            "near": "Béduer",
+            "id": "44.5979_1.9396",
+            "altitude": null
+        },
+        {
+            "lat": 44.606249999999996,
+            "lon": 1.260416666666659,
+            "darkness": 0.997544406039329,
+            "bortle": 2,
+            "near": "Cazals",
+            "id": "44.6062_1.2604",
+            "altitude": null
+        },
+        {
+            "lat": 44.73958333333333,
+            "lon": 1.2979166666666586,
+            "darkness": 0.9974422931668421,
+            "bortle": 2,
+            "near": "Saint-Martial-de-Nabirat",
+            "id": "44.7396_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 44.735416666666666,
+            "lon": 1.072916666666659,
+            "darkness": 0.9929562006783565,
+            "bortle": 2,
+            "near": "Belvès",
+            "id": "44.7354_1.0729",
+            "altitude": null
+        },
+        {
+            "lat": 44.87708333333333,
+            "lon": 1.7104166666666591,
+            "darkness": 0.9916915174427692,
+            "bortle": 2,
+            "near": "Alvignac",
+            "id": "44.8771_1.7104",
+            "altitude": null
+        },
+        {
+            "lat": 44.422916666666666,
+            "lon": 1.7729166666666591,
+            "darkness": 0.9900790997999565,
+            "bortle": 2,
+            "near": "Limogne-en-Quercy",
+            "id": "44.4229_1.7729",
+            "altitude": null
+        },
+        {
+            "lat": 44.56041666666666,
+            "lon": 1.531249999999992,
+            "darkness": 0.9856516236966585,
+            "bortle": 2,
+            "near": "Labastide-Murat",
+            "id": "44.5604_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 44.87708333333333,
+            "lon": 1.4937499999999924,
+            "darkness": 0.981579344071412,
+            "bortle": 2,
+            "near": "Lanzac",
+            "id": "44.8771_1.4937",
+            "altitude": null
+        },
+        {
+            "lat": 44.606249999999996,
+            "lon": 1.9854166666666586,
+            "darkness": 0.9783500502926268,
+            "bortle": 2,
+            "near": "Figeac",
+            "id": "44.6062_1.9854",
+            "altitude": null
+        },
+        {
+            "lat": 44.83125,
+            "lon": 1.9437499999999925,
+            "darkness": 0.9631020733194955,
+            "bortle": 2,
+            "near": "Saint-Céré",
+            "id": "44.8312_1.9437",
+            "altitude": null
+        },
+        {
+            "lat": 44.87708333333333,
+            "lon": 1.072916666666659,
+            "darkness": 0.9464203545559995,
+            "bortle": 2,
+            "near": "Saint-Cyprien",
+            "id": "44.8771_1.0729",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 1.9854166666666586,
+            "darkness": 0.9434667913459134,
+            "bortle": 2,
+            "near": "Villeneuve",
+            "id": "44.4687_1.9854",
+            "altitude": null
+        },
+        {
+            "lat": 44.422916666666666,
+            "lon": 1.5770833333333254,
+            "darkness": 0.9414202216371874,
+            "bortle": 2,
+            "near": "Arcambal",
+            "id": "44.4229_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 44.92708333333333,
+            "lon": 1.302083333333326,
+            "darkness": 0.9313646280940172,
+            "bortle": 2,
+            "near": "Eyvigues-et-Eybènes",
+            "id": "44.9271_1.3021",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 1.8062499999999924,
+            "darkness": 0.9254565413378305,
+            "bortle": 2,
+            "near": "Caylus",
+            "id": "44.2854_1.8062",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 1.260416666666659,
+            "darkness": 0.9249943551821068,
+            "bortle": 2,
+            "near": "Albas",
+            "id": "44.4687_1.2604",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 1.947916666666659,
+            "darkness": 0.8797712536189127,
+            "bortle": 2,
+            "near": "Laguépie",
+            "id": "44.1479_1.9479",
+            "altitude": null
+        },
+        {
+            "lat": 44.381249999999994,
+            "lon": 1.072916666666659,
+            "darkness": 0.8732329931000454,
+            "bortle": 2,
+            "near": "Montaigu-de-Quercy",
+            "id": "44.3812_1.0729",
+            "altitude": null
+        },
+        {
+            "lat": 44.33125,
+            "lon": 1.302083333333326,
+            "darkness": 0.8687650444349996,
+            "bortle": 2,
+            "near": "Montcuq",
+            "id": "44.3312_1.3021",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 1.5770833333333254,
+            "darkness": 0.8610622824237358,
+            "bortle": 2,
+            "near": "Belfort-du-Quercy",
+            "id": "44.2854_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 1.8062499999999924,
+            "darkness": 0.8481822624894948,
+            "bortle": 3,
+            "near": "Varen",
+            "id": "44.1479_1.8062",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 1.4395833333333252,
+            "darkness": 0.8473097395482643,
+            "bortle": 3,
+            "near": "Cahors",
+            "id": "44.4687_1.4396",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 1.531249999999992,
+            "darkness": 0.8458686599998642,
+            "bortle": 3,
+            "near": "Belfort-du-Quercy",
+            "id": "44.2854_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 44.51458333333333,
+            "lon": 1.0270833333333256,
+            "darkness": 0.8411393032279609,
+            "bortle": 3,
+            "near": "Soturac",
+            "id": "44.5146_1.0271",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 1.3145833333333252,
+            "darkness": 0.8406872528394687,
+            "bortle": 3,
+            "near": "Castelnau-Montratier",
+            "id": "44.2854_1.3146",
+            "altitude": null
+        },
+        {
+            "lat": 44.05624999999999,
+            "lon": 1.989583333333326,
+            "darkness": 0.8198638316007625,
+            "bortle": 3,
+            "near": "Cordes-sur-Ciel",
+            "id": "44.0562_1.9896",
+            "altitude": null
+        },
+        {
+            "lat": 44.23958333333333,
+            "lon": 1.1187499999999924,
+            "darkness": 0.7921388756367037,
+            "bortle": 3,
+            "near": "Lauzerte",
+            "id": "44.2396_1.1187",
+            "altitude": null
+        },
+        {
+            "lat": 44.010416666666664,
+            "lon": 1.8062499999999924,
+            "darkness": 0.7449863341947507,
+            "bortle": 3,
+            "near": "Castelnau-de-Montmiral",
+            "id": "44.0104_1.8062",
+            "altitude": null
+        },
+        {
+            "lat": 44.010416666666664,
+            "lon": 1.760416666666659,
+            "darkness": 0.739489220804868,
+            "bortle": 4,
+            "near": "Castelnau-de-Montmiral",
+            "id": "44.0104_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 44.11458333333333,
+            "lon": 1.6229166666666588,
+            "darkness": 0.7351048511475792,
+            "bortle": 4,
+            "near": "Montricoux",
+            "id": "44.1146_1.6229",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 1.2520833333333252,
+            "darkness": 0.688810085015081,
+            "bortle": 4,
+            "near": "Lafrançaise",
+            "id": "44.1479_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 44.05624999999999,
+            "lon": 1.2979166666666586,
+            "darkness": 0.4905478561208483,
+            "bortle": 5,
+            "near": "Villemade",
+            "id": "44.0562_1.2979",
+            "altitude": null
+        }
+    ]
+}

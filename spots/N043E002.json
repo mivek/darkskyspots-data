@@ -1,0 +1,431 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N043E002",
+    "spots": [
+        {
+            "lat": 43.918749999999996,
+            "lon": 2.7229166666666593,
+            "darkness": 0.9552989539782412,
+            "bortle": 2,
+            "near": "Montlaur",
+            "id": "43.9187_2.7229",
+            "altitude": null
+        },
+        {
+            "lat": 43.96458333333333,
+            "lon": 2.5395833333333258,
+            "darkness": 0.9500174063108204,
+            "bortle": 2,
+            "near": "Coupiac",
+            "id": "43.9646_2.5396",
+            "altitude": null
+        },
+        {
+            "lat": 43.87291666666666,
+            "lon": 2.9020833333333265,
+            "darkness": 0.9193215540190609,
+            "bortle": 2,
+            "near": "Montlaur",
+            "id": "43.8729_2.9021",
+            "altitude": null
+        },
+        {
+            "lat": 43.78124999999999,
+            "lon": 2.718749999999993,
+            "darkness": 0.9014305343546656,
+            "bortle": 2,
+            "near": "Belmont-sur-Rance",
+            "id": "43.7812_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 43.82708333333333,
+            "lon": 2.4937499999999915,
+            "darkness": 0.8954675926122245,
+            "bortle": 2,
+            "near": "Paulinet",
+            "id": "43.8271_2.4937",
+            "altitude": null
+        },
+        {
+            "lat": 43.735416666666666,
+            "lon": 2.947916666666659,
+            "darkness": 0.8648562228151113,
+            "bortle": 2,
+            "near": "Murat-sur-Vèbre",
+            "id": "43.7354_2.9479",
+            "altitude": null
+        },
+        {
+            "lat": 43.68958333333333,
+            "lon": 2.5395833333333258,
+            "darkness": 0.8471329367481095,
+            "bortle": 3,
+            "near": "Castelnau-de-Brassac",
+            "id": "43.6896_2.5396",
+            "altitude": null
+        },
+        {
+            "lat": 43.68958333333333,
+            "lon": 2.8812499999999925,
+            "darkness": 0.8468992608779038,
+            "bortle": 3,
+            "near": "Murat-sur-Vèbre",
+            "id": "43.6896_2.8812",
+            "altitude": null
+        },
+        {
+            "lat": 43.918749999999996,
+            "lon": 2.356249999999992,
+            "darkness": 0.8298638121040154,
+            "bortle": 3,
+            "near": "Villefranche-d'Albigeois",
+            "id": "43.9187_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 43.78124999999999,
+            "lon": 2.356249999999992,
+            "darkness": 0.8207788821686363,
+            "bortle": 3,
+            "near": "Saint-Pierre-de-Trivisy",
+            "id": "43.7812_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 43.59791666666666,
+            "lon": 2.718749999999993,
+            "darkness": 0.8036191935282782,
+            "bortle": 3,
+            "near": "La Salvetat-sur-Agout",
+            "id": "43.5979_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 43.55208333333333,
+            "lon": 2.5395833333333258,
+            "darkness": 0.7914880519787599,
+            "bortle": 3,
+            "near": "Anglès",
+            "id": "43.5521_2.5396",
+            "altitude": null
+        },
+        {
+            "lat": 43.55208333333333,
+            "lon": 2.9020833333333265,
+            "darkness": 0.7719048221392544,
+            "bortle": 3,
+            "near": "Olargues",
+            "id": "43.5521_2.9021",
+            "altitude": null
+        },
+        {
+            "lat": 43.135416666666664,
+            "lon": 2.031249999999992,
+            "darkness": 0.7646318789161084,
+            "bortle": 3,
+            "near": "Belvèze-du-Razès",
+            "id": "43.1354_2.0312",
+            "altitude": null
+        },
+        {
+            "lat": 43.46041666666666,
+            "lon": 2.718749999999993,
+            "darkness": 0.7517339976915354,
+            "bortle": 3,
+            "near": "Courniou",
+            "id": "43.4604_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 43.64375,
+            "lon": 2.356249999999992,
+            "darkness": 0.7512291171718813,
+            "bortle": 3,
+            "near": "Lacrouzette",
+            "id": "43.6437_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 43.414583333333326,
+            "lon": 2.5395833333333258,
+            "darkness": 0.7454981194773189,
+            "bortle": 3,
+            "near": "Albine",
+            "id": "43.4146_2.5396",
+            "altitude": null
+        },
+        {
+            "lat": 43.46041666666666,
+            "lon": 2.7645833333333254,
+            "darkness": 0.7389995497578609,
+            "bortle": 4,
+            "near": "Saint-Pons-de-Thomières",
+            "id": "43.4604_2.7646",
+            "altitude": null
+        },
+        {
+            "lat": 43.55208333333333,
+            "lon": 2.9937499999999915,
+            "darkness": 0.7364077728470944,
+            "bortle": 4,
+            "near": "Mons",
+            "id": "43.5521_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 43.135416666666664,
+            "lon": 2.122916666666659,
+            "darkness": 0.7334336469744918,
+            "bortle": 4,
+            "near": "Belvèze-du-Razès",
+            "id": "43.1354_2.1229",
+            "altitude": null
+        },
+        {
+            "lat": 43.68958333333333,
+            "lon": 2.218749999999993,
+            "darkness": 0.7319626851924079,
+            "bortle": 4,
+            "near": "Vénès",
+            "id": "43.6896_2.2187",
+            "altitude": null
+        },
+        {
+            "lat": 43.36874999999999,
+            "lon": 2.5395833333333258,
+            "darkness": 0.7255197151635371,
+            "bortle": 4,
+            "near": "Caunes-Minervois",
+            "id": "43.3687_2.5396",
+            "altitude": null
+        },
+        {
+            "lat": 43.40208333333333,
+            "lon": 2.260416666666659,
+            "darkness": 0.7177544581360534,
+            "bortle": 4,
+            "near": "Cuxac-Cabardès",
+            "id": "43.4021_2.2604",
+            "altitude": null
+        },
+        {
+            "lat": 43.59791666666666,
+            "lon": 2.356249999999992,
+            "darkness": 0.7146478334355597,
+            "bortle": 4,
+            "near": "Noailhac",
+            "id": "43.5979_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 43.822916666666664,
+            "lon": 2.127083333333325,
+            "darkness": 0.7034679451550134,
+            "bortle": 4,
+            "near": "Lombers",
+            "id": "43.8229_2.1271",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 2.489583333333325,
+            "darkness": 0.6942873938694472,
+            "bortle": 4,
+            "near": "Montlaur",
+            "id": "43.0437_2.4896",
+            "altitude": null
+        },
+        {
+            "lat": 43.352083333333326,
+            "lon": 2.0812499999999927,
+            "darkness": 0.6889268142343695,
+            "bortle": 4,
+            "near": "Saint-Papoul",
+            "id": "43.3521_2.0812",
+            "altitude": null
+        },
+        {
+            "lat": 43.50208333333333,
+            "lon": 2.127083333333325,
+            "darkness": 0.6810901434867795,
+            "bortle": 4,
+            "near": "Dourgne",
+            "id": "43.5021_2.1271",
+            "altitude": null
+        },
+        {
+            "lat": 43.322916666666664,
+            "lon": 2.718749999999993,
+            "darkness": 0.6505232109241265,
+            "bortle": 4,
+            "near": "Pépieux",
+            "id": "43.3229_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 43.135416666666664,
+            "lon": 2.3520833333333258,
+            "darkness": 0.6405279160474545,
+            "bortle": 4,
+            "near": "Leuc",
+            "id": "43.1354_2.3521",
+            "altitude": null
+        },
+        {
+            "lat": 43.414583333333326,
+            "lon": 2.947916666666659,
+            "darkness": 0.6350339363695043,
+            "bortle": 4,
+            "near": "Saint-Chinian",
+            "id": "43.4146_2.9479",
+            "altitude": null
+        },
+        {
+            "lat": 43.18124999999999,
+            "lon": 2.5395833333333258,
+            "darkness": 0.6216244460301064,
+            "bortle": 4,
+            "near": "Capendu",
+            "id": "43.1812_2.5396",
+            "altitude": null
+        },
+        {
+            "lat": 43.02291666666666,
+            "lon": 2.718749999999993,
+            "darkness": 0.6054062890262963,
+            "bortle": 4,
+            "near": "Saint-Laurent-de-la-Cabrerisse",
+            "id": "43.0229_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 43.27708333333333,
+            "lon": 2.4020833333333265,
+            "darkness": 0.5913495135620876,
+            "bortle": 4,
+            "near": "Conques-sur-Orbiel",
+            "id": "43.2771_2.4021",
+            "altitude": null
+        },
+        {
+            "lat": 43.231249999999996,
+            "lon": 2.4020833333333265,
+            "darkness": 0.4990819088441052,
+            "bortle": 5,
+            "near": "Berriac",
+            "id": "43.2312_2.4021",
+            "altitude": null
+        },
+        {
+            "lat": 43.08958333333333,
+            "lon": 2.856249999999992,
+            "darkness": 0.4959547803143285,
+            "bortle": 5,
+            "near": "Saint-André-de-Roquelongue",
+            "id": "43.0896_2.8562",
+            "altitude": null
+        },
+        {
+            "lat": 43.322916666666664,
+            "lon": 2.9937499999999915,
+            "darkness": 0.48555505520004405,
+            "bortle": 5,
+            "near": "Quarante",
+            "id": "43.3229_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 43.231249999999996,
+            "lon": 2.856249999999992,
+            "darkness": 0.46920340130846283,
+            "bortle": 5,
+            "near": "Canet",
+            "id": "43.2312_2.8562",
+            "altitude": null
+        },
+        {
+            "lat": 43.231249999999996,
+            "lon": 2.947916666666659,
+            "darkness": 0.3380653415927982,
+            "bortle": 6,
+            "near": "Moussan",
+            "id": "43.2312_2.9479",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 2.6729166666666586,
+            "darkness": 0.6310405399063297,
+            "bortle": 4,
+            "near": "Saint-Laurent-de-la-Cabrerisse",
+            "id": "43.0437_2.6729",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 2.7645833333333254,
+            "darkness": 0.585636676235339,
+            "bortle": 4,
+            "near": "Thézan-des-Corbières",
+            "id": "43.0437_2.7646",
+            "altitude": null
+        },
+        {
+            "lat": 43.03124999999999,
+            "lon": 2.856249999999992,
+            "darkness": 0.5230952810932501,
+            "bortle": 4,
+            "near": "Durban-Corbières",
+            "id": "43.0312_2.8562",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 2.9020833333333265,
+            "darkness": 0.490179433260164,
+            "bortle": 5,
+            "near": "Portel-des-Corbières",
+            "id": "43.0437_2.9021",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 2.947916666666659,
+            "darkness": 0.46301717072741466,
+            "bortle": 5,
+            "near": "Portel-des-Corbières",
+            "id": "43.0437_2.9479",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 2.9937499999999915,
+            "darkness": 0.41028019103103996,
+            "bortle": 5,
+            "near": "Sigean",
+            "id": "43.0437_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 43.02291666666666,
+            "lon": 2.393749999999992,
+            "darkness": 0.7088742153680424,
+            "bortle": 4,
+            "near": "Saint-Hilaire",
+            "id": "43.0229_2.3937",
+            "altitude": null
+        },
+        {
+            "lat": 43.010416666666664,
+            "lon": 2.5354166666666593,
+            "darkness": 0.6893585834913485,
+            "bortle": 4,
+            "near": "Lagrasse",
+            "id": "43.0104_2.5354",
+            "altitude": null
+        }
+    ]
+}

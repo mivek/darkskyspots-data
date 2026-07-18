@@ -1,0 +1,80 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N042E001",
+    "spots": [
+        {
+            "lat": 42.90624999999999,
+            "lon": 1.2520833333333252,
+            "darkness": 0.8446090159766386,
+            "bortle": 3,
+            "near": "Oust",
+            "id": "42.9062_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 42.95208333333333,
+            "lon": 1.4354166666666588,
+            "darkness": 0.8186373235496369,
+            "bortle": 3,
+            "near": "La Bastide-de-Sérou",
+            "id": "42.9521_1.4354",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 1.989583333333326,
+            "darkness": 0.8111410143844325,
+            "bortle": 3,
+            "near": "Chalabre",
+            "id": "42.9979_1.9896",
+            "altitude": null
+        },
+        {
+            "lat": 42.95208333333333,
+            "lon": 1.8062499999999924,
+            "darkness": 0.8004904976636789,
+            "bortle": 3,
+            "near": "Lavelanet",
+            "id": "42.9521_1.8062",
+            "altitude": null
+        },
+        {
+            "lat": 42.99791666666666,
+            "lon": 1.9854166666666586,
+            "darkness": 0.8109853857244249,
+            "bortle": 3,
+            "near": "Chalabre",
+            "id": "42.9979_1.9854",
+            "altitude": null
+        },
+        {
+            "lat": 42.95208333333333,
+            "lon": 1.7770833333333256,
+            "darkness": 0.7919022962807334,
+            "bortle": 3,
+            "near": "Villeneuve-d'Olmes",
+            "id": "42.9521_1.7771",
+            "altitude": null
+        },
+        {
+            "lat": 42.95208333333333,
+            "lon": 1.7145833333333256,
+            "darkness": 0.7704746855142931,
+            "bortle": 3,
+            "near": "Saint-Paul-de-Jarrat",
+            "id": "42.9521_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 42.95625,
+            "lon": 1.7145833333333256,
+            "darkness": 0.7701853920518713,
+            "bortle": 3,
+            "near": "Saint-Paul-de-Jarrat",
+            "id": "42.9562_1.7146",
+            "altitude": null
+        }
+    ]
+}

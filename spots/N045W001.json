@@ -1,0 +1,368 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N045W001",
+    "spots": [
+        {
+            "lat": 45.93541666666666,
+            "lon": -0.07708333333334139,
+            "darkness": 0.9993491921494002,
+            "bortle": 1,
+            "near": "Aigre",
+            "id": "45.9354_-0.0771",
+            "altitude": null
+        },
+        {
+            "lat": 45.93541666666666,
+            "lon": -0.16458333333334085,
+            "darkness": 0.9964131531949024,
+            "bortle": 2,
+            "near": "Beauvais-sur-Matha",
+            "id": "45.9354_-0.1646",
+            "altitude": null
+        },
+        {
+            "lat": 45.84374999999999,
+            "lon": -0.3479166666666744,
+            "darkness": 0.9240317512643811,
+            "bortle": 2,
+            "near": "Matha",
+            "id": "45.8437_-0.3479",
+            "altitude": null
+        },
+        {
+            "lat": 45.985416666666666,
+            "lon": -0.7145833333333407,
+            "darkness": 0.9089894314067798,
+            "bortle": 2,
+            "near": "Tonnay-Boutonne",
+            "id": "45.9854_-0.7146",
+            "altitude": null
+        },
+        {
+            "lat": 45.422916666666666,
+            "lon": -0.027083333333340676,
+            "darkness": 0.9028960873164636,
+            "bortle": 2,
+            "near": "Blanzac-Porcheresse",
+            "id": "45.4229_-0.0271",
+            "altitude": null
+        },
+        {
+            "lat": 45.797916666666666,
+            "lon": -0.1395833333333414,
+            "darkness": 0.8996935668842775,
+            "bortle": 2,
+            "near": "Courbillac",
+            "id": "45.7979_-0.1396",
+            "altitude": null
+        },
+        {
+            "lat": 45.90624999999999,
+            "lon": -0.531250000000008,
+            "darkness": 0.8772510870419079,
+            "bortle": 2,
+            "near": "Asnières-la-Giraud",
+            "id": "45.9062_-0.5313",
+            "altitude": null
+        },
+        {
+            "lat": 45.49374999999999,
+            "lon": -0.30208333333334103,
+            "darkness": 0.8724609425949474,
+            "bortle": 2,
+            "near": "Archiac",
+            "id": "45.4937_-0.3021",
+            "altitude": null
+        },
+        {
+            "lat": 45.610416666666666,
+            "lon": -0.16458333333334085,
+            "darkness": 0.8517273925499447,
+            "bortle": 2,
+            "near": "Mainxe",
+            "id": "45.6104_-0.1646",
+            "altitude": null
+        },
+        {
+            "lat": 45.52291666666666,
+            "lon": -0.156250000000008,
+            "darkness": 0.8479113108653882,
+            "bortle": 3,
+            "near": "Lignières-Sonneville",
+            "id": "45.5229_-0.1563",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": -0.39791666666667425,
+            "darkness": 0.8477784214249364,
+            "bortle": 3,
+            "near": "Jarnac-Champagne",
+            "id": "45.5646_-0.3979",
+            "altitude": null
+        },
+        {
+            "lat": 45.84374999999999,
+            "lon": -0.5770833333333414,
+            "darkness": 0.8468358110562061,
+            "bortle": 3,
+            "near": "Le Douhet",
+            "id": "45.8437_-0.5771",
+            "altitude": null
+        },
+        {
+            "lat": 45.70625,
+            "lon": -0.11875000000000746,
+            "darkness": 0.8464180003574353,
+            "bortle": 3,
+            "near": "Foussignac",
+            "id": "45.7062_-0.1188",
+            "altitude": null
+        },
+        {
+            "lat": 45.43124999999999,
+            "lon": -0.3479166666666744,
+            "darkness": 0.846117849562779,
+            "bortle": 3,
+            "near": "Champagnac",
+            "id": "45.4312_-0.3479",
+            "altitude": null
+        },
+        {
+            "lat": 45.55208333333333,
+            "lon": -0.7145833333333407,
+            "darkness": 0.8454087716028096,
+            "bortle": 3,
+            "near": "Gémozac",
+            "id": "45.5521_-0.7146",
+            "altitude": null
+        },
+        {
+            "lat": 45.84374999999999,
+            "lon": -0.8520833333333409,
+            "darkness": 0.8436715731961633,
+            "bortle": 3,
+            "near": "Beurlay",
+            "id": "45.8437_-0.8521",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": -0.11875000000000746,
+            "darkness": 0.8425680071188549,
+            "bortle": 3,
+            "near": "Brossac",
+            "id": "45.2937_-0.1188",
+            "altitude": null
+        },
+        {
+            "lat": 45.75208333333333,
+            "lon": -0.39791666666667425,
+            "darkness": 0.8240735118786748,
+            "bortle": 3,
+            "near": "Saint-Sulpice-de-Cognac",
+            "id": "45.7521_-0.3979",
+            "altitude": null
+        },
+        {
+            "lat": 45.43124999999999,
+            "lon": -0.6270833333333412,
+            "darkness": 0.8133462445884196,
+            "bortle": 3,
+            "near": "Saint-Ciers-du-Taillon",
+            "id": "45.4312_-0.6271",
+            "altitude": null
+        },
+        {
+            "lat": 45.485416666666666,
+            "lon": -0.8979166666666742,
+            "darkness": 0.8116317763767944,
+            "bortle": 3,
+            "near": "Chenac-Saint-Seurin-d'Uzet",
+            "id": "45.4854_-0.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.68124999999999,
+            "lon": -0.7770833333333407,
+            "darkness": 0.8053508044562543,
+            "bortle": 3,
+            "near": "Pisany",
+            "id": "45.6812_-0.7771",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": -0.3479166666666744,
+            "darkness": 0.7647280055571931,
+            "bortle": 3,
+            "near": "Montendre",
+            "id": "45.2937_-0.3479",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": -0.8979166666666742,
+            "darkness": 0.7615947746149373,
+            "bortle": 3,
+            "near": "Tonnay-Charente",
+            "id": "45.9812_-0.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.93541666666666,
+            "lon": -0.8979166666666742,
+            "darkness": 0.7399957797778485,
+            "bortle": 4,
+            "near": "Tonnay-Charente",
+            "id": "45.9354_-0.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.33958333333333,
+            "lon": -0.5562500000000075,
+            "darkness": 0.7383316770909147,
+            "bortle": 4,
+            "near": "Boisredon",
+            "id": "45.3396_-0.5563",
+            "altitude": null
+        },
+        {
+            "lat": 45.68541666666666,
+            "lon": -0.39791666666667425,
+            "darkness": 0.7376864946344184,
+            "bortle": 4,
+            "near": "Merpins",
+            "id": "45.6854_-0.3979",
+            "altitude": null
+        },
+        {
+            "lat": 45.33958333333333,
+            "lon": -0.9937500000000075,
+            "darkness": 0.736885750817951,
+            "bortle": 4,
+            "near": "Gaillan-en-Médoc",
+            "id": "45.3396_-0.9938",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": -0.9437500000000076,
+            "darkness": 0.7355657316725638,
+            "bortle": 4,
+            "near": "Meschers-sur-Gironde",
+            "id": "45.5646_-0.9438",
+            "altitude": null
+        },
+        {
+            "lat": 45.15624999999999,
+            "lon": -0.11875000000000746,
+            "darkness": 0.7316784902426817,
+            "bortle": 4,
+            "near": "Le Fouilloux",
+            "id": "45.1562_-0.1188",
+            "altitude": null
+        },
+        {
+            "lat": 45.24791666666666,
+            "lon": -0.30208333333334103,
+            "darkness": 0.7279272392690526,
+            "bortle": 4,
+            "near": "Chepniers",
+            "id": "45.2479_-0.3021",
+            "altitude": null
+        },
+        {
+            "lat": 45.33958333333333,
+            "lon": -0.7604166666666741,
+            "darkness": 0.7272849457394439,
+            "bortle": 4,
+            "near": "Saint-Seurin-de-Cadourne",
+            "id": "45.3396_-0.7604",
+            "altitude": null
+        },
+        {
+            "lat": 45.75208333333333,
+            "lon": -0.718750000000008,
+            "darkness": 0.7177149637724227,
+            "bortle": 4,
+            "near": "Nieul-lès-Saintes",
+            "id": "45.7521_-0.7188",
+            "altitude": null
+        },
+        {
+            "lat": 45.70625,
+            "lon": -0.9437500000000076,
+            "darkness": 0.7156532071582987,
+            "bortle": 4,
+            "near": "Le Gua",
+            "id": "45.7062_-0.9438",
+            "altitude": null
+        },
+        {
+            "lat": 45.20208333333333,
+            "lon": -0.8562500000000073,
+            "darkness": 0.6630142060699845,
+            "bortle": 4,
+            "near": "Saint-Sauveur",
+            "id": "45.2021_-0.8563",
+            "altitude": null
+        },
+        {
+            "lat": 45.20208333333333,
+            "lon": -0.4854166666666746,
+            "darkness": 0.6237590531248232,
+            "bortle": 4,
+            "near": "Reignac",
+            "id": "45.2021_-0.4854",
+            "altitude": null
+        },
+        {
+            "lat": 45.01875,
+            "lon": -0.9020833333333407,
+            "darkness": 0.61418825628162,
+            "bortle": 4,
+            "near": "Sainte-Hélène",
+            "id": "45.0187_-0.9021",
+            "altitude": null
+        },
+        {
+            "lat": 45.110416666666666,
+            "lon": -0.30208333333334103,
+            "darkness": 0.5890086664766181,
+            "bortle": 4,
+            "near": "Laruscade",
+            "id": "45.1104_-0.3021",
+            "altitude": null
+        },
+        {
+            "lat": 45.15624999999999,
+            "lon": -0.6729166666666746,
+            "darkness": 0.5547438151251861,
+            "bortle": 4,
+            "near": "Saint-Martin-Lacaussade",
+            "id": "45.1562_-0.6729",
+            "altitude": null
+        },
+        {
+            "lat": 45.01875,
+            "lon": -0.30208333333334103,
+            "darkness": 0.48600699161951255,
+            "bortle": 5,
+            "near": "Périssac",
+            "id": "45.0187_-0.3021",
+            "altitude": null
+        },
+        {
+            "lat": 45.06458333333333,
+            "lon": -0.6729166666666746,
+            "darkness": 0.4765623325184609,
+            "bortle": 5,
+            "near": "Soussans",
+            "id": "45.0646_-0.6729",
+            "altitude": null
+        }
+    ]
+}

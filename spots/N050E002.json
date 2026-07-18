@@ -1,0 +1,350 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N050E002",
+    "spots": [
+        {
+            "lat": 50.28541666666666,
+            "lon": 2.122916666666659,
+            "darkness": 0.5984157413327849,
+            "bortle": 4,
+            "near": "Fillièvres",
+            "id": "50.2854_2.1229",
+            "altitude": null
+        },
+        {
+            "lat": 50.15208333333333,
+            "lon": 2.0354166666666593,
+            "darkness": 0.5936009492202796,
+            "bortle": 4,
+            "near": "Saint-Riquier",
+            "id": "50.1521_2.0354",
+            "altitude": null
+        },
+        {
+            "lat": 50.422916666666666,
+            "lon": 2.031249999999992,
+            "darkness": 0.5812025526611102,
+            "bortle": 4,
+            "near": "Fressin",
+            "id": "50.4229_2.0312",
+            "altitude": null
+        },
+        {
+            "lat": 50.15208333333333,
+            "lon": 2.260416666666659,
+            "darkness": 0.5322513337784965,
+            "bortle": 4,
+            "near": "Fienvillers",
+            "id": "50.1521_2.2604",
+            "altitude": null
+        },
+        {
+            "lat": 50.06041666666666,
+            "lon": 2.4937499999999915,
+            "darkness": 0.5067504983927916,
+            "bortle": 4,
+            "near": "Acheux-en-Amiénois",
+            "id": "50.0604_2.4937",
+            "altitude": null
+        },
+        {
+            "lat": 50.28541666666666,
+            "lon": 2.3520833333333258,
+            "darkness": 0.5067109874173699,
+            "bortle": 4,
+            "near": "Frévent",
+            "id": "50.2854_2.3521",
+            "altitude": null
+        },
+        {
+            "lat": 50.51458333333333,
+            "lon": 2.2145833333333265,
+            "darkness": 0.5020810470414907,
+            "bortle": 4,
+            "near": "Lisbourg",
+            "id": "50.5146_2.2146",
+            "altitude": null
+        },
+        {
+            "lat": 50.14791666666666,
+            "lon": 2.4229166666666586,
+            "darkness": 0.4995192798007837,
+            "bortle": 5,
+            "near": "Mondicourt",
+            "id": "50.1479_2.4229",
+            "altitude": null
+        },
+        {
+            "lat": 50.01458333333333,
+            "lon": 2.4937499999999915,
+            "darkness": 0.49779935991143853,
+            "bortle": 5,
+            "near": "Warloy-Baillon",
+            "id": "50.0146_2.4937",
+            "altitude": null
+        },
+        {
+            "lat": 50.01458333333333,
+            "lon": 2.122916666666659,
+            "darkness": 0.49504732616393743,
+            "bortle": 5,
+            "near": "Saint-Ouen",
+            "id": "50.0146_2.1229",
+            "altitude": null
+        },
+        {
+            "lat": 50.03541666666666,
+            "lon": 2.7229166666666593,
+            "darkness": 0.4949840915212015,
+            "bortle": 5,
+            "near": "Albert",
+            "id": "50.0354_2.7229",
+            "altitude": null
+        },
+        {
+            "lat": 50.33125,
+            "lon": 2.3062499999999915,
+            "darkness": 0.49435049820502774,
+            "bortle": 5,
+            "near": "Saint-Pol-sur-Ternoise",
+            "id": "50.3312_2.3062",
+            "altitude": null
+        },
+        {
+            "lat": 50.46874999999999,
+            "lon": 2.260416666666659,
+            "darkness": 0.4877220138024688,
+            "bortle": 5,
+            "near": "Heuchin",
+            "id": "50.4687_2.2604",
+            "altitude": null
+        },
+        {
+            "lat": 50.606249999999996,
+            "lon": 2.168749999999992,
+            "darkness": 0.48753792229188164,
+            "bortle": 5,
+            "near": "Coyecques",
+            "id": "50.6062_2.1687",
+            "altitude": null
+        },
+        {
+            "lat": 50.05625,
+            "lon": 2.9937499999999915,
+            "darkness": 0.47214237736156406,
+            "bortle": 5,
+            "near": "Bertincourt",
+            "id": "50.0562_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 50.789583333333326,
+            "lon": 2.052083333333326,
+            "darkness": 0.4183908847819716,
+            "bortle": 5,
+            "near": "Tournehem-sur-la-Hem",
+            "id": "50.7896_2.0521",
+            "altitude": null
+        },
+        {
+            "lat": 50.193749999999994,
+            "lon": 2.627083333333326,
+            "darkness": 0.40950591696332805,
+            "bortle": 5,
+            "near": "Beaumetz-lès-Loges",
+            "id": "50.1937_2.6271",
+            "altitude": null
+        },
+        {
+            "lat": 50.33125,
+            "lon": 2.5354166666666593,
+            "darkness": 0.36889072699907777,
+            "bortle": 5,
+            "near": "Izel-lès-Hameau",
+            "id": "50.3312_2.5354",
+            "altitude": null
+        },
+        {
+            "lat": 50.83541666666666,
+            "lon": 2.356249999999992,
+            "darkness": 0.35239423757655,
+            "bortle": 5,
+            "near": "Rubrouck",
+            "id": "50.8354_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 50.58125,
+            "lon": 2.3979166666666583,
+            "darkness": 0.3477381579182903,
+            "bortle": 6,
+            "near": "Norrent-Fontes",
+            "id": "50.5812_2.3979",
+            "altitude": null
+        },
+        {
+            "lat": 50.74791666666666,
+            "lon": 2.2145833333333265,
+            "darkness": 0.34556718713753753,
+            "bortle": 6,
+            "near": "Tatinghem",
+            "id": "50.7479_2.2146",
+            "altitude": null
+        },
+        {
+            "lat": 50.793749999999996,
+            "lon": 2.5354166666666593,
+            "darkness": 0.3447976803325066,
+            "bortle": 6,
+            "near": "Terdeghem",
+            "id": "50.7937_2.5354",
+            "altitude": null
+        },
+        {
+            "lat": 50.193749999999994,
+            "lon": 2.8104166666666597,
+            "darkness": 0.3410766472795408,
+            "bortle": 6,
+            "near": "Mercatel",
+            "id": "50.1937_2.8104",
+            "altitude": null
+        },
+        {
+            "lat": 50.37708333333333,
+            "lon": 2.5354166666666593,
+            "darkness": 0.33424275676594684,
+            "bortle": 6,
+            "near": "Savy-Berlette",
+            "id": "50.3771_2.5354",
+            "altitude": null
+        },
+        {
+            "lat": 50.881249999999994,
+            "lon": 2.356249999999992,
+            "darkness": 0.3316650084466106,
+            "bortle": 6,
+            "near": "Bollezeele",
+            "id": "50.8812_2.3562",
+            "altitude": null
+        },
+        {
+            "lat": 50.881249999999994,
+            "lon": 2.0354166666666593,
+            "darkness": 0.3300599415363368,
+            "bortle": 6,
+            "near": "Nortkerque",
+            "id": "50.8812_2.0354",
+            "altitude": null
+        },
+        {
+            "lat": 50.92708333333333,
+            "lon": 2.627083333333326,
+            "darkness": 0.32608797488388286,
+            "bortle": 6,
+            "near": "Roesbrugge-Haringe",
+            "id": "50.9271_2.6271",
+            "altitude": null
+        },
+        {
+            "lat": 50.65624999999999,
+            "lon": 2.581249999999992,
+            "darkness": 0.28056682118504095,
+            "bortle": 6,
+            "near": "Haverskerque",
+            "id": "50.6562_2.5812",
+            "altitude": null
+        },
+        {
+            "lat": 50.793749999999996,
+            "lon": 2.7645833333333254,
+            "darkness": 0.25600792829725527,
+            "bortle": 6,
+            "near": "Westouter",
+            "id": "50.7937_2.7646",
+            "altitude": null
+        },
+        {
+            "lat": 50.93125,
+            "lon": 2.856249999999992,
+            "darkness": 0.24843260161608083,
+            "bortle": 6,
+            "near": "Bikschote",
+            "id": "50.9312_2.8562",
+            "altitude": null
+        },
+        {
+            "lat": 50.51875,
+            "lon": 2.581249999999992,
+            "darkness": 0.19717386696900985,
+            "bortle": 7,
+            "near": "Labeuvrière",
+            "id": "50.5187_2.5812",
+            "altitude": null
+        },
+        {
+            "lat": 50.977083333333326,
+            "lon": 2.9937499999999915,
+            "darkness": 0.19455806511594576,
+            "bortle": 7,
+            "near": "Staden",
+            "id": "50.9771_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 50.70208333333333,
+            "lon": 2.8104166666666597,
+            "darkness": 0.19360743572703765,
+            "bortle": 7,
+            "near": "Nieppe",
+            "id": "50.7021_2.8104",
+            "altitude": null
+        },
+        {
+            "lat": 50.83958333333333,
+            "lon": 2.9020833333333265,
+            "darkness": 0.1922590831127471,
+            "bortle": 7,
+            "near": "Zillebeke",
+            "id": "50.8396_2.9021",
+            "altitude": null
+        },
+        {
+            "lat": 50.33125,
+            "lon": 2.718749999999993,
+            "darkness": 0.18994747056888572,
+            "bortle": 7,
+            "near": "Marœuil",
+            "id": "50.3312_2.7187",
+            "altitude": null
+        },
+        {
+            "lat": 50.33125,
+            "lon": 2.9937499999999915,
+            "darkness": 0.1574345114158595,
+            "bortle": 7,
+            "near": "Vitry-en-Artois",
+            "id": "50.3312_2.9937",
+            "altitude": null
+        },
+        {
+            "lat": 50.56458333333333,
+            "lon": 2.8104166666666597,
+            "darkness": 0.14198075616984074,
+            "bortle": 7,
+            "near": "Illies",
+            "id": "50.5646_2.8104",
+            "altitude": null
+        },
+        {
+            "lat": 50.47291666666666,
+            "lon": 2.9979166666666597,
+            "darkness": 0.07059935383027716,
+            "bortle": 7,
+            "near": "Oignies",
+            "id": "50.4729_2.9979",
+            "altitude": null
+        }
+    ]
+}

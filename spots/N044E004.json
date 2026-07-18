@@ -1,0 +1,413 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N044E004",
+    "spots": [
+        {
+            "lat": 44.668749999999996,
+            "lon": 4.002083333333326,
+            "darkness": 0.8596997476753102,
+            "bortle": 2,
+            "near": "Langogne",
+            "id": "44.6687_4.0021",
+            "altitude": null
+        },
+        {
+            "lat": 44.606249999999996,
+            "lon": 4.047916666666659,
+            "darkness": 0.8465007273635952,
+            "bortle": 3,
+            "near": "Thueyts",
+            "id": "44.6062_4.0479",
+            "altitude": null
+        },
+        {
+            "lat": 44.78541666666666,
+            "lon": 4.002083333333326,
+            "darkness": 0.8453290924651917,
+            "bortle": 3,
+            "near": "Coucouron",
+            "id": "44.7854_4.0021",
+            "altitude": null
+        },
+        {
+            "lat": 44.922916666666666,
+            "lon": 4.093749999999993,
+            "darkness": 0.8150072955948355,
+            "bortle": 3,
+            "near": "Laussonne",
+            "id": "44.9229_4.0937",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 4.093749999999993,
+            "darkness": 0.7939953372754662,
+            "bortle": 3,
+            "near": "Chambonas",
+            "id": "44.4687_4.0937",
+            "altitude": null
+        },
+        {
+            "lat": 44.74374999999999,
+            "lon": 4.18541666666666,
+            "darkness": 0.7896910954086305,
+            "bortle": 3,
+            "near": "Montpezat-sous-Bauzon",
+            "id": "44.7437_4.1854",
+            "altitude": null
+        },
+        {
+            "lat": 44.87708333333333,
+            "lon": 4.2770833333333265,
+            "darkness": 0.7712942245329698,
+            "bortle": 3,
+            "near": "Le Chambon",
+            "id": "44.8771_4.2771",
+            "altitude": null
+        },
+        {
+            "lat": 44.51458333333333,
+            "lon": 4.18541666666666,
+            "darkness": 0.7362891079395901,
+            "bortle": 4,
+            "near": "Joyeuse",
+            "id": "44.5146_4.1854",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 4.002083333333326,
+            "darkness": 0.7313231699638698,
+            "bortle": 4,
+            "near": "Chamborigaud",
+            "id": "44.2854_4.0021",
+            "altitude": null
+        },
+        {
+            "lat": 44.789583333333326,
+            "lon": 4.3687499999999915,
+            "darkness": 0.7260021392838177,
+            "bortle": 4,
+            "near": "Antraigues-sur-Volane",
+            "id": "44.7896_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 44.65208333333333,
+            "lon": 4.231249999999992,
+            "darkness": 0.719761288919134,
+            "bortle": 4,
+            "near": "Jaujac",
+            "id": "44.6521_4.2312",
+            "altitude": null
+        },
+        {
+            "lat": 44.947916666666664,
+            "lon": 4.3687499999999915,
+            "darkness": 0.713780621228558,
+            "bortle": 4,
+            "near": "Saint-Martin-de-Valamas",
+            "id": "44.9479_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 44.37708333333333,
+            "lon": 4.18541666666666,
+            "darkness": 0.7086394141371608,
+            "bortle": 4,
+            "near": "Berrias-et-Casteljau",
+            "id": "44.3771_4.1854",
+            "altitude": null
+        },
+        {
+            "lat": 44.881249999999994,
+            "lon": 4.552083333333325,
+            "darkness": 0.6535004543487353,
+            "bortle": 4,
+            "near": "Saint-Sauveur-de-Montagut",
+            "id": "44.8812_4.5521",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 4.3687499999999915,
+            "darkness": 0.6246487961524616,
+            "bortle": 4,
+            "near": "Ruoms",
+            "id": "44.4687_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 4.3687499999999915,
+            "darkness": 0.6162841847463106,
+            "bortle": 4,
+            "near": "Barjac",
+            "id": "44.2854_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 44.23958333333333,
+            "lon": 4.189583333333326,
+            "darkness": 0.5964655160834156,
+            "bortle": 4,
+            "near": "Les Mages",
+            "id": "44.2396_4.1896",
+            "altitude": null
+        },
+        {
+            "lat": 44.606249999999996,
+            "lon": 4.922916666666659,
+            "darkness": 0.591401029510464,
+            "bortle": 4,
+            "near": "Cléon-d'Andran",
+            "id": "44.6062_4.9229",
+            "altitude": null
+        },
+        {
+            "lat": 44.606249999999996,
+            "lon": 4.552083333333325,
+            "darkness": 0.5903622098697883,
+            "bortle": 4,
+            "near": "Saint-Jean-le-Centenier",
+            "id": "44.6062_4.5521",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 4.3687499999999915,
+            "darkness": 0.5681924673184487,
+            "bortle": 4,
+            "near": "Saint-Laurent-la-Vernède",
+            "id": "44.1479_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 44.422916666666666,
+            "lon": 4.552083333333325,
+            "darkness": 0.5544754986043663,
+            "bortle": 4,
+            "near": "Saint-Remèze",
+            "id": "44.4229_4.5521",
+            "altitude": null
+        },
+        {
+            "lat": 44.05208333333333,
+            "lon": 4.093749999999993,
+            "darkness": 0.5403231513744017,
+            "bortle": 4,
+            "near": "Ribaute-les-Tavernes",
+            "id": "44.0521_4.0937",
+            "altitude": null
+        },
+        {
+            "lat": 44.74374999999999,
+            "lon": 4.643749999999992,
+            "darkness": 0.5328872728901229,
+            "bortle": 4,
+            "near": "Coux",
+            "id": "44.7437_4.6437",
+            "altitude": null
+        },
+        {
+            "lat": 44.922916666666666,
+            "lon": 4.735416666666659,
+            "darkness": 0.510788554493737,
+            "bortle": 4,
+            "near": "Alboussière",
+            "id": "44.9229_4.7354",
+            "altitude": null
+        },
+        {
+            "lat": 44.422916666666666,
+            "lon": 4.877083333333326,
+            "darkness": 0.503375232507917,
+            "bortle": 4,
+            "near": "Grignan",
+            "id": "44.4229_4.8771",
+            "altitude": null
+        },
+        {
+            "lat": 44.010416666666664,
+            "lon": 4.231249999999992,
+            "darkness": 0.499694355957074,
+            "bortle": 5,
+            "near": "Cruviers-Lascours",
+            "id": "44.0104_4.2312",
+            "altitude": null
+        },
+        {
+            "lat": 44.735416666666666,
+            "lon": 4.6812499999999915,
+            "darkness": 0.4990651681274175,
+            "bortle": 5,
+            "near": "Flaviac",
+            "id": "44.7354_4.6812",
+            "altitude": null
+        },
+        {
+            "lat": 44.28541666666666,
+            "lon": 4.552083333333325,
+            "darkness": 0.49823503558709625,
+            "bortle": 5,
+            "near": "Saint-Julien-de-Peyrolas",
+            "id": "44.2854_4.5521",
+            "altitude": null
+        },
+        {
+            "lat": 44.65208333333333,
+            "lon": 4.831249999999992,
+            "darkness": 0.49696241908217187,
+            "bortle": 5,
+            "near": "Marsanne",
+            "id": "44.6521_4.8312",
+            "altitude": null
+        },
+        {
+            "lat": 44.33125,
+            "lon": 4.922916666666659,
+            "darkness": 0.49662364270608816,
+            "bortle": 5,
+            "near": "Visan",
+            "id": "44.3312_4.9229",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 4.093749999999993,
+            "darkness": 0.4953360485737007,
+            "bortle": 5,
+            "near": "Saint-Martin-de-Valgalgues",
+            "id": "44.1479_4.0937",
+            "altitude": null
+        },
+        {
+            "lat": 44.83125,
+            "lon": 4.968749999999993,
+            "darkness": 0.49519733758579,
+            "bortle": 5,
+            "near": "Montmeyran",
+            "id": "44.8312_4.9687",
+            "altitude": null
+        },
+        {
+            "lat": 44.05624999999999,
+            "lon": 4.414583333333326,
+            "darkness": 0.48542957980755197,
+            "bortle": 5,
+            "near": "Saint-Quentin-la-Poterie",
+            "id": "44.0562_4.4146",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 4.831249999999992,
+            "darkness": 0.47501115257258275,
+            "bortle": 5,
+            "near": "Allan",
+            "id": "44.4687_4.8312",
+            "altitude": null
+        },
+        {
+            "lat": 44.56041666666666,
+            "lon": 4.689583333333326,
+            "darkness": 0.46086866203919585,
+            "bortle": 5,
+            "near": "Le Teil",
+            "id": "44.5604_4.6896",
+            "altitude": null
+        },
+        {
+            "lat": 44.422916666666666,
+            "lon": 4.643749999999992,
+            "darkness": 0.4567377130924777,
+            "bortle": 5,
+            "near": "Bourg-Saint-Andéol",
+            "id": "44.4229_4.6437",
+            "altitude": null
+        },
+        {
+            "lat": 44.86874999999999,
+            "lon": 4.781249999999993,
+            "darkness": 0.4415312020827147,
+            "bortle": 5,
+            "near": "Saint-Georges-les-Bains",
+            "id": "44.8687_4.7812",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 4.597916666666659,
+            "darkness": 0.42046933680668286,
+            "bortle": 5,
+            "near": "Bagnols-sur-Cèze",
+            "id": "44.1479_4.5979",
+            "altitude": null
+        },
+        {
+            "lat": 44.010416666666664,
+            "lon": 4.597916666666659,
+            "darkness": 0.39892365568417465,
+            "bortle": 5,
+            "near": "Castillon-du-Gard",
+            "id": "44.0104_4.5979",
+            "altitude": null
+        },
+        {
+            "lat": 44.193749999999994,
+            "lon": 4.8187499999999925,
+            "darkness": 0.34940953884888404,
+            "bortle": 5,
+            "near": "Sérignan-du-Comtat",
+            "id": "44.1937_4.8187",
+            "altitude": null
+        },
+        {
+            "lat": 44.102083333333326,
+            "lon": 4.968749999999993,
+            "darkness": 0.3487199950863882,
+            "bortle": 6,
+            "near": "Sarrians",
+            "id": "44.1021_4.9687",
+            "altitude": null
+        },
+        {
+            "lat": 44.37708333333333,
+            "lon": 4.689583333333326,
+            "darkness": 0.3476247325211864,
+            "bortle": 6,
+            "near": "Pierrelatte",
+            "id": "44.3771_4.6896",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 4.689583333333326,
+            "darkness": 0.34479735182512095,
+            "bortle": 6,
+            "near": "Chusclan",
+            "id": "44.1479_4.6896",
+            "altitude": null
+        },
+        {
+            "lat": 44.97291666666666,
+            "lon": 4.922916666666659,
+            "darkness": 0.3439365518679146,
+            "bortle": 6,
+            "near": "Saint-Marcel-lès-Valence",
+            "id": "44.9729_4.9229",
+            "altitude": null
+        },
+        {
+            "lat": 44.010416666666664,
+            "lon": 4.827083333333325,
+            "darkness": 0.1985714110554978,
+            "bortle": 7,
+            "near": "Sauveterre",
+            "id": "44.0104_4.8271",
+            "altitude": null
+        }
+    ]
+}

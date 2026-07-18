@@ -1,0 +1,314 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N047E004",
+    "spots": [
+        {
+            "lat": 47.260416666666664,
+            "lon": 4.093749999999993,
+            "darkness": 0.976772125748571,
+            "bortle": 2,
+            "near": "Montsauche-les-Settons",
+            "id": "47.2604_4.0937",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 4.1312499999999925,
+            "darkness": 0.9350385228359682,
+            "bortle": 2,
+            "near": "Noyers",
+            "id": "47.6312_4.1312",
+            "altitude": null
+        },
+        {
+            "lat": 47.39791666666666,
+            "lon": 4.143749999999992,
+            "darkness": 0.9295810096833809,
+            "bortle": 2,
+            "near": "La Roche-en-Brenil",
+            "id": "47.3979_4.1437",
+            "altitude": null
+        },
+        {
+            "lat": 47.86458333333333,
+            "lon": 4.785416666666659,
+            "darkness": 0.9185225503217633,
+            "bortle": 2,
+            "near": "Châtillon-sur-Seine",
+            "id": "47.8646_4.7854",
+            "altitude": null
+        },
+        {
+            "lat": 47.756249999999994,
+            "lon": 4.322916666666659,
+            "darkness": 0.9183276534979938,
+            "bortle": 2,
+            "near": "Ravières",
+            "id": "47.7562_4.3229",
+            "altitude": null
+        },
+        {
+            "lat": 47.48958333333333,
+            "lon": 4.293749999999992,
+            "darkness": 0.9152283687171172,
+            "bortle": 2,
+            "near": "Semur-en-Auxois",
+            "id": "47.4896_4.2937",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": 4.510416666666659,
+            "darkness": 0.9135099200744612,
+            "bortle": 2,
+            "near": "Montbard",
+            "id": "47.6771_4.5104",
+            "altitude": null
+        },
+        {
+            "lat": 47.12708333333333,
+            "lon": 4.18541666666666,
+            "darkness": 0.9126257174467034,
+            "bortle": 2,
+            "near": "Alligny-en-Morvan",
+            "id": "47.1271_4.1854",
+            "altitude": null
+        },
+        {
+            "lat": 47.76458333333333,
+            "lon": 4.097916666666659,
+            "darkness": 0.9075736694870614,
+            "bortle": 2,
+            "near": "Lézinnes",
+            "id": "47.7646_4.0979",
+            "altitude": null
+        },
+        {
+            "lat": 47.72291666666666,
+            "lon": 4.781249999999993,
+            "darkness": 0.8981492795738284,
+            "bortle": 2,
+            "near": "Châtillon-sur-Seine",
+            "id": "47.7229_4.7812",
+            "altitude": null
+        },
+        {
+            "lat": 47.360416666666666,
+            "lon": 4.364583333333325,
+            "darkness": 0.8958471550611591,
+            "bortle": 2,
+            "near": "Précy-sous-Thil",
+            "id": "47.3604_4.3646",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": 4.5062499999999925,
+            "darkness": 0.886578601250971,
+            "bortle": 2,
+            "near": "Alise-Sainte-Reine",
+            "id": "47.5396_4.5062",
+            "altitude": null
+        },
+        {
+            "lat": 47.90208333333333,
+            "lon": 4.235416666666659,
+            "darkness": 0.8798758488678589,
+            "bortle": 2,
+            "near": "Laignes",
+            "id": "47.9021_4.2354",
+            "altitude": null
+        },
+        {
+            "lat": 47.856249999999996,
+            "lon": 4.460416666666658,
+            "darkness": 0.8666633367405798,
+            "bortle": 2,
+            "near": "Laignes",
+            "id": "47.8562_4.4604",
+            "altitude": null
+        },
+        {
+            "lat": 47.21458333333333,
+            "lon": 4.3687499999999915,
+            "darkness": 0.8588683357083091,
+            "bortle": 2,
+            "near": "Liernais",
+            "id": "47.2146_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 47.98958333333333,
+            "lon": 4.5562499999999915,
+            "darkness": 0.848370922192745,
+            "bortle": 3,
+            "near": "Mussy-sur-Seine",
+            "id": "47.9896_4.5562",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 4.781249999999993,
+            "darkness": 0.8466634310176189,
+            "bortle": 3,
+            "near": "Alise-Sainte-Reine",
+            "id": "47.6312_4.7812",
+            "altitude": null
+        },
+        {
+            "lat": 47.31041666666666,
+            "lon": 4.414583333333326,
+            "darkness": 0.8464667696807496,
+            "bortle": 3,
+            "near": "Pouilly-en-Auxois",
+            "id": "47.3104_4.4146",
+            "altitude": null
+        },
+        {
+            "lat": 47.12708333333333,
+            "lon": 4.3687499999999915,
+            "darkness": 0.8423487692708723,
+            "bortle": 3,
+            "near": "Arnay-le-Duc",
+            "id": "47.1271_4.3687",
+            "altitude": null
+        },
+        {
+            "lat": 47.81041666666666,
+            "lon": 4.5062499999999925,
+            "darkness": 0.8415757982823157,
+            "bortle": 3,
+            "near": "Châtillon-sur-Seine",
+            "id": "47.8104_4.5062",
+            "altitude": null
+        },
+        {
+            "lat": 47.947916666666664,
+            "lon": 4.143749999999992,
+            "darkness": 0.8411631442984829,
+            "bortle": 3,
+            "near": "Tanlay",
+            "id": "47.9479_4.1437",
+            "altitude": null
+        },
+        {
+            "lat": 47.81041666666666,
+            "lon": 4.0062499999999925,
+            "darkness": 0.8362491820371607,
+            "bortle": 3,
+            "near": "Tonnerre",
+            "id": "47.8104_4.0062",
+            "altitude": null
+        },
+        {
+            "lat": 47.447916666666664,
+            "lon": 4.597916666666659,
+            "darkness": 0.8312502662618796,
+            "bortle": 3,
+            "near": "Vitteaux",
+            "id": "47.4479_4.5979",
+            "altitude": null
+        },
+        {
+            "lat": 47.20625,
+            "lon": 4.552083333333325,
+            "darkness": 0.7484741343845012,
+            "bortle": 3,
+            "near": "Pouilly-en-Auxois",
+            "id": "47.2062_4.5521",
+            "altitude": null
+        },
+        {
+            "lat": 47.31041666666666,
+            "lon": 4.643749999999992,
+            "darkness": 0.7397415697643293,
+            "bortle": 4,
+            "near": "Sombernon",
+            "id": "47.3104_4.6437",
+            "altitude": null
+        },
+        {
+            "lat": 47.58541666666666,
+            "lon": 4.87291666666666,
+            "darkness": 0.7339906821068563,
+            "bortle": 4,
+            "near": "Is-sur-Tille",
+            "id": "47.5854_4.8729",
+            "altitude": null
+        },
+        {
+            "lat": 47.12708333333333,
+            "lon": 4.597916666666659,
+            "darkness": 0.7297010624958284,
+            "bortle": 4,
+            "near": "Bligny-sur-Ouche",
+            "id": "47.1271_4.5979",
+            "altitude": null
+        },
+        {
+            "lat": 47.447916666666664,
+            "lon": 4.781249999999993,
+            "darkness": 0.7074503181633287,
+            "bortle": 4,
+            "near": "Blaisy-Bas",
+            "id": "47.4479_4.7812",
+            "altitude": null
+        },
+        {
+            "lat": 47.20625,
+            "lon": 4.781249999999993,
+            "darkness": 0.6146331589382249,
+            "bortle": 4,
+            "near": "Sainte-Marie-sur-Ouche",
+            "id": "47.2062_4.7812",
+            "altitude": null
+        },
+        {
+            "lat": 47.12291666666666,
+            "lon": 4.956249999999992,
+            "darkness": 0.5033218356147164,
+            "bortle": 4,
+            "near": "Nuits-Saint-Georges",
+            "id": "47.1229_4.9562",
+            "altitude": null
+        },
+        {
+            "lat": 47.260416666666664,
+            "lon": 4.87291666666666,
+            "darkness": 0.494767158563007,
+            "bortle": 5,
+            "near": "Fleurey-sur-Ouche",
+            "id": "47.2604_4.8729",
+            "altitude": null
+        },
+        {
+            "lat": 47.08125,
+            "lon": 4.827083333333325,
+            "darkness": 0.48779908402383765,
+            "bortle": 5,
+            "near": "Savigny-lès-Beaune",
+            "id": "47.0812_4.8271",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": 4.9645833333333265,
+            "darkness": 0.46391667248904356,
+            "bortle": 5,
+            "near": "Messigny-et-Vantoux",
+            "id": "47.4021_4.9646",
+            "altitude": null
+        },
+        {
+            "lat": 47.260416666666664,
+            "lon": 4.9645833333333265,
+            "darkness": 0.3372239624907498,
+            "bortle": 6,
+            "near": "Couchey",
+            "id": "47.2604_4.9646",
+            "altitude": null
+        }
+    ]
+}

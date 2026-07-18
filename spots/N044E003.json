@@ -1,0 +1,287 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N044E003",
+    "spots": [
+        {
+            "lat": 44.96874999999999,
+            "lon": 3.0895833333333265,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Villedieu",
+            "id": "44.9687_3.0896",
+            "altitude": null
+        },
+        {
+            "lat": 44.922916666666666,
+            "lon": 3.2729166666666583,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Le Malzieu-Ville",
+            "id": "44.9229_3.2729",
+            "altitude": null
+        },
+        {
+            "lat": 44.83125,
+            "lon": 3.043749999999992,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Chaudes-Aigues",
+            "id": "44.8312_3.0437",
+            "altitude": null
+        },
+        {
+            "lat": 44.78541666666666,
+            "lon": 3.2270833333333258,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Saint-Chély-d'Apcher",
+            "id": "44.7854_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 44.64791666666666,
+            "lon": 3.1812499999999915,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Nasbinals",
+            "id": "44.6479_3.1812",
+            "altitude": null
+        },
+        {
+            "lat": 44.510416666666664,
+            "lon": 3.043749999999992,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Saint-Geniez-d'Olt",
+            "id": "44.5104_3.0437",
+            "altitude": null
+        },
+        {
+            "lat": 44.664583333333326,
+            "lon": 3.314583333333326,
+            "darkness": 0.9974658321978784,
+            "bortle": 2,
+            "near": "Aumont-Aubrac",
+            "id": "44.6646_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 44.46874999999999,
+            "lon": 3.1479166666666583,
+            "darkness": 0.9932234555762707,
+            "bortle": 2,
+            "near": "Saint-Germain-du-Teil",
+            "id": "44.4687_3.1479",
+            "altitude": null
+        },
+        {
+            "lat": 44.83541666666666,
+            "lon": 3.314583333333326,
+            "darkness": 0.9919771257846406,
+            "bortle": 2,
+            "near": "Le Malzieu-Ville",
+            "id": "44.8354_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 44.36458333333333,
+            "lon": 3.314583333333326,
+            "darkness": 0.9898200424236995,
+            "bortle": 2,
+            "near": "Sainte-Enimie",
+            "id": "44.3646_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 44.97291666666666,
+            "lon": 3.4520833333333254,
+            "darkness": 0.9843681308669743,
+            "bortle": 2,
+            "near": "Saugues",
+            "id": "44.9729_3.4521",
+            "altitude": null
+        },
+        {
+            "lat": 44.71874999999999,
+            "lon": 3.543749999999992,
+            "darkness": 0.979000535399198,
+            "bortle": 2,
+            "near": "Grandrieu",
+            "id": "44.7187_3.5437",
+            "altitude": null
+        },
+        {
+            "lat": 44.23958333333333,
+            "lon": 3.406249999999993,
+            "darkness": 0.9684435684111785,
+            "bortle": 2,
+            "near": "Meyrueis",
+            "id": "44.2396_3.4062",
+            "altitude": null
+        },
+        {
+            "lat": 44.40208333333333,
+            "lon": 3.4979166666666597,
+            "darkness": 0.9591013021974641,
+            "bortle": 2,
+            "near": "Ispagnac",
+            "id": "44.4021_3.4979",
+            "altitude": null
+        },
+        {
+            "lat": 44.193749999999994,
+            "lon": 3.2270833333333258,
+            "darkness": 0.9547915774698977,
+            "bortle": 2,
+            "near": "Rivière-sur-Tarn",
+            "id": "44.1937_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 44.51458333333333,
+            "lon": 3.6854166666666597,
+            "darkness": 0.9367351343831132,
+            "bortle": 2,
+            "near": "Badaroux",
+            "id": "44.5146_3.6854",
+            "altitude": null
+        },
+        {
+            "lat": 44.84374999999999,
+            "lon": 3.635416666666659,
+            "darkness": 0.9364852706820536,
+            "bortle": 2,
+            "near": "Grandrieu",
+            "id": "44.8437_3.6354",
+            "altitude": null
+        },
+        {
+            "lat": 44.37708333333333,
+            "lon": 3.7270833333333258,
+            "darkness": 0.9246724607539647,
+            "bortle": 2,
+            "near": "Florac",
+            "id": "44.3771_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 44.52708333333333,
+            "lon": 3.406249999999993,
+            "darkness": 0.9139606930830693,
+            "bortle": 2,
+            "near": "Barjac",
+            "id": "44.5271_3.4062",
+            "altitude": null
+        },
+        {
+            "lat": 44.65208333333333,
+            "lon": 3.7270833333333258,
+            "darkness": 0.9128023874669576,
+            "bortle": 2,
+            "near": "Châteauneuf-de-Randon",
+            "id": "44.6521_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 44.102083333333326,
+            "lon": 3.406249999999993,
+            "darkness": 0.9099515262057074,
+            "bortle": 2,
+            "near": "Meyrueis",
+            "id": "44.1021_3.4062",
+            "altitude": null
+        },
+        {
+            "lat": 44.23958333333333,
+            "lon": 3.635416666666659,
+            "darkness": 0.9045240628300194,
+            "bortle": 2,
+            "near": "Florac",
+            "id": "44.2396_3.6354",
+            "altitude": null
+        },
+        {
+            "lat": 44.05624999999999,
+            "lon": 3.2270833333333258,
+            "darkness": 0.8872738084436244,
+            "bortle": 2,
+            "near": "Nant",
+            "id": "44.0562_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 44.53124999999999,
+            "lon": 3.9104166666666593,
+            "darkness": 0.8843368932911789,
+            "bortle": 2,
+            "near": "Villefort",
+            "id": "44.5312_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 44.789583333333326,
+            "lon": 3.8187499999999925,
+            "darkness": 0.8681351606664439,
+            "bortle": 2,
+            "near": "Pradelles",
+            "id": "44.7896_3.8187",
+            "altitude": null
+        },
+        {
+            "lat": 44.102083333333326,
+            "lon": 3.5895833333333265,
+            "darkness": 0.8463951348378707,
+            "bortle": 3,
+            "near": "Valleraugue",
+            "id": "44.1021_3.5896",
+            "altitude": null
+        },
+        {
+            "lat": 44.37708333333333,
+            "lon": 3.9104166666666593,
+            "darkness": 0.8435435890117744,
+            "bortle": 3,
+            "near": "Génolhac",
+            "id": "44.3771_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 44.23958333333333,
+            "lon": 3.7729166666666583,
+            "darkness": 0.8413912236913836,
+            "bortle": 3,
+            "near": "Saint-Étienne-Vallée-Française",
+            "id": "44.2396_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 3.0895833333333265,
+            "darkness": 0.8389967787222449,
+            "bortle": 3,
+            "near": "Aguessac",
+            "id": "44.1479_3.0896",
+            "altitude": null
+        },
+        {
+            "lat": 44.14791666666666,
+            "lon": 3.864583333333325,
+            "darkness": 0.7382548436389706,
+            "bortle": 4,
+            "near": "Saint-Étienne-Vallée-Française",
+            "id": "44.1479_3.8646",
+            "altitude": null
+        },
+        {
+            "lat": 44.010416666666664,
+            "lon": 3.7270833333333258,
+            "darkness": 0.7221354169607717,
+            "bortle": 4,
+            "near": "Sumène",
+            "id": "44.0104_3.7271",
+            "altitude": null
+        }
+    ]
+}

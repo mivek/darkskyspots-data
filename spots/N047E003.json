@@ -1,77 +1,367 @@
 {
-    "version": "2025.1",
-    "source": "VIIRS/2025/seine_et_marne",
-    "generated": "2026-07-06T11:10:05Z",
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
     "tile": "N047E003",
     "spots": [
         {
-            "lat": 47.90625,
-            "lon": 3.08125,
-            "darkness": 0.5651860831280529,
-            "bortle": 4,
-            "near": "Charny",
-            "id": "47.9062_3.0812",
-            "name": null,
+            "lat": 47.352083333333326,
+            "lon": 3.364583333333325,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Varzy",
+            "id": "47.3521_3.3646",
             "altitude": null
         },
         {
-            "lat": 47.952083333333334,
-            "lon": 3.814583333333333,
-            "darkness": 0.5649915071599382,
-            "bortle": 4,
-            "near": "Flogny-la-Chapelle",
-            "id": "47.9521_3.8146",
-            "name": null,
+            "lat": 47.352083333333326,
+            "lon": 3.7770833333333265,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Lormes",
+            "id": "47.3521_3.7771",
             "altitude": null
         },
         {
-            "lat": 47.952083333333334,
-            "lon": 3.3062500000000004,
-            "darkness": 0.5217759168348677,
-            "bortle": 4,
-            "near": "La Celle-Saint-Cyr",
-            "id": "47.9521_3.3063",
-            "name": null,
+            "lat": 47.260416666666664,
+            "lon": 3.9604166666666583,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Brassy",
+            "id": "47.2604_3.9604",
             "altitude": null
         },
         {
-            "lat": 47.99791666666667,
-            "lon": 3.127083333333333,
-            "darkness": 0.49540302097444144,
-            "bortle": 5,
-            "near": "Piffonds",
-            "id": "47.9979_3.1271",
-            "name": null,
+            "lat": 47.21458333333333,
+            "lon": 3.4104166666666593,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Prémery",
+            "id": "47.2146_3.4104",
             "altitude": null
         },
         {
-            "lat": 47.952083333333334,
-            "lon": 3.3979166666666663,
-            "darkness": 0.4938045426824059,
-            "bortle": 5,
-            "near": "Chamvres",
-            "id": "47.9521_3.3979",
-            "name": null,
+            "lat": 47.168749999999996,
+            "lon": 3.6395833333333254,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Corbigny",
+            "id": "47.1687_3.6396",
             "altitude": null
         },
         {
-            "lat": 47.99375,
-            "lon": 3.814583333333333,
-            "darkness": 0.5417292539753588,
-            "bortle": 4,
-            "near": "Germigny",
-            "id": "47.9937_3.8146",
-            "name": null,
+            "lat": 47.12291666666666,
+            "lon": 3.8687499999999915,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Château-Chinon(Ville)",
+            "id": "47.1229_3.8687",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": 3.502083333333326,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Rouy",
+            "id": "47.0312_3.5021",
+            "altitude": null
+        },
+        {
+            "lat": 47.352083333333326,
+            "lon": 3.5770833333333254,
+            "darkness": 0.9970778182660857,
+            "bortle": 2,
+            "near": "Tannay",
+            "id": "47.3521_3.5771",
+            "altitude": null
+        },
+        {
+            "lat": 47.352083333333326,
+            "lon": 3.9437499999999925,
+            "darkness": 0.9968618988269204,
+            "bortle": 2,
+            "near": "Quarré-les-Tombes",
+            "id": "47.3521_3.9437",
+            "altitude": null
+        },
+        {
+            "lat": 47.08125,
+            "lon": 3.956249999999992,
+            "darkness": 0.9967599582668827,
+            "bortle": 2,
+            "near": "Château-Chinon(Ville)",
+            "id": "47.0812_3.9562",
+            "altitude": null
+        },
+        {
+            "lat": 47.352083333333326,
+            "lon": 3.3187499999999925,
+            "darkness": 0.9962283438880288,
+            "bortle": 2,
+            "near": "Varzy",
+            "id": "47.3521_3.3187",
+            "altitude": null
+        },
+        {
+            "lat": 47.03541666666666,
+            "lon": 3.456249999999992,
+            "darkness": 0.9940904481815618,
+            "bortle": 2,
+            "near": "Rouy",
+            "id": "47.0354_3.4562",
+            "altitude": null
+        },
+        {
+            "lat": 47.172916666666666,
+            "lon": 3.364583333333325,
+            "darkness": 0.9929667832794122,
+            "bortle": 2,
+            "near": "Prémery",
+            "id": "47.1729_3.3646",
+            "altitude": null
+        },
+        {
+            "lat": 47.26458333333333,
+            "lon": 3.7770833333333265,
+            "darkness": 0.9876767233155168,
+            "bortle": 2,
+            "near": "Cervon",
+            "id": "47.2646_3.7771",
+            "altitude": null
+        },
+        {
+            "lat": 47.443749999999994,
+            "lon": 3.7270833333333258,
+            "darkness": 0.9687906186710336,
+            "bortle": 2,
+            "near": "Vézelay",
+            "id": "47.4437_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 47.26458333333333,
+            "lon": 3.135416666666659,
+            "darkness": 0.9608422511501664,
+            "bortle": 2,
+            "near": "Narcy",
+            "id": "47.2646_3.1354",
+            "altitude": null
+        },
+        {
+            "lat": 47.48958333333333,
+            "lon": 3.2729166666666583,
+            "darkness": 0.9524558698209441,
+            "bortle": 2,
+            "near": "Entrains-sur-Nohain",
+            "id": "47.4896_3.2729",
+            "altitude": null
+        },
+        {
+            "lat": 47.39791666666666,
+            "lon": 3.0895833333333265,
+            "darkness": 0.9254633737219209,
+            "bortle": 2,
+            "near": "Donzy",
+            "id": "47.3979_3.0896",
+            "altitude": null
+        },
+        {
+            "lat": 47.48958333333333,
+            "lon": 3.502083333333326,
+            "darkness": 0.9189697197896907,
+            "bortle": 2,
+            "near": "Clamecy",
+            "id": "47.4896_3.5021",
+            "altitude": null
+        },
+        {
+            "lat": 47.58125,
+            "lon": 3.7270833333333258,
+            "darkness": 0.9025074320290385,
+            "bortle": 2,
+            "near": "Mailly-la-Ville",
+            "id": "47.5812_3.7271",
+            "altitude": null
+        },
+        {
+            "lat": 47.62708333333333,
+            "lon": 3.314583333333326,
+            "darkness": 0.8986217884990193,
+            "bortle": 2,
+            "near": "Saints-en-Puisaye",
+            "id": "47.6271_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 47.58125,
+            "lon": 3.0895833333333265,
+            "darkness": 0.88506746269616,
+            "bortle": 2,
+            "near": "Saint-Amand-en-Puisaye",
+            "id": "47.5812_3.0896",
+            "altitude": null
+        },
+        {
+            "lat": 47.672916666666666,
+            "lon": 3.9145833333333258,
+            "darkness": 0.8847082971665579,
+            "bortle": 2,
+            "near": "Noyers",
+            "id": "47.6729_3.9146",
+            "altitude": null
+        },
+        {
+            "lat": 47.12708333333333,
+            "lon": 3.1395833333333254,
+            "darkness": 0.8567973029198253,
+            "bortle": 2,
+            "near": "Chaulgnes",
+            "id": "47.1271_3.1396",
+            "altitude": null
+        },
+        {
+            "lat": 47.71874999999999,
+            "lon": 3.135416666666659,
+            "darkness": 0.8482378298241041,
+            "bortle": 3,
+            "near": "Mézilles",
+            "id": "47.7187_3.1354",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": 3.9104166666666593,
+            "darkness": 0.8476109865854489,
+            "bortle": 3,
+            "near": "Sauvigny-le-Bois",
+            "id": "47.5396_3.9104",
+            "altitude": null
+        },
+        {
+            "lat": 47.12708333333333,
+            "lon": 3.0395833333333258,
+            "darkness": 0.8418294021236163,
+            "bortle": 3,
+            "near": "La Marche",
+            "id": "47.1271_3.0396",
+            "altitude": null
+        },
+        {
+            "lat": 47.672916666666666,
+            "lon": 3.7729166666666583,
+            "darkness": 0.8380478468518934,
+            "bortle": 3,
+            "near": "Vermenton",
+            "id": "47.6729_3.7729",
+            "altitude": null
+        },
+        {
+            "lat": 47.672916666666666,
+            "lon": 3.4520833333333254,
+            "darkness": 0.8351652414136661,
+            "bortle": 3,
+            "near": "Ouanne",
+            "id": "47.6729_3.4521",
             "altitude": null
         },
         {
             "lat": 47.947916666666664,
-            "lon": 3.76875,
-            "darkness": 0.5272896125025808,
+            "lon": 3.9145833333333258,
+            "darkness": 0.7753580898169181,
+            "bortle": 3,
+            "near": "Flogny-la-Chapelle",
+            "id": "47.9479_3.9146",
+            "altitude": null
+        },
+        {
+            "lat": 47.81041666666666,
+            "lon": 3.314583333333326,
+            "darkness": 0.772344513148941,
+            "bortle": 3,
+            "near": "Parly",
+            "id": "47.8104_3.3146",
+            "altitude": null
+        },
+        {
+            "lat": 47.03541666666666,
+            "lon": 3.2270833333333258,
+            "darkness": 0.7548576788116612,
+            "bortle": 3,
+            "near": "Urzy",
+            "id": "47.0354_3.2271",
+            "altitude": null
+        },
+        {
+            "lat": 47.856249999999996,
+            "lon": 3.0895833333333265,
+            "darkness": 0.753035652904253,
+            "bortle": 3,
+            "near": "Charny",
+            "id": "47.8562_3.0896",
+            "altitude": null
+        },
+        {
+            "lat": 47.81041666666666,
+            "lon": 3.7770833333333265,
+            "darkness": 0.7485521893952326,
+            "bortle": 3,
+            "near": "Chablis",
+            "id": "47.8104_3.7771",
+            "altitude": null
+        },
+        {
+            "lat": 47.71874999999999,
+            "lon": 3.543749999999992,
+            "darkness": 0.7396325870581518,
             "bortle": 4,
-            "near": "Vergigny",
-            "id": "47.9479_3.7687",
-            "name": null,
+            "near": "Vallan",
+            "id": "47.7187_3.5437",
+            "altitude": null
+        },
+        {
+            "lat": 47.856249999999996,
+            "lon": 3.7770833333333265,
+            "darkness": 0.7326559318947515,
+            "bortle": 4,
+            "near": "Maligny",
+            "id": "47.8562_3.7771",
+            "altitude": null
+        },
+        {
+            "lat": 47.90208333333333,
+            "lon": 3.177083333333325,
+            "darkness": 0.7261700290602698,
+            "bortle": 4,
+            "near": "La Ferté-Loupière",
+            "id": "47.9021_3.1771",
+            "altitude": null
+        },
+        {
+            "lat": 47.856249999999996,
+            "lon": 3.406249999999993,
+            "darkness": 0.6748954869195237,
+            "bortle": 4,
+            "near": "Poilly-sur-Tholon",
+            "id": "47.8562_3.4062",
+            "altitude": null
+        },
+        {
+            "lat": 47.99374999999999,
+            "lon": 3.0145833333333254,
+            "darkness": 0.6426391682414961,
+            "bortle": 4,
+            "near": "Chuelles",
+            "id": "47.9937_3.0146",
+            "altitude": null
+        },
+        {
+            "lat": 47.99374999999999,
+            "lon": 3.364583333333325,
+            "darkness": 0.6095586132556717,
+            "bortle": 4,
+            "near": "Cézy",
+            "id": "47.9937_3.3646",
             "altitude": null
         }
     ]

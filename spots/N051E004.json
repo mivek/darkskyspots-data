@@ -1,0 +1,287 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N051E004",
+    "spots": [
+        {
+            "lat": 51.66041666666666,
+            "lon": 4.002083333333326,
+            "darkness": 0.19843410281253937,
+            "bortle": 7,
+            "near": "Nieuwerkerk",
+            "id": "51.6604_4.0021",
+            "altitude": null
+        },
+        {
+            "lat": 51.52708333333333,
+            "lon": 4.139583333333325,
+            "darkness": 0.15020952730924342,
+            "bortle": 7,
+            "near": "Poortvliet",
+            "id": "51.5271_4.1396",
+            "altitude": null
+        },
+        {
+            "lat": 51.66041666666666,
+            "lon": 4.231249999999992,
+            "darkness": 0.11825441177334683,
+            "bortle": 7,
+            "near": "Sint Philipsland",
+            "id": "51.6604_4.2312",
+            "altitude": null
+        },
+        {
+            "lat": 51.477083333333326,
+            "lon": 4.831249999999992,
+            "darkness": 0.11031370373281169,
+            "bortle": 7,
+            "near": "Meerle",
+            "id": "51.4771_4.8312",
+            "altitude": null
+        },
+        {
+            "lat": 51.79791666666666,
+            "lon": 4.002083333333326,
+            "darkness": 0.108819086031258,
+            "bortle": 7,
+            "near": "Goedereede",
+            "id": "51.7979_4.0021",
+            "altitude": null
+        },
+        {
+            "lat": 51.38958333333333,
+            "lon": 4.093749999999993,
+            "darkness": 0.10251437618291714,
+            "bortle": 7,
+            "near": "Waarde",
+            "id": "51.3896_4.0937",
+            "altitude": null
+        },
+        {
+            "lat": 51.28124999999999,
+            "lon": 4.877083333333326,
+            "darkness": 0.09676354303769108,
+            "bortle": 7,
+            "near": "Gierle",
+            "id": "51.2812_4.8771",
+            "altitude": null
+        },
+        {
+            "lat": 51.110416666666666,
+            "lon": 4.877083333333326,
+            "darkness": 0.08754548623307312,
+            "bortle": 7,
+            "near": "Zoerle-Parwijs",
+            "id": "51.1104_4.8771",
+            "altitude": null
+        },
+        {
+            "lat": 51.38958333333333,
+            "lon": 4.602083333333326,
+            "darkness": 0.08490513183739967,
+            "bortle": 7,
+            "near": "Wuustwezel",
+            "id": "51.3896_4.6021",
+            "altitude": null
+        },
+        {
+            "lat": 51.52708333333333,
+            "lon": 4.360416666666659,
+            "darkness": 0.06684456740945666,
+            "bortle": 7,
+            "near": "Heerle",
+            "id": "51.5271_4.3604",
+            "altitude": null
+        },
+        {
+            "lat": 51.01875,
+            "lon": 4.6937499999999925,
+            "darkness": 0.061827495640280006,
+            "bortle": 7,
+            "near": "Schriek",
+            "id": "51.0187_4.6937",
+            "altitude": null
+        },
+        {
+            "lat": 51.71041666666666,
+            "lon": 4.9645833333333265,
+            "darkness": 0.06024742855541909,
+            "bortle": 7,
+            "near": "Dussen",
+            "id": "51.7104_4.9646",
+            "altitude": null
+        },
+        {
+            "lat": 51.25208333333333,
+            "lon": 4.647916666666658,
+            "darkness": 0.04609363129282573,
+            "bortle": 7,
+            "near": "Halle",
+            "id": "51.2521_4.6479",
+            "altitude": null
+        },
+        {
+            "lat": 51.568749999999994,
+            "lon": 4.643749999999992,
+            "darkness": 0.04454374100990077,
+            "bortle": 7,
+            "near": "Hoeven",
+            "id": "51.5687_4.6437",
+            "altitude": null
+        },
+        {
+            "lat": 51.66041666666666,
+            "lon": 4.460416666666658,
+            "darkness": 0.039151607942520705,
+            "bortle": 7,
+            "near": "Helwijk",
+            "id": "51.6604_4.4604",
+            "altitude": null
+        },
+        {
+            "lat": 51.70625,
+            "lon": 4.6937499999999925,
+            "darkness": 0.030241488003777572,
+            "bortle": 7,
+            "near": "Zevenbergschen Hoek",
+            "id": "51.7062_4.6937",
+            "altitude": null
+        },
+        {
+            "lat": 51.83125,
+            "lon": 4.831249999999992,
+            "darkness": 0.02613299439584882,
+            "bortle": 7,
+            "near": "Giessendam",
+            "id": "51.8312_4.8312",
+            "altitude": null
+        },
+        {
+            "lat": 51.06458333333333,
+            "lon": 4.18541666666666,
+            "darkness": 0.017626352785840016,
+            "bortle": 7,
+            "near": "Mariekerke",
+            "id": "51.0646_4.1854",
+            "altitude": null
+        },
+        {
+            "lat": 51.38958333333333,
+            "lon": 4.37291666666666,
+            "darkness": 0.005621404081726622,
+            "bortle": 7,
+            "near": "Ossendrecht",
+            "id": "51.3896_4.3729",
+            "altitude": null
+        },
+        {
+            "lat": 51.95208333333333,
+            "lon": 4.172916666666659,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Rugge",
+            "id": "51.9521_4.1729",
+            "altitude": null
+        },
+        {
+            "lat": 51.96458333333333,
+            "lon": 4.4312499999999915,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Katendrecht",
+            "id": "51.9646_4.4312",
+            "altitude": null
+        },
+        {
+            "lat": 51.977083333333326,
+            "lon": 4.702083333333325,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Opperduit",
+            "id": "51.9771_4.7021",
+            "altitude": null
+        },
+        {
+            "lat": 51.84374999999999,
+            "lon": 4.327083333333325,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Spijkenisse",
+            "id": "51.8437_4.3271",
+            "altitude": null
+        },
+        {
+            "lat": 51.84374999999999,
+            "lon": 4.5562499999999915,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Heerjansdam",
+            "id": "51.8437_4.5562",
+            "altitude": null
+        },
+        {
+            "lat": 51.38958333333333,
+            "lon": 4.227083333333326,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Woensdrecht",
+            "id": "51.3896_4.2271",
+            "altitude": null
+        },
+        {
+            "lat": 51.33958333333333,
+            "lon": 4.4645833333333265,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Kapellen",
+            "id": "51.3396_4.4646",
+            "altitude": null
+        },
+        {
+            "lat": 51.24791666666666,
+            "lon": 4.127083333333326,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Meerdonk",
+            "id": "51.2479_4.1271",
+            "altitude": null
+        },
+        {
+            "lat": 51.20208333333333,
+            "lon": 4.37291666666666,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Burcht",
+            "id": "51.2021_4.3729",
+            "altitude": null
+        },
+        {
+            "lat": 51.13958333333333,
+            "lon": 4.602083333333326,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Kessel",
+            "id": "51.1396_4.6021",
+            "altitude": null
+        },
+        {
+            "lat": 51.110416666666666,
+            "lon": 4.206249999999992,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Temse",
+            "id": "51.1104_4.2062",
+            "altitude": null
+        },
+        {
+            "lat": 51.06458333333333,
+            "lon": 4.418749999999992,
+            "darkness": 0.0,
+            "bortle": 8,
+            "near": "Heindonk",
+            "id": "51.0646_4.4187",
+            "altitude": null
+        }
+    ]
+}

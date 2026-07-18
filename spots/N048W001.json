@@ -1,0 +1,332 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N048W001",
+    "spots": [
+        {
+            "lat": 48.635416666666664,
+            "lon": -0.7937500000000073,
+            "darkness": 0.9110285073144317,
+            "bortle": 2,
+            "near": "Saint-Georges-de-Rouelley",
+            "id": "48.6354_-0.7938",
+            "altitude": null
+        },
+        {
+            "lat": 48.45625,
+            "lon": -0.718750000000008,
+            "darkness": 0.8974511419621904,
+            "bortle": 2,
+            "near": "Le Pas",
+            "id": "48.4562_-0.7188",
+            "altitude": null
+        },
+        {
+            "lat": 48.77291666666666,
+            "lon": -0.9020833333333407,
+            "darkness": 0.8815158499612284,
+            "bortle": 2,
+            "near": "Vengeons",
+            "id": "48.7729_-0.9021",
+            "altitude": null
+        },
+        {
+            "lat": 48.50208333333333,
+            "lon": -0.927083333333341,
+            "darkness": 0.8803171405660294,
+            "bortle": 2,
+            "near": "Buais",
+            "id": "48.5021_-0.9271",
+            "altitude": null
+        },
+        {
+            "lat": 48.635416666666664,
+            "lon": -0.16875000000000728,
+            "darkness": 0.8777958463472546,
+            "bortle": 2,
+            "near": "Rânes",
+            "id": "48.6354_-0.1688",
+            "altitude": null
+        },
+        {
+            "lat": 48.77291666666666,
+            "lon": -0.30625000000000746,
+            "darkness": 0.8712978918170897,
+            "bortle": 2,
+            "near": "Putanges-Pont-Écrepin",
+            "id": "48.7729_-0.3063",
+            "altitude": null
+        },
+        {
+            "lat": 48.50208333333333,
+            "lon": -0.21458333333334068,
+            "darkness": 0.8672535121805135,
+            "bortle": 2,
+            "near": "Lignières-Orgères",
+            "id": "48.5021_-0.2146",
+            "altitude": null
+        },
+        {
+            "lat": 48.61874999999999,
+            "lon": -0.5812500000000078,
+            "darkness": 0.8651160901531422,
+            "bortle": 2,
+            "near": "Champsecret",
+            "id": "48.6187_-0.5813",
+            "altitude": null
+        },
+        {
+            "lat": 48.33125,
+            "lon": -0.26041666666667407,
+            "darkness": 0.856445851245522,
+            "bortle": 2,
+            "near": "Villaines-la-Juhel",
+            "id": "48.3312_-0.2604",
+            "altitude": null
+        },
+        {
+            "lat": 48.36458333333333,
+            "lon": -0.9020833333333407,
+            "darkness": 0.8541197689695557,
+            "bortle": 2,
+            "near": "Saint-Denis-de-Gastines",
+            "id": "48.3646_-0.9021",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": -0.2687500000000078,
+            "darkness": 0.8479465898756364,
+            "bortle": 3,
+            "near": "Putanges-Pont-Écrepin",
+            "id": "48.8187_-0.2688",
+            "altitude": null
+        },
+        {
+            "lat": 48.88958333333333,
+            "lon": -0.718750000000008,
+            "darkness": 0.8470314859235054,
+            "bortle": 3,
+            "near": "Le Theil-Bocage",
+            "id": "48.8896_-0.7188",
+            "altitude": null
+        },
+        {
+            "lat": 48.36458333333333,
+            "lon": -0.7604166666666741,
+            "darkness": 0.8466857939147449,
+            "bortle": 3,
+            "near": "Châtillon-sur-Colmont",
+            "id": "48.3646_-0.7604",
+            "altitude": null
+        },
+        {
+            "lat": 48.727083333333326,
+            "lon": -0.6729166666666746,
+            "darkness": 0.8464453508998548,
+            "bortle": 3,
+            "near": "Chanu",
+            "id": "48.7271_-0.6729",
+            "altitude": null
+        },
+        {
+            "lat": 48.602083333333326,
+            "lon": -0.36458333333334103,
+            "darkness": 0.8463387908858129,
+            "bortle": 3,
+            "near": "La Ferté-Macé",
+            "id": "48.6021_-0.3646",
+            "altitude": null
+        },
+        {
+            "lat": 48.27291666666666,
+            "lon": -0.21458333333334068,
+            "darkness": 0.8459543005532691,
+            "bortle": 3,
+            "near": "Courcité",
+            "id": "48.2729_-0.2146",
+            "altitude": null
+        },
+        {
+            "lat": 48.50208333333333,
+            "lon": -0.12291666666667389,
+            "darkness": 0.8459424312644188,
+            "bortle": 3,
+            "near": "Pré-en-Pail",
+            "id": "48.5021_-0.1229",
+            "altitude": null
+        },
+        {
+            "lat": 48.45208333333333,
+            "lon": -0.3937500000000078,
+            "darkness": 0.8445590512635891,
+            "bortle": 3,
+            "near": "Javron-les-Chapelles",
+            "id": "48.4521_-0.3938",
+            "altitude": null
+        },
+        {
+            "lat": 48.59374999999999,
+            "lon": -0.989583333333341,
+            "darkness": 0.8408621094566565,
+            "bortle": 3,
+            "near": "Notre-Dame-du-Touchet",
+            "id": "48.5937_-0.9896",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": -0.968750000000008,
+            "darkness": 0.8379240219682376,
+            "bortle": 3,
+            "near": "Campeaux",
+            "id": "48.9562_-0.9688",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": -0.47708333333334085,
+            "darkness": 0.819355139934403,
+            "bortle": 3,
+            "near": "Berjou",
+            "id": "48.8646_-0.4771",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": -0.9479166666666741,
+            "darkness": 0.8139403371444935,
+            "bortle": 3,
+            "near": "Saint-Manvieu-Bocage",
+            "id": "48.8187_-0.9479",
+            "altitude": null
+        },
+        {
+            "lat": 48.27708333333333,
+            "lon": -0.4395833333333412,
+            "darkness": 0.8136384488272579,
+            "bortle": 3,
+            "near": "Hambers",
+            "id": "48.2771_-0.4396",
+            "altitude": null
+        },
+        {
+            "lat": 48.318749999999994,
+            "lon": -0.989583333333341,
+            "darkness": 0.8052691959663858,
+            "bortle": 3,
+            "near": "Ernée",
+            "id": "48.3187_-0.9896",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": -0.018750000000007816,
+            "darkness": 0.8042172578507674,
+            "bortle": 3,
+            "near": "Trun",
+            "id": "48.8646_-0.0188",
+            "altitude": null
+        },
+        {
+            "lat": 48.043749999999996,
+            "lon": -0.30625000000000746,
+            "darkness": 0.7892749633414364,
+            "bortle": 3,
+            "near": "Torcé-Viviers-en-Charnie",
+            "id": "48.0437_-0.3063",
+            "altitude": null
+        },
+        {
+            "lat": 48.227083333333326,
+            "lon": -0.8104166666666739,
+            "darkness": 0.7746583057768892,
+            "bortle": 3,
+            "near": "Chailland",
+            "id": "48.2271_-0.8104",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": -0.031250000000007994,
+            "darkness": 0.7703727561668621,
+            "bortle": 3,
+            "near": "Moulins-le-Carbonnel",
+            "id": "48.3604_-0.0313",
+            "altitude": null
+        },
+        {
+            "lat": 48.11458333333333,
+            "lon": -0.12291666666667389,
+            "darkness": 0.7581540706319155,
+            "bortle": 3,
+            "near": "Rouez",
+            "id": "48.1146_-0.1229",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": -0.30625000000000746,
+            "darkness": 0.7403294624974636,
+            "bortle": 3,
+            "near": "Ussy",
+            "id": "48.9562_-0.3063",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": -0.16458333333334085,
+            "darkness": 0.7383556026330075,
+            "bortle": 4,
+            "near": "Ouilly-le-Tesson",
+            "id": "48.9562_-0.1646",
+            "altitude": null
+        },
+        {
+            "lat": 48.18124999999999,
+            "lon": -0.48958333333334103,
+            "darkness": 0.7381258522372801,
+            "bortle": 4,
+            "near": "Neau",
+            "id": "48.1812_-0.4896",
+            "altitude": null
+        },
+        {
+            "lat": 48.318749999999994,
+            "lon": -0.6687500000000073,
+            "darkness": 0.7337612062106408,
+            "bortle": 4,
+            "near": "Parigné-sur-Braye",
+            "id": "48.3187_-0.6688",
+            "altitude": null
+        },
+        {
+            "lat": 48.43541666666666,
+            "lon": -0.031250000000007994,
+            "darkness": 0.7326473400523792,
+            "bortle": 4,
+            "near": "Saint-Denis-sur-Sarthon",
+            "id": "48.4354_-0.0313",
+            "altitude": null
+        },
+        {
+            "lat": 48.135416666666664,
+            "lon": -0.031250000000007994,
+            "darkness": 0.7322351585103509,
+            "bortle": 4,
+            "near": "Conlie",
+            "id": "48.1354_-0.0313",
+            "altitude": null
+        },
+        {
+            "lat": 48.18124999999999,
+            "lon": -0.8062500000000075,
+            "darkness": 0.7060633198866524,
+            "bortle": 4,
+            "near": "Andouillé",
+            "id": "48.1812_-0.8063",
+            "altitude": null
+        }
+    ]
+}

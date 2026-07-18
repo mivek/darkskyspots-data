@@ -1,167 +1,331 @@
 {
-    "version": "2025.1",
-    "source": "VIIRS/2025/seine_et_marne",
-    "generated": "2026-07-06T11:10:05Z",
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
     "tile": "N048E001",
     "spots": [
         {
-            "lat": 48.18125,
-            "lon": 1.7479166666666668,
-            "darkness": 0.41207078747385384,
-            "bortle": 5,
-            "near": "Orgères-en-Beauce",
-            "id": "48.1812_1.7479",
-            "name": null,
+            "lat": 48.26875,
+            "lon": 1.0020833333333252,
+            "darkness": 0.7368089836372306,
+            "bortle": 4,
+            "near": "Beaumont-les-Autels",
+            "id": "48.2687_1.0021",
             "altitude": null
         },
         {
-            "lat": 48.31875,
-            "lon": 1.7479166666666668,
-            "darkness": 0.36297630364923283,
-            "bortle": 5,
-            "near": "Boisville-la-Saint-Père",
-            "id": "48.3188_1.7479",
-            "name": null,
+            "lat": 48.03541666666666,
+            "lon": 1.1604166666666593,
+            "darkness": 0.7252076494642643,
+            "bortle": 4,
+            "near": "Courtalain",
+            "id": "48.0354_1.1604",
             "altitude": null
         },
         {
-            "lat": 48.18125,
-            "lon": 1.96875,
-            "darkness": 0.3561819427814268,
-            "bortle": 5,
-            "near": "Toury",
-            "id": "48.1812_1.9688",
-            "name": null,
+            "lat": 48.17708333333333,
+            "lon": 1.1604166666666593,
+            "darkness": 0.7027430768170957,
+            "bortle": 4,
+            "near": "Yèvres",
+            "id": "48.1771_1.1604",
             "altitude": null
         },
         {
-            "lat": 48.31875,
-            "lon": 1.8395833333333331,
-            "darkness": 0.3471302068864057,
-            "bortle": 6,
+            "lat": 48.360416666666666,
+            "lon": 1.1604166666666593,
+            "darkness": 0.6771302267330452,
+            "bortle": 4,
+            "near": "Chuisnes",
+            "id": "48.3604_1.1604",
+            "altitude": null
+        },
+        {
+            "lat": 48.543749999999996,
+            "lon": 1.114583333333326,
+            "darkness": 0.636129987932779,
+            "bortle": 4,
+            "near": "Digny",
+            "id": "48.5437_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 48.727083333333326,
+            "lon": 1.0187499999999927,
+            "darkness": 0.6326264690641286,
+            "bortle": 4,
+            "near": "Tillières-sur-Avre",
+            "id": "48.7271_1.0187",
+            "altitude": null
+        },
+        {
+            "lat": 48.197916666666664,
+            "lon": 1.3895833333333254,
+            "darkness": 0.6292932212291975,
+            "bortle": 4,
+            "near": "Bonneval",
+            "id": "48.1979_1.3896",
+            "altitude": null
+        },
+        {
+            "lat": 48.131249999999994,
+            "lon": 1.572916666666659,
+            "darkness": 0.6248739855317593,
+            "bortle": 4,
+            "near": "Sancheville",
+            "id": "48.1312_1.5729",
+            "altitude": null
+        },
+        {
+            "lat": 48.26875,
+            "lon": 1.572916666666659,
+            "darkness": 0.5602968752358545,
+            "bortle": 4,
+            "near": "Voves",
+            "id": "48.2687_1.5729",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": 1.114583333333326,
+            "darkness": 0.5579404527525311,
+            "bortle": 4,
+            "near": "Damville",
+            "id": "48.8646_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 48.21874999999999,
+            "lon": 1.802083333333326,
+            "darkness": 0.5380281751860776,
+            "bortle": 4,
+            "near": "Janville",
+            "id": "48.2187_1.8021",
+            "altitude": null
+        },
+        {
+            "lat": 48.46458333333333,
+            "lon": 1.2979166666666586,
+            "darkness": 0.5263351420623319,
+            "bortle": 4,
+            "near": "Fontaine-la-Guyon",
+            "id": "48.4646_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 48.68124999999999,
+            "lon": 1.2520833333333252,
+            "darkness": 0.5178011046486549,
+            "bortle": 4,
+            "near": "Saulnières",
+            "id": "48.6812_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 48.043749999999996,
+            "lon": 1.7562499999999925,
+            "darkness": 0.5036289662593181,
+            "bortle": 4,
+            "near": "Sougy",
+            "id": "48.0437_1.7562",
+            "altitude": null
+        },
+        {
+            "lat": 48.31458333333333,
+            "lon": 1.8479166666666593,
+            "darkness": 0.49896347621027715,
+            "bortle": 5,
             "near": "Ouarville",
-            "id": "48.3188_1.8396",
-            "name": null,
+            "id": "48.3146_1.8479",
             "altitude": null
         },
         {
-            "lat": 48.09375,
-            "lon": 1.7937499999999997,
-            "darkness": 0.3458458824957409,
+            "lat": 48.50208333333333,
+            "lon": 1.343749999999992,
+            "darkness": 0.4965993952411186,
+            "bortle": 5,
+            "near": "Fontaine-la-Guyon",
+            "id": "48.5021_1.3437",
+            "altitude": null
+        },
+        {
+            "lat": 48.13958333333333,
+            "lon": 1.8979166666666591,
+            "darkness": 0.49151707508241127,
+            "bortle": 5,
+            "near": "Baigneaux",
+            "id": "48.1396_1.8979",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": 1.2062499999999927,
+            "darkness": 0.48878787982520533,
+            "bortle": 5,
+            "near": "Prey",
+            "id": "48.9104_1.2062",
+            "altitude": null
+        },
+        {
+            "lat": 48.77708333333333,
+            "lon": 1.2520833333333252,
+            "darkness": 0.47580707781688647,
+            "bortle": 5,
+            "near": "Saint-Germain-sur-Avre",
+            "id": "48.7771_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": 1.4354166666666588,
+            "darkness": 0.4740711473816118,
+            "bortle": 5,
+            "near": "Mignières",
+            "id": "48.3604_1.4354",
+            "altitude": null
+        },
+        {
+            "lat": 48.635416666666664,
+            "lon": 1.3895833333333254,
+            "darkness": 0.47193191821474,
+            "bortle": 5,
+            "near": "Marville-Moutiers-Brûlé",
+            "id": "48.6354_1.3896",
+            "altitude": null
+        },
+        {
+            "lat": 48.40624999999999,
+            "lon": 1.6687499999999922,
+            "darkness": 0.44142462005858873,
+            "bortle": 5,
+            "near": "Francourville",
+            "id": "48.4062_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 48.84791666666666,
+            "lon": 1.4354166666666588,
+            "darkness": 0.41144744166220504,
+            "bortle": 5,
+            "near": "Anet",
+            "id": "48.8479_1.4354",
+            "altitude": null
+        },
+        {
+            "lat": 48.547916666666666,
+            "lon": 1.572916666666659,
+            "darkness": 0.4013417094527235,
+            "bortle": 5,
+            "near": "Saint-Piat",
+            "id": "48.5479_1.5729",
+            "altitude": null
+        },
+        {
+            "lat": 48.727083333333326,
+            "lon": 1.572916666666659,
+            "darkness": 0.3860403351982661,
+            "bortle": 5,
+            "near": "Broué",
+            "id": "48.7271_1.5729",
+            "altitude": null
+        },
+        {
+            "lat": 48.45208333333333,
+            "lon": 1.8937499999999927,
+            "darkness": 0.3816743652549177,
+            "bortle": 5,
+            "near": "Sainville",
+            "id": "48.4521_1.8937",
+            "altitude": null
+        },
+        {
+            "lat": 48.635416666666664,
+            "lon": 1.7104166666666591,
+            "darkness": 0.34894592128782054,
             "bortle": 6,
-            "near": "Terminiers",
-            "id": "48.0938_1.7937",
-            "name": null,
+            "near": "Raizeux",
+            "id": "48.6354_1.7104",
             "altitude": null
         },
         {
-            "lat": 48.45625,
-            "lon": 1.71875,
-            "darkness": 0.2615501044730233,
+            "lat": 48.40624999999999,
+            "lon": 1.4354166666666588,
+            "darkness": 0.3489379657755248,
             "bortle": 6,
-            "near": "Béville-le-Comte",
-            "id": "48.4562_1.7188",
-            "name": null,
+            "near": "Fontenay-sur-Eure",
+            "id": "48.4062_1.4354",
             "altitude": null
         },
         {
-            "lat": 48.59375,
-            "lon": 1.7020833333333334,
-            "darkness": 0.2137897184808183,
+            "lat": 48.45208333333333,
+            "lon": 1.9854166666666586,
+            "darkness": 0.34342342189194086,
             "bortle": 6,
-            "near": "Droue-sur-Drouette",
-            "id": "48.5938_1.7021",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.59375,
-            "lon": 1.7479166666666668,
-            "darkness": 0.19315811632579583,
-            "bortle": 7,
-            "near": "Émancé",
-            "id": "48.5938_1.7479",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.73125,
-            "lon": 1.65625,
-            "darkness": 0.1914541721351699,
-            "bortle": 7,
-            "near": "Adainville",
-            "id": "48.7313_1.6562",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.45625,
-            "lon": 1.9770833333333333,
-            "darkness": 0.1909932189165896,
-            "bortle": 7,
             "near": "Saint-Escobille",
-            "id": "48.4562_1.9771",
-            "name": null,
+            "id": "48.4521_1.9854",
             "altitude": null
         },
         {
-            "lat": 48.86875,
-            "lon": 1.65625,
-            "darkness": 0.13831075108210056,
-            "bortle": 7,
-            "near": "Septeuil",
-            "id": "48.8687_1.6562",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.59375,
-            "lon": 1.9770833333333333,
-            "darkness": 0.06920264947123078,
-            "bortle": 7,
-            "near": "Rochefort-en-Yvelines",
-            "id": "48.5938_1.9771",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.73125,
-            "lon": 1.8854166666666665,
-            "darkness": 0.01074165862544818,
-            "bortle": 7,
-            "near": "Les Essarts-le-Roi",
-            "id": "48.7313_1.8854",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.91458333333333,
-            "lon": 1.9354166666666668,
-            "darkness": 0.0,
-            "bortle": 8,
-            "near": "Les Alluets-le-Roi",
-            "id": "48.9146_1.9354",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.77708333333334,
-            "lon": 1.8645833333333335,
-            "darkness": 0.0,
-            "bortle": 8,
-            "near": "Bazoches-sur-Guyonne",
-            "id": "48.7771_1.8646",
-            "name": null,
-            "altitude": null
-        },
-        {
-            "lat": 48.00208333333333,
-            "lon": 1.7937499999999997,
-            "darkness": 0.2475918816044621,
+            "lat": 48.99374999999999,
+            "lon": 1.5270833333333256,
+            "darkness": 0.3379331432473295,
             "bortle": 6,
-            "near": "Bricy",
-            "id": "48.0021_1.7937",
-            "name": null,
+            "near": "Lommoye",
+            "id": "48.9937_1.5271",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": 1.6187499999999924,
+            "darkness": 0.3361798187504864,
+            "bortle": 6,
+            "near": "Maulette",
+            "id": "48.8187_1.6187",
+            "altitude": null
+        },
+        {
+            "lat": 48.58958333333333,
+            "lon": 1.9395833333333252,
+            "darkness": 0.2471959051225593,
+            "bortle": 6,
+            "near": "Saint-Arnoult-en-Yvelines",
+            "id": "48.5896_1.9396",
+            "altitude": null
+        },
+        {
+            "lat": 48.99374999999999,
+            "lon": 1.6645833333333258,
+            "darkness": 0.19778576788068059,
+            "bortle": 7,
+            "near": "Buchelay",
+            "id": "48.9937_1.6646",
+            "altitude": null
+        },
+        {
+            "lat": 48.68124999999999,
+            "lon": 1.8937499999999927,
+            "darkness": 0.19659014990804335,
+            "bortle": 7,
+            "near": "Vieille-Église-en-Yvelines",
+            "id": "48.6812_1.8937",
+            "altitude": null
+        },
+        {
+            "lat": 48.818749999999994,
+            "lon": 1.802083333333326,
+            "darkness": 0.19603422697114126,
+            "bortle": 7,
+            "near": "Boissy-sans-Avoir",
+            "id": "48.8187_1.8021",
+            "altitude": null
+        },
+        {
+            "lat": 48.96041666666666,
+            "lon": 1.8937499999999927,
+            "darkness": 0.07878476778855337,
+            "bortle": 7,
+            "near": "Bouafle",
+            "id": "48.9604_1.8937",
             "altitude": null
         }
     ]

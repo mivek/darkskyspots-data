@@ -1,0 +1,395 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N046W001",
+    "spots": [
+        {
+            "lat": 46.11458333333333,
+            "lon": -0.027083333333340676,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Melleran",
+            "id": "46.1146_-0.0271",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": -0.21041666666667425,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Fontenille-Saint-Martin-d'Entraigues",
+            "id": "46.0687_-0.2104",
+            "altitude": null
+        },
+        {
+            "lat": 46.11458333333333,
+            "lon": -0.07291666666667407,
+            "darkness": 0.9935849718565002,
+            "bortle": 2,
+            "near": "Chef-Boutonne",
+            "id": "46.1146_-0.0729",
+            "altitude": null
+        },
+        {
+            "lat": 46.00208333333333,
+            "lon": -0.3479166666666744,
+            "darkness": 0.9815453678266425,
+            "bortle": 2,
+            "near": "Aulnay",
+            "id": "46.0021_-0.3479",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": -0.531250000000008,
+            "darkness": 0.9466946818570364,
+            "bortle": 2,
+            "near": "Loulay",
+            "id": "46.0687_-0.5313",
+            "altitude": null
+        },
+        {
+            "lat": 46.664583333333326,
+            "lon": -0.4854166666666746,
+            "darkness": 0.9436200457505626,
+            "bortle": 2,
+            "near": "Neuvy-Bouin",
+            "id": "46.6646_-0.4854",
+            "altitude": null
+        },
+        {
+            "lat": 46.57708333333333,
+            "lon": -0.07708333333334139,
+            "darkness": 0.9304794498161157,
+            "bortle": 2,
+            "near": "Vasles",
+            "id": "46.5771_-0.0771",
+            "altitude": null
+        },
+        {
+            "lat": 46.16041666666666,
+            "lon": -0.25625000000000764,
+            "darkness": 0.920952398956495,
+            "bortle": 2,
+            "near": "Périgné",
+            "id": "46.1604_-0.2563",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": -0.531250000000008,
+            "darkness": 0.9209362806322037,
+            "bortle": 2,
+            "near": "Ardin",
+            "id": "46.5312_-0.5313",
+            "altitude": null
+        },
+        {
+            "lat": 46.756249999999994,
+            "lon": -0.32291666666667407,
+            "darkness": 0.9098617989853983,
+            "bortle": 2,
+            "near": "Amailloux",
+            "id": "46.7562_-0.3229",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": -0.30625000000000746,
+            "darkness": 0.9002468857357224,
+            "bortle": 2,
+            "near": "Mazières-en-Gâtine",
+            "id": "46.5312_-0.3063",
+            "altitude": null
+        },
+        {
+            "lat": 46.20625,
+            "lon": -0.7062500000000078,
+            "darkness": 0.8999216044408829,
+            "bortle": 2,
+            "near": "Cramchaban",
+            "id": "46.2062_-0.7063",
+            "altitude": null
+        },
+        {
+            "lat": 46.985416666666666,
+            "lon": -0.031250000000007994,
+            "darkness": 0.8917005112690644,
+            "bortle": 2,
+            "near": "Oiron",
+            "id": "46.9854_-0.0313",
+            "altitude": null
+        },
+        {
+            "lat": 46.93541666666666,
+            "lon": -0.3479166666666744,
+            "darkness": 0.8764433845273075,
+            "bortle": 2,
+            "near": "Moutiers-sous-Argenton",
+            "id": "46.9354_-0.3479",
+            "altitude": null
+        },
+        {
+            "lat": 46.58958333333333,
+            "lon": -0.7145833333333407,
+            "darkness": 0.8727760431703381,
+            "bortle": 2,
+            "near": "Saint-Maurice-des-Noues",
+            "id": "46.5896_-0.7146",
+            "altitude": null
+        },
+        {
+            "lat": 46.33958333333333,
+            "lon": -0.7645833333333414,
+            "darkness": 0.8712350803867241,
+            "bortle": 2,
+            "near": "Maillé",
+            "id": "46.3396_-0.7646",
+            "altitude": null
+        },
+        {
+            "lat": 46.756249999999994,
+            "lon": -0.6687500000000073,
+            "darkness": 0.8612636611350755,
+            "bortle": 2,
+            "near": "La Forêt-sur-Sèvre",
+            "id": "46.7562_-0.6688",
+            "altitude": null
+        },
+        {
+            "lat": 46.414583333333326,
+            "lon": -0.9937500000000075,
+            "darkness": 0.8572012049457463,
+            "bortle": 2,
+            "near": "Chaillé-les-Marais",
+            "id": "46.4146_-0.9938",
+            "altitude": null
+        },
+        {
+            "lat": 46.43958333333333,
+            "lon": -0.11875000000000746,
+            "darkness": 0.8499452856442247,
+            "bortle": 2,
+            "near": "Nanteuil",
+            "id": "46.4396_-0.1188",
+            "altitude": null
+        },
+        {
+            "lat": 46.61874999999999,
+            "lon": -0.9437500000000076,
+            "darkness": 0.8497471448300322,
+            "bortle": 2,
+            "near": "La Jaudonnière",
+            "id": "46.6187_-0.9438",
+            "altitude": null
+        },
+        {
+            "lat": 46.818749999999994,
+            "lon": -0.06875000000000764,
+            "darkness": 0.8483978305086273,
+            "bortle": 3,
+            "near": "Assais-les-Jumeaux",
+            "id": "46.8187_-0.0688",
+            "altitude": null
+        },
+        {
+            "lat": 46.356249999999996,
+            "lon": -0.9395833333333412,
+            "darkness": 0.8478173465085199,
+            "bortle": 3,
+            "near": "Le Gué-de-Velluire",
+            "id": "46.3562_-0.9396",
+            "altitude": null
+        },
+        {
+            "lat": 46.80208333333333,
+            "lon": -0.4354166666666739,
+            "darkness": 0.8476967306946934,
+            "bortle": 3,
+            "near": "Boismé",
+            "id": "46.8021_-0.4354",
+            "altitude": null
+        },
+        {
+            "lat": 46.34374999999999,
+            "lon": -0.16458333333334085,
+            "darkness": 0.8457241412898591,
+            "bortle": 3,
+            "near": "La Mothe-Saint-Héray",
+            "id": "46.3437_-0.1646",
+            "altitude": null
+        },
+        {
+            "lat": 46.664583333333326,
+            "lon": -0.7604166666666741,
+            "darkness": 0.8443893159336332,
+            "bortle": 3,
+            "near": "La Tardière",
+            "id": "46.6646_-0.7604",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": -0.8062500000000075,
+            "darkness": 0.8431671359684275,
+            "bortle": 3,
+            "near": "Bourneau",
+            "id": "46.5312_-0.8063",
+            "altitude": null
+        },
+        {
+            "lat": 46.80208333333333,
+            "lon": -0.6520833333333407,
+            "darkness": 0.8429500076186432,
+            "bortle": 3,
+            "near": "Cerizay",
+            "id": "46.8021_-0.6521",
+            "altitude": null
+        },
+        {
+            "lat": 46.61874999999999,
+            "lon": -0.989583333333341,
+            "darkness": 0.8418431082892088,
+            "bortle": 3,
+            "near": "La Jaudonnière",
+            "id": "46.6187_-0.9896",
+            "altitude": null
+        },
+        {
+            "lat": 46.20625,
+            "lon": -0.5354166666666744,
+            "darkness": 0.8416844784724574,
+            "bortle": 3,
+            "near": "Vallans",
+            "id": "46.2062_-0.5354",
+            "altitude": null
+        },
+        {
+            "lat": 46.11458333333333,
+            "lon": -0.8520833333333409,
+            "darkness": 0.8368219667305171,
+            "bortle": 3,
+            "near": "Chambon",
+            "id": "46.1146_-0.8521",
+            "altitude": null
+        },
+        {
+            "lat": 46.96041666666666,
+            "lon": -0.531250000000008,
+            "darkness": 0.8349748402921544,
+            "bortle": 3,
+            "near": "Voulmentin",
+            "id": "46.9604_-0.5313",
+            "altitude": null
+        },
+        {
+            "lat": 46.98958333333333,
+            "lon": -0.30625000000000746,
+            "darkness": 0.8345487125114834,
+            "bortle": 3,
+            "near": "Mauzé-Thouarsais",
+            "id": "46.9896_-0.3063",
+            "altitude": null
+        },
+        {
+            "lat": 46.39375,
+            "lon": -0.6270833333333412,
+            "darkness": 0.8314756691993287,
+            "bortle": 3,
+            "near": "Oulmes",
+            "id": "46.3937_-0.6271",
+            "altitude": null
+        },
+        {
+            "lat": 46.43958333333333,
+            "lon": -0.30625000000000746,
+            "darkness": 0.8208599637354632,
+            "bortle": 3,
+            "near": "Augé",
+            "id": "46.4396_-0.3063",
+            "altitude": null
+        },
+        {
+            "lat": 46.25208333333333,
+            "lon": -0.3145833333333412,
+            "darkness": 0.7720611365205745,
+            "bortle": 3,
+            "near": "Prahecq",
+            "id": "46.2521_-0.3146",
+            "altitude": null
+        },
+        {
+            "lat": 46.88958333333333,
+            "lon": -0.8062500000000075,
+            "darkness": 0.7614335139665365,
+            "bortle": 3,
+            "near": "Saint-Amand-sur-Sèvre",
+            "id": "46.8896_-0.8063",
+            "altitude": null
+        },
+        {
+            "lat": 46.756249999999994,
+            "lon": -0.9145833333333409,
+            "darkness": 0.7608764835926924,
+            "bortle": 3,
+            "near": "Monsireigne",
+            "id": "46.7562_-0.9146",
+            "altitude": null
+        },
+        {
+            "lat": 46.34374999999999,
+            "lon": -0.25625000000000764,
+            "darkness": 0.7356120451694915,
+            "bortle": 4,
+            "near": "Romans",
+            "id": "46.3437_-0.2563",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": -0.989583333333341,
+            "darkness": 0.7350044745796265,
+            "bortle": 4,
+            "near": "Thairé",
+            "id": "46.0687_-0.9896",
+            "altitude": null
+        },
+        {
+            "lat": 46.25208333333333,
+            "lon": -0.48958333333334103,
+            "darkness": 0.7321383995777493,
+            "bortle": 4,
+            "near": "Saint-Symphorien",
+            "id": "46.2521_-0.4896",
+            "altitude": null
+        },
+        {
+            "lat": 46.84791666666666,
+            "lon": -0.8979166666666742,
+            "darkness": 0.7317472842735953,
+            "bortle": 4,
+            "near": "Saint-Michel-Mont-Mercure",
+            "id": "46.8479_-0.8979",
+            "altitude": null
+        },
+        {
+            "lat": 46.39375,
+            "lon": -0.44375000000000764,
+            "darkness": 0.7265616471008594,
+            "bortle": 4,
+            "near": "Échiré",
+            "id": "46.3937_-0.4438",
+            "altitude": null
+        },
+        {
+            "lat": 46.96874999999999,
+            "lon": -0.7604166666666741,
+            "darkness": 0.7206045961231028,
+            "bortle": 4,
+            "near": "Saint-Pierre-des-Échaubrognes",
+            "id": "46.9687_-0.7604",
+            "altitude": null
+        }
+    ]
+}

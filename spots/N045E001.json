@@ -1,0 +1,422 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N045E001",
+    "spots": [
+        {
+            "lat": 45.977083333333326,
+            "lon": 1.7145833333333256,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Bourganeuf",
+            "id": "45.9771_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 45.93124999999999,
+            "lon": 1.8979166666666591,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Royère-de-Vassivière",
+            "id": "45.9312_1.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.83958333333333,
+            "lon": 1.7145833333333256,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Peyrat-le-Château",
+            "id": "45.8396_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 45.793749999999996,
+            "lon": 1.8979166666666591,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Royère-de-Vassivière",
+            "id": "45.7937_1.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 1.6687499999999922,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Neuvic-Entier",
+            "id": "45.7021_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 45.65624999999999,
+            "lon": 1.8520833333333258,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Nedde",
+            "id": "45.6562_1.8521",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": 1.5770833333333254,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "La Porcherie",
+            "id": "45.5646_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 45.51875,
+            "lon": 1.760416666666659,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Treignac",
+            "id": "45.5187_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 45.51875,
+            "lon": 1.989583333333326,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Bugeat",
+            "id": "45.5187_1.9896",
+            "altitude": null
+        },
+        {
+            "lat": 45.33541666666666,
+            "lon": 1.9437499999999925,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Eyrein",
+            "id": "45.3354_1.9437",
+            "altitude": null
+        },
+        {
+            "lat": 45.197916666666664,
+            "lon": 1.8979166666666591,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Lagarde-Enval",
+            "id": "45.1979_1.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 1.989583333333326,
+            "darkness": 1.0,
+            "bortle": 1,
+            "near": "Argentat",
+            "id": "45.0146_1.9896",
+            "altitude": null
+        },
+        {
+            "lat": 45.74791666666666,
+            "lon": 1.6687499999999922,
+            "darkness": 0.997699832134693,
+            "bortle": 2,
+            "near": "Neuvic-Entier",
+            "id": "45.7479_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 45.93541666666666,
+            "lon": 1.6687499999999922,
+            "darkness": 0.997203951602937,
+            "bortle": 2,
+            "near": "Sauviat-sur-Vige",
+            "id": "45.9354_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 45.33958333333333,
+            "lon": 1.8979166666666591,
+            "darkness": 0.9960178002680335,
+            "bortle": 2,
+            "near": "Eyrein",
+            "id": "45.3396_1.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.43124999999999,
+            "lon": 1.6687499999999922,
+            "darkness": 0.9949455305305231,
+            "bortle": 2,
+            "near": "Chamboulive",
+            "id": "45.4312_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 45.01875,
+            "lon": 1.8979166666666591,
+            "darkness": 0.9913817480868299,
+            "bortle": 2,
+            "near": "Altillac",
+            "id": "45.0187_1.8979",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": 1.531249999999992,
+            "darkness": 0.9875676233436376,
+            "bortle": 2,
+            "near": "La Porcherie",
+            "id": "45.5646_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 45.15208333333333,
+            "lon": 1.8520833333333258,
+            "darkness": 0.9789216264418195,
+            "bortle": 2,
+            "near": "Albussac",
+            "id": "45.1521_1.8521",
+            "altitude": null
+        },
+        {
+            "lat": 45.38958333333333,
+            "lon": 1.1187499999999924,
+            "darkness": 0.9778359374882608,
+            "bortle": 2,
+            "near": "Lanouaille",
+            "id": "45.3896_1.1187",
+            "altitude": null
+        },
+        {
+            "lat": 45.33958333333333,
+            "lon": 1.2979166666666586,
+            "darkness": 0.9573595597986013,
+            "bortle": 2,
+            "near": "Juillac",
+            "id": "45.3396_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 45.477083333333326,
+            "lon": 1.3812499999999925,
+            "darkness": 0.9572930309582892,
+            "bortle": 2,
+            "near": "Lubersac",
+            "id": "45.4771_1.3812",
+            "altitude": null
+        },
+        {
+            "lat": 45.24791666666666,
+            "lon": 1.072916666666659,
+            "darkness": 0.9399204319423906,
+            "bortle": 2,
+            "near": "Tourtoirac",
+            "id": "45.2479_1.0729",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 1.6229166666666588,
+            "darkness": 0.9340620250650787,
+            "bortle": 2,
+            "near": "Sarrazac",
+            "id": "45.0146_1.6229",
+            "altitude": null
+        },
+        {
+            "lat": 45.01458333333333,
+            "lon": 1.0270833333333256,
+            "darkness": 0.9335462026574618,
+            "bortle": 2,
+            "near": "Plazac",
+            "id": "45.0146_1.0271",
+            "altitude": null
+        },
+        {
+            "lat": 45.56458333333333,
+            "lon": 1.1604166666666593,
+            "darkness": 0.9166507336641764,
+            "bortle": 2,
+            "near": "Ladignac-le-Long",
+            "id": "45.5646_1.1604",
+            "altitude": null
+        },
+        {
+            "lat": 45.610416666666666,
+            "lon": 1.3479166666666593,
+            "darkness": 0.9045624665290019,
+            "bortle": 2,
+            "near": "Château-Chervix",
+            "id": "45.6104_1.3479",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 1.6229166666666588,
+            "darkness": 0.8788234847593619,
+            "bortle": 2,
+            "near": "Chanteix",
+            "id": "45.2937_1.6229",
+            "altitude": null
+        },
+        {
+            "lat": 45.06041666666666,
+            "lon": 1.2562499999999925,
+            "darkness": 0.8679523465649599,
+            "bortle": 2,
+            "near": "Aubas",
+            "id": "45.0604_1.2562",
+            "altitude": null
+        },
+        {
+            "lat": 45.20208333333333,
+            "lon": 1.2979166666666586,
+            "darkness": 0.858855652280232,
+            "bortle": 2,
+            "near": "Brignac-la-Plaine",
+            "id": "45.2021_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 45.106249999999996,
+            "lon": 1.6687499999999922,
+            "darkness": 0.8481098297890082,
+            "bortle": 3,
+            "near": "Beynat",
+            "id": "45.1062_1.6687",
+            "altitude": null
+        },
+        {
+            "lat": 45.12291666666666,
+            "lon": 1.156249999999992,
+            "darkness": 0.847438096073319,
+            "bortle": 3,
+            "near": "Le Lardin-Saint-Lazare",
+            "id": "45.1229_1.1562",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 1.7145833333333256,
+            "darkness": 0.8448351961696965,
+            "bortle": 3,
+            "near": "Saint-Mexant",
+            "id": "45.2937_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 45.65624999999999,
+            "lon": 1.3479166666666593,
+            "darkness": 0.8404153937776095,
+            "bortle": 3,
+            "near": "Vicq-sur-Breuilh",
+            "id": "45.6562_1.3479",
+            "altitude": null
+        },
+        {
+            "lat": 45.293749999999996,
+            "lon": 1.4812499999999922,
+            "darkness": 0.8378265767694562,
+            "bortle": 3,
+            "near": "Voutezac",
+            "id": "45.2937_1.4812",
+            "altitude": null
+        },
+        {
+            "lat": 45.06041666666666,
+            "lon": 1.3895833333333254,
+            "darkness": 0.8367607999745689,
+            "bortle": 3,
+            "near": "Pazayac",
+            "id": "45.0604_1.3896",
+            "altitude": null
+        },
+        {
+            "lat": 45.793749999999996,
+            "lon": 1.531249999999992,
+            "darkness": 0.8349552373248833,
+            "bortle": 3,
+            "near": "La Geneytouse",
+            "id": "45.7937_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": 1.114583333333326,
+            "darkness": 0.8044329114408356,
+            "bortle": 3,
+            "near": "Chamboret",
+            "id": "45.9812_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 1.114583333333326,
+            "darkness": 0.8034110586622254,
+            "bortle": 3,
+            "near": "Flavignac",
+            "id": "45.7021_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 45.981249999999996,
+            "lon": 1.2062499999999927,
+            "darkness": 0.7379137805422078,
+            "bortle": 4,
+            "near": "Saint-Jouvent",
+            "id": "45.9812_1.2062",
+            "altitude": null
+        },
+        {
+            "lat": 45.20208333333333,
+            "lon": 1.6229166666666588,
+            "darkness": 0.7357758140293952,
+            "bortle": 4,
+            "near": "Saint-Hilaire-Peyroux",
+            "id": "45.2021_1.6229",
+            "altitude": null
+        },
+        {
+            "lat": 45.70208333333333,
+            "lon": 1.302083333333326,
+            "darkness": 0.719457180152469,
+            "bortle": 4,
+            "near": "Pierre-Buffière",
+            "id": "45.7021_1.3021",
+            "altitude": null
+        },
+        {
+            "lat": 45.793749999999996,
+            "lon": 1.0687499999999925,
+            "darkness": 0.7138849584288165,
+            "bortle": 4,
+            "near": "Séreilhac",
+            "id": "45.7937_1.0687",
+            "altitude": null
+        },
+        {
+            "lat": 45.15208333333333,
+            "lon": 1.3895833333333254,
+            "darkness": 0.7098260483354714,
+            "bortle": 4,
+            "near": "Mansac",
+            "id": "45.1521_1.3896",
+            "altitude": null
+        },
+        {
+            "lat": 45.88958333333333,
+            "lon": 1.4395833333333252,
+            "darkness": 0.6966891023875015,
+            "bortle": 4,
+            "near": "Saint-Priest-Taurion",
+            "id": "45.8896_1.4396",
+            "altitude": null
+        },
+        {
+            "lat": 45.88958333333333,
+            "lon": 1.2062499999999927,
+            "darkness": 0.47233788852431446,
+            "bortle": 5,
+            "near": "Couzeix",
+            "id": "45.8896_1.2062",
+            "altitude": null
+        }
+    ]
+}

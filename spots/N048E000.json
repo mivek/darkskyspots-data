@@ -1,0 +1,296 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N048E000",
+    "spots": [
+        {
+            "lat": 48.61458333333333,
+            "lon": 0.014583333333325399,
+            "darkness": 0.8376427916966748,
+            "bortle": 3,
+            "near": "Mortrée",
+            "id": "48.6146_0.0146",
+            "altitude": null
+        },
+        {
+            "lat": 48.635416666666664,
+            "lon": 0.2937499999999922,
+            "darkness": 0.836791265649742,
+            "bortle": 3,
+            "near": "Courtomer",
+            "id": "48.6354_0.2937",
+            "altitude": null
+        },
+        {
+            "lat": 48.77291666666666,
+            "lon": 0.15208333333332558,
+            "darkness": 0.8322838424938147,
+            "bortle": 3,
+            "near": "Nonant-le-Pin",
+            "id": "48.7729_0.1521",
+            "altitude": null
+        },
+        {
+            "lat": 48.41041666666666,
+            "lon": 0.43124999999999236,
+            "darkness": 0.8267747294622635,
+            "bortle": 3,
+            "near": "Le Gué-de-la-Chaîne",
+            "id": "48.4104_0.4312",
+            "altitude": null
+        },
+        {
+            "lat": 48.08541666666666,
+            "lon": 0.9270833333333259,
+            "darkness": 0.8122358900038212,
+            "bortle": 3,
+            "near": "Souday",
+            "id": "48.0854_0.9271",
+            "altitude": null
+        },
+        {
+            "lat": 48.59374999999999,
+            "lon": 0.5187499999999927,
+            "darkness": 0.8120630361568785,
+            "bortle": 3,
+            "near": "Soligny-la-Trappe",
+            "id": "48.5937_0.5187",
+            "altitude": null
+        },
+        {
+            "lat": 48.41041666666666,
+            "lon": 0.656249999999992,
+            "darkness": 0.8068535537159598,
+            "bortle": 3,
+            "near": "Nocé",
+            "id": "48.4104_0.6562",
+            "altitude": null
+        },
+        {
+            "lat": 48.81458333333333,
+            "lon": 0.36874999999999236,
+            "darkness": 0.8013142981890993,
+            "bortle": 3,
+            "near": "Gacé",
+            "id": "48.8146_0.3687",
+            "altitude": null
+        },
+        {
+            "lat": 48.27291666666666,
+            "lon": 0.43124999999999236,
+            "darkness": 0.7941578654729686,
+            "bortle": 3,
+            "near": "Saint-Cosme-en-Vairais",
+            "id": "48.2729_0.4312",
+            "altitude": null
+        },
+        {
+            "lat": 48.58958333333333,
+            "lon": 0.7479166666666588,
+            "darkness": 0.7904732293611326,
+            "bortle": 3,
+            "near": "Saint-Maurice-lès-Charencey",
+            "id": "48.5896_0.7479",
+            "altitude": null
+        },
+        {
+            "lat": 48.91041666666666,
+            "lon": 0.19791666666665897,
+            "darkness": 0.7855782077803812,
+            "bortle": 3,
+            "near": "Vimoutiers",
+            "id": "48.9104_0.1979",
+            "altitude": null
+        },
+        {
+            "lat": 48.50208333333333,
+            "lon": 0.2479166666666588,
+            "darkness": 0.7788746471242263,
+            "bortle": 3,
+            "near": "Essay",
+            "id": "48.5021_0.2479",
+            "altitude": null
+        },
+        {
+            "lat": 48.227083333333326,
+            "lon": 0.014583333333325399,
+            "darkness": 0.7787834404490178,
+            "bortle": 3,
+            "near": "Ségrie",
+            "id": "48.2271_0.0146",
+            "altitude": null
+        },
+        {
+            "lat": 48.31458333333333,
+            "lon": 0.2020833333333254,
+            "darkness": 0.7700669142280383,
+            "bortle": 3,
+            "near": "Courgains",
+            "id": "48.3146_0.2021",
+            "altitude": null
+        },
+        {
+            "lat": 48.727083333333326,
+            "lon": 0.5645833333333261,
+            "darkness": 0.7675326829541428,
+            "bortle": 3,
+            "near": "Aube-sur-Rîle",
+            "id": "48.7271_0.5646",
+            "altitude": null
+        },
+        {
+            "lat": 48.22291666666666,
+            "lon": 0.9312499999999924,
+            "darkness": 0.7620127205396677,
+            "bortle": 3,
+            "near": "Authon-du-Perche",
+            "id": "48.2229_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": 0.5645833333333261,
+            "darkness": 0.761870568107087,
+            "bortle": 3,
+            "near": "Glos-la-Ferrière",
+            "id": "48.8646_0.5646",
+            "altitude": null
+        },
+        {
+            "lat": 48.414583333333326,
+            "lon": 0.885416666666659,
+            "darkness": 0.7495771202529327,
+            "bortle": 3,
+            "near": "Bretoncelles",
+            "id": "48.4146_0.8854",
+            "altitude": null
+        },
+        {
+            "lat": 48.50208333333333,
+            "lon": 0.156249999999992,
+            "darkness": 0.739629775325023,
+            "bortle": 4,
+            "near": "Radon",
+            "id": "48.5021_0.1562",
+            "altitude": null
+        },
+        {
+            "lat": 48.18124999999999,
+            "lon": 0.47708333333332575,
+            "darkness": 0.7393974655907984,
+            "bortle": 4,
+            "near": "Bonnétable",
+            "id": "48.1812_0.4771",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": 0.656249999999992,
+            "darkness": 0.7390398629298462,
+            "bortle": 4,
+            "near": "Glos-la-Ferrière",
+            "id": "48.8646_0.6562",
+            "altitude": null
+        },
+        {
+            "lat": 48.58958333333333,
+            "lon": 0.885416666666659,
+            "darkness": 0.7380577546172369,
+            "bortle": 4,
+            "near": "La Ferté-Vidame",
+            "id": "48.5896_0.8854",
+            "altitude": null
+        },
+        {
+            "lat": 48.27291666666666,
+            "lon": 0.656249999999992,
+            "darkness": 0.7375348667775439,
+            "bortle": 4,
+            "near": "Saint-Germain-de-la-Coudre",
+            "id": "48.2729_0.6562",
+            "altitude": null
+        },
+        {
+            "lat": 48.95625,
+            "lon": 0.38124999999999254,
+            "darkness": 0.7366406370170392,
+            "bortle": 4,
+            "near": "Orbec",
+            "id": "48.9562_0.3812",
+            "altitude": null
+        },
+        {
+            "lat": 48.727083333333326,
+            "lon": 0.7937499999999922,
+            "darkness": 0.7317322750488071,
+            "bortle": 4,
+            "near": "Bourth",
+            "id": "48.7271_0.7937",
+            "altitude": null
+        },
+        {
+            "lat": 48.443749999999994,
+            "lon": 0.9312499999999924,
+            "darkness": 0.7258074894798866,
+            "bortle": 4,
+            "near": "Bretoncelles",
+            "id": "48.4437_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 48.360416666666666,
+            "lon": 0.156249999999992,
+            "darkness": 0.72455353655004,
+            "bortle": 4,
+            "near": "Ancinnes",
+            "id": "48.3604_0.1562",
+            "altitude": null
+        },
+        {
+            "lat": 48.131249999999994,
+            "lon": 0.7062499999999927,
+            "darkness": 0.7037155538722677,
+            "bortle": 4,
+            "near": "Lamnay",
+            "id": "48.1312_0.7062",
+            "altitude": null
+        },
+        {
+            "lat": 48.18124999999999,
+            "lon": 0.2479166666666588,
+            "darkness": 0.6966076807656073,
+            "bortle": 4,
+            "near": "Saint-Mars-sous-Ballon",
+            "id": "48.1812_0.2479",
+            "altitude": null
+        },
+        {
+            "lat": 48.86458333333333,
+            "lon": 0.885416666666659,
+            "darkness": 0.6588319474298956,
+            "bortle": 4,
+            "near": "Breteuil",
+            "id": "48.8646_0.8854",
+            "altitude": null
+        },
+        {
+            "lat": 48.043749999999996,
+            "lon": 0.3395833333333256,
+            "darkness": 0.5168163312006641,
+            "bortle": 4,
+            "near": "Fatines",
+            "id": "48.0437_0.3396",
+            "altitude": null
+        },
+        {
+            "lat": 48.08958333333333,
+            "lon": 0.19791666666665897,
+            "darkness": 0.4984774100574434,
+            "bortle": 5,
+            "near": "Neuville-sur-Sarthe",
+            "id": "48.0896_0.1979",
+            "altitude": null
+        }
+    ]
+}

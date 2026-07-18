@@ -1,0 +1,395 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N043E001",
+    "spots": [
+        {
+            "lat": 43.043749999999996,
+            "lon": 1.2979166666666586,
+            "darkness": 0.7914040241692979,
+            "bortle": 3,
+            "near": "Rimont",
+            "id": "43.0437_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 43.08958333333333,
+            "lon": 1.8520833333333258,
+            "darkness": 0.7759525158322675,
+            "bortle": 3,
+            "near": "Mirepoix",
+            "id": "43.0896_1.8521",
+            "altitude": null
+        },
+        {
+            "lat": 43.18124999999999,
+            "lon": 1.9395833333333252,
+            "darkness": 0.7361463573118714,
+            "bortle": 4,
+            "near": "Fanjeaux",
+            "id": "43.1812_1.9396",
+            "altitude": null
+        },
+        {
+            "lat": 43.043749999999996,
+            "lon": 1.7145833333333256,
+            "darkness": 0.7356628695324008,
+            "bortle": 4,
+            "near": "Les Pujols",
+            "id": "43.0437_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 43.08958333333333,
+            "lon": 1.4812499999999922,
+            "darkness": 0.7352709398206807,
+            "bortle": 4,
+            "near": "Artigat",
+            "id": "43.0896_1.4812",
+            "altitude": null
+        },
+        {
+            "lat": 43.18124999999999,
+            "lon": 1.2062499999999927,
+            "darkness": 0.7184443889618013,
+            "bortle": 4,
+            "near": "Montesquieu-Volvestre",
+            "id": "43.1812_1.2062",
+            "altitude": null
+        },
+        {
+            "lat": 43.96458333333333,
+            "lon": 1.9437499999999925,
+            "darkness": 0.7146313318239353,
+            "bortle": 4,
+            "near": "Senouillac",
+            "id": "43.9646_1.9437",
+            "altitude": null
+        },
+        {
+            "lat": 43.318749999999994,
+            "lon": 1.0229166666666591,
+            "darkness": 0.6952951536835792,
+            "bortle": 4,
+            "near": "Le Fousseret",
+            "id": "43.3187_1.0229",
+            "altitude": null
+        },
+        {
+            "lat": 43.18124999999999,
+            "lon": 1.7145833333333256,
+            "darkness": 0.6887766649692104,
+            "bortle": 4,
+            "near": "Belpech",
+            "id": "43.1812_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 43.63958333333333,
+            "lon": 1.989583333333326,
+            "darkness": 0.6604835672599629,
+            "bortle": 4,
+            "near": "Saint-Paul-Cap-de-Joux",
+            "id": "43.6396_1.9896",
+            "altitude": null
+        },
+        {
+            "lat": 43.227083333333326,
+            "lon": 1.3895833333333254,
+            "darkness": 0.6501664221231989,
+            "bortle": 4,
+            "near": "Saint-Ybars",
+            "id": "43.2271_1.3896",
+            "altitude": null
+        },
+        {
+            "lat": 43.318749999999994,
+            "lon": 1.8062499999999924,
+            "darkness": 0.6395163771334037,
+            "bortle": 4,
+            "near": "Salles-sur-l'Hers",
+            "id": "43.3187_1.8062",
+            "altitude": null
+        },
+        {
+            "lat": 43.82708333333333,
+            "lon": 1.0229166666666591,
+            "darkness": 0.6313757550568471,
+            "bortle": 4,
+            "near": "Beaumont-de-Lomagne",
+            "id": "43.8271_1.0229",
+            "altitude": null
+        },
+        {
+            "lat": 43.46874999999999,
+            "lon": 1.9229166666666586,
+            "darkness": 0.6296724317929051,
+            "bortle": 4,
+            "near": "Saint-Félix-Lauragais",
+            "id": "43.4687_1.9229",
+            "altitude": null
+        },
+        {
+            "lat": 43.87291666666666,
+            "lon": 1.760416666666659,
+            "darkness": 0.6178146721505995,
+            "bortle": 4,
+            "near": "Lisle-sur-Tarn",
+            "id": "43.8729_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 43.96458333333333,
+            "lon": 1.5770833333333254,
+            "darkness": 0.6149672023597328,
+            "bortle": 4,
+            "near": "Monclar-de-Quercy",
+            "id": "43.9646_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 43.78124999999999,
+            "lon": 1.9437499999999925,
+            "darkness": 0.6067191588424878,
+            "bortle": 4,
+            "near": "Busque",
+            "id": "43.7812_1.9437",
+            "altitude": null
+        },
+        {
+            "lat": 43.99374999999999,
+            "lon": 1.114583333333326,
+            "darkness": 0.5990384406679004,
+            "bortle": 4,
+            "near": "Garganvillar",
+            "id": "43.9937_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 43.45625,
+            "lon": 1.0687499999999925,
+            "darkness": 0.5638328000335235,
+            "bortle": 4,
+            "near": "Rieumes",
+            "id": "43.4562_1.0687",
+            "altitude": null
+        },
+        {
+            "lat": 43.318749999999994,
+            "lon": 1.5770833333333254,
+            "darkness": 0.5595090717221565,
+            "bortle": 4,
+            "near": "Cintegabelle",
+            "id": "43.3187_1.5771",
+            "altitude": null
+        },
+        {
+            "lat": 43.59374999999999,
+            "lon": 1.8062499999999924,
+            "darkness": 0.5501441452286361,
+            "bortle": 4,
+            "near": "Bourg-Saint-Bernard",
+            "id": "43.5937_1.8062",
+            "altitude": null
+        },
+        {
+            "lat": 43.318749999999994,
+            "lon": 1.2520833333333252,
+            "darkness": 0.5470347731654235,
+            "bortle": 4,
+            "near": "Marquefave",
+            "id": "43.3187_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 43.87291666666666,
+            "lon": 1.2062499999999927,
+            "darkness": 0.5135979320966053,
+            "bortle": 4,
+            "near": "Mas-Grenier",
+            "id": "43.8729_1.2062",
+            "altitude": null
+        },
+        {
+            "lat": 43.735416666666666,
+            "lon": 1.760416666666659,
+            "darkness": 0.5006467246952091,
+            "bortle": 4,
+            "near": "Giroussens",
+            "id": "43.7354_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 43.45625,
+            "lon": 1.7145833333333256,
+            "darkness": 0.4999557013179561,
+            "bortle": 4,
+            "near": "Montgaillard-Lauragais",
+            "id": "43.4562_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 43.71458333333333,
+            "lon": 1.760416666666659,
+            "darkness": 0.4992238926700818,
+            "bortle": 5,
+            "near": "Lavaur",
+            "id": "43.7146_1.7604",
+            "altitude": null
+        },
+        {
+            "lat": 43.735416666666666,
+            "lon": 1.114583333333326,
+            "darkness": 0.4983723111444277,
+            "bortle": 5,
+            "near": "Thil",
+            "id": "43.7354_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 43.87291666666666,
+            "lon": 1.531249999999992,
+            "darkness": 0.4945527876407012,
+            "bortle": 5,
+            "near": "Villemur-sur-Tarn",
+            "id": "43.8729_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 43.36458333333333,
+            "lon": 1.2520833333333252,
+            "darkness": 0.4920996129420847,
+            "bortle": 5,
+            "near": "Longages",
+            "id": "43.3646_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 43.50208333333333,
+            "lon": 1.7145833333333256,
+            "darkness": 0.4845695288439966,
+            "bortle": 5,
+            "near": "Labastide-Beauvoir",
+            "id": "43.5021_1.7146",
+            "altitude": null
+        },
+        {
+            "lat": 43.36458333333333,
+            "lon": 1.531249999999992,
+            "darkness": 0.4802164793408584,
+            "bortle": 5,
+            "near": "Saint-Léon",
+            "id": "43.3646_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 43.50208333333333,
+            "lon": 1.114583333333326,
+            "darkness": 0.4777542576198468,
+            "bortle": 5,
+            "near": "Sainte-Foy-de-Peyrolières",
+            "id": "43.5021_1.1146",
+            "altitude": null
+        },
+        {
+            "lat": 43.87291666666666,
+            "lon": 1.2520833333333252,
+            "darkness": 0.4583259798405044,
+            "bortle": 5,
+            "near": "Bessens",
+            "id": "43.8729_1.2521",
+            "altitude": null
+        },
+        {
+            "lat": 43.78124999999999,
+            "lon": 1.4854166666666586,
+            "darkness": 0.3493749143489845,
+            "bortle": 6,
+            "near": "Vacquiers",
+            "id": "43.7812_1.4854",
+            "altitude": null
+        },
+        {
+            "lat": 43.78124999999999,
+            "lon": 1.2979166666666586,
+            "darkness": 0.34348245139021116,
+            "bortle": 6,
+            "near": "Ondes",
+            "id": "43.7812_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 43.45625,
+            "lon": 1.531249999999992,
+            "darkness": 0.33184309126004763,
+            "bortle": 6,
+            "near": "Montbrun-Lauragais",
+            "id": "43.4562_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 43.64375,
+            "lon": 1.2062499999999927,
+            "darkness": 0.3198627577862334,
+            "bortle": 6,
+            "near": "Lévignac",
+            "id": "43.6437_1.2062",
+            "altitude": null
+        },
+        {
+            "lat": 43.64375,
+            "lon": 1.6229166666666588,
+            "darkness": 0.31488547401834,
+            "bortle": 6,
+            "near": "Lavalette",
+            "id": "43.6437_1.6229",
+            "altitude": null
+        },
+        {
+            "lat": 43.45625,
+            "lon": 1.2979166666666586,
+            "darkness": 0.3136554067153543,
+            "bortle": 6,
+            "near": "Muret",
+            "id": "43.4562_1.2979",
+            "altitude": null
+        },
+        {
+            "lat": 43.50208333333333,
+            "lon": 1.343749999999992,
+            "darkness": 0.1914168516096496,
+            "bortle": 7,
+            "near": "Frouzins",
+            "id": "43.5021_1.3437",
+            "altitude": null
+        },
+        {
+            "lat": 43.547916666666666,
+            "lon": 1.531249999999992,
+            "darkness": 0.16471587112041197,
+            "bortle": 7,
+            "near": "Saint-Orens-de-Gameville",
+            "id": "43.5479_1.5312",
+            "altitude": null
+        },
+        {
+            "lat": 43.68958333333333,
+            "lon": 1.4854166666666586,
+            "darkness": 0.1595720303219017,
+            "bortle": 7,
+            "near": "Saint-Geniès-Bellevue",
+            "id": "43.6896_1.4854",
+            "altitude": null
+        },
+        {
+            "lat": 43.64375,
+            "lon": 1.2979166666666586,
+            "darkness": 0.1331598653837529,
+            "bortle": 7,
+            "near": "Cornebarrieu",
+            "id": "43.6437_1.2979",
+            "altitude": null
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N047E000",
+    "spots": [
+        {
+            "lat": 47.07708333333333,
+            "lon": 0.28958333333332575,
+            "darkness": 0.8457205777359683,
+            "bortle": 3,
+            "near": "Champigny-sur-Veude",
+            "id": "47.0771_0.2896",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": 0.043749999999992184,
+            "darkness": 0.8378223346704352,
+            "bortle": 3,
+            "near": "Noyant",
+            "id": "47.5396_0.0437",
+            "altitude": null
+        },
+        {
+            "lat": 47.918749999999996,
+            "lon": 0.9312499999999924,
+            "darkness": 0.8323914900361475,
+            "bortle": 3,
+            "near": "Épuisay",
+            "id": "47.9187_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 47.856249999999996,
+            "lon": 0.7479166666666588,
+            "darkness": 0.8278734963496355,
+            "bortle": 3,
+            "near": "La Chapelle-Huon",
+            "id": "47.8562_0.7479",
+            "altitude": null
+        },
+        {
+            "lat": 47.62708333333333,
+            "lon": 0.19791666666665897,
+            "darkness": 0.8260600554659674,
+            "bortle": 3,
+            "near": "Le Lude",
+            "id": "47.6271_0.1979",
+            "altitude": null
+        },
+        {
+            "lat": 47.99374999999999,
+            "lon": 0.7520833333333252,
+            "darkness": 0.8250845780901935,
+            "bortle": 3,
+            "near": "Conflans-sur-Anille",
+            "id": "47.9937_0.7521",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": 0.06041666666665879,
+            "darkness": 0.8246442677409247,
+            "bortle": 3,
+            "near": "Vernantes",
+            "id": "47.4021_0.0604",
+            "altitude": null
+        },
+        {
+            "lat": 47.03124999999999,
+            "lon": 0.6604166666666593,
+            "darkness": 0.820935410638046,
+            "bortle": 3,
+            "near": "Draché",
+            "id": "47.0312_0.6604",
+            "altitude": null
+        },
+        {
+            "lat": 47.49374999999999,
+            "lon": 0.24374999999999236,
+            "darkness": 0.8112036311596185,
+            "bortle": 3,
+            "near": "Channay-sur-Lathan",
+            "id": "47.4937_0.2437",
+            "altitude": null
+        },
+        {
+            "lat": 47.76875,
+            "lon": 0.5687499999999925,
+            "darkness": 0.8058020244285395,
+            "bortle": 3,
+            "near": "Lhomme",
+            "id": "47.7687_0.5687",
+            "altitude": null
+        },
+        {
+            "lat": 47.76875,
+            "lon": 0.9312499999999924,
+            "darkness": 0.7987379095565409,
+            "bortle": 3,
+            "near": "Thoré-la-Rochette",
+            "id": "47.7687_0.9312",
+            "altitude": null
+        },
+        {
+            "lat": 47.71874999999999,
+            "lon": 0.3562499999999922,
+            "darkness": 0.7777772350487603,
+            "bortle": 3,
+            "near": "Luceau",
+            "id": "47.7187_0.3562",
+            "altitude": null
+        },
+        {
+            "lat": 47.67708333333333,
+            "lon": 0.7479166666666588,
+            "darkness": 0.7701724134513452,
+            "bortle": 3,
+            "near": "Les Hermites",
+            "id": "47.6771_0.7479",
+            "altitude": null
+        },
+        {
+            "lat": 47.90208333333333,
+            "lon": 0.5229166666666591,
+            "darkness": 0.7597798654072996,
+            "bortle": 3,
+            "near": "Villaines-sous-Lucé",
+            "id": "47.9021_0.5229",
+            "altitude": null
+        },
+        {
+            "lat": 47.31041666666666,
+            "lon": 0.24374999999999236,
+            "darkness": 0.7590834211985262,
+            "bortle": 3,
+            "near": "Benais",
+            "id": "47.3104_0.2437",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 0.5187499999999927,
+            "darkness": 0.7542283187433583,
+            "bortle": 3,
+            "near": "Saint-Christophe-sur-le-Nais",
+            "id": "47.6312_0.5187",
+            "altitude": null
+        },
+        {
+            "lat": 47.76458333333333,
+            "lon": 0.15208333333332558,
+            "darkness": 0.7476134417844225,
+            "bortle": 3,
+            "near": "Mansigné",
+            "id": "47.7646_0.1521",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": 0.3312499999999927,
+            "darkness": 0.7399119203813649,
+            "bortle": 4,
+            "near": "Cravant-les-Coteaux",
+            "id": "47.1687_0.3312",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": 0.33541666666665915,
+            "darkness": 0.7383808483730815,
+            "bortle": 4,
+            "near": "Hommes",
+            "id": "47.4021_0.3354",
+            "altitude": null
+        },
+        {
+            "lat": 47.12291666666666,
+            "lon": 0.5645833333333261,
+            "darkness": 0.7374815885870925,
+            "bortle": 4,
+            "near": "Noyant-de-Touraine",
+            "id": "47.1229_0.5646",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 0.8895833333333254,
+            "darkness": 0.7372550594490409,
+            "bortle": 4,
+            "near": "Authon",
+            "id": "47.6312_0.8896",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": 0.10624999999999218,
+            "darkness": 0.7369131938153853,
+            "bortle": 4,
+            "near": "Savigny-en-Véron",
+            "id": "47.1687_0.1062",
+            "altitude": null
+        },
+        {
+            "lat": 47.947916666666664,
+            "lon": 0.5229166666666591,
+            "darkness": 0.7367558581180204,
+            "bortle": 4,
+            "near": "Bouloire",
+            "id": "47.9479_0.5229",
+            "altitude": null
+        },
+        {
+            "lat": 47.81041666666666,
+            "lon": 0.38541666666665897,
+            "darkness": 0.7348401169637365,
+            "bortle": 4,
+            "near": "Jupilles",
+            "id": "47.8104_0.3854",
+            "altitude": null
+        },
+        {
+            "lat": 47.18958333333333,
+            "lon": 0.9812499999999922,
+            "darkness": 0.7346023800699539,
+            "bortle": 4,
+            "near": "Chambourg-sur-Indre",
+            "id": "47.1896_0.9812",
+            "altitude": null
+        },
+        {
+            "lat": 47.631249999999994,
+            "lon": 0.6104166666666586,
+            "darkness": 0.7329692889224872,
+            "bortle": 4,
+            "near": "Neuvy-le-Roi",
+            "id": "47.6312_0.6104",
+            "altitude": null
+        },
+        {
+            "lat": 47.539583333333326,
+            "lon": 0.42708333333332593,
+            "darkness": 0.7276436701150453,
+            "bortle": 4,
+            "near": "Sonzay",
+            "id": "47.5396_0.4271",
+            "altitude": null
+        },
+        {
+            "lat": 47.81041666666666,
+            "lon": 0.10624999999999218,
+            "darkness": 0.6935346336448612,
+            "bortle": 4,
+            "near": "Oizé",
+            "id": "47.8104_0.1062",
+            "altitude": null
+        },
+        {
+            "lat": 47.168749999999996,
+            "lon": 0.7520833333333252,
+            "darkness": 0.6853564494603086,
+            "bortle": 4,
+            "near": "Louans",
+            "id": "47.1687_0.7521",
+            "altitude": null
+        },
+        {
+            "lat": 47.49374999999999,
+            "lon": 0.9354166666666588,
+            "darkness": 0.633243910956016,
+            "bortle": 4,
+            "near": "Montreuil-en-Touraine",
+            "id": "47.4937_0.9354",
+            "altitude": null
+        },
+        {
+            "lat": 47.260416666666664,
+            "lon": 0.5187499999999927,
+            "darkness": 0.6032142085754731,
+            "bortle": 4,
+            "near": "Saché",
+            "id": "47.2604_0.5187",
+            "altitude": null
+        },
+        {
+            "lat": 47.352083333333326,
+            "lon": 0.8895833333333254,
+            "darkness": 0.5260672785269196,
+            "bortle": 4,
+            "near": "Saint-Martin-le-Beau",
+            "id": "47.3521_0.8896",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": 0.5187499999999927,
+            "darkness": 0.4977489897723043,
+            "bortle": 5,
+            "near": "Saint-Étienne-de-Chigny",
+            "id": "47.4021_0.5187",
+            "altitude": null
+        },
+        {
+            "lat": 47.985416666666666,
+            "lon": 0.3395833333333256,
+            "darkness": 0.4953497747143949,
+            "bortle": 5,
+            "near": "Champagné",
+            "id": "47.9854_0.3396",
+            "altitude": null
+        },
+        {
+            "lat": 47.49374999999999,
+            "lon": 0.7979166666666586,
+            "darkness": 0.49201387663664,
+            "bortle": 5,
+            "near": "Monnaie",
+            "id": "47.4937_0.7979",
+            "altitude": null
+        },
+        {
+            "lat": 47.260416666666664,
+            "lon": 0.7520833333333252,
+            "darkness": 0.49074309972149033,
+            "bortle": 5,
+            "near": "Veigné",
+            "id": "47.2604_0.7521",
+            "altitude": null
+        },
+        {
+            "lat": 47.90208333333333,
+            "lon": 0.15208333333332558,
+            "darkness": 0.47191852289253955,
+            "bortle": 5,
+            "near": "Fillé",
+            "id": "47.9021_0.1521",
+            "altitude": null
+        },
+        {
+            "lat": 47.40208333333333,
+            "lon": 0.7979166666666586,
+            "darkness": 0.34909932371721186,
+            "bortle": 6,
+            "near": "Vouvray",
+            "id": "47.4021_0.7979",
+            "altitude": null
+        },
+        {
+            "lat": 47.947916666666664,
+            "lon": 0.15208333333332558,
+            "darkness": 0.3409930876232288,
+            "bortle": 6,
+            "near": "Allonnes",
+            "id": "47.9479_0.1521",
+            "altitude": null
+        },
+        {
+            "lat": 47.352083333333326,
+            "lon": 0.6104166666666586,
+            "darkness": 0.32291775004405443,
+            "bortle": 6,
+            "near": "Ballan-Miré",
+            "id": "47.3521_0.6104",
+            "altitude": null
+        }
+    ]
+}

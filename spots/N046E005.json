@@ -1,0 +1,323 @@
+{
+    "version": "2025.2",
+    "source": "VIIRS/2025/france",
+    "generated": "2026-07-18T14:31:25Z",
+    "tile": "N046E005",
+    "spots": [
+        {
+            "lat": 46.80624999999999,
+            "lon": 5.331249999999992,
+            "darkness": 0.7389233921645689,
+            "bortle": 4,
+            "near": "Chapelle-Voland",
+            "id": "46.8062_5.3312",
+            "altitude": null
+        },
+        {
+            "lat": 46.80624999999999,
+            "lon": 5.735416666666659,
+            "darkness": 0.7383793783441452,
+            "bortle": 4,
+            "near": "Poligny",
+            "id": "46.8062_5.7354",
+            "altitude": null
+        },
+        {
+            "lat": 46.985416666666666,
+            "lon": 5.702083333333325,
+            "darkness": 0.7291377606448068,
+            "bortle": 4,
+            "near": "Arc-et-Senans",
+            "id": "46.9854_5.7021",
+            "altitude": null
+        },
+        {
+            "lat": 46.87291666666666,
+            "lon": 5.518749999999992,
+            "darkness": 0.7208874845724783,
+            "bortle": 4,
+            "near": "Sellières",
+            "id": "46.8729_5.5187",
+            "altitude": null
+        },
+        {
+            "lat": 46.668749999999996,
+            "lon": 5.739583333333325,
+            "darkness": 0.7045013355344844,
+            "bortle": 4,
+            "near": "Crançot",
+            "id": "46.6687_5.7396",
+            "altitude": null
+        },
+        {
+            "lat": 46.71458333333333,
+            "lon": 5.1520833333333265,
+            "darkness": 0.6972898284990774,
+            "bortle": 4,
+            "near": "Simard",
+            "id": "46.7146_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 46.668749999999996,
+            "lon": 5.377083333333326,
+            "darkness": 0.6951992492015766,
+            "bortle": 4,
+            "near": "Beaurepaire-en-Bresse",
+            "id": "46.6687_5.3771",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": 5.1520833333333265,
+            "darkness": 0.6923901687934195,
+            "bortle": 4,
+            "near": "Montpont-en-Bresse",
+            "id": "46.5312_5.1521",
+            "altitude": null
+        },
+        {
+            "lat": 46.93958333333333,
+            "lon": 5.285416666666659,
+            "darkness": 0.6912661328391312,
+            "bortle": 4,
+            "near": "Petit-Noir",
+            "id": "46.9396_5.2854",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": 5.3812499999999925,
+            "darkness": 0.6847386970778337,
+            "bortle": 4,
+            "near": "Cousance",
+            "id": "46.5312_5.3812",
+            "altitude": null
+        },
+        {
+            "lat": 46.53124999999999,
+            "lon": 5.7562499999999925,
+            "darkness": 0.6654858925008267,
+            "bortle": 4,
+            "near": "Clairvaux-les-Lacs",
+            "id": "46.5312_5.7562",
+            "altitude": null
+        },
+        {
+            "lat": 46.47291666666666,
+            "lon": 5.56041666666666,
+            "darkness": 0.6501516637085445,
+            "bortle": 4,
+            "near": "Orgelet",
+            "id": "46.4729_5.5604",
+            "altitude": null
+        },
+        {
+            "lat": 46.89375,
+            "lon": 5.06041666666666,
+            "darkness": 0.6446018438670681,
+            "bortle": 4,
+            "near": "Ciel",
+            "id": "46.8937_5.0604",
+            "altitude": null
+        },
+        {
+            "lat": 46.39375,
+            "lon": 5.3812499999999925,
+            "darkness": 0.6380119378794018,
+            "bortle": 4,
+            "near": "Coligny",
+            "id": "46.3937_5.3812",
+            "altitude": null
+        },
+        {
+            "lat": 46.39375,
+            "lon": 5.164583333333326,
+            "darkness": 0.614212200058398,
+            "bortle": 4,
+            "near": "Lescheroux",
+            "id": "46.3937_5.1646",
+            "altitude": null
+        },
+        {
+            "lat": 46.34791666666666,
+            "lon": 5.6520833333333265,
+            "darkness": 0.5709297563980247,
+            "bortle": 4,
+            "near": "Dortan",
+            "id": "46.3479_5.6521",
+            "altitude": null
+        },
+        {
+            "lat": 46.256249999999994,
+            "lon": 5.468749999999993,
+            "darkness": 0.5446362461445138,
+            "bortle": 4,
+            "near": "Corveissiat",
+            "id": "46.2562_5.4687",
+            "altitude": null
+        },
+        {
+            "lat": 46.068749999999994,
+            "lon": 5.6937499999999925,
+            "darkness": 0.5349871944822483,
+            "bortle": 4,
+            "near": "Génissiat",
+            "id": "46.0687_5.6937",
+            "altitude": null
+        },
+        {
+            "lat": 46.05624999999999,
+            "lon": 5.472916666666659,
+            "darkness": 0.49905190409112954,
+            "bortle": 5,
+            "near": "Cerdon",
+            "id": "46.0562_5.4729",
+            "altitude": null
+        },
+        {
+            "lat": 46.11458333333333,
+            "lon": 5.7437499999999915,
+            "darkness": 0.4943058749323742,
+            "bortle": 5,
+            "near": "Châtillon-en-Michaille",
+            "id": "46.1146_5.7437",
+            "altitude": null
+        },
+        {
+            "lat": 46.30208333333333,
+            "lon": 5.606249999999992,
+            "darkness": 0.49239948252658405,
+            "bortle": 5,
+            "near": "Dortan",
+            "id": "46.3021_5.6062",
+            "altitude": null
+        },
+        {
+            "lat": 46.164583333333326,
+            "lon": 5.102083333333326,
+            "darkness": 0.47892603848989934,
+            "bortle": 5,
+            "near": "Condeissiat",
+            "id": "46.1646_5.1021",
+            "altitude": null
+        },
+        {
+            "lat": 46.16041666666666,
+            "lon": 5.335416666666658,
+            "darkness": 0.462580203773146,
+            "bortle": 5,
+            "near": "Revonnas",
+            "id": "46.1604_5.3354",
+            "altitude": null
+        },
+        {
+            "lat": 46.02708333333333,
+            "lon": 5.1937499999999925,
+            "darkness": 0.429530948945835,
+            "bortle": 5,
+            "near": "Chalamont",
+            "id": "46.0271_5.1937",
+            "altitude": null
+        },
+        {
+            "lat": 46.62291666666666,
+            "lon": 5.74791666666666,
+            "darkness": 0.6943423685105483,
+            "bortle": 4,
+            "near": "Clairvaux-les-Lacs",
+            "id": "46.6229_5.7479",
+            "altitude": null
+        },
+        {
+            "lat": 46.57708333333333,
+            "lon": 5.752083333333326,
+            "darkness": 0.6890542052416017,
+            "bortle": 4,
+            "near": "Clairvaux-les-Lacs",
+            "id": "46.5771_5.7521",
+            "altitude": null
+        },
+        {
+            "lat": 46.39375,
+            "lon": 5.768749999999992,
+            "darkness": 0.5564477817686078,
+            "bortle": 4,
+            "near": "Lavans-lès-Saint-Claude",
+            "id": "46.3937_5.7687",
+            "altitude": null
+        },
+        {
+            "lat": 46.34791666666666,
+            "lon": 5.768749999999992,
+            "darkness": 0.5440911853114495,
+            "bortle": 4,
+            "near": "Molinges",
+            "id": "46.3479_5.7687",
+            "altitude": null
+        },
+        {
+            "lat": 46.164583333333326,
+            "lon": 5.785416666666659,
+            "darkness": 0.478471728803446,
+            "bortle": 5,
+            "near": "Châtillon-en-Michaille",
+            "id": "46.1646_5.7854",
+            "altitude": null
+        },
+        {
+            "lat": 46.16041666666666,
+            "lon": 5.785416666666659,
+            "darkness": 0.47819055457331483,
+            "bortle": 5,
+            "near": "Châtillon-en-Michaille",
+            "id": "46.1604_5.7854",
+            "altitude": null
+        },
+        {
+            "lat": 46.89791666666666,
+            "lon": 5.727083333333326,
+            "darkness": 0.7373892586254556,
+            "bortle": 4,
+            "near": "Arbois",
+            "id": "46.8979_5.7271",
+            "altitude": null
+        },
+        {
+            "lat": 46.02291666666666,
+            "lon": 5.789583333333326,
+            "darkness": 0.5235407208168446,
+            "bortle": 4,
+            "near": "Chanay",
+            "id": "46.0229_5.7896",
+            "altitude": null
+        },
+        {
+            "lat": 46.09374999999999,
+            "lon": 5.789583333333326,
+            "darkness": 0.4839386810956344,
+            "bortle": 5,
+            "near": "Bellegarde-sur-Valserine",
+            "id": "46.0937_5.7896",
+            "altitude": null
+        },
+        {
+            "lat": 46.86874999999999,
+            "lon": 5.702083333333325,
+            "darkness": 0.7373425894392304,
+            "bortle": 4,
+            "near": "Poligny",
+            "id": "46.8687_5.7021",
+            "altitude": null
+        },
+        {
+            "lat": 46.485416666666666,
+            "lon": 5.760416666666659,
+            "darkness": 0.6258715364689226,
+            "bortle": 4,
+            "near": "Moirans-en-Montagne",
+            "id": "46.4854_5.7604",
+            "altitude": null
+        }
+    ]
+}
