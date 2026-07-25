@@ -1,7 +1,7 @@
 {
-    "version": "2025.2",
+    "version": "2025.3",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-18T14:31:25Z",
+    "generated": "2026-07-25T13:30:57Z",
     "tile": "N047W003",
     "spots": [
         {
@@ -11,15 +11,6 @@
             "bortle": 1,
             "near": "Le Palais",
             "id": "47.2146_-2.9146",
-            "altitude": null
-        },
-        {
-            "lat": 47.07708333333333,
-            "lon": -2.8687500000000075,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "",
-            "id": "47.0771_-2.8688",
             "altitude": null
         },
         {

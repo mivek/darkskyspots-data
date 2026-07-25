@@ -1,18 +1,9 @@
 {
-    "version": "2025.2",
+    "version": "2025.3",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-18T14:31:25Z",
+    "generated": "2026-07-25T13:30:57Z",
     "tile": "N048W005",
     "spots": [
-        {
-            "lat": 48.95625,
-            "lon": -4.210416666666674,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "",
-            "id": "48.9562_-4.2104",
-            "altitude": null
-        },
         {
             "lat": 48.91041666666666,
             "lon": -4.014583333333341,

@@ -1,18 +1,9 @@
 {
-    "version": "2025.2",
+    "version": "2025.3",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-18T14:31:25Z",
+    "generated": "2026-07-25T13:30:57Z",
     "tile": "N051W005",
     "spots": [
-        {
-            "lat": 51.16041666666666,
-            "lon": -4.764583333333341,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "",
-            "id": "51.1604_-4.7646",
-            "altitude": null
-        },
         {
             "lat": 51.18958333333333,
             "lon": -4.535416666666674,
@@ -20,15 +11,6 @@
             "bortle": 1,
             "near": "Hartland",
             "id": "51.1896_-4.5354",
-            "altitude": null
-        },
-        {
-            "lat": 51.01875,
-            "lon": -4.847916666666674,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "",
-            "id": "51.0187_-4.8479",
             "altitude": null
         },
         {
@@ -74,15 +56,6 @@
             "bortle": 3,
             "near": "Woolacombe",
             "id": "51.2187_-4.2021",
-            "altitude": null
-        },
-        {
-            "lat": 51.164583333333326,
-            "lon": -4.731250000000007,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "",
-            "id": "51.1646_-4.7313",
             "altitude": null
         }
     ]
