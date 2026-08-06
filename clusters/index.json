@@ -1,0 +1,91 @@
+{
+    "data_year": 2025,
+    "generated": "2026-08-06",
+    "levels": [
+        {
+            "cell_deg": 0.3,
+            "files": [
+                {
+                    "hash": "44d0df5338ff19f1073673b91f9c5175b5c0c9737448e18eb6d850f1cf4d986e",
+                    "path": "clusters/L1.json"
+                }
+            ],
+            "level": 1,
+            "width_km": [
+                100,
+                200
+            ]
+        },
+        {
+            "cell_deg": 0.6,
+            "files": [
+                {
+                    "hash": "9102424d30867da5471a816c4c025075c8c7eb7caf2ee71ead2a3eb8841fad12",
+                    "path": "clusters/L2.json"
+                }
+            ],
+            "level": 2,
+            "width_km": [
+                200,
+                400
+            ]
+        },
+        {
+            "cell_deg": 1.2,
+            "files": [
+                {
+                    "hash": "c73fb52a7da643389069126c030a020f79636dd01b636aeef794f27f6a14c708",
+                    "path": "clusters/L3.json"
+                }
+            ],
+            "level": 3,
+            "width_km": [
+                400,
+                800
+            ]
+        },
+        {
+            "cell_deg": 2.4,
+            "files": [
+                {
+                    "hash": "ca82b3734f44cd3b36e55076d4787433c2ae8de9a455c10f129c0737398e19a4",
+                    "path": "clusters/L4.json"
+                }
+            ],
+            "level": 4,
+            "width_km": [
+                800,
+                1600
+            ]
+        },
+        {
+            "cell_deg": 4.8,
+            "files": [
+                {
+                    "hash": "018add1325f716cb2867ee4efc254466a664f95829a284ae828114a163f9eb28",
+                    "path": "clusters/L5.json"
+                }
+            ],
+            "level": 5,
+            "width_km": [
+                1600,
+                3200
+            ]
+        },
+        {
+            "cell_deg": 9.6,
+            "files": [
+                {
+                    "hash": "13258bc98c3e148f93cc3ab4201576247ca02112022fc1d176298182217bb688",
+                    "path": "clusters/L6.json"
+                }
+            ],
+            "level": 6,
+            "width_km": [
+                3200,
+                6400
+            ]
+        }
+    ],
+    "schema": 1
+}
