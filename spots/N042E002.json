@@ -11,7 +11,8 @@
             "bortle": 4,
             "near": "Alet-les-Bains",
             "id": "42.9979_2.3104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -20,7 +21,8 @@
             "bortle": 3,
             "near": "Chalabre",
             "id": "42.9979_2.0771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -29,7 +31,8 @@
             "bortle": 3,
             "near": "Chalabre",
             "id": "42.9979_2.1229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "Cournanel",
             "id": "42.9979_2.1687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Alet-les-Bains",
             "id": "42.9979_2.3937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Alet-les-Bains",
             "id": "42.9979_2.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

@@ -11,7 +11,8 @@
             "bortle": 2,
             "near": "Luz-Saint-Sauveur",
             "id": "42.8146_0.0896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.860416666666666,
@@ -20,7 +21,8 @@
             "bortle": 2,
             "near": "Saint-Lary-Soulan",
             "id": "42.8604_0.2854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.89791666666666,
@@ -29,7 +31,8 @@
             "bortle": 2,
             "near": "Arreau",
             "id": "42.8979_0.4729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.881249999999994,
@@ -38,7 +41,8 @@
             "bortle": 2,
             "near": "Moulis",
             "id": "42.8812_0.9354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -47,7 +51,8 @@
             "bortle": 2,
             "near": "Campan",
             "id": "42.9521_0.1104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -56,7 +61,8 @@
             "bortle": 3,
             "near": "Moulis",
             "id": "42.9521_0.9771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -65,7 +71,8 @@
             "bortle": 3,
             "near": "Cierp-Gaud",
             "id": "42.9521_0.7104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -74,7 +81,8 @@
             "bortle": 3,
             "near": "Loures-Barousse",
             "id": "42.9979_0.5229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -83,7 +91,8 @@
             "bortle": 3,
             "near": "Campan",
             "id": "42.9979_0.2437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.84374999999999,
@@ -92,7 +101,8 @@
             "bortle": 3,
             "near": "Bagnères-de-Luchon",
             "id": "42.8437_0.5646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.88958333333333,
@@ -101,7 +111,8 @@
             "bortle": 2,
             "near": "Moulis",
             "id": "42.8896_0.9146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.81458333333333,
@@ -110,7 +121,8 @@
             "bortle": 2,
             "near": "Saint-Lary-Soulan",
             "id": "42.8146_0.1562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.81458333333333,
@@ -119,7 +131,8 @@
             "bortle": 2,
             "near": "Saint-Lary-Soulan",
             "id": "42.8146_0.2437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.81458333333333,
@@ -128,7 +141,8 @@
             "bortle": 2,
             "near": "Saint-Lary-Soulan",
             "id": "42.8146_0.2562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

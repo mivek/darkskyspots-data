@@ -11,7 +11,8 @@
             "bortle": 4,
             "near": "Prisches",
             "id": "50.0562_3.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.05625,
@@ -20,7 +21,8 @@
             "bortle": 5,
             "near": "Floyon",
             "id": "50.0562_3.9396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.05625,
@@ -29,7 +31,8 @@
             "bortle": 5,
             "near": "Prisches",
             "id": "50.0562_3.7104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.05625,
@@ -38,7 +41,8 @@
             "bortle": 5,
             "near": "Walincourt-Selvigny",
             "id": "50.0562_3.3187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.14791666666666,
@@ -47,7 +51,8 @@
             "bortle": 5,
             "near": "Forest-en-Cambrésis",
             "id": "50.1479_3.5479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.193749999999994,
@@ -56,7 +61,8 @@
             "bortle": 5,
             "near": "Berlaimont",
             "id": "50.1937_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.193749999999994,
@@ -65,7 +71,8 @@
             "bortle": 6,
             "near": "Aulnoye-Aymeries",
             "id": "50.1937_3.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.193749999999994,
@@ -74,7 +81,8 @@
             "bortle": 6,
             "near": "Saint-Vaast-en-Cambrésis",
             "id": "50.1937_3.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.23958333333333,
@@ -83,7 +91,8 @@
             "bortle": 6,
             "near": "Le Quesnoy",
             "id": "50.2396_3.6396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.193749999999994,
@@ -92,7 +101,8 @@
             "bortle": 6,
             "near": "Inchy-en-Artois",
             "id": "50.1937_3.0396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.33125,
@@ -101,16 +111,8 @@
             "bortle": 6,
             "near": "Hon-Hergies",
             "id": "50.3312_3.8187",
-            "altitude": null
-        },
-        {
-            "lat": 50.57708333333333,
-            "lon": 3.731249999999992,
-            "darkness": 0.22697290386008373,
-            "bortle": 6,
-            "near": "Huissignies",
-            "id": "50.5771_3.7312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.28541666666666,
@@ -119,16 +121,8 @@
             "bortle": 6,
             "near": "Marcq-en-Ostrevent",
             "id": "50.2854_3.2521",
-            "altitude": null
-        },
-        {
-            "lat": 50.65208333333333,
-            "lon": 3.956249999999992,
-            "darkness": 0.20510770247159815,
-            "bortle": 6,
-            "near": "Silly",
-            "id": "50.6521_3.9562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.47291666666666,
@@ -137,25 +131,8 @@
             "bortle": 6,
             "near": "Condé-sur-l'Escaut",
             "id": "50.4729_3.5896",
-            "altitude": null
-        },
-        {
-            "lat": 50.697916666666664,
-            "lon": 3.593749999999993,
-            "darkness": 0.20143927076544055,
-            "bortle": 6,
-            "near": "Saint-Sauveur",
-            "id": "50.6979_3.5937",
-            "altitude": null
-        },
-        {
-            "lat": 50.422916666666666,
-            "lon": 3.7270833333333258,
-            "darkness": 0.19813114831077738,
-            "bortle": 7,
-            "near": "Thulin",
-            "id": "50.4229_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.30625,
@@ -164,34 +141,8 @@
             "bortle": 7,
             "near": "Maubeuge",
             "id": "50.3062_3.9604",
-            "altitude": null
-        },
-        {
-            "lat": 50.74375,
-            "lon": 3.6854166666666597,
-            "darkness": 0.1946637414161856,
-            "bortle": 7,
-            "near": "Ellezelles",
-            "id": "50.7437_3.6854",
-            "altitude": null
-        },
-        {
-            "lat": 50.697916666666664,
-            "lon": 3.9104166666666593,
-            "darkness": 0.19452053872220765,
-            "bortle": 7,
-            "near": "Bois-de-Lessines",
-            "id": "50.6979_3.9104",
-            "altitude": null
-        },
-        {
-            "lat": 50.56041666666666,
-            "lon": 3.502083333333326,
-            "darkness": 0.19433506346260399,
-            "bortle": 7,
-            "near": "Vezon",
-            "id": "50.5604_3.5021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.33125,
@@ -200,7 +151,8 @@
             "bortle": 7,
             "near": "Aniche",
             "id": "50.3312_3.2687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.42708333333333,
@@ -209,7 +161,8 @@
             "bortle": 7,
             "near": "Saint-Amand-les-Eaux",
             "id": "50.4271_3.4521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.46874999999999,
@@ -218,70 +171,8 @@
             "bortle": 7,
             "near": "Orchies",
             "id": "50.4687_3.2271",
-            "altitude": null
-        },
-        {
-            "lat": 50.74375,
-            "lon": 3.456249999999992,
-            "darkness": 0.15516207469423993,
-            "bortle": 7,
-            "near": "Escanaffles",
-            "id": "50.7437_3.4562",
-            "altitude": null
-        },
-        {
-            "lat": 50.83541666666666,
-            "lon": 3.864583333333325,
-            "darkness": 0.14223777661388826,
-            "bortle": 7,
-            "near": "Steenhuize-Wijnhuize",
-            "id": "50.8354_3.8646",
-            "altitude": null
-        },
-        {
-            "lat": 50.881249999999994,
-            "lon": 3.6395833333333254,
-            "darkness": 0.12760722211304742,
-            "bortle": 7,
-            "near": "Heurne",
-            "id": "50.8812_3.6396",
-            "altitude": null
-        },
-        {
-            "lat": 50.606249999999996,
-            "lon": 3.2729166666666583,
-            "darkness": 0.10090498734337427,
-            "bortle": 7,
-            "near": "Hertain",
-            "id": "50.6062_3.2729",
-            "altitude": null
-        },
-        {
-            "lat": 50.93125,
-            "lon": 3.4104166666666593,
-            "darkness": 0.0936424324556342,
-            "bortle": 7,
-            "near": "Wakken",
-            "id": "50.9312_3.4104",
-            "altitude": null
-        },
-        {
-            "lat": 50.83958333333333,
-            "lon": 3.1312499999999925,
-            "darkness": 0.08206305986471585,
-            "bortle": 7,
-            "near": "Moorsele",
-            "id": "50.8396_3.1312",
-            "altitude": null
-        },
-        {
-            "lat": 50.97291666666666,
-            "lon": 3.8687499999999915,
-            "darkness": 0.07701175568098106,
-            "bortle": 7,
-            "near": "Westrem",
-            "id": "50.9729_3.8687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.70208333333333,
@@ -290,7 +181,8 @@
             "bortle": 7,
             "near": "Wambrechies",
             "id": "50.7021_3.0396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.71041666666666,
@@ -299,7 +191,8 @@
             "bortle": 8,
             "near": "Mouvaux",
             "id": "50.7104_3.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

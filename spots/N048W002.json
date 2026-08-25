@@ -5,31 +5,14 @@
     "tile": "N048W002",
     "spots": [
         {
-            "lat": 48.822916666666664,
-            "lon": -1.8604166666666742,
-            "darkness": 0.9444654485489709,
-            "bortle": 2,
-            "near": "Cancale",
-            "id": "48.8229_-1.8604",
-            "altitude": null
-        },
-        {
-            "lat": 48.922916666666666,
-            "lon": -1.6812500000000075,
-            "darkness": 0.9250641128425445,
-            "bortle": 2,
-            "near": "Bréville-sur-Mer",
-            "id": "48.9229_-1.6813",
-            "altitude": null
-        },
-        {
             "lat": 48.63958333333333,
             "lon": -1.5437500000000073,
             "darkness": 0.9022442930397487,
             "bortle": 2,
             "near": "Roz-sur-Couesnon",
             "id": "48.6396_-1.5438",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.81458333333333,
@@ -38,7 +21,8 @@
             "bortle": 2,
             "near": "Fleury",
             "id": "48.8146_-1.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.731249999999996,
@@ -47,7 +31,8 @@
             "bortle": 2,
             "near": "Saint-Pois",
             "id": "48.7312_-1.0979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.95625,
@@ -56,7 +41,8 @@
             "bortle": 2,
             "near": "Hambye",
             "id": "48.9562_-1.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.50208333333333,
@@ -65,16 +51,8 @@
             "bortle": 2,
             "near": "Trans-la-Forêt",
             "id": "48.5021_-1.6313",
-            "altitude": null
-        },
-        {
-            "lat": 48.77291666666666,
-            "lon": -1.635416666666674,
-            "darkness": 0.8607388589352742,
-            "bortle": 2,
-            "near": "Jullouville",
-            "id": "48.7729_-1.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.91041666666666,
@@ -83,7 +61,8 @@
             "bortle": 2,
             "near": "Landelles-et-Coupigny",
             "id": "48.9104_-1.0354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.50208333333333,
@@ -92,16 +71,8 @@
             "bortle": 3,
             "near": "Epiniac",
             "id": "48.5021_-1.7229",
-            "altitude": null
-        },
-        {
-            "lat": 48.66041666666666,
-            "lon": -1.7687500000000078,
-            "darkness": 0.8473558593326569,
-            "bortle": 3,
-            "near": "Cancale",
-            "id": "48.6604_-1.7688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.45625,
@@ -110,7 +81,8 @@
             "bortle": 3,
             "near": "Pontmain",
             "id": "48.4562_-1.0354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.50208333333333,
@@ -119,7 +91,8 @@
             "bortle": 3,
             "near": "Sougéal",
             "id": "48.5021_-1.4938",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.77291666666666,
@@ -128,7 +101,8 @@
             "bortle": 3,
             "near": "Jullouville",
             "id": "48.7729_-1.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.63958333333333,
@@ -137,7 +111,8 @@
             "bortle": 3,
             "near": "Le Val-Saint-Père",
             "id": "48.6396_-1.3563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.50208333333333,
@@ -146,7 +121,8 @@
             "bortle": 3,
             "near": "Saint-Georges-de-Reintembault",
             "id": "48.5021_-1.2688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.543749999999996,
@@ -155,7 +131,8 @@
             "bortle": 3,
             "near": "La Ville-ès-Nonais",
             "id": "48.5437_-1.9313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.36458333333333,
@@ -164,7 +141,8 @@
             "bortle": 3,
             "near": "Saint-Marc-le-Blanc",
             "id": "48.3646_-1.4063",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.36458333333333,
@@ -173,7 +151,8 @@
             "bortle": 3,
             "near": "Québriac",
             "id": "48.3646_-1.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.227083333333326,
@@ -182,7 +161,8 @@
             "bortle": 4,
             "near": "La Croixille",
             "id": "48.2271_-1.0813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.41041666666666,
@@ -191,7 +171,8 @@
             "bortle": 4,
             "near": "Parigné",
             "id": "48.4104_-1.2229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.318749999999994,
@@ -200,7 +181,8 @@
             "bortle": 4,
             "near": "Tinténiac",
             "id": "48.3187_-1.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.318749999999994,
@@ -209,7 +191,8 @@
             "bortle": 4,
             "near": "Saint-Jean-sur-Couesnon",
             "id": "48.3187_-1.3813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.318749999999994,
@@ -218,7 +201,8 @@
             "bortle": 4,
             "near": "Andouillé-Neuville",
             "id": "48.3187_-1.5854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.63958333333333,
@@ -227,7 +211,8 @@
             "bortle": 4,
             "near": "Saint-Méloir-des-Ondes",
             "id": "48.6396_-1.9063",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.18124999999999,
@@ -236,7 +221,8 @@
             "bortle": 4,
             "near": "Dourdain",
             "id": "48.1812_-1.3104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08541666666666,
@@ -245,7 +231,8 @@
             "bortle": 4,
             "near": "Mondevert",
             "id": "48.0854_-1.0813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.18124999999999,
@@ -254,7 +241,8 @@
             "bortle": 4,
             "near": "Clayes",
             "id": "48.1812_-1.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.227083333333326,
@@ -263,7 +251,8 @@
             "bortle": 5,
             "near": "Mouazé",
             "id": "48.2271_-1.6313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08541666666666,
@@ -272,7 +261,8 @@
             "bortle": 5,
             "near": "Ossé",
             "id": "48.0854_-1.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.135416666666664,
@@ -281,7 +271,8 @@
             "bortle": 5,
             "near": "La Chapelle-Thouarault",
             "id": "48.1354_-1.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.039583333333326,
@@ -290,7 +281,8 @@
             "bortle": 6,
             "near": "Chartres-de-Bretagne",
             "id": "48.0396_-1.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

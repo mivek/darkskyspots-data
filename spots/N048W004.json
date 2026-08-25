@@ -5,58 +5,14 @@
     "tile": "N048W004",
     "spots": [
         {
-            "lat": 48.95625,
-            "lon": -3.5562500000000075,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Trégastel",
-            "id": "48.9562_-3.5563",
-            "altitude": null
-        },
-        {
-            "lat": 48.95625,
-            "lon": -3.327083333333341,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Plougrescant",
-            "id": "48.9562_-3.3271",
-            "altitude": null
-        },
-        {
-            "lat": 48.91041666666666,
-            "lon": -3.0979166666666744,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Pleubian",
-            "id": "48.9104_-3.0979",
-            "altitude": null
-        },
-        {
-            "lat": 48.86458333333333,
-            "lon": -3.7854166666666744,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Plougasnou",
-            "id": "48.8646_-3.7854",
-            "altitude": null
-        },
-        {
             "lat": 48.818749999999994,
             "lon": -3.327083333333341,
             "darkness": 1.0,
             "bortle": 1,
             "near": "Trévou-Tréguignec",
             "id": "48.8187_-3.3271",
-            "altitude": null
-        },
-        {
-            "lat": 48.727083333333326,
-            "lon": -3.6937500000000076,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Locquirec",
-            "id": "48.7271_-3.6938",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.635416666666664,
@@ -65,7 +21,8 @@
             "bortle": 1,
             "near": "Lanvellec",
             "id": "48.6354_-3.5104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.49791666666666,
@@ -74,7 +31,8 @@
             "bortle": 1,
             "near": "Guerlesquin",
             "id": "48.4979_-3.6021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.43958333333333,
@@ -83,7 +41,8 @@
             "bortle": 1,
             "near": "Plougonver",
             "id": "48.4396_-3.3771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.731249999999996,
@@ -92,7 +51,8 @@
             "bortle": 2,
             "near": "Ploëzal",
             "id": "48.7312_-3.1938",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.41041666666666,
@@ -101,7 +61,8 @@
             "bortle": 2,
             "near": "Pont-Melvez",
             "id": "48.4104_-3.3354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.735416666666666,
@@ -110,7 +71,8 @@
             "bortle": 2,
             "near": "Locquémeau",
             "id": "48.7354_-3.5604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.49791666666666,
@@ -119,7 +81,8 @@
             "bortle": 2,
             "near": "Botsorhel",
             "id": "48.4979_-3.6479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.68541666666666,
@@ -128,7 +91,8 @@
             "bortle": 2,
             "near": "Plougasnou",
             "id": "48.6854_-3.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.631249999999994,
@@ -137,7 +101,8 @@
             "bortle": 2,
             "near": "Pluzunet",
             "id": "48.6312_-3.3771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.36458333333333,
@@ -146,7 +111,8 @@
             "bortle": 2,
             "near": "Carnoët",
             "id": "48.3646_-3.5563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.28541666666666,
@@ -155,7 +121,8 @@
             "bortle": 2,
             "near": "Saint-Nicolas-du-Pélem",
             "id": "48.2854_-3.1479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.40624999999999,
@@ -164,7 +131,8 @@
             "bortle": 2,
             "near": "Plésidy",
             "id": "48.4062_-3.0563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.17708333333333,
@@ -173,7 +141,8 @@
             "bortle": 2,
             "near": "Plélauff",
             "id": "48.1771_-3.2813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.33125,
@@ -182,7 +151,8 @@
             "bortle": 2,
             "near": "Plouyé",
             "id": "48.3312_-3.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.135416666666664,
@@ -191,7 +161,8 @@
             "bortle": 2,
             "near": "Roudouallec",
             "id": "48.1354_-3.7396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08958333333333,
@@ -200,7 +171,8 @@
             "bortle": 2,
             "near": "Langonnet",
             "id": "48.0896_-3.4688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.043749999999996,
@@ -209,7 +181,8 @@
             "bortle": 2,
             "near": "Guémené-sur-Scorff",
             "id": "48.0437_-3.2104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.45208333333333,
@@ -218,7 +191,8 @@
             "bortle": 2,
             "near": "Plounéour-Ménez",
             "id": "48.4521_-3.8771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.15208333333333,
@@ -227,7 +201,8 @@
             "bortle": 2,
             "near": "Cléguérec",
             "id": "48.1521_-3.0563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.21874999999999,
@@ -236,7 +211,8 @@
             "bortle": 2,
             "near": "Lennon",
             "id": "48.2187_-3.9146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.22291666666666,
@@ -245,7 +221,8 @@
             "bortle": 2,
             "near": "Plévin",
             "id": "48.2229_-3.5104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.27291666666666,
@@ -254,7 +231,8 @@
             "bortle": 3,
             "near": "Carhaix-Plouguer",
             "id": "48.2729_-3.5563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.135416666666664,
@@ -263,7 +241,8 @@
             "bortle": 3,
             "near": "Neulliac",
             "id": "48.1354_-3.0104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.49791666666666,
@@ -272,7 +251,8 @@
             "bortle": 3,
             "near": "Lanrodec",
             "id": "48.4979_-3.0979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.18124999999999,
@@ -281,7 +261,8 @@
             "bortle": 3,
             "near": "Gouézec",
             "id": "48.1812_-3.9896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.49791666666666,
@@ -290,7 +271,8 @@
             "bortle": 3,
             "near": "Guimiliau",
             "id": "48.4979_-3.9688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.59374999999999,
@@ -299,7 +281,8 @@
             "bortle": 3,
             "near": "Garlan",
             "id": "48.5937_-3.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

@@ -5,112 +5,14 @@
     "tile": "N045W002",
     "spots": [
         {
-            "lat": 45.83958333333333,
-            "lon": -1.447916666666674,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Saint-Pierre-d'Oléron",
-            "id": "45.8396_-1.4479",
-            "altitude": null
-        },
-        {
-            "lat": 45.70208333333333,
-            "lon": -1.447916666666674,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Les Mathes",
-            "id": "45.7021_-1.4479",
-            "altitude": null
-        },
-        {
-            "lat": 45.51875,
-            "lon": -1.4020833333333407,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Soulac-sur-Mer",
-            "id": "45.5187_-1.4021",
-            "altitude": null
-        },
-        {
-            "lat": 45.56458333333333,
-            "lon": -1.3604166666666746,
-            "darkness": 0.9973597440403328,
-            "bortle": 2,
-            "near": "Soulac-sur-Mer",
-            "id": "45.5646_-1.3604",
-            "altitude": null
-        },
-        {
-            "lat": 45.977083333333326,
-            "lon": -1.497916666666674,
-            "darkness": 0.9942783709838525,
-            "bortle": 2,
-            "near": "Saint-Denis-d'Oléron",
-            "id": "45.9771_-1.4979",
-            "altitude": null
-        },
-        {
-            "lat": 45.70208333333333,
-            "lon": -1.3604166666666746,
-            "darkness": 0.9936191424097769,
-            "bortle": 2,
-            "near": "Les Mathes",
-            "id": "45.7021_-1.3604",
-            "altitude": null
-        },
-        {
-            "lat": 45.293749999999996,
-            "lon": -1.3145833333333412,
-            "darkness": 0.9793947280841998,
-            "bortle": 2,
-            "near": "Vendays-Montalivet",
-            "id": "45.2937_-1.3146",
-            "altitude": null
-        },
-        {
-            "lat": 45.83958333333333,
-            "lon": -1.3604166666666746,
-            "darkness": 0.9787323113453279,
-            "bortle": 2,
-            "near": "Le Grand-Village-Plage",
-            "id": "45.8396_-1.3604",
-            "altitude": null
-        },
-        {
-            "lat": 45.16041666666666,
-            "lon": -1.2687500000000078,
-            "darkness": 0.9279884410112611,
-            "bortle": 2,
-            "near": "Hourtin",
-            "id": "45.1604_-1.2688",
-            "altitude": null
-        },
-        {
-            "lat": 45.42708333333333,
-            "lon": -1.2687500000000078,
-            "darkness": 0.9216838060124989,
-            "bortle": 2,
-            "near": "Soulac-sur-Mer",
-            "id": "45.4271_-1.2688",
-            "altitude": null
-        },
-        {
-            "lat": 45.885416666666664,
-            "lon": -1.177083333333341,
-            "darkness": 0.8522263987027664,
-            "bortle": 2,
-            "near": "Bourcefranc-le-Chapus",
-            "id": "45.8854_-1.1771",
-            "altitude": null
-        },
-        {
             "lat": 45.93124999999999,
             "lon": -1.2437500000000075,
             "darkness": 0.8463784055200735,
             "bortle": 3,
             "near": "Dolus-d'Oléron",
             "id": "45.9312_-1.2438",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.24791666666666,
@@ -119,7 +21,8 @@
             "bortle": 3,
             "near": "Naujac-sur-Mer",
             "id": "45.2479_-1.1313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.110416666666666,
@@ -128,7 +31,8 @@
             "bortle": 3,
             "near": "Carcans",
             "id": "45.1104_-1.1771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.852083333333326,
@@ -137,7 +41,8 @@
             "bortle": 3,
             "near": "Hiers",
             "id": "45.8521_-1.0854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -146,7 +51,8 @@
             "bortle": 3,
             "near": "Saint-Vivien-de-Médoc",
             "id": "45.4271_-1.1313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.71041666666666,
@@ -155,16 +61,8 @@
             "bortle": 3,
             "near": "Les Mathes",
             "id": "45.7104_-1.1771",
-            "altitude": null
-        },
-        {
-            "lat": 45.568749999999994,
-            "lon": -1.177083333333341,
-            "darkness": 0.794539461713945,
-            "bortle": 3,
-            "near": "Soulac-sur-Mer",
-            "id": "45.5687_-1.1771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.131249999999994,
@@ -173,25 +71,8 @@
             "bortle": 4,
             "near": "Carcans",
             "id": "45.1312_-1.0396",
-            "altitude": null
-        },
-        {
-            "lat": 45.51875,
-            "lon": -1.1312500000000076,
-            "darkness": 0.7297201302380252,
-            "bortle": 4,
-            "near": "Soulac-sur-Mer",
-            "id": "45.5187_-1.1313",
-            "altitude": null
-        },
-        {
-            "lat": 45.66041666666666,
-            "lon": -1.1312500000000076,
-            "darkness": 0.7236935339080082,
-            "bortle": 4,
-            "near": "Saint-Augustin",
-            "id": "45.6604_-1.1313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

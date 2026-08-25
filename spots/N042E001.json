@@ -11,7 +11,8 @@
             "bortle": 3,
             "near": "Oust",
             "id": "42.9062_1.2521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -20,7 +21,8 @@
             "bortle": 3,
             "near": "La Bastide-de-Sérou",
             "id": "42.9521_1.4354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -29,7 +31,8 @@
             "bortle": 3,
             "near": "Chalabre",
             "id": "42.9979_1.9896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "Lavelanet",
             "id": "42.9521_1.8062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -47,7 +51,8 @@
             "bortle": 3,
             "near": "Chalabre",
             "id": "42.9979_1.9854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -56,7 +61,8 @@
             "bortle": 3,
             "near": "Villeneuve-d'Olmes",
             "id": "42.9521_1.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -65,7 +71,8 @@
             "bortle": 3,
             "near": "Saint-Paul-de-Jarrat",
             "id": "42.9521_1.7146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95625,
@@ -74,7 +81,8 @@
             "bortle": 3,
             "near": "Saint-Paul-de-Jarrat",
             "id": "42.9562_1.7146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

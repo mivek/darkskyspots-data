@@ -11,7 +11,8 @@
             "bortle": 4,
             "near": "Fillièvres",
             "id": "50.2854_2.1229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.15208333333333,
@@ -20,7 +21,8 @@
             "bortle": 4,
             "near": "Saint-Riquier",
             "id": "50.1521_2.0354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.422916666666666,
@@ -29,7 +31,8 @@
             "bortle": 4,
             "near": "Fressin",
             "id": "50.4229_2.0312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.15208333333333,
@@ -38,7 +41,8 @@
             "bortle": 4,
             "near": "Fienvillers",
             "id": "50.1521_2.2604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.06041666666666,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Acheux-en-Amiénois",
             "id": "50.0604_2.4937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.28541666666666,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Frévent",
             "id": "50.2854_2.3521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.51458333333333,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Lisbourg",
             "id": "50.5146_2.2146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.14791666666666,
@@ -74,7 +81,8 @@
             "bortle": 5,
             "near": "Mondicourt",
             "id": "50.1479_2.4229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.01458333333333,
@@ -83,7 +91,8 @@
             "bortle": 5,
             "near": "Warloy-Baillon",
             "id": "50.0146_2.4937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.01458333333333,
@@ -92,7 +101,8 @@
             "bortle": 5,
             "near": "Saint-Ouen",
             "id": "50.0146_2.1229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.03541666666666,
@@ -101,7 +111,8 @@
             "bortle": 5,
             "near": "Albert",
             "id": "50.0354_2.7229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.33125,
@@ -110,7 +121,8 @@
             "bortle": 5,
             "near": "Saint-Pol-sur-Ternoise",
             "id": "50.3312_2.3062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.46874999999999,
@@ -119,7 +131,8 @@
             "bortle": 5,
             "near": "Heuchin",
             "id": "50.4687_2.2604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.606249999999996,
@@ -128,7 +141,8 @@
             "bortle": 5,
             "near": "Coyecques",
             "id": "50.6062_2.1687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.05625,
@@ -137,7 +151,8 @@
             "bortle": 5,
             "near": "Bertincourt",
             "id": "50.0562_2.9937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.789583333333326,
@@ -146,7 +161,8 @@
             "bortle": 5,
             "near": "Tournehem-sur-la-Hem",
             "id": "50.7896_2.0521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.193749999999994,
@@ -155,7 +171,8 @@
             "bortle": 5,
             "near": "Beaumetz-lès-Loges",
             "id": "50.1937_2.6271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.33125,
@@ -164,7 +181,8 @@
             "bortle": 5,
             "near": "Izel-lès-Hameau",
             "id": "50.3312_2.5354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.83541666666666,
@@ -173,7 +191,8 @@
             "bortle": 5,
             "near": "Rubrouck",
             "id": "50.8354_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.58125,
@@ -182,7 +201,8 @@
             "bortle": 6,
             "near": "Norrent-Fontes",
             "id": "50.5812_2.3979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.74791666666666,
@@ -191,7 +211,8 @@
             "bortle": 6,
             "near": "Tatinghem",
             "id": "50.7479_2.2146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.793749999999996,
@@ -200,7 +221,8 @@
             "bortle": 6,
             "near": "Terdeghem",
             "id": "50.7937_2.5354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.193749999999994,
@@ -209,7 +231,8 @@
             "bortle": 6,
             "near": "Mercatel",
             "id": "50.1937_2.8104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.37708333333333,
@@ -218,7 +241,8 @@
             "bortle": 6,
             "near": "Savy-Berlette",
             "id": "50.3771_2.5354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.881249999999994,
@@ -227,7 +251,8 @@
             "bortle": 6,
             "near": "Bollezeele",
             "id": "50.8812_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.881249999999994,
@@ -236,16 +261,8 @@
             "bortle": 6,
             "near": "Nortkerque",
             "id": "50.8812_2.0354",
-            "altitude": null
-        },
-        {
-            "lat": 50.92708333333333,
-            "lon": 2.627083333333326,
-            "darkness": 0.32608797488388286,
-            "bortle": 6,
-            "near": "Roesbrugge-Haringe",
-            "id": "50.9271_2.6271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.65624999999999,
@@ -254,25 +271,8 @@
             "bortle": 6,
             "near": "Haverskerque",
             "id": "50.6562_2.5812",
-            "altitude": null
-        },
-        {
-            "lat": 50.793749999999996,
-            "lon": 2.7645833333333254,
-            "darkness": 0.25600792829725527,
-            "bortle": 6,
-            "near": "Westouter",
-            "id": "50.7937_2.7646",
-            "altitude": null
-        },
-        {
-            "lat": 50.93125,
-            "lon": 2.856249999999992,
-            "darkness": 0.24843260161608083,
-            "bortle": 6,
-            "near": "Bikschote",
-            "id": "50.9312_2.8562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.51875,
@@ -281,16 +281,8 @@
             "bortle": 7,
             "near": "Labeuvrière",
             "id": "50.5187_2.5812",
-            "altitude": null
-        },
-        {
-            "lat": 50.977083333333326,
-            "lon": 2.9937499999999915,
-            "darkness": 0.19455806511594576,
-            "bortle": 7,
-            "near": "Staden",
-            "id": "50.9771_2.9937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.70208333333333,
@@ -299,16 +291,8 @@
             "bortle": 7,
             "near": "Nieppe",
             "id": "50.7021_2.8104",
-            "altitude": null
-        },
-        {
-            "lat": 50.83958333333333,
-            "lon": 2.9020833333333265,
-            "darkness": 0.1922590831127471,
-            "bortle": 7,
-            "near": "Zillebeke",
-            "id": "50.8396_2.9021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.33125,
@@ -317,7 +301,8 @@
             "bortle": 7,
             "near": "Marœuil",
             "id": "50.3312_2.7187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.33125,
@@ -326,7 +311,8 @@
             "bortle": 7,
             "near": "Vitry-en-Artois",
             "id": "50.3312_2.9937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.56458333333333,
@@ -335,7 +321,8 @@
             "bortle": 7,
             "near": "Illies",
             "id": "50.5646_2.8104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.47291666666666,
@@ -344,7 +331,8 @@
             "bortle": 7,
             "near": "Oignies",
             "id": "50.4729_2.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

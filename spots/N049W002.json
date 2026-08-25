@@ -5,94 +5,14 @@
     "tile": "N049W002",
     "spots": [
         {
-            "lat": 49.78541666666666,
-            "lon": -1.0354166666666744,
-            "darkness": 0.9968622120302932,
-            "bortle": 2,
-            "near": "Barfleur",
-            "id": "49.7854_-1.0354",
-            "altitude": null
-        },
-        {
-            "lat": 49.87708333333333,
-            "lon": -1.218750000000008,
-            "darkness": 0.9892468268804692,
-            "bortle": 2,
-            "near": "Gatteville-le-Phare",
-            "id": "49.8771_-1.2188",
-            "altitude": null
-        },
-        {
-            "lat": 49.00208333333333,
-            "lon": -1.864583333333341,
-            "darkness": 0.9805425123622581,
-            "bortle": 2,
-            "near": "Agon-Coutainville",
-            "id": "49.0021_-1.8646",
-            "altitude": null
-        },
-        {
-            "lat": 49.602083333333326,
-            "lon": -1.0187500000000078,
-            "darkness": 0.9609755143430863,
-            "bortle": 2,
-            "near": "Réville",
-            "id": "49.6021_-1.0188",
-            "altitude": null
-        },
-        {
-            "lat": 49.131249999999994,
-            "lon": -1.7270833333333409,
-            "darkness": 0.9364363088539159,
-            "bortle": 2,
-            "near": "Gouville-sur-Mer",
-            "id": "49.1312_-1.7271",
-            "altitude": null
-        },
-        {
-            "lat": 49.46458333333333,
-            "lon": -1.0354166666666744,
-            "darkness": 0.9293069913313929,
-            "bortle": 2,
-            "near": "Grandcamp-Maisy",
-            "id": "49.4646_-1.0354",
-            "altitude": null
-        },
-        {
-            "lat": 49.27708333333333,
-            "lon": -1.7270833333333409,
-            "darkness": 0.914917131051931,
-            "bortle": 2,
-            "near": "Portbail",
-            "id": "49.2771_-1.7271",
-            "altitude": null
-        },
-        {
-            "lat": 49.87708333333333,
-            "lon": -1.5895833333333407,
-            "darkness": 0.909847963246926,
-            "bortle": 2,
-            "near": "Fermanville",
-            "id": "49.8771_-1.5896",
-            "altitude": null
-        },
-        {
-            "lat": 49.73958333333333,
-            "lon": -1.2645833333333414,
-            "darkness": 0.8965286268519608,
-            "bortle": 2,
-            "near": "Gatteville-le-Phare",
-            "id": "49.7396_-1.2646",
-            "altitude": null
-        },
-        {
             "lat": 49.18958333333333,
             "lon": -1.3604166666666746,
             "darkness": 0.8769194345171707,
             "bortle": 2,
             "near": "Périers",
             "id": "49.1896_-1.3604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.418749999999996,
@@ -101,7 +21,8 @@
             "bortle": 2,
             "near": "Sainte-Marie-du-Mont",
             "id": "49.4187_-1.2479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.322916666666664,
@@ -110,7 +31,8 @@
             "bortle": 2,
             "near": "Lithaire",
             "id": "49.3229_-1.5104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.32708333333333,
@@ -119,16 +41,8 @@
             "bortle": 2,
             "near": "La Cambe",
             "id": "49.3271_-1.0354",
-            "altitude": null
-        },
-        {
-            "lat": 49.83125,
-            "lon": -1.4937500000000075,
-            "darkness": 0.8478999815507742,
-            "bortle": 3,
-            "near": "Fermanville",
-            "id": "49.8312_-1.4938",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.05208333333333,
@@ -137,7 +51,8 @@
             "bortle": 3,
             "near": "Tourville-sur-Sienne",
             "id": "49.0521_-1.5438",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -146,7 +61,8 @@
             "bortle": 3,
             "near": "Moyon",
             "id": "49.0021_-1.1771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.32708333333333,
@@ -155,16 +71,8 @@
             "bortle": 3,
             "near": "Auvers",
             "id": "49.3271_-1.3604",
-            "altitude": null
-        },
-        {
-            "lat": 49.55624999999999,
-            "lon": -1.2645833333333414,
-            "darkness": 0.8428833581238668,
-            "bortle": 3,
-            "near": "Saint-Vaast-la-Hougue",
-            "id": "49.5562_-1.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18958333333333,
@@ -173,25 +81,8 @@
             "bortle": 3,
             "near": "Remilly-sur-Lozon",
             "id": "49.1896_-1.2229",
-            "altitude": null
-        },
-        {
-            "lat": 49.28124999999999,
-            "lon": -1.952083333333341,
-            "darkness": 0.839359637209651,
-            "bortle": 3,
-            "near": "St Martin",
-            "id": "49.2812_-1.9521",
-            "altitude": null
-        },
-        {
-            "lat": 49.09374999999999,
-            "lon": -1.9979166666666743,
-            "darkness": 0.8386265907914985,
-            "bortle": 3,
-            "near": "Le Hocq",
-            "id": "49.0937_-1.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.693749999999994,
@@ -200,7 +91,8 @@
             "bortle": 3,
             "near": "Gatteville-le-Phare",
             "id": "49.6937_-1.3104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.414583333333326,
@@ -209,16 +101,8 @@
             "bortle": 3,
             "near": "Barneville-Carteret",
             "id": "49.4146_-1.7188",
-            "altitude": null
-        },
-        {
-            "lat": 49.83125,
-            "lon": -1.7270833333333409,
-            "darkness": 0.8294248282951864,
-            "bortle": 3,
-            "near": "Omonville-la-Rogue",
-            "id": "49.8312_-1.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.46041666666666,
@@ -227,7 +111,8 @@
             "bortle": 3,
             "near": "Valognes",
             "id": "49.4604_-1.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.047916666666666,
@@ -236,7 +121,8 @@
             "bortle": 4,
             "near": "Condé-sur-Vire",
             "id": "49.0479_-1.0354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.46041666666666,
@@ -245,25 +131,8 @@
             "bortle": 4,
             "near": "Négreville",
             "id": "49.4604_-1.4938",
-            "altitude": null
-        },
-        {
-            "lat": 49.78541666666666,
-            "lon": -1.635416666666674,
-            "darkness": 0.7355137868632385,
-            "bortle": 4,
-            "near": "Querqueville",
-            "id": "49.7854_-1.6354",
-            "altitude": null
-        },
-        {
-            "lat": 49.693749999999994,
-            "lon": -1.9562500000000078,
-            "darkness": 0.7346534583444297,
-            "bortle": 4,
-            "near": "Omonville-la-Rogue",
-            "id": "49.6937_-1.9563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.59791666666666,
@@ -272,16 +141,8 @@
             "bortle": 4,
             "near": "Teurthéville-Bocage",
             "id": "49.5979_-1.4021",
-            "altitude": null
-        },
-        {
-            "lat": 49.18958333333333,
-            "lon": -1.9979166666666743,
-            "darkness": 0.7121114346498194,
-            "bortle": 4,
-            "near": "St Martin",
-            "id": "49.1896_-1.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.506249999999994,
@@ -290,16 +151,8 @@
             "bortle": 4,
             "near": "Grosville",
             "id": "49.5062_-1.7271",
-            "altitude": null
-        },
-        {
-            "lat": 49.506249999999994,
-            "lon": -1.9562500000000078,
-            "darkness": 0.6879306372392755,
-            "bortle": 4,
-            "near": "Flamanville",
-            "id": "49.5062_-1.9563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.59791666666666,
@@ -308,7 +161,8 @@
             "bortle": 5,
             "near": "Le Mesnil-au-Val",
             "id": "49.5979_-1.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

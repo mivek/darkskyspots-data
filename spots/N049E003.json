@@ -11,7 +11,8 @@
             "bortle": 4,
             "near": "Tavaux-et-Pontséricourt",
             "id": "49.7812_3.8521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.64791666666666,
@@ -20,7 +21,8 @@
             "bortle": 4,
             "near": "Liesse-Notre-Dame",
             "id": "49.6479_3.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.510416666666664,
@@ -29,7 +31,8 @@
             "bortle": 4,
             "near": "Guignicourt",
             "id": "49.5104_3.9604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.76875,
@@ -38,7 +41,8 @@
             "bortle": 4,
             "near": "La Ferté-Chevresis",
             "id": "49.7687_3.6396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.918749999999996,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Buironfosse",
             "id": "49.9187_3.8229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.37291666666666,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Bourg-et-Comin",
             "id": "49.3729_3.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18958333333333,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Fère-en-Tardenois",
             "id": "49.1896_3.5896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.66041666666666,
@@ -74,7 +81,8 @@
             "bortle": 4,
             "near": "Couvron-et-Aumencourt",
             "id": "49.6604_3.5021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.485416666666666,
@@ -83,7 +91,8 @@
             "bortle": 4,
             "near": "Pinon",
             "id": "49.4854_3.4562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.506249999999994,
@@ -92,7 +101,8 @@
             "bortle": 4,
             "near": "Bruyères-et-Montbérault",
             "id": "49.5062_3.6854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.918749999999996,
@@ -101,7 +111,8 @@
             "bortle": 4,
             "near": "Vadencourt",
             "id": "49.9187_3.5937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.26458333333333,
@@ -110,7 +121,8 @@
             "bortle": 4,
             "near": "Oulchy-le-Château",
             "id": "49.2646_3.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.55208333333333,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Folembray",
             "id": "49.5521_3.2729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.09374999999999,
@@ -128,7 +141,8 @@
             "bortle": 4,
             "near": "Châtillon-sur-Marne",
             "id": "49.0937_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.78124999999999,
@@ -137,7 +151,8 @@
             "bortle": 4,
             "near": "Ham",
             "id": "49.7812_3.0854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.418749999999996,
@@ -146,7 +161,8 @@
             "bortle": 4,
             "near": "Fontenoy",
             "id": "49.4187_3.1812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.37291666666666,
@@ -155,7 +171,8 @@
             "bortle": 4,
             "near": "Cormicy",
             "id": "49.3729_3.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.602083333333326,
@@ -164,7 +181,8 @@
             "bortle": 5,
             "near": "Salency",
             "id": "49.6021_3.0437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.418749999999996,
@@ -173,7 +191,8 @@
             "bortle": 5,
             "near": "Berny-Rivière",
             "id": "49.4187_3.1354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.418749999999996,
@@ -182,7 +201,8 @@
             "bortle": 5,
             "near": "Chivres-Val",
             "id": "49.4187_3.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.64375,
@@ -191,7 +211,8 @@
             "bortle": 5,
             "near": "Charmes",
             "id": "49.6437_3.3646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.260416666666664,
@@ -200,7 +221,8 @@
             "bortle": 5,
             "near": "Crugny",
             "id": "49.2604_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.27708333333333,
@@ -209,7 +231,8 @@
             "bortle": 5,
             "near": "Courmelles",
             "id": "49.2771_3.2271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.922916666666666,
@@ -218,7 +241,8 @@
             "bortle": 5,
             "near": "Roisel",
             "id": "49.9229_3.1146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.93125,
@@ -227,7 +251,8 @@
             "bortle": 5,
             "near": "Fresnoy-le-Grand",
             "id": "49.9312_3.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.14375,
@@ -236,7 +261,8 @@
             "bortle": 5,
             "near": "Neuilly-Saint-Front",
             "id": "49.1437_3.2729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.05208333333333,
@@ -245,7 +271,8 @@
             "bortle": 5,
             "near": "Brasles",
             "id": "49.0521_3.4562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -254,7 +281,8 @@
             "bortle": 5,
             "near": "Vinay",
             "id": "49.0021_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.78124999999999,
@@ -263,7 +291,8 @@
             "bortle": 5,
             "near": "Mézières-sur-Oise",
             "id": "49.7812_3.3646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.37291666666666,
@@ -272,7 +301,8 @@
             "bortle": 5,
             "near": "Cormicy",
             "id": "49.3729_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -281,7 +311,8 @@
             "bortle": 5,
             "near": "Fleury-la-Rivière",
             "id": "49.1396_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.28124999999999,
@@ -290,7 +321,8 @@
             "bortle": 5,
             "near": "Bonneuil-en-Valois",
             "id": "49.2812_3.0104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.14375,
@@ -299,7 +331,8 @@
             "bortle": 5,
             "near": "Mareuil-sur-Ourcq",
             "id": "49.1437_3.0437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.28124999999999,
@@ -308,7 +341,8 @@
             "bortle": 6,
             "near": "Muizon",
             "id": "49.2812_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

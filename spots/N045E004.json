@@ -11,7 +11,8 @@
             "bortle": 3,
             "near": "Araules",
             "id": "45.0604_4.1396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.06041666666666,
@@ -20,7 +21,8 @@
             "bortle": 4,
             "near": "Mazet-Saint-Voy",
             "id": "45.0604_4.2312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.01458333333333,
@@ -29,7 +31,8 @@
             "bortle": 4,
             "near": "Lantriac",
             "id": "45.0146_4.0062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.24374999999999,
@@ -38,7 +41,8 @@
             "bortle": 4,
             "near": "Retournac",
             "id": "45.2437_4.0021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.106249999999996,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Montregard",
             "id": "45.1062_4.4146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.80208333333333,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Nervieux",
             "id": "45.8021_4.0937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.197916666666664,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Lapte",
             "id": "45.1979_4.1854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.06041666666666,
@@ -74,7 +81,8 @@
             "bortle": 4,
             "near": "Saint-Félicien",
             "id": "45.0604_4.5979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.93124999999999,
@@ -83,7 +91,8 @@
             "bortle": 4,
             "near": "Saint-Symphorien-de-Lay",
             "id": "45.9312_4.1854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.61458333333333,
@@ -92,7 +101,8 @@
             "bortle": 4,
             "near": "Montbrison",
             "id": "45.6146_4.0479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -101,7 +111,8 @@
             "bortle": 4,
             "near": "Saint-Bonnet-le-Château",
             "id": "45.4271_4.0937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.24374999999999,
@@ -110,7 +121,8 @@
             "bortle": 4,
             "near": "Riotord",
             "id": "45.2437_4.4146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.75208333333333,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Civens",
             "id": "45.7521_4.2771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.197916666666664,
@@ -128,7 +141,8 @@
             "bortle": 4,
             "near": "Villevocance",
             "id": "45.1979_4.5979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.981249999999996,
@@ -137,7 +151,8 @@
             "bortle": 5,
             "near": "Chamelet",
             "id": "45.9812_4.4604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.70625,
@@ -146,7 +161,8 @@
             "bortle": 5,
             "near": "Valeille",
             "id": "45.7062_4.2771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.110416666666666,
@@ -155,7 +171,8 @@
             "bortle": 5,
             "near": "Saint-Bardoux",
             "id": "45.1104_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.289583333333326,
@@ -164,7 +181,8 @@
             "bortle": 5,
             "near": "Saint-Didier-en-Velay",
             "id": "45.2896_4.2771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.15208333333333,
@@ -173,7 +191,8 @@
             "bortle": 5,
             "near": "Eclassan",
             "id": "45.1521_4.7354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.568749999999994,
@@ -182,7 +201,8 @@
             "bortle": 5,
             "near": "Saint-Romain-le-Puy",
             "id": "45.5687_4.1396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.289583333333326,
@@ -191,7 +211,8 @@
             "bortle": 5,
             "near": "Saint-Sauveur-en-Rue",
             "id": "45.2896_4.5062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.860416666666666,
@@ -200,7 +221,8 @@
             "bortle": 5,
             "near": "Violay",
             "id": "45.8604_4.3687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.01458333333333,
@@ -209,7 +231,8 @@
             "bortle": 5,
             "near": "Plats",
             "id": "45.0146_4.7812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -218,7 +241,8 @@
             "bortle": 5,
             "near": "Périgneux",
             "id": "45.4271_4.1854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.289583333333326,
@@ -227,7 +251,8 @@
             "bortle": 5,
             "near": "Saint-Sorlin-en-Valloire",
             "id": "45.2896_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.66041666666666,
@@ -236,7 +261,8 @@
             "bortle": 5,
             "near": "Pomeys",
             "id": "45.6604_4.4604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -245,7 +271,8 @@
             "bortle": 5,
             "near": "Montseveroux",
             "id": "45.4271_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.381249999999994,
@@ -254,7 +281,8 @@
             "bortle": 5,
             "near": "Roisey",
             "id": "45.3812_4.6896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.289583333333326,
@@ -263,7 +291,8 @@
             "bortle": 6,
             "near": "Peaugres",
             "id": "45.2896_4.7354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.84374999999999,
@@ -272,7 +301,8 @@
             "bortle": 6,
             "near": "Saint-Romain-de-Popey",
             "id": "45.8437_4.5521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.568749999999994,
@@ -281,7 +311,8 @@
             "bortle": 6,
             "near": "Veauche",
             "id": "45.5687_4.2771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.981249999999996,
@@ -290,7 +321,8 @@
             "bortle": 6,
             "near": "Monthieux",
             "id": "45.9812_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -299,7 +331,8 @@
             "bortle": 6,
             "near": "Doizieux",
             "id": "45.4271_4.6021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.568749999999994,
@@ -308,7 +341,8 @@
             "bortle": 6,
             "near": "Marcenod",
             "id": "45.5687_4.4854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -317,7 +351,8 @@
             "bortle": 6,
             "near": "Unieux",
             "id": "45.4271_4.2771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.70208333333333,
@@ -326,7 +361,8 @@
             "bortle": 6,
             "near": "Duerne",
             "id": "45.7021_4.5521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.981249999999996,
@@ -335,7 +371,8 @@
             "bortle": 6,
             "near": "Lacenas",
             "id": "45.9812_4.6437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.51875,
@@ -344,7 +381,8 @@
             "bortle": 6,
             "near": "Les Haies",
             "id": "45.5187_4.7812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.46458333333333,
@@ -353,7 +391,8 @@
             "bortle": 7,
             "near": "Saint-Jean-Bonnefonds",
             "id": "45.4646_4.4396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.84374999999999,
@@ -362,7 +401,8 @@
             "bortle": 7,
             "near": "Lozanne",
             "id": "45.8437_4.6896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.56458333333333,
@@ -371,7 +411,8 @@
             "bortle": 7,
             "near": "Luzinay",
             "id": "45.5646_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.88958333333333,
@@ -380,7 +421,8 @@
             "bortle": 7,
             "near": "Tramoyes",
             "id": "45.8896_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.65624999999999,
@@ -389,7 +431,8 @@
             "bortle": 7,
             "near": "Orliénas",
             "id": "45.6562_4.6896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.80208333333333,
@@ -398,7 +441,8 @@
             "bortle": 8,
             "near": "Caluire-et-Cuire",
             "id": "45.8021_4.8271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.70208333333333,
@@ -407,7 +451,8 @@
             "bortle": 8,
             "near": "Saint-Priest",
             "id": "45.7021_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

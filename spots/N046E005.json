@@ -11,7 +11,8 @@
             "bortle": 4,
             "near": "Chapelle-Voland",
             "id": "46.8062_5.3312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.80624999999999,
@@ -20,7 +21,8 @@
             "bortle": 4,
             "near": "Poligny",
             "id": "46.8062_5.7354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.985416666666666,
@@ -29,7 +31,8 @@
             "bortle": 4,
             "near": "Arc-et-Senans",
             "id": "46.9854_5.7021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.87291666666666,
@@ -38,7 +41,8 @@
             "bortle": 4,
             "near": "Sellières",
             "id": "46.8729_5.5187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.668749999999996,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Crançot",
             "id": "46.6687_5.7396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.71458333333333,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Simard",
             "id": "46.7146_5.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.668749999999996,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Beaurepaire-en-Bresse",
             "id": "46.6687_5.3771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.53124999999999,
@@ -74,7 +81,8 @@
             "bortle": 4,
             "near": "Montpont-en-Bresse",
             "id": "46.5312_5.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.93958333333333,
@@ -83,7 +91,8 @@
             "bortle": 4,
             "near": "Petit-Noir",
             "id": "46.9396_5.2854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.53124999999999,
@@ -92,7 +101,8 @@
             "bortle": 4,
             "near": "Cousance",
             "id": "46.5312_5.3812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.53124999999999,
@@ -101,7 +111,8 @@
             "bortle": 4,
             "near": "Clairvaux-les-Lacs",
             "id": "46.5312_5.7562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.47291666666666,
@@ -110,7 +121,8 @@
             "bortle": 4,
             "near": "Orgelet",
             "id": "46.4729_5.5604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.89375,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Ciel",
             "id": "46.8937_5.0604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.39375,
@@ -128,7 +141,8 @@
             "bortle": 4,
             "near": "Coligny",
             "id": "46.3937_5.3812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.39375,
@@ -137,7 +151,8 @@
             "bortle": 4,
             "near": "Lescheroux",
             "id": "46.3937_5.1646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.34791666666666,
@@ -146,7 +161,8 @@
             "bortle": 4,
             "near": "Dortan",
             "id": "46.3479_5.6521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.256249999999994,
@@ -155,7 +171,8 @@
             "bortle": 4,
             "near": "Corveissiat",
             "id": "46.2562_5.4687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.068749999999994,
@@ -164,7 +181,8 @@
             "bortle": 4,
             "near": "Génissiat",
             "id": "46.0687_5.6937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.05624999999999,
@@ -173,7 +191,8 @@
             "bortle": 5,
             "near": "Cerdon",
             "id": "46.0562_5.4729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.11458333333333,
@@ -182,7 +201,8 @@
             "bortle": 5,
             "near": "Châtillon-en-Michaille",
             "id": "46.1146_5.7437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.30208333333333,
@@ -191,7 +211,8 @@
             "bortle": 5,
             "near": "Dortan",
             "id": "46.3021_5.6062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.164583333333326,
@@ -200,7 +221,8 @@
             "bortle": 5,
             "near": "Condeissiat",
             "id": "46.1646_5.1021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.16041666666666,
@@ -209,7 +231,8 @@
             "bortle": 5,
             "near": "Revonnas",
             "id": "46.1604_5.3354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.02708333333333,
@@ -218,7 +241,8 @@
             "bortle": 5,
             "near": "Chalamont",
             "id": "46.0271_5.1937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.62291666666666,
@@ -227,7 +251,8 @@
             "bortle": 4,
             "near": "Clairvaux-les-Lacs",
             "id": "46.6229_5.7479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.57708333333333,
@@ -236,7 +261,8 @@
             "bortle": 4,
             "near": "Clairvaux-les-Lacs",
             "id": "46.5771_5.7521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.39375,
@@ -245,7 +271,8 @@
             "bortle": 4,
             "near": "Lavans-lès-Saint-Claude",
             "id": "46.3937_5.7687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.34791666666666,
@@ -254,7 +281,8 @@
             "bortle": 4,
             "near": "Molinges",
             "id": "46.3479_5.7687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.164583333333326,
@@ -263,7 +291,8 @@
             "bortle": 5,
             "near": "Châtillon-en-Michaille",
             "id": "46.1646_5.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.16041666666666,
@@ -272,7 +301,8 @@
             "bortle": 5,
             "near": "Châtillon-en-Michaille",
             "id": "46.1604_5.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.89791666666666,
@@ -281,7 +311,8 @@
             "bortle": 4,
             "near": "Arbois",
             "id": "46.8979_5.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.02291666666666,
@@ -290,7 +321,8 @@
             "bortle": 4,
             "near": "Chanay",
             "id": "46.0229_5.7896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.09374999999999,
@@ -299,7 +331,8 @@
             "bortle": 5,
             "near": "Bellegarde-sur-Valserine",
             "id": "46.0937_5.7896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.86874999999999,
@@ -308,7 +341,8 @@
             "bortle": 4,
             "near": "Poligny",
             "id": "46.8687_5.7021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 46.485416666666666,
@@ -317,7 +351,8 @@
             "bortle": 4,
             "near": "Moirans-en-Montagne",
             "id": "46.4854_5.7604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

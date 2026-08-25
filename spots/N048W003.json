@@ -5,67 +5,14 @@
     "tile": "N048W003",
     "spots": [
         {
-            "lat": 48.86458333333333,
-            "lon": -2.8687500000000075,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Ploubazlanec",
-            "id": "48.8646_-2.8688",
-            "altitude": null
-        },
-        {
-            "lat": 48.77291666666666,
-            "lon": -2.6854166666666743,
-            "darkness": 1.0,
-            "bortle": 1,
-            "near": "Saint-Quay-Portrieux",
-            "id": "48.7729_-2.6854",
-            "altitude": null
-        },
-        {
-            "lat": 48.731249999999996,
-            "lon": -2.3687500000000075,
-            "darkness": 0.9972866410678214,
-            "bortle": 2,
-            "near": "Fréhel",
-            "id": "48.7312_-2.3688",
-            "altitude": null
-        },
-        {
-            "lat": 48.731249999999996,
-            "lon": -2.8729166666666743,
-            "darkness": 0.9924451393980379,
-            "bortle": 2,
-            "near": "Plouha",
-            "id": "48.7312_-2.8729",
-            "altitude": null
-        },
-        {
-            "lat": 48.68541666666666,
-            "lon": -2.5937500000000075,
-            "darkness": 0.9675707398378302,
-            "bortle": 2,
-            "near": "Pléneuf-Val-André",
-            "id": "48.6854_-2.5938",
-            "altitude": null
-        },
-        {
-            "lat": 48.77708333333333,
-            "lon": -2.139583333333341,
-            "darkness": 0.9596996043526758,
-            "bortle": 2,
-            "near": "Saint-Lunaire",
-            "id": "48.7771_-2.1396",
-            "altitude": null
-        },
-        {
             "lat": 48.27291666666666,
             "lon": -2.9187500000000077,
             "darkness": 0.9028991717619939,
             "bortle": 2,
             "near": "Merléac",
             "id": "48.2729_-2.9188",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.59374999999999,
@@ -74,7 +21,8 @@
             "bortle": 2,
             "near": "Pléboulle",
             "id": "48.5937_-2.3646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.043749999999996,
@@ -83,7 +31,8 @@
             "bortle": 2,
             "near": "Mohon",
             "id": "48.0437_-2.5146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.36458333333333,
@@ -92,7 +41,8 @@
             "bortle": 2,
             "near": "Trémeur",
             "id": "48.3646_-2.2771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.18124999999999,
@@ -101,7 +51,8 @@
             "bortle": 2,
             "near": "Merdrignac",
             "id": "48.1812_-2.4146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.59374999999999,
@@ -110,16 +61,8 @@
             "bortle": 2,
             "near": "Tréguidel",
             "id": "48.5937_-2.9646",
-            "altitude": null
-        },
-        {
-            "lat": 48.68541666666666,
-            "lon": -2.139583333333341,
-            "darkness": 0.848041707171938,
-            "bortle": 3,
-            "near": "Saint-Lunaire",
-            "id": "48.6854_-2.1396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.50208333333333,
@@ -128,7 +71,8 @@
             "bortle": 3,
             "near": "Hénansal",
             "id": "48.5021_-2.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.06458333333333,
@@ -137,7 +81,8 @@
             "bortle": 3,
             "near": "Le Cambout",
             "id": "48.0646_-2.6396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.318749999999994,
@@ -146,7 +91,8 @@
             "bortle": 3,
             "near": "Broons",
             "id": "48.3187_-2.2313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.23958333333333,
@@ -155,7 +101,8 @@
             "bortle": 3,
             "near": "Le Quillio",
             "id": "48.2396_-2.8729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.28124999999999,
@@ -164,7 +111,8 @@
             "bortle": 3,
             "near": "Langast",
             "id": "48.2812_-2.6688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.20625,
@@ -173,7 +121,8 @@
             "bortle": 3,
             "near": "Merdrignac",
             "id": "48.2062_-2.3688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.59374999999999,
@@ -182,16 +131,8 @@
             "bortle": 3,
             "near": "Lantic",
             "id": "48.5937_-2.8729",
-            "altitude": null
-        },
-        {
-            "lat": 48.59374999999999,
-            "lon": -2.643750000000008,
-            "darkness": 0.8175490369910813,
-            "bortle": 3,
-            "near": "Pléneuf-Val-André",
-            "id": "48.5937_-2.6438",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.40624999999999,
@@ -200,7 +141,8 @@
             "bortle": 3,
             "near": "Saint-Brandan",
             "id": "48.4062_-2.8729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.52708333333333,
@@ -209,7 +151,8 @@
             "bortle": 3,
             "near": "Créhen",
             "id": "48.5271_-2.1854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.33958333333333,
@@ -218,7 +161,8 @@
             "bortle": 3,
             "near": "Le Gouray",
             "id": "48.3396_-2.4563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08541666666666,
@@ -227,7 +171,8 @@
             "bortle": 3,
             "near": "Concoret",
             "id": "48.0854_-2.2313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.322916666666664,
@@ -236,7 +181,8 @@
             "bortle": 3,
             "near": "Plouasne",
             "id": "48.3229_-2.0021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.46041666666666,
@@ -245,7 +191,8 @@
             "bortle": 4,
             "near": "Noyal",
             "id": "48.4604_-2.4896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.46041666666666,
@@ -254,7 +201,8 @@
             "bortle": 4,
             "near": "Aucaleuc",
             "id": "48.4604_-2.1396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.131249999999994,
@@ -263,7 +211,8 @@
             "bortle": 4,
             "near": "Iffendic",
             "id": "48.1312_-2.0938",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.06458333333333,
@@ -272,7 +221,8 @@
             "bortle": 4,
             "near": "Noyal-Pontivy",
             "id": "48.0646_-2.8688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.18541666666666,
@@ -281,7 +231,8 @@
             "bortle": 4,
             "near": "La Prénessaye",
             "id": "48.1854_-2.6896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.45208333333333,
@@ -290,7 +241,8 @@
             "bortle": 4,
             "near": "Saint-Julien",
             "id": "48.4521_-2.8271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

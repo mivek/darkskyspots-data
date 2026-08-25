@@ -5,40 +5,14 @@
     "tile": "N049E000",
     "spots": [
         {
-            "lat": 49.96874999999999,
-            "lon": 0.24374999999999236,
-            "darkness": 0.803528904826566,
-            "bortle": 3,
-            "near": "Életot",
-            "id": "49.9687_0.2437",
-            "altitude": null
-        },
-        {
-            "lat": 49.96874999999999,
-            "lon": 0.656249999999992,
-            "darkness": 0.7370608425351024,
-            "bortle": 4,
-            "near": "Saint-Valery-en-Caux",
-            "id": "49.9687_0.6562",
-            "altitude": null
-        },
-        {
-            "lat": 49.87708333333333,
-            "lon": 0.19791666666665897,
-            "darkness": 0.7253065644430114,
-            "bortle": 4,
-            "near": "Yport",
-            "id": "49.8771_0.1979",
-            "altitude": null
-        },
-        {
             "lat": 49.00208333333333,
             "lon": 0.15208333333332558,
             "darkness": 0.7209356408602228,
             "bortle": 4,
             "near": "Livarot",
             "id": "49.0021_0.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -47,25 +21,8 @@
             "bortle": 4,
             "near": "Saint-Aubin-le-Vertueux",
             "id": "49.0021_0.6104",
-            "altitude": null
-        },
-        {
-            "lat": 49.87708333333333,
-            "lon": 0.42708333333332593,
-            "darkness": 0.6830335460108544,
-            "bortle": 4,
-            "near": "Saint-Pierre-en-Port",
-            "id": "49.8771_0.4271",
-            "altitude": null
-        },
-        {
-            "lat": 49.922916666666666,
-            "lon": 0.885416666666659,
-            "darkness": 0.6561400030455269,
-            "bortle": 4,
-            "near": "Sainte-Marguerite-sur-Mer",
-            "id": "49.9229_0.8854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.08958333333333,
@@ -74,7 +31,8 @@
             "bortle": 4,
             "near": "Drucourt",
             "id": "49.0896_0.4312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -83,7 +41,8 @@
             "bortle": 4,
             "near": "Grosley-sur-Risle",
             "id": "49.0021_0.8396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.78541666666666,
@@ -92,7 +51,8 @@
             "bortle": 4,
             "near": "Fontaine-le-Dun",
             "id": "49.7854_0.8396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -101,7 +61,8 @@
             "bortle": 4,
             "near": "Plasnes",
             "id": "49.1396_0.6562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.83125,
@@ -110,16 +71,8 @@
             "bortle": 4,
             "near": "Vittefleur",
             "id": "49.8312_0.6396",
-            "altitude": null
-        },
-        {
-            "lat": 49.73958333333333,
-            "lon": 0.15208333333332558,
-            "darkness": 0.5560958438818397,
-            "bortle": 4,
-            "near": "Étretat",
-            "id": "49.7396_0.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.693749999999994,
@@ -128,7 +81,8 @@
             "bortle": 4,
             "near": "Héricourt-en-Caux",
             "id": "49.6937_0.6604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -137,7 +91,8 @@
             "bortle": 4,
             "near": "Saint-Désir",
             "id": "49.1396_0.1979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.231249999999996,
@@ -146,7 +101,8 @@
             "bortle": 4,
             "near": "Lieurey",
             "id": "49.2312_0.4771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.231249999999996,
@@ -155,7 +111,8 @@
             "bortle": 4,
             "near": "Dozulé",
             "id": "49.2312_0.0146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.73958333333333,
@@ -164,7 +121,8 @@
             "bortle": 4,
             "near": "Toussaint",
             "id": "49.7396_0.4312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.64791666666666,
@@ -173,7 +131,8 @@
             "bortle": 5,
             "near": "Motteville",
             "id": "49.6479_0.8312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.27708333333333,
@@ -182,7 +141,8 @@
             "bortle": 5,
             "near": "Montfort-sur-Risle",
             "id": "49.2771_0.7021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.27708333333333,
@@ -191,7 +151,8 @@
             "bortle": 5,
             "near": "Épaignes",
             "id": "49.2771_0.4771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.64791666666666,
@@ -200,16 +161,8 @@
             "bortle": 5,
             "near": "Fauville-en-Caux",
             "id": "49.6479_0.5687",
-            "altitude": null
-        },
-        {
-            "lat": 49.693749999999994,
-            "lon": 0.15208333333332558,
-            "darkness": 0.4888256681244256,
-            "bortle": 5,
-            "near": "Étretat",
-            "id": "49.6937_0.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.693749999999994,
@@ -218,7 +171,8 @@
             "bortle": 5,
             "near": "Épreville",
             "id": "49.6937_0.3687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18541666666666,
@@ -227,7 +181,8 @@
             "bortle": 5,
             "near": "Le Neubourg",
             "id": "49.1854_0.8854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.27708333333333,
@@ -236,7 +191,8 @@
             "bortle": 5,
             "near": "Beaumont-en-Auge",
             "id": "49.2771_0.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.414583333333326,
@@ -245,7 +201,8 @@
             "bortle": 5,
             "near": "Bourneville",
             "id": "49.4146_0.6604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.510416666666664,
@@ -254,7 +211,8 @@
             "bortle": 5,
             "near": "Sainte-Marguerite-sur-Duclair",
             "id": "49.5104_0.8396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.46041666666666,
@@ -263,16 +221,8 @@
             "bortle": 6,
             "near": "Petiville",
             "id": "49.4604_0.6146",
-            "altitude": null
-        },
-        {
-            "lat": 49.602083333333326,
-            "lon": 0.06041666666665879,
-            "darkness": 0.34864016258322206,
-            "bortle": 6,
-            "near": "Cauville-sur-Mer",
-            "id": "49.6021_0.0604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.510416666666664,
@@ -281,16 +231,8 @@
             "bortle": 6,
             "near": "Saint-Pierre-de-Varengeville",
             "id": "49.5104_0.9312",
-            "altitude": null
-        },
-        {
-            "lat": 49.36874999999999,
-            "lon": 0.014583333333325399,
-            "darkness": 0.3461506415724165,
-            "bortle": 6,
-            "near": "Benerville-sur-Mer",
-            "id": "49.3687_0.0146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.27708333333333,
@@ -299,7 +241,8 @@
             "bortle": 6,
             "near": "Le Bosc-Roger-en-Roumois",
             "id": "49.2771_0.9312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.602083333333326,
@@ -308,7 +251,8 @@
             "bortle": 6,
             "near": "Manneville-la-Goupil",
             "id": "49.6021_0.3396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.36874999999999,
@@ -317,7 +261,8 @@
             "bortle": 6,
             "near": "Beuzeville",
             "id": "49.3687_0.3396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.55624999999999,
@@ -326,16 +271,8 @@
             "bortle": 7,
             "near": "Manéglise",
             "id": "49.5562_0.2479",
-            "altitude": null
-        },
-        {
-            "lat": 49.414583333333326,
-            "lon": 0.10624999999999218,
-            "darkness": 0.1725502140830263,
-            "bortle": 7,
-            "near": "Villerville",
-            "id": "49.4146_0.1062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

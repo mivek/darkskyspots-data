@@ -5,58 +5,14 @@
     "tile": "N043E004",
     "spots": [
         {
-            "lat": 43.27291666666666,
-            "lon": 4.414583333333326,
-            "darkness": 0.6627991074692006,
-            "bortle": 4,
-            "near": "Saintes-Maries-de-la-Mer",
-            "id": "43.2729_4.4146",
-            "altitude": null
-        },
-        {
-            "lat": 43.36458333333333,
-            "lon": 4.235416666666659,
-            "darkness": 0.6066136384620506,
-            "bortle": 4,
-            "near": "Saintes-Maries-de-la-Mer",
-            "id": "43.3646_4.2354",
-            "altitude": null
-        },
-        {
-            "lat": 43.41041666666666,
-            "lon": 4.460416666666658,
-            "darkness": 0.5484632167508303,
-            "bortle": 4,
-            "near": "Saintes-Maries-de-la-Mer",
-            "id": "43.4104_4.4604",
-            "altitude": null
-        },
-        {
-            "lat": 43.318749999999994,
-            "lon": 4.597916666666659,
-            "darkness": 0.5379156207062195,
-            "bortle": 4,
-            "near": "Port-Saint-Louis-du-Rhône",
-            "id": "43.3187_4.5979",
-            "altitude": null
-        },
-        {
-            "lat": 43.18124999999999,
-            "lon": 4.87291666666666,
-            "darkness": 0.5013322802372528,
-            "bortle": 4,
-            "near": "Port-Saint-Louis-du-Rhône",
-            "id": "43.1812_4.8729",
-            "altitude": null
-        },
-        {
             "lat": 43.87291666666666,
             "lon": 4.047916666666659,
             "darkness": 0.4988227955252891,
             "bortle": 5,
             "near": "Quissac",
             "id": "43.8729_4.0479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.50208333333333,
@@ -65,7 +21,8 @@
             "bortle": 5,
             "near": "Saintes-Maries-de-la-Mer",
             "id": "43.5021_4.4812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.50208333333333,
@@ -74,34 +31,8 @@
             "bortle": 5,
             "near": "Aigues-Mortes",
             "id": "43.5021_4.2812",
-            "altitude": null
-        },
-        {
-            "lat": 43.27291666666666,
-            "lon": 4.735416666666659,
-            "darkness": 0.48007442843484327,
-            "bortle": 5,
-            "near": "Port-Saint-Louis-du-Rhône",
-            "id": "43.2729_4.7354",
-            "altitude": null
-        },
-        {
-            "lat": 43.18124999999999,
-            "lon": 4.918749999999992,
-            "darkness": 0.4743018802654394,
-            "bortle": 5,
-            "near": "Sausset-les-Pins",
-            "id": "43.1812_4.9187",
-            "altitude": null
-        },
-        {
-            "lat": 43.45625,
-            "lon": 4.097916666666659,
-            "darkness": 0.45272550689485924,
-            "bortle": 5,
-            "near": "Le Grau-du-Roi",
-            "id": "43.4562_4.0979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.41041666666666,
@@ -110,7 +41,8 @@
             "bortle": 5,
             "near": "Port-Saint-Louis-du-Rhône",
             "id": "43.4104_4.6437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.59374999999999,
@@ -119,7 +51,8 @@
             "bortle": 5,
             "near": "Arles",
             "id": "43.5937_4.6437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.63958333333333,
@@ -128,7 +61,8 @@
             "bortle": 5,
             "near": "Saint-Gilles",
             "id": "43.6396_4.4646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.918749999999996,
@@ -137,16 +71,8 @@
             "bortle": 5,
             "near": "Poulx",
             "id": "43.9187_4.4146",
-            "altitude": null
-        },
-        {
-            "lat": 43.50208333333333,
-            "lon": 4.0687499999999925,
-            "darkness": 0.3492769997024525,
-            "bortle": 6,
-            "near": "La Grande-Motte",
-            "id": "43.5021_4.0687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.735416666666666,
@@ -155,7 +81,8 @@
             "bortle": 6,
             "near": "Restinclières",
             "id": "43.7354_4.0479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.96458333333333,
@@ -164,7 +91,8 @@
             "bortle": 6,
             "near": "Rochefort-du-Gard",
             "id": "43.9646_4.6437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.63958333333333,
@@ -173,25 +101,8 @@
             "bortle": 6,
             "near": "Le Cailar",
             "id": "43.6396_4.2354",
-            "altitude": null
-        },
-        {
-            "lat": 43.506249999999994,
-            "lon": 4.735416666666659,
-            "darkness": 0.34269284546183965,
-            "bortle": 6,
-            "near": "Port-Saint-Louis-du-Rhône",
-            "id": "43.5062_4.7354",
-            "altitude": null
-        },
-        {
-            "lat": 43.318749999999994,
-            "lon": 4.827083333333325,
-            "darkness": 0.3420688580348896,
-            "bortle": 6,
-            "near": "Port-Saint-Louis-du-Rhône",
-            "id": "43.3187_4.8271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.82708333333333,
@@ -200,7 +111,8 @@
             "bortle": 6,
             "near": "Clarensac",
             "id": "43.8271_4.2312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.68541666666666,
@@ -209,7 +121,8 @@
             "bortle": 6,
             "near": "Fourques",
             "id": "43.6854_4.5521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.68958333333333,
@@ -218,7 +131,8 @@
             "bortle": 6,
             "near": "Mouriès",
             "id": "43.6896_4.8729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.82708333333333,
@@ -227,7 +141,8 @@
             "bortle": 6,
             "near": "Redessan",
             "id": "43.8271_4.5104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.77708333333333,
@@ -236,7 +151,8 @@
             "bortle": 6,
             "near": "Saint-Étienne-du-Grès",
             "id": "43.7771_4.6937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.731249999999996,
@@ -245,7 +161,8 @@
             "bortle": 6,
             "near": "Générac",
             "id": "43.7312_4.3729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.96458333333333,
@@ -254,7 +171,8 @@
             "bortle": 6,
             "near": "Jonquerettes",
             "id": "43.9646_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.86874999999999,
@@ -263,7 +181,8 @@
             "bortle": 6,
             "near": "Châteaurenard",
             "id": "43.8687_4.8312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.506249999999994,
@@ -272,16 +191,8 @@
             "bortle": 7,
             "near": "Istres",
             "id": "43.5062_4.8729",
-            "altitude": null
-        },
-        {
-            "lat": 43.36458333333333,
-            "lon": 4.918749999999992,
-            "darkness": 0.18211384881752335,
-            "bortle": 7,
-            "near": "Port-de-Bouc",
-            "id": "43.3646_4.9187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

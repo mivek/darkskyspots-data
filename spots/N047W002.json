@@ -11,7 +11,8 @@
             "bortle": 3,
             "near": "Candé",
             "id": "47.5396_-1.0229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.72291666666666,
@@ -20,7 +21,8 @@
             "bortle": 3,
             "near": "Langon",
             "id": "47.7229_-1.9063",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.83125,
@@ -29,7 +31,8 @@
             "bortle": 3,
             "near": "Saint-Aignan-sur-Roë",
             "id": "47.8312_-1.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.62708333333333,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "La Chapelle-Glain",
             "id": "47.6271_-1.2188",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.947916666666664,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Cuillé",
             "id": "47.9479_-1.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.76458333333333,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Pouancé",
             "id": "47.7646_-1.2188",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.672916666666666,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Pierric",
             "id": "47.6729_-1.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.539583333333326,
@@ -74,7 +81,8 @@
             "bortle": 4,
             "near": "Saint-Mars-la-Jaille",
             "id": "47.5396_-1.1729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -83,7 +91,8 @@
             "bortle": 4,
             "near": "Lohéac",
             "id": "47.8562_-1.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.58541666666666,
@@ -92,7 +101,8 @@
             "bortle": 4,
             "near": "Plessé",
             "id": "47.5854_-1.9063",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.76458333333333,
@@ -101,7 +111,8 @@
             "bortle": 4,
             "near": "Ruffigné",
             "id": "47.7646_-1.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.58541666666666,
@@ -110,7 +121,8 @@
             "bortle": 4,
             "near": "Abbaretz",
             "id": "47.5854_-1.5438",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.84791666666666,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Martigné-Ferchaud",
             "id": "47.8479_-1.3813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.28541666666666,
@@ -128,7 +141,8 @@
             "bortle": 4,
             "near": "Saint-Rémy-en-Mauges",
             "id": "47.2854_-1.0813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -137,7 +151,8 @@
             "bortle": 4,
             "near": "Moulins",
             "id": "47.9937_-1.3563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.06458333333333,
@@ -146,7 +161,8 @@
             "bortle": 4,
             "near": "Roussay",
             "id": "47.0646_-1.0813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.49374999999999,
@@ -155,7 +171,8 @@
             "bortle": 4,
             "near": "Blain",
             "id": "47.4937_-1.7313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.90208333333333,
@@ -164,7 +181,8 @@
             "bortle": 4,
             "near": "Le Sel-de-Bretagne",
             "id": "47.9021_-1.6313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.447916666666664,
@@ -173,7 +191,8 @@
             "bortle": 4,
             "near": "Mouzeil",
             "id": "47.4479_-1.3563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.447916666666664,
@@ -182,7 +201,8 @@
             "bortle": 4,
             "near": "Quilly",
             "id": "47.4479_-1.9521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -191,7 +211,8 @@
             "bortle": 4,
             "near": "Lassy",
             "id": "47.9937_-1.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.03124999999999,
@@ -200,7 +221,8 @@
             "bortle": 4,
             "near": "Saint-Même-le-Tenu",
             "id": "47.0312_-1.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.168749999999996,
@@ -209,7 +231,8 @@
             "bortle": 4,
             "near": "Chauvé",
             "id": "47.1687_-1.9563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.03124999999999,
@@ -218,7 +241,8 @@
             "bortle": 4,
             "near": "Saint-Hilaire-de-Clisson",
             "id": "47.0312_-1.3104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.21458333333333,
@@ -227,7 +251,8 @@
             "bortle": 5,
             "near": "Saint-Père-en-Retz",
             "id": "47.2146_-1.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.03124999999999,
@@ -236,7 +261,8 @@
             "bortle": 5,
             "near": "La Planche",
             "id": "47.0312_-1.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.356249999999996,
@@ -245,7 +271,8 @@
             "bortle": 5,
             "near": "Savenay",
             "id": "47.3562_-1.9521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.40208333333333,
@@ -254,7 +281,8 @@
             "bortle": 5,
             "near": "Héric",
             "id": "47.4021_-1.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.26458333333333,
@@ -263,7 +291,8 @@
             "bortle": 5,
             "near": "Landemont",
             "id": "47.2646_-1.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -272,7 +301,8 @@
             "bortle": 5,
             "near": "Guichen",
             "id": "47.9937_-1.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.07708333333333,
@@ -281,7 +311,8 @@
             "bortle": 5,
             "near": "Saint-Lumine-de-Coutais",
             "id": "47.0771_-1.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.356249999999996,
@@ -290,7 +321,8 @@
             "bortle": 5,
             "near": "Saint-Mars-du-Désert",
             "id": "47.3562_-1.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.26458333333333,
@@ -299,7 +331,8 @@
             "bortle": 5,
             "near": "Saint-Étienne-de-Montluc",
             "id": "47.2646_-1.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.12291666666666,
@@ -308,7 +341,8 @@
             "bortle": 6,
             "near": "Bouaye",
             "id": "47.1229_-1.6813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.31041666666666,
@@ -317,7 +351,8 @@
             "bortle": 6,
             "near": "Vigneux-de-Bretagne",
             "id": "47.3104_-1.6813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.21458333333333,
@@ -326,7 +361,8 @@
             "bortle": 6,
             "near": "Le Loroux-Bottereau",
             "id": "47.2146_-1.3563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.168749999999996,
@@ -335,7 +371,8 @@
             "bortle": 7,
             "near": "Bouguenais",
             "id": "47.1687_-1.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.21458333333333,
@@ -344,7 +381,8 @@
             "bortle": 7,
             "near": "Basse-Goulaine",
             "id": "47.2146_-1.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

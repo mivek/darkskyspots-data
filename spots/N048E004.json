@@ -11,7 +11,8 @@
             "bortle": 2,
             "near": "Ville-sous-la-Ferté",
             "id": "48.0396_4.7854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.131249999999994,
@@ -20,7 +21,8 @@
             "bortle": 3,
             "near": "Ville-sous-la-Ferté",
             "id": "48.1312_4.8271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.360416666666666,
@@ -29,7 +31,8 @@
             "bortle": 3,
             "near": "Sommevoire",
             "id": "48.3604_4.9229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.131249999999994,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "Essoyes",
             "id": "48.1312_4.6021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.977083333333326,
@@ -47,7 +51,8 @@
             "bortle": 3,
             "near": "Givry-en-Argonne",
             "id": "48.9771_4.9687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.039583333333326,
@@ -56,7 +61,8 @@
             "bortle": 3,
             "near": "Les Riceys",
             "id": "48.0396_4.3229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.360416666666666,
@@ -65,7 +71,8 @@
             "bortle": 3,
             "near": "Dienville",
             "id": "48.3604_4.6937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.86874999999999,
@@ -74,7 +81,8 @@
             "bortle": 3,
             "near": "Givry-en-Argonne",
             "id": "48.8687_4.8312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.52291666666666,
@@ -83,7 +91,8 @@
             "bortle": 3,
             "near": "Chavanges",
             "id": "48.5229_4.6021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.26875,
@@ -92,7 +101,8 @@
             "bortle": 4,
             "near": "Vendeuvre-sur-Barse",
             "id": "48.2687_4.5229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.41041666666666,
@@ -101,7 +111,8 @@
             "bortle": 4,
             "near": "Brienne-le-Château",
             "id": "48.4104_4.6021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.543749999999996,
@@ -110,7 +121,8 @@
             "bortle": 4,
             "near": "Chavanges",
             "id": "48.5437_4.4646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.87708333333333,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Saint-Amand-sur-Fion",
             "id": "48.8771_4.7396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.45208333333333,
@@ -128,7 +141,8 @@
             "bortle": 4,
             "near": "Sommevoire",
             "id": "48.4521_4.8271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08541666666666,
@@ -137,7 +151,8 @@
             "bortle": 4,
             "near": "Landreville",
             "id": "48.0854_4.4646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08541666666666,
@@ -146,7 +161,8 @@
             "bortle": 4,
             "near": "Chaource",
             "id": "48.0854_4.1896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.58958333333333,
@@ -155,7 +171,8 @@
             "bortle": 4,
             "near": "Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson",
             "id": "48.5896_4.6937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.418749999999996,
@@ -164,7 +181,8 @@
             "bortle": 4,
             "near": "Piney",
             "id": "48.4187_4.3729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.77708333333333,
@@ -173,7 +191,8 @@
             "bortle": 4,
             "near": "Sermaize-les-Bains",
             "id": "48.7771_4.9229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.68124999999999,
@@ -182,7 +201,8 @@
             "bortle": 4,
             "near": "Mailly-le-Camp",
             "id": "48.6812_4.3271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.547916666666666,
@@ -191,7 +211,8 @@
             "bortle": 4,
             "near": "Arcis-sur-Aube",
             "id": "48.5479_4.2354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.63958333333333,
@@ -200,7 +221,8 @@
             "bortle": 4,
             "near": "Plancy-l'Abbaye",
             "id": "48.6396_4.0562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.22291666666666,
@@ -209,7 +231,8 @@
             "bortle": 4,
             "near": "Lusigny-sur-Barse",
             "id": "48.2229_4.3271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.797916666666666,
@@ -218,7 +241,8 @@
             "bortle": 4,
             "near": "Fère-Champenoise",
             "id": "48.7979_4.0521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.818749999999994,
@@ -227,7 +251,8 @@
             "bortle": 4,
             "near": "Mairy-sur-Marne",
             "id": "48.8187_4.3687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.731249999999996,
@@ -236,7 +261,8 @@
             "bortle": 4,
             "near": "Marolles",
             "id": "48.7312_4.6937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.91041666666666,
@@ -245,7 +271,8 @@
             "bortle": 4,
             "near": "Matougues",
             "id": "48.9104_4.1854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.58958333333333,
@@ -254,7 +281,8 @@
             "bortle": 4,
             "near": "Humbécourt",
             "id": "48.5896_4.9187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.41041666666666,
@@ -263,7 +291,8 @@
             "bortle": 4,
             "near": "Charmont-sous-Barbuise",
             "id": "48.4104_4.1437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.22291666666666,
@@ -272,7 +301,8 @@
             "bortle": 5,
             "near": "Clérey",
             "id": "48.2229_4.1896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.36458333333333,
@@ -281,7 +311,8 @@
             "bortle": 5,
             "near": "Charmont-sous-Barbuise",
             "id": "48.3646_4.1896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.91041666666666,
@@ -290,7 +321,8 @@
             "bortle": 5,
             "near": "Sarry",
             "id": "48.9104_4.3729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.26875,
@@ -299,7 +331,8 @@
             "bortle": 6,
             "near": "Rouilly-Saint-Loup",
             "id": "48.2687_4.1437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

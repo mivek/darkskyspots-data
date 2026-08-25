@@ -5,67 +5,14 @@
     "tile": "N044W002",
     "spots": [
         {
-            "lat": 44.193749999999994,
-            "lon": -1.406250000000008,
-            "darkness": 0.8969441705705374,
-            "bortle": 2,
-            "near": "Mimizan",
-            "id": "44.1937_-1.4063",
-            "altitude": null
-        },
-        {
-            "lat": 44.05624999999999,
-            "lon": -1.406250000000008,
-            "darkness": 0.8724924693501805,
-            "bortle": 2,
-            "near": "Lit-et-Mixe",
-            "id": "44.0562_-1.4063",
-            "altitude": null
-        },
-        {
-            "lat": 44.322916666666664,
-            "lon": -1.3145833333333412,
-            "darkness": 0.8482945318306536,
-            "bortle": 3,
-            "near": "Sainte-Eulalie-en-Born",
-            "id": "44.3229_-1.3146",
-            "altitude": null
-        },
-        {
-            "lat": 44.96874999999999,
-            "lon": -1.2687500000000078,
-            "darkness": 0.8475022011698974,
-            "bortle": 3,
-            "near": "Lacanau",
-            "id": "44.9687_-1.2688",
-            "altitude": null
-        },
-        {
-            "lat": 44.010416666666664,
-            "lon": -1.3604166666666746,
-            "darkness": 0.8451550617504779,
-            "bortle": 3,
-            "near": "Vielle-Saint-Girons",
-            "id": "44.0104_-1.3604",
-            "altitude": null
-        },
-        {
             "lat": 44.14375,
             "lon": -1.3145833333333412,
             "darkness": 0.8449680731182165,
             "bortle": 3,
             "near": "Bias",
             "id": "44.1437_-1.3146",
-            "altitude": null
-        },
-        {
-            "lat": 44.672916666666666,
-            "lon": -1.3604166666666746,
-            "darkness": 0.8448068144997858,
-            "bortle": 3,
-            "near": "Arcachon",
-            "id": "44.6729_-1.3604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.14375,
@@ -74,16 +21,8 @@
             "bortle": 3,
             "near": "Escource",
             "id": "44.1437_-1.0813",
-            "altitude": null
-        },
-        {
-            "lat": 44.46458333333333,
-            "lon": -1.3145833333333412,
-            "darkness": 0.8103050353603087,
-            "bortle": 3,
-            "near": "Biscarrosse",
-            "id": "44.4646_-1.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.010416666666664,
@@ -92,7 +31,8 @@
             "bortle": 3,
             "near": "Lesperon",
             "id": "44.0104_-1.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.28124999999999,
@@ -101,7 +41,8 @@
             "bortle": 3,
             "near": "Ychoux",
             "id": "44.2812_-1.0354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.83541666666666,
@@ -110,7 +51,8 @@
             "bortle": 3,
             "near": "Arès",
             "id": "44.8354_-1.2229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.41041666666666,
@@ -119,7 +61,8 @@
             "bortle": 4,
             "near": "Biscarrosse",
             "id": "44.4104_-1.2229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.46458333333333,
@@ -128,7 +71,8 @@
             "bortle": 4,
             "near": "Sanguinet",
             "id": "44.4646_-1.0021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.18541666666666,
@@ -137,16 +81,8 @@
             "bortle": 4,
             "near": "Mimizan",
             "id": "44.1854_-1.2229",
-            "altitude": null
-        },
-        {
-            "lat": 44.602083333333326,
-            "lon": -1.2687500000000078,
-            "darkness": 0.7353437534743934,
-            "bortle": 4,
-            "near": "Arcachon",
-            "id": "44.6021_-1.2688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.97291666666666,
@@ -155,7 +91,8 @@
             "bortle": 4,
             "near": "Lacanau",
             "id": "44.9729_-1.0854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.789583333333326,
@@ -164,7 +101,8 @@
             "bortle": 4,
             "near": "Arès",
             "id": "44.7896_-1.2229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.83541666666666,
@@ -173,7 +111,8 @@
             "bortle": 4,
             "near": "Le Porge",
             "id": "44.8354_-1.0396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

@@ -5,58 +5,14 @@
     "tile": "N050E001",
     "spots": [
         {
-            "lat": 50.197916666666664,
-            "lon": 1.1604166666666593,
-            "darkness": 0.7815409399280975,
-            "bortle": 3,
-            "near": "Le Tréport",
-            "id": "50.1979_1.1604",
-            "altitude": null
-        },
-        {
-            "lat": 50.37708333333333,
-            "lon": 1.3895833333333254,
-            "darkness": 0.7397927721317077,
-            "bortle": 4,
-            "near": "Fort-Mahon-Plage",
-            "id": "50.3771_1.3896",
-            "altitude": null
-        },
-        {
-            "lat": 50.51458333333333,
-            "lon": 1.343749999999992,
-            "darkness": 0.727599485179129,
-            "bortle": 4,
-            "near": "Le Touquet-Paris-Plage",
-            "id": "50.5146_1.3437",
-            "altitude": null
-        },
-        {
-            "lat": 50.197916666666664,
-            "lon": 1.343749999999992,
-            "darkness": 0.7210845689156478,
-            "bortle": 4,
-            "near": "Cayeux-sur-Mer",
-            "id": "50.1979_1.3437",
-            "altitude": null
-        },
-        {
-            "lat": 50.06041666666666,
-            "lon": 1.2062499999999927,
-            "darkness": 0.664050002151414,
-            "bortle": 4,
-            "near": "Criel-sur-Mer",
-            "id": "50.0604_1.2062",
-            "altitude": null
-        },
-        {
             "lat": 50.33125,
             "lon": 1.6687499999999922,
             "darkness": 0.6620361472127966,
             "bortle": 4,
             "near": "Quend",
             "id": "50.3312_1.6687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.30208333333333,
@@ -65,16 +21,8 @@
             "bortle": 4,
             "near": "Crécy-en-Ponthieu",
             "id": "50.3021_1.8937",
-            "altitude": null
-        },
-        {
-            "lat": 50.65208333333333,
-            "lon": 1.3895833333333254,
-            "darkness": 0.6370328267216788,
-            "bortle": 4,
-            "near": "Équihen-Plage",
-            "id": "50.6521_1.3896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.46874999999999,
@@ -83,7 +31,8 @@
             "bortle": 4,
             "near": "Neuville-sous-Montreuil",
             "id": "50.4687_1.8062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.197916666666664,
@@ -92,34 +41,8 @@
             "bortle": 4,
             "near": "Le Crotoy",
             "id": "50.1979_1.5729",
-            "altitude": null
-        },
-        {
-            "lat": 50.881249999999994,
-            "lon": 1.343749999999992,
-            "darkness": 0.607804032698904,
-            "bortle": 4,
-            "near": "Audresselles",
-            "id": "50.8812_1.3437",
-            "altitude": null
-        },
-        {
-            "lat": 50.92708333333333,
-            "lon": 1.1187499999999924,
-            "darkness": 0.5938964641142022,
-            "bortle": 4,
-            "near": "St Mary's Bay",
-            "id": "50.9271_1.1187",
-            "altitude": null
-        },
-        {
-            "lat": 50.46874999999999,
-            "lon": 1.572916666666659,
-            "darkness": 0.5824904074803068,
-            "bortle": 4,
-            "near": "Merlimont",
-            "id": "50.4687_1.5729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.56041666666666,
@@ -128,7 +51,8 @@
             "bortle": 4,
             "near": "Verchocq",
             "id": "50.5604_1.9854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.006249999999994,
@@ -137,7 +61,8 @@
             "bortle": 4,
             "near": "Longpré-les-Corps-Saints",
             "id": "50.0062_1.9396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.068749999999994,
@@ -146,7 +71,8 @@
             "bortle": 4,
             "near": "Eu",
             "id": "50.0687_1.4354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.606249999999996,
@@ -155,7 +81,8 @@
             "bortle": 4,
             "near": "Samer",
             "id": "50.6062_1.7604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.102083333333326,
@@ -164,16 +91,8 @@
             "bortle": 4,
             "near": "Cambron",
             "id": "50.1021_1.7562",
-            "altitude": null
-        },
-        {
-            "lat": 50.80208333333333,
-            "lon": 1.5270833333333256,
-            "darkness": 0.5010487381585432,
-            "bortle": 4,
-            "near": "Audresselles",
-            "id": "50.8021_1.5271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.697916666666664,
@@ -182,16 +101,8 @@
             "bortle": 5,
             "near": "Quesques",
             "id": "50.6979_1.8937",
-            "altitude": null
-        },
-        {
-            "lat": 50.90208333333333,
-            "lon": 1.572916666666659,
-            "darkness": 0.49351224841107166,
-            "bortle": 5,
-            "near": "Audinghen",
-            "id": "50.9021_1.5729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.65208333333333,
@@ -200,7 +111,8 @@
             "bortle": 5,
             "near": "Hesdigneul-lès-Boulogne",
             "id": "50.6521_1.6687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.83541666666666,
@@ -209,7 +121,8 @@
             "bortle": 5,
             "near": "Landrethun-le-Nord",
             "id": "50.8354_1.8021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.93125,
@@ -218,7 +131,8 @@
             "bortle": 6,
             "near": "Sangatte",
             "id": "50.9312_1.7104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 50.92708333333333,
@@ -227,7 +141,8 @@
             "bortle": 7,
             "near": "Coquelles",
             "id": "50.9271_1.8021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

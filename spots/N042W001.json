@@ -11,7 +11,8 @@
             "bortle": 2,
             "near": "Cauterets",
             "id": "42.7812_-0.1188",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.89791666666666,
@@ -20,7 +21,8 @@
             "bortle": 2,
             "near": "Arrens-Marsous",
             "id": "42.8979_-0.2563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.86458333333333,
@@ -29,7 +31,8 @@
             "bortle": 2,
             "near": "Bedous",
             "id": "42.8646_-0.6271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -38,25 +41,8 @@
             "bortle": 2,
             "near": "Laruns",
             "id": "42.9521_-0.4396",
-            "altitude": null
-        },
-        {
-            "lat": 42.947916666666664,
-            "lon": -0.8062500000000075,
-            "darkness": 0.8514599730142527,
-            "bortle": 2,
-            "near": "Urzainqui",
-            "id": "42.9479_-0.8063",
-            "altitude": null
-        },
-        {
-            "lat": 42.818749999999994,
-            "lon": -0.6687500000000073,
-            "darkness": 0.8482535543272871,
-            "bortle": 3,
-            "near": "Echo",
-            "id": "42.8187_-0.6688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.95208333333333,
@@ -65,7 +51,8 @@
             "bortle": 3,
             "near": "Pierrefitte-Nestalas",
             "id": "42.9521_-0.0271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -74,7 +61,8 @@
             "bortle": 3,
             "near": "Bedous",
             "id": "42.9979_-0.7188",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -83,25 +71,8 @@
             "bortle": 3,
             "near": "Laruns",
             "id": "42.9979_-0.4854",
-            "altitude": null
-        },
-        {
-            "lat": 42.86458333333333,
-            "lon": -0.8520833333333409,
-            "darkness": 0.8355867577093021,
-            "bortle": 3,
-            "near": "Urzainqui",
-            "id": "42.8646_-0.8521",
-            "altitude": null
-        },
-        {
-            "lat": 42.818749999999994,
-            "lon": -0.30208333333334103,
-            "darkness": 0.8352913303760272,
-            "bortle": 3,
-            "near": "Sallent de Gállego",
-            "id": "42.8187_-0.3021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.99791666666666,
@@ -110,88 +81,8 @@
             "bortle": 3,
             "near": "Arrens-Marsous",
             "id": "42.9979_-0.2646",
-            "altitude": null
-        },
-        {
-            "lat": 42.71041666666666,
-            "lon": -0.8062500000000075,
-            "darkness": 0.8056135837437333,
-            "bortle": 3,
-            "near": "Echo",
-            "id": "42.7104_-0.8063",
-            "altitude": null
-        },
-        {
-            "lat": 42.77291666666666,
-            "lon": -0.989583333333341,
-            "darkness": 0.7750301791474921,
-            "bortle": 3,
-            "near": "Garde",
-            "id": "42.7729_-0.9896",
-            "altitude": null
-        },
-        {
-            "lat": 42.73958333333333,
-            "lon": -0.5062500000000076,
-            "darkness": 0.769781356892176,
-            "bortle": 3,
-            "near": "Canfranc",
-            "id": "42.7396_-0.5063",
-            "altitude": null
-        },
-        {
-            "lat": 42.77291666666666,
-            "lon": -0.21041666666667425,
-            "darkness": 0.8651346490428433,
-            "bortle": 2,
-            "near": "Panticosa",
-            "id": "42.7729_-0.2104",
-            "altitude": null
-        },
-        {
-            "lat": 42.727083333333326,
-            "lon": -0.802083333333341,
-            "darkness": 0.8072480839259797,
-            "bortle": 3,
-            "near": "Ansó",
-            "id": "42.7271_-0.8021",
-            "altitude": null
-        },
-        {
-            "lat": 42.727083333333326,
-            "lon": -0.718750000000008,
-            "darkness": 0.8069786090773392,
-            "bortle": 3,
-            "near": "Echo",
-            "id": "42.7271_-0.7188",
-            "altitude": null
-        },
-        {
-            "lat": 42.76458333333333,
-            "lon": -0.25625000000000764,
-            "darkness": 0.8116170425017605,
-            "bortle": 3,
-            "near": "Panticosa",
-            "id": "42.7646_-0.2563",
-            "altitude": null
-        },
-        {
-            "lat": 42.727083333333326,
-            "lon": -0.6687500000000073,
-            "darkness": 0.7989991149644196,
-            "bortle": 3,
-            "near": "Aragüés del Puerto",
-            "id": "42.7271_-0.6688",
-            "altitude": null
-        },
-        {
-            "lat": 42.727083333333326,
-            "lon": -0.677083333333341,
-            "darkness": 0.7987490510574717,
-            "bortle": 3,
-            "near": "Aragüés del Puerto",
-            "id": "42.7271_-0.6771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 42.78541666666666,
@@ -200,7 +91,8 @@
             "bortle": 2,
             "near": "Luz-Saint-Sauveur",
             "id": "42.7854_-0.0729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

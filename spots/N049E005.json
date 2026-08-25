@@ -11,7 +11,8 @@
             "bortle": 3,
             "near": "Clermont-en-Argonne",
             "id": "49.1396_5.0562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -20,7 +21,8 @@
             "bortle": 3,
             "near": "Seuil-d'Argonne",
             "id": "49.0021_5.1937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.047916666666666,
@@ -29,7 +31,8 @@
             "bortle": 4,
             "near": "Clermont-en-Argonne",
             "id": "49.0479_5.1937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.506249999999994,
@@ -38,7 +41,8 @@
             "bortle": 4,
             "near": "Raucourt-et-Flaba",
             "id": "49.5062_5.0104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.27708333333333,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Varennes-en-Argonne",
             "id": "49.2771_5.1479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.414583333333326,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Dun-sur-Meuse",
             "id": "49.4146_5.1937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Lacroix-sur-Meuse",
             "id": "49.0021_5.5479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.59791666666666,
@@ -74,34 +81,8 @@
             "bortle": 4,
             "near": "Blagny",
             "id": "49.5979_5.1937",
-            "altitude": null
-        },
-        {
-            "lat": 49.76458333333333,
-            "lon": 5.102083333333326,
-            "darkness": 0.6492562668037287,
-            "bortle": 4,
-            "near": "Bouillon",
-            "id": "49.7646_5.1021",
-            "altitude": null
-        },
-        {
-            "lat": 49.918749999999996,
-            "lon": 5.072916666666659,
-            "darkness": 0.6328613480062537,
-            "bortle": 4,
-            "near": "Carlsbourg",
-            "id": "49.9187_5.0729",
-            "altitude": null
-        },
-        {
-            "lat": 49.72291666666666,
-            "lon": 5.331249999999992,
-            "darkness": 0.6299688733002583,
-            "bortle": 4,
-            "near": "Lacuisine",
-            "id": "49.7229_5.3312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.28124999999999,
@@ -110,7 +91,8 @@
             "bortle": 4,
             "near": "Damvillers",
             "id": "49.2812_5.3771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.414583333333326,
@@ -119,16 +101,8 @@
             "bortle": 4,
             "near": "Marville",
             "id": "49.4146_5.4229",
-            "altitude": null
-        },
-        {
-            "lat": 49.87291666666666,
-            "lon": 5.285416666666659,
-            "darkness": 0.5874204417278988,
-            "bortle": 4,
-            "near": "Bertrix",
-            "id": "49.8729_5.2854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -137,7 +111,8 @@
             "bortle": 4,
             "near": "Haudainville",
             "id": "49.1396_5.5187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.55208333333333,
@@ -146,7 +121,8 @@
             "bortle": 4,
             "near": "Écouviez",
             "id": "49.5521_5.4229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18958333333333,
@@ -155,25 +131,8 @@
             "bortle": 5,
             "near": "Belleville-sur-Meuse",
             "id": "49.1896_5.3771",
-            "altitude": null
-        },
-        {
-            "lat": 49.78124999999999,
-            "lon": 5.331249999999992,
-            "darkness": 0.6293702396226124,
-            "bortle": 4,
-            "near": "Saint-Médard",
-            "id": "49.7812_5.3312",
-            "altitude": null
-        },
-        {
-            "lat": 49.72291666666666,
-            "lon": 5.377083333333326,
-            "darkness": 0.6206684145421415,
-            "bortle": 4,
-            "near": "Chiny",
-            "id": "49.7229_5.3771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.356249999999996,
@@ -182,25 +141,8 @@
             "bortle": 4,
             "near": "Damvillers",
             "id": "49.3562_5.4687",
-            "altitude": null
-        },
-        {
-            "lat": 49.73958333333333,
-            "lon": 5.468749999999993,
-            "darkness": 0.5884411405249469,
-            "bortle": 4,
-            "near": "Rossignol",
-            "id": "49.7396_5.4687",
-            "altitude": null
-        },
-        {
-            "lat": 49.73958333333333,
-            "lon": 5.477083333333326,
-            "darkness": 0.5847458135917725,
-            "bortle": 4,
-            "near": "Rossignol",
-            "id": "49.7396_5.4771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.414583333333326,
@@ -209,7 +151,8 @@
             "bortle": 4,
             "near": "Marville",
             "id": "49.4146_5.4687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.09374999999999,
@@ -218,7 +161,8 @@
             "bortle": 4,
             "near": "Sommedieue",
             "id": "49.0937_5.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.322916666666664,
@@ -227,34 +171,8 @@
             "bortle": 4,
             "near": "Damvillers",
             "id": "49.3229_5.5146",
-            "altitude": null
-        },
-        {
-            "lat": 49.693749999999994,
-            "lon": 5.468749999999993,
-            "darkness": 0.5820368789292172,
-            "bortle": 4,
-            "near": "Saint-Vincent",
-            "id": "49.6937_5.4687",
-            "altitude": null
-        },
-        {
-            "lat": 49.81458333333333,
-            "lon": 5.468749999999993,
-            "darkness": 0.5785036441103584,
-            "bortle": 4,
-            "near": "Assenois",
-            "id": "49.8146_5.4687",
-            "altitude": null
-        },
-        {
-            "lat": 49.81458333333333,
-            "lon": 5.472916666666659,
-            "darkness": 0.5782182090359032,
-            "bortle": 4,
-            "near": "Assenois",
-            "id": "49.8146_5.4729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.322916666666664,
@@ -263,7 +181,8 @@
             "bortle": 4,
             "near": "Damvillers",
             "id": "49.3229_5.5187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.32708333333333,
@@ -272,7 +191,8 @@
             "bortle": 4,
             "near": "Damvillers",
             "id": "49.3271_5.5187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.34791666666666,
@@ -281,7 +201,8 @@
             "bortle": 4,
             "near": "Damvillers",
             "id": "49.3479_5.5146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18541666666666,
@@ -290,7 +211,8 @@
             "bortle": 4,
             "near": "Étain",
             "id": "49.1854_5.5312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.231249999999996,
@@ -299,7 +221,8 @@
             "bortle": 4,
             "near": "Étain",
             "id": "49.2312_5.5271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.24791666666666,
@@ -308,7 +231,8 @@
             "bortle": 4,
             "near": "Étain",
             "id": "49.2479_5.5229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

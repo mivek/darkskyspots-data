@@ -11,7 +11,8 @@
             "bortle": 1,
             "near": "Vic-sur-Cère",
             "id": "44.9687_2.6771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.922916666666666,
@@ -20,7 +21,8 @@
             "bortle": 1,
             "near": "Siran",
             "id": "44.9229_2.1729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.87708333333333,
@@ -29,7 +31,8 @@
             "bortle": 1,
             "near": "Pierrefort",
             "id": "44.8771_2.8604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.83125,
@@ -38,7 +41,8 @@
             "bortle": 1,
             "near": "Taussac",
             "id": "44.8312_2.6312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.78541666666666,
@@ -47,7 +51,8 @@
             "bortle": 1,
             "near": "Boisset",
             "id": "44.7854_2.1729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.73958333333333,
@@ -56,7 +61,8 @@
             "bortle": 1,
             "near": "Marcolès",
             "id": "44.7396_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.73958333333333,
@@ -65,7 +71,8 @@
             "bortle": 1,
             "near": "Laguiole",
             "id": "44.7396_2.8146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.693749999999994,
@@ -74,7 +81,8 @@
             "bortle": 1,
             "near": "Montsalvy",
             "id": "44.6937_2.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.693749999999994,
@@ -83,7 +91,8 @@
             "bortle": 1,
             "near": "Saint-Urcize",
             "id": "44.6937_2.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.55624999999999,
@@ -92,7 +101,8 @@
             "bortle": 1,
             "near": "Castelnau-de-Mandailles",
             "id": "44.5562_2.8604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.40624999999999,
@@ -101,7 +111,8 @@
             "bortle": 2,
             "near": "Saint-Geniez-d'Olt",
             "id": "44.4062_2.9396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.65208333333333,
@@ -110,7 +121,8 @@
             "bortle": 2,
             "near": "Bagnac-sur-Célé",
             "id": "44.6521_2.1687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.56041666666666,
@@ -119,7 +131,8 @@
             "bortle": 2,
             "near": "Castelnau-de-Mandailles",
             "id": "44.5604_2.8187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.78541666666666,
@@ -128,7 +141,8 @@
             "bortle": 2,
             "near": "Lafeuillade-en-Vézie",
             "id": "44.7854_2.4937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.56041666666666,
@@ -137,7 +151,8 @@
             "bortle": 2,
             "near": "Estaing",
             "id": "44.5604_2.5812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.606249999999996,
@@ -146,7 +161,8 @@
             "bortle": 2,
             "near": "Sénergues",
             "id": "44.6062_2.4021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.23958333333333,
@@ -155,7 +171,8 @@
             "bortle": 2,
             "near": "Vézins-de-Lévézou",
             "id": "44.2396_2.9937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.92708333333333,
@@ -164,7 +181,8 @@
             "bortle": 2,
             "near": "Saint-Paul-des-Landes",
             "id": "44.9271_2.2604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.102083333333326,
@@ -173,7 +191,8 @@
             "bortle": 2,
             "near": "La Selve",
             "id": "44.1021_2.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.28541666666666,
@@ -182,7 +201,8 @@
             "bortle": 2,
             "near": "Ségur",
             "id": "44.2854_2.8146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.05624999999999,
@@ -191,7 +211,8 @@
             "bortle": 2,
             "near": "Villefranche-de-Panat",
             "id": "44.0562_2.7187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.28124999999999,
@@ -200,7 +221,8 @@
             "bortle": 2,
             "near": "Rieupeyroux",
             "id": "44.2812_2.3021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.14791666666666,
@@ -209,7 +231,8 @@
             "bortle": 2,
             "near": "Camjac",
             "id": "44.1479_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.418749999999996,
@@ -218,7 +241,8 @@
             "bortle": 2,
             "near": "Rignac",
             "id": "44.4187_2.3521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.102083333333326,
@@ -227,7 +251,8 @@
             "bortle": 2,
             "near": "Viala-du-Tarn",
             "id": "44.1021_2.8979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.193749999999994,
@@ -236,7 +261,8 @@
             "bortle": 2,
             "near": "Mirandol-Bourgnounac",
             "id": "44.1937_2.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.510416666666664,
@@ -245,7 +271,8 @@
             "bortle": 2,
             "near": "Montbazens",
             "id": "44.5104_2.1687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.235416666666666,
@@ -254,7 +281,8 @@
             "bortle": 2,
             "near": "Trémouilles",
             "id": "44.2354_2.6312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.422916666666666,
@@ -263,7 +291,8 @@
             "bortle": 2,
             "near": "Bertholène",
             "id": "44.4229_2.7229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.37708333333333,
@@ -272,7 +301,8 @@
             "bortle": 2,
             "near": "Maleville",
             "id": "44.3771_2.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.010416666666664,
@@ -281,7 +311,8 @@
             "bortle": 2,
             "near": "Valence-d'Albigeois",
             "id": "44.0104_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.05624999999999,
@@ -290,7 +321,8 @@
             "bortle": 3,
             "near": "Valderiès",
             "id": "44.0562_2.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.32708333333333,
@@ -299,7 +331,8 @@
             "bortle": 3,
             "near": "Morlhon-le-Haut",
             "id": "44.3271_2.0812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.97291666666666,
@@ -308,7 +341,8 @@
             "bortle": 3,
             "near": "Reilhac",
             "id": "44.9729_2.3979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.37708333333333,
@@ -317,7 +351,8 @@
             "bortle": 3,
             "near": "La Loubière",
             "id": "44.3771_2.6771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.32708333333333,
@@ -326,7 +361,8 @@
             "bortle": 3,
             "near": "Druelle",
             "id": "44.3271_2.4896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.010416666666664,
@@ -335,7 +371,8 @@
             "bortle": 4,
             "near": "Le Garric",
             "id": "44.0104_2.1687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.32708333333333,
@@ -344,7 +381,8 @@
             "bortle": 4,
             "near": "Sainte-Radegonde",
             "id": "44.3271_2.6312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

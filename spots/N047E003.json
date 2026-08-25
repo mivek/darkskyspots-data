@@ -11,7 +11,8 @@
             "bortle": 1,
             "near": "Varzy",
             "id": "47.3521_3.3646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.352083333333326,
@@ -20,7 +21,8 @@
             "bortle": 1,
             "near": "Lormes",
             "id": "47.3521_3.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.260416666666664,
@@ -29,7 +31,8 @@
             "bortle": 1,
             "near": "Brassy",
             "id": "47.2604_3.9604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.21458333333333,
@@ -38,7 +41,8 @@
             "bortle": 1,
             "near": "Prémery",
             "id": "47.2146_3.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.168749999999996,
@@ -47,7 +51,8 @@
             "bortle": 1,
             "near": "Corbigny",
             "id": "47.1687_3.6396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.12291666666666,
@@ -56,7 +61,8 @@
             "bortle": 1,
             "near": "Château-Chinon(Ville)",
             "id": "47.1229_3.8687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.03124999999999,
@@ -65,7 +71,8 @@
             "bortle": 1,
             "near": "Rouy",
             "id": "47.0312_3.5021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.352083333333326,
@@ -74,7 +81,8 @@
             "bortle": 2,
             "near": "Tannay",
             "id": "47.3521_3.5771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.352083333333326,
@@ -83,7 +91,8 @@
             "bortle": 2,
             "near": "Quarré-les-Tombes",
             "id": "47.3521_3.9437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.08125,
@@ -92,7 +101,8 @@
             "bortle": 2,
             "near": "Château-Chinon(Ville)",
             "id": "47.0812_3.9562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.352083333333326,
@@ -101,7 +111,8 @@
             "bortle": 2,
             "near": "Varzy",
             "id": "47.3521_3.3187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.03541666666666,
@@ -110,7 +121,8 @@
             "bortle": 2,
             "near": "Rouy",
             "id": "47.0354_3.4562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.172916666666666,
@@ -119,7 +131,8 @@
             "bortle": 2,
             "near": "Prémery",
             "id": "47.1729_3.3646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.26458333333333,
@@ -128,7 +141,8 @@
             "bortle": 2,
             "near": "Cervon",
             "id": "47.2646_3.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.443749999999994,
@@ -137,7 +151,8 @@
             "bortle": 2,
             "near": "Vézelay",
             "id": "47.4437_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.26458333333333,
@@ -146,7 +161,8 @@
             "bortle": 2,
             "near": "Narcy",
             "id": "47.2646_3.1354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.48958333333333,
@@ -155,7 +171,8 @@
             "bortle": 2,
             "near": "Entrains-sur-Nohain",
             "id": "47.4896_3.2729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.39791666666666,
@@ -164,7 +181,8 @@
             "bortle": 2,
             "near": "Donzy",
             "id": "47.3979_3.0896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.48958333333333,
@@ -173,7 +191,8 @@
             "bortle": 2,
             "near": "Clamecy",
             "id": "47.4896_3.5021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.58125,
@@ -182,7 +201,8 @@
             "bortle": 2,
             "near": "Mailly-la-Ville",
             "id": "47.5812_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.62708333333333,
@@ -191,7 +211,8 @@
             "bortle": 2,
             "near": "Saints-en-Puisaye",
             "id": "47.6271_3.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.58125,
@@ -200,7 +221,8 @@
             "bortle": 2,
             "near": "Saint-Amand-en-Puisaye",
             "id": "47.5812_3.0896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.672916666666666,
@@ -209,7 +231,8 @@
             "bortle": 2,
             "near": "Noyers",
             "id": "47.6729_3.9146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.12708333333333,
@@ -218,7 +241,8 @@
             "bortle": 2,
             "near": "Chaulgnes",
             "id": "47.1271_3.1396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.71874999999999,
@@ -227,7 +251,8 @@
             "bortle": 3,
             "near": "Mézilles",
             "id": "47.7187_3.1354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.539583333333326,
@@ -236,7 +261,8 @@
             "bortle": 3,
             "near": "Sauvigny-le-Bois",
             "id": "47.5396_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.12708333333333,
@@ -245,7 +271,8 @@
             "bortle": 3,
             "near": "La Marche",
             "id": "47.1271_3.0396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.672916666666666,
@@ -254,7 +281,8 @@
             "bortle": 3,
             "near": "Vermenton",
             "id": "47.6729_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.672916666666666,
@@ -263,7 +291,8 @@
             "bortle": 3,
             "near": "Ouanne",
             "id": "47.6729_3.4521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.947916666666664,
@@ -272,7 +301,8 @@
             "bortle": 3,
             "near": "Flogny-la-Chapelle",
             "id": "47.9479_3.9146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.81041666666666,
@@ -281,7 +311,8 @@
             "bortle": 3,
             "near": "Parly",
             "id": "47.8104_3.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.03541666666666,
@@ -290,7 +321,8 @@
             "bortle": 3,
             "near": "Urzy",
             "id": "47.0354_3.2271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -299,7 +331,8 @@
             "bortle": 3,
             "near": "Charny",
             "id": "47.8562_3.0896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.81041666666666,
@@ -308,7 +341,8 @@
             "bortle": 3,
             "near": "Chablis",
             "id": "47.8104_3.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.71874999999999,
@@ -317,7 +351,8 @@
             "bortle": 4,
             "near": "Vallan",
             "id": "47.7187_3.5437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -326,7 +361,8 @@
             "bortle": 4,
             "near": "Maligny",
             "id": "47.8562_3.7771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.90208333333333,
@@ -335,7 +371,8 @@
             "bortle": 4,
             "near": "La Ferté-Loupière",
             "id": "47.9021_3.1771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -344,7 +381,8 @@
             "bortle": 4,
             "near": "Poilly-sur-Tholon",
             "id": "47.8562_3.4062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -353,7 +391,8 @@
             "bortle": 4,
             "near": "Chuelles",
             "id": "47.9937_3.0146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -362,7 +401,8 @@
             "bortle": 4,
             "near": "Cézy",
             "id": "47.9937_3.3646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

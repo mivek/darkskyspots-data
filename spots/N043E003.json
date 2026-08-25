@@ -11,7 +11,8 @@
             "bortle": 2,
             "near": "La Cavalerie",
             "id": "43.8729_3.1312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.87291666666666,
@@ -20,7 +21,8 @@
             "bortle": 3,
             "near": "Soubès",
             "id": "43.8729_3.2229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.96458333333333,
@@ -29,7 +31,8 @@
             "bortle": 3,
             "near": "Saint-Jean-du-Bruel",
             "id": "43.9646_3.4062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.735416666666666,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "Graissessac",
             "id": "43.7354_3.0854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.82708333333333,
@@ -47,7 +51,8 @@
             "bortle": 3,
             "near": "Soubès",
             "id": "43.8271_3.4062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.918749999999996,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Molières-Cavaillac",
             "id": "43.9187_3.5437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.64375,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "La Tour-sur-Orb",
             "id": "43.6437_3.1312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.78124999999999,
@@ -74,16 +81,8 @@
             "bortle": 4,
             "near": "Soubès",
             "id": "43.7812_3.3604",
-            "altitude": null
-        },
-        {
-            "lat": 43.08958333333333,
-            "lon": 3.6395833333333254,
-            "darkness": 0.720285560587076,
-            "bortle": 4,
-            "near": "Le Cap d'Agde",
-            "id": "43.0896_3.6396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.59791666666666,
@@ -92,16 +91,8 @@
             "bortle": 4,
             "near": "Péret",
             "id": "43.5979_3.3146",
-            "altitude": null
-        },
-        {
-            "lat": 43.08958333333333,
-            "lon": 3.4104166666666593,
-            "darkness": 0.628153666148276,
-            "bortle": 4,
-            "near": "Valras-Plage",
-            "id": "43.0896_3.4104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.96458333333333,
@@ -110,16 +101,8 @@
             "bortle": 4,
             "near": "Sauve",
             "id": "43.9646_3.9104",
-            "altitude": null
-        },
-        {
-            "lat": 43.27291666666666,
-            "lon": 3.8687499999999915,
-            "darkness": 0.6103035615190131,
-            "bortle": 4,
-            "near": "Sète",
-            "id": "43.2729_3.8687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.78124999999999,
@@ -128,7 +111,8 @@
             "bortle": 4,
             "near": "Saint-Jean-de-Fos",
             "id": "43.7812_3.5896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.506249999999994,
@@ -137,16 +121,8 @@
             "bortle": 4,
             "near": "Autignac",
             "id": "43.5062_3.1771",
-            "altitude": null
-        },
-        {
-            "lat": 43.227083333333326,
-            "lon": 3.6854166666666597,
-            "darkness": 0.5959792670084605,
-            "bortle": 4,
-            "near": "Le Cap d'Agde",
-            "id": "43.2271_3.6854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.87291666666666,
@@ -155,7 +131,8 @@
             "bortle": 4,
             "near": "Brissac",
             "id": "43.8729_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.64375,
@@ -164,7 +141,8 @@
             "bortle": 4,
             "near": "Saint-André-de-Sangonis",
             "id": "43.6437_3.4979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.506249999999994,
@@ -173,7 +151,8 @@
             "bortle": 4,
             "near": "Lézignan-la-Cèbe",
             "id": "43.5062_3.4521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.606249999999996,
@@ -182,7 +161,8 @@
             "bortle": 5,
             "near": "Pouzols",
             "id": "43.6062_3.4979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.46041666666666,
@@ -191,34 +171,8 @@
             "bortle": 5,
             "near": "Alignan-du-Vent",
             "id": "43.4604_3.3396",
-            "altitude": null
-        },
-        {
-            "lat": 43.36458333333333,
-            "lon": 3.8687499999999915,
-            "darkness": 0.49304684006985555,
-            "bortle": 5,
-            "near": "Frontignan",
-            "id": "43.3646_3.8687",
-            "altitude": null
-        },
-        {
-            "lat": 43.227083333333326,
-            "lon": 3.502083333333326,
-            "darkness": 0.49181295802337865,
-            "bortle": 5,
-            "near": "Le Cap d'Agde",
-            "id": "43.2271_3.5021",
-            "altitude": null
-        },
-        {
-            "lat": 43.318749999999994,
-            "lon": 3.6854166666666597,
-            "darkness": 0.48976047123203903,
-            "bortle": 5,
-            "near": "Sète",
-            "id": "43.3187_3.6854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.78124999999999,
@@ -227,16 +181,8 @@
             "bortle": 5,
             "near": "Saint-Martin-de-Londres",
             "id": "43.7812_3.7729",
-            "altitude": null
-        },
-        {
-            "lat": 43.08958333333333,
-            "lon": 3.1812499999999915,
-            "darkness": 0.47157315844079095,
-            "bortle": 5,
-            "near": "Gruissan",
-            "id": "43.0896_3.1812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.46041666666666,
@@ -245,16 +191,8 @@
             "bortle": 5,
             "near": "Montagnac",
             "id": "43.4604_3.5437",
-            "altitude": null
-        },
-        {
-            "lat": 43.227083333333326,
-            "lon": 3.2729166666666583,
-            "darkness": 0.42429416024446953,
-            "bortle": 5,
-            "near": "Valras-Plage",
-            "id": "43.2271_3.2729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.64375,
@@ -263,7 +201,8 @@
             "bortle": 5,
             "near": "Montarnaud",
             "id": "43.6437_3.6812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.36874999999999,
@@ -272,7 +211,8 @@
             "bortle": 5,
             "near": "Maraussan",
             "id": "43.3687_3.1771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.55208333333333,
@@ -281,7 +221,8 @@
             "bortle": 6,
             "near": "Cournonsec",
             "id": "43.5521_3.6812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.41041666666666,
@@ -290,7 +231,8 @@
             "bortle": 6,
             "near": "Mèze",
             "id": "43.4104_3.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.322916666666664,
@@ -299,7 +241,8 @@
             "bortle": 6,
             "near": "Villeneuve-lès-Béziers",
             "id": "43.3229_3.2729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.68958333333333,
@@ -308,7 +251,8 @@
             "bortle": 6,
             "near": "Combaillaux",
             "id": "43.6896_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.50208333333333,
@@ -317,7 +261,8 @@
             "bortle": 6,
             "near": "Villeneuve-lès-Maguelone",
             "id": "43.5021_3.8687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.59374999999999,
@@ -326,7 +271,8 @@
             "bortle": 7,
             "near": "Pignan",
             "id": "43.5937_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 43.64375,
@@ -335,7 +281,8 @@
             "bortle": 7,
             "near": "Saint-Aunès",
             "id": "43.6437_3.9604",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

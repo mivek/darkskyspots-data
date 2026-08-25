@@ -11,7 +11,8 @@
             "bortle": 1,
             "near": "Blessac",
             "id": "45.9312_2.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.93124999999999,
@@ -20,7 +21,8 @@
             "bortle": 1,
             "near": "Crocq",
             "id": "45.9312_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.793749999999996,
@@ -29,7 +31,8 @@
             "bortle": 1,
             "near": "Banize",
             "id": "45.7937_2.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.793749999999996,
@@ -38,7 +41,8 @@
             "bortle": 1,
             "near": "Crocq",
             "id": "45.7937_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.65624999999999,
@@ -47,7 +51,8 @@
             "bortle": 1,
             "near": "Peyrelevade",
             "id": "45.6562_2.0812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.47291666666666,
@@ -56,7 +61,8 @@
             "bortle": 1,
             "near": "Saint-Exupéry-les-Roches",
             "id": "45.4729_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.47291666666666,
@@ -65,7 +71,8 @@
             "bortle": 1,
             "near": "Lanobre",
             "id": "45.4729_2.5854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -74,7 +81,8 @@
             "bortle": 1,
             "near": "Neuvic",
             "id": "45.4271_2.1729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.381249999999994,
@@ -83,7 +91,8 @@
             "bortle": 1,
             "near": "Condat",
             "id": "45.3812_2.7687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.33541666666666,
@@ -92,7 +101,8 @@
             "bortle": 1,
             "near": "Champagnac",
             "id": "45.3354_2.3562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.33541666666666,
@@ -101,7 +111,8 @@
             "bortle": 1,
             "near": "Menet",
             "id": "45.3354_2.5854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.289583333333326,
@@ -110,7 +121,8 @@
             "bortle": 1,
             "near": "Soursac",
             "id": "45.2896_2.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.289583333333326,
@@ -119,7 +131,8 @@
             "bortle": 1,
             "near": "Allanche",
             "id": "45.2896_2.9521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.24374999999999,
@@ -128,7 +141,8 @@
             "bortle": 1,
             "near": "Marcenat",
             "id": "45.2437_2.7687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.197916666666664,
@@ -137,7 +151,8 @@
             "bortle": 1,
             "near": "Mauriac",
             "id": "45.1979_2.3104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.197916666666664,
@@ -146,7 +161,8 @@
             "bortle": 1,
             "near": "Trizac",
             "id": "45.1979_2.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.15208333333333,
@@ -155,7 +171,8 @@
             "bortle": 1,
             "near": "Saint-Privat",
             "id": "45.1521_2.0812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.15208333333333,
@@ -164,7 +181,8 @@
             "bortle": 1,
             "near": "Neussargues",
             "id": "45.1521_2.9521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.106249999999996,
@@ -173,7 +191,8 @@
             "bortle": 1,
             "near": "Laveissière",
             "id": "45.1062_2.7229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.06041666666666,
@@ -182,7 +201,8 @@
             "bortle": 1,
             "near": "Saint-Illide",
             "id": "45.0604_2.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.01458333333333,
@@ -191,7 +211,8 @@
             "bortle": 1,
             "near": "Valuéjols",
             "id": "45.0146_2.9062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -200,7 +221,8 @@
             "bortle": 2,
             "near": "Neuvic",
             "id": "45.4271_2.3271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.51875,
@@ -209,7 +231,8 @@
             "bortle": 2,
             "near": "Tauves",
             "id": "45.5187_2.5812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.635416666666664,
@@ -218,7 +241,8 @@
             "bortle": 2,
             "near": "Merlines",
             "id": "45.6354_2.4437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.42708333333333,
@@ -227,7 +251,8 @@
             "bortle": 2,
             "near": "Égliseneuve-d'Entraigues",
             "id": "45.4271_2.7646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.01875,
@@ -236,7 +261,8 @@
             "bortle": 2,
             "near": "Vic-sur-Cère",
             "id": "45.0187_2.5854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.93541666666666,
@@ -245,7 +271,8 @@
             "bortle": 2,
             "near": "Mérinchal",
             "id": "45.9354_2.5354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.381249999999994,
@@ -254,7 +281,8 @@
             "bortle": 2,
             "near": "Égletons",
             "id": "45.3812_2.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.33541666666666,
@@ -263,7 +291,8 @@
             "bortle": 2,
             "near": "Allanche",
             "id": "45.3354_2.9937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.797916666666666,
@@ -272,7 +301,8 @@
             "bortle": 2,
             "near": "Giat",
             "id": "45.7979_2.5354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.33541666666666,
@@ -281,7 +311,8 @@
             "bortle": 2,
             "near": "Saignes",
             "id": "45.3354_2.4896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.568749999999994,
@@ -290,7 +321,8 @@
             "bortle": 2,
             "near": "La Feuillade",
             "id": "45.5687_2.2146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.65624999999999,
@@ -299,7 +331,8 @@
             "bortle": 2,
             "near": "Saint-Sauves-d'Auvergne",
             "id": "45.6562_2.6729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.47291666666666,
@@ -308,7 +341,8 @@
             "bortle": 2,
             "near": "Besse-et-Saint-Anastaise",
             "id": "45.4729_2.9479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.88958333333333,
@@ -317,7 +351,8 @@
             "bortle": 2,
             "near": "Pontaumur",
             "id": "45.8896_2.7187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.693749999999994,
@@ -326,7 +361,8 @@
             "bortle": 3,
             "near": "Rochefort-Montagne",
             "id": "45.6937_2.7187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.84374999999999,
@@ -335,7 +371,8 @@
             "bortle": 3,
             "near": "La Goutelle",
             "id": "45.8437_2.7187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.51875,
@@ -344,7 +381,8 @@
             "bortle": 3,
             "near": "Besse-et-Saint-Anastaise",
             "id": "45.5187_2.9479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.93541666666666,
@@ -353,7 +391,8 @@
             "bortle": 4,
             "near": "Saint-Georges-de-Mons",
             "id": "45.9354_2.8562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.610416666666666,
@@ -362,7 +401,8 @@
             "bortle": 4,
             "near": "Murol",
             "id": "45.6104_2.9479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.74791666666666,
@@ -371,7 +411,8 @@
             "bortle": 4,
             "near": "Olby",
             "id": "45.7479_2.8562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 45.74791666666666,
@@ -380,7 +421,8 @@
             "bortle": 5,
             "near": "Saint-Genès-Champanelle",
             "id": "45.7479_2.9937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

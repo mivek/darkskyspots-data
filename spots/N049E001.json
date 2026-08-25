@@ -11,7 +11,8 @@
             "bortle": 4,
             "near": "Foucarmont",
             "id": "49.8312_1.5729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.693749999999994,
@@ -20,7 +21,8 @@
             "bortle": 4,
             "near": "Gaillefontaine",
             "id": "49.6937_1.6187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.86458333333333,
@@ -29,7 +31,8 @@
             "bortle": 4,
             "near": "Beaucamps-le-Vieux",
             "id": "49.8646_1.8021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.78541666666666,
@@ -38,7 +41,8 @@
             "bortle": 4,
             "near": "Saint-Vaast-d'Équiqueville",
             "id": "49.7854_1.3021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.918749999999996,
@@ -47,7 +51,8 @@
             "bortle": 4,
             "near": "Bailly-en-Rivière",
             "id": "49.9187_1.3937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.96458333333333,
@@ -56,7 +61,8 @@
             "bortle": 4,
             "near": "Monchaux-Soreng",
             "id": "49.9646_1.6187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.64791666666666,
@@ -65,7 +71,8 @@
             "bortle": 4,
             "near": "Sommery",
             "id": "49.6479_1.3937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.693749999999994,
@@ -74,7 +81,8 @@
             "bortle": 4,
             "near": "Romescamps",
             "id": "49.6937_1.8479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.55624999999999,
@@ -83,7 +91,8 @@
             "bortle": 4,
             "near": "Gournay-en-Bray",
             "id": "49.5562_1.6646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.693749999999994,
@@ -92,7 +101,8 @@
             "bortle": 4,
             "near": "Saint-Maclou-de-Folleville",
             "id": "49.6937_1.1187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.82708333333333,
@@ -101,7 +111,8 @@
             "bortle": 4,
             "near": "Auppegard",
             "id": "49.8271_1.0687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.510416666666664,
@@ -110,7 +121,8 @@
             "bortle": 4,
             "near": "Saint-Lucien",
             "id": "49.5104_1.4396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.55624999999999,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Songeons",
             "id": "49.5562_1.8937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.602083333333326,
@@ -128,7 +141,8 @@
             "bortle": 5,
             "near": "Bosc-le-Hard",
             "id": "49.6021_1.2104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.37291666666666,
@@ -137,7 +151,8 @@
             "bortle": 5,
             "near": "Lyons-la-Forêt",
             "id": "49.3729_1.5312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.922916666666666,
@@ -146,7 +161,8 @@
             "bortle": 5,
             "near": "Hautot-sur-Mer",
             "id": "49.9229_1.0229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.047916666666666,
@@ -155,7 +171,8 @@
             "bortle": 5,
             "near": "Claville",
             "id": "49.0479_1.0229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.46458333333333,
@@ -164,7 +181,8 @@
             "bortle": 5,
             "near": "Saint-Germer-de-Fly",
             "id": "49.4646_1.8021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.46458333333333,
@@ -173,7 +191,8 @@
             "bortle": 5,
             "near": "Ry",
             "id": "49.4646_1.3479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.235416666666666,
@@ -182,7 +201,8 @@
             "bortle": 5,
             "near": "Hennezis",
             "id": "49.2354_1.4854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.32708333333333,
@@ -191,7 +211,8 @@
             "bortle": 5,
             "near": "Bazincourt-sur-Epte",
             "id": "49.3271_1.7562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -200,7 +221,8 @@
             "bortle": 5,
             "near": "Pacy-sur-Eure",
             "id": "49.0021_1.3896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -209,7 +231,8 @@
             "bortle": 5,
             "near": "Saint-Aubin-sur-Gaillon",
             "id": "49.1396_1.3021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.32708333333333,
@@ -218,7 +241,8 @@
             "bortle": 5,
             "near": "Pont-Saint-Pierre",
             "id": "49.3271_1.3021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18958333333333,
@@ -227,7 +251,8 @@
             "bortle": 5,
             "near": "Saint-Clair-sur-Epte",
             "id": "49.1896_1.7104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.32708333333333,
@@ -236,7 +261,8 @@
             "bortle": 5,
             "near": "Jouy-sous-Thelle",
             "id": "49.3271_1.9854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18958333333333,
@@ -245,7 +271,8 @@
             "bortle": 6,
             "near": "Saint-Gervais",
             "id": "49.1896_1.7562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.28124999999999,
@@ -254,7 +281,8 @@
             "bortle": 6,
             "near": "Fresneaux-Montchevreuil",
             "id": "49.2812_1.9854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.418749999999996,
@@ -263,7 +291,8 @@
             "bortle": 6,
             "near": "Montmain",
             "id": "49.4187_1.2562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.231249999999996,
@@ -272,7 +301,8 @@
             "bortle": 6,
             "near": "Andé",
             "id": "49.2312_1.2562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.05208333333333,
@@ -281,7 +311,8 @@
             "bortle": 6,
             "near": "Aincourt",
             "id": "49.0521_1.7562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.14375,
@@ -290,7 +321,8 @@
             "bortle": 6,
             "near": "Marines",
             "id": "49.1437_1.9854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.322916666666664,
@@ -299,7 +331,8 @@
             "bortle": 7,
             "near": "Freneuse",
             "id": "49.3229_1.0687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.09791666666666,
@@ -308,7 +341,8 @@
             "bortle": 7,
             "near": "Le Perchay",
             "id": "49.0979_1.9396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.46458333333333,
@@ -317,7 +351,8 @@
             "bortle": 7,
             "near": "Montigny",
             "id": "49.4646_1.0229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

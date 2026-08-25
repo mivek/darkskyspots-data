@@ -11,7 +11,8 @@
             "bortle": 2,
             "near": "Herry",
             "id": "47.2187_2.9479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.08125,
@@ -20,7 +21,8 @@
             "bortle": 2,
             "near": "Jussy-le-Chaudrier",
             "id": "47.0812_2.9021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.31041666666666,
@@ -29,7 +31,8 @@
             "bortle": 2,
             "near": "Crézancy-en-Sancerre",
             "id": "47.3104_2.6771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.08125,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "Baugy",
             "id": "47.0812_2.8146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.21874999999999,
@@ -47,7 +51,8 @@
             "bortle": 3,
             "near": "Veaugues",
             "id": "47.2187_2.7229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.39791666666666,
@@ -56,7 +61,8 @@
             "bortle": 3,
             "near": "Sury-en-Vaux",
             "id": "47.3979_2.7646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.58125,
@@ -65,7 +71,8 @@
             "bortle": 3,
             "near": "Arquian",
             "id": "47.5812_2.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.443749999999994,
@@ -74,7 +81,8 @@
             "bortle": 3,
             "near": "Oizon",
             "id": "47.4437_2.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.39791666666666,
@@ -83,7 +91,8 @@
             "bortle": 3,
             "near": "Cosne-Cours-sur-Loire",
             "id": "47.3979_2.9979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.40208333333333,
@@ -92,7 +101,8 @@
             "bortle": 3,
             "near": "Nançay",
             "id": "47.4021_2.2021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.31041666666666,
@@ -101,7 +111,8 @@
             "bortle": 3,
             "near": "Henrichemont",
             "id": "47.3104_2.4937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.71874999999999,
@@ -110,7 +121,8 @@
             "bortle": 3,
             "near": "Rogny-les-Sept-Écluses",
             "id": "47.7187_2.9062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.53541666666666,
@@ -119,7 +131,8 @@
             "bortle": 3,
             "near": "Brinon-sur-Sauldre",
             "id": "47.5354_2.2646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.481249999999996,
@@ -128,7 +141,8 @@
             "bortle": 3,
             "near": "Nouan-le-Fuzelier",
             "id": "47.4812_2.0312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.53541666666666,
@@ -137,7 +151,8 @@
             "bortle": 3,
             "near": "Ousson-sur-Loire",
             "id": "47.5354_2.7187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.62708333333333,
@@ -146,7 +161,8 @@
             "bortle": 4,
             "near": "Cerdon",
             "id": "47.6271_2.3979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.48958333333333,
@@ -155,7 +171,8 @@
             "bortle": 4,
             "near": "Belleville-sur-Loire",
             "id": "47.4896_2.8146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.21874999999999,
@@ -164,7 +181,8 @@
             "bortle": 4,
             "near": "Les Aix-d'Angillon",
             "id": "47.2187_2.5396",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.731249999999996,
@@ -173,7 +191,8 @@
             "bortle": 4,
             "near": "La Bussière",
             "id": "47.7312_2.7687",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.62708333333333,
@@ -182,7 +201,8 @@
             "bortle": 4,
             "near": "Sennely",
             "id": "47.6271_2.1729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.26458333333333,
@@ -191,7 +211,8 @@
             "bortle": 4,
             "near": "Allogny",
             "id": "47.2646_2.3104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -200,7 +221,8 @@
             "bortle": 4,
             "near": "Saint-Maurice-sur-Aveyron",
             "id": "47.8562_2.9062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.62708333333333,
@@ -209,7 +231,8 @@
             "bortle": 4,
             "near": "Autry-le-Châtel",
             "id": "47.6271_2.6104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -218,7 +241,8 @@
             "bortle": 4,
             "near": "Changy-les-Bois",
             "id": "47.8562_2.6646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.05208333333333,
@@ -227,7 +251,8 @@
             "bortle": 4,
             "near": "Chârost",
             "id": "47.0521_2.1229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -236,7 +261,8 @@
             "bortle": 4,
             "near": "Bouzy-la-Forêt",
             "id": "47.8562_2.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.76458333333333,
@@ -245,7 +271,8 @@
             "bortle": 4,
             "near": "Tigy",
             "id": "47.7646_2.2187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -254,7 +281,8 @@
             "bortle": 4,
             "near": "Quiers-sur-Bézonde",
             "id": "47.9937_2.4479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99374999999999,
@@ -263,7 +291,8 @@
             "bortle": 4,
             "near": "Vitry-aux-Loges",
             "id": "47.9937_2.2187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.856249999999996,
@@ -272,7 +301,8 @@
             "bortle": 5,
             "near": "Jargeau",
             "id": "47.8562_2.1729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.12708333333333,
@@ -281,7 +311,8 @@
             "bortle": 5,
             "near": "Berry-Bouy",
             "id": "47.1271_2.3062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.07708333333333,
@@ -290,7 +321,8 @@
             "bortle": 5,
             "near": "Saint-Germain-du-Puy",
             "id": "47.0771_2.4937",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 47.99791666666666,
@@ -299,7 +331,8 @@
             "bortle": 5,
             "near": "Loury",
             "id": "47.9979_2.0812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

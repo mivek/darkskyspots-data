@@ -5,40 +5,14 @@
     "tile": "N049W001",
     "spots": [
         {
-            "lat": 49.55624999999999,
-            "lon": -0.8104166666666739,
-            "darkness": 0.9310623487997787,
-            "bortle": 2,
-            "near": "Port-en-Bessin-Huppain",
-            "id": "49.5562_-0.8104",
-            "altitude": null
-        },
-        {
-            "lat": 49.418749999999996,
-            "lon": -0.8104166666666739,
-            "darkness": 0.8717633587116496,
-            "bortle": 2,
-            "near": "Port-en-Bessin-Huppain",
-            "id": "49.4187_-0.8104",
-            "altitude": null
-        },
-        {
             "lat": 49.28124999999999,
             "lon": -0.9479166666666741,
             "darkness": 0.8471720170735431,
             "bortle": 3,
             "near": "Trévières",
             "id": "49.2812_-0.9479",
-            "altitude": null
-        },
-        {
-            "lat": 49.510416666666664,
-            "lon": -0.6270833333333412,
-            "darkness": 0.8414621196215708,
-            "bortle": 3,
-            "near": "Arromanches-les-Bains",
-            "id": "49.5104_-0.6271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.047916666666666,
@@ -47,16 +21,8 @@
             "bortle": 3,
             "near": "Cahagnes",
             "id": "49.0479_-0.8104",
-            "altitude": null
-        },
-        {
-            "lat": 49.37291666666666,
-            "lon": -0.7645833333333414,
-            "darkness": 0.802566399961367,
-            "bortle": 3,
-            "near": "Port-en-Bessin-Huppain",
-            "id": "49.3729_-0.7646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -65,7 +31,8 @@
             "bortle": 3,
             "near": "Aunay-sur-Odon",
             "id": "49.0021_-0.5813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.14375,
@@ -74,16 +41,8 @@
             "bortle": 3,
             "near": "La Barre-de-Semilly",
             "id": "49.1437_-0.9896",
-            "altitude": null
-        },
-        {
-            "lat": 49.83125,
-            "lon": -0.07708333333334139,
-            "darkness": 0.7557464839374933,
-            "bortle": 3,
-            "near": "Étretat",
-            "id": "49.8312_-0.0771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18541666666666,
@@ -92,16 +51,8 @@
             "bortle": 3,
             "near": "Saint-Paul-du-Vernay",
             "id": "49.1854_-0.7188",
-            "altitude": null
-        },
-        {
-            "lat": 49.83125,
-            "lon": -0.031250000000007994,
-            "darkness": 0.7394830207949663,
-            "bortle": 4,
-            "near": "Étretat",
-            "id": "49.8312_-0.0313",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.231249999999996,
@@ -110,16 +61,8 @@
             "bortle": 4,
             "near": "Subles",
             "id": "49.2312_-0.7646",
-            "altitude": null
-        },
-        {
-            "lat": 49.37291666666666,
-            "lon": -0.5812500000000078,
-            "darkness": 0.7291016863119081,
-            "bortle": 4,
-            "near": "Asnelles",
-            "id": "49.3729_-0.5813",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.00208333333333,
@@ -128,7 +71,8 @@
             "bortle": 4,
             "near": "Thury-Harcourt",
             "id": "49.0021_-0.4896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -137,16 +81,8 @@
             "bortle": 4,
             "near": "Noyers-Bocage",
             "id": "49.1396_-0.5813",
-            "altitude": null
-        },
-        {
-            "lat": 49.418749999999996,
-            "lon": -0.35208333333334085,
-            "darkness": 0.6386659073741998,
-            "bortle": 4,
-            "near": "Saint-Aubin-sur-Mer",
-            "id": "49.4187_-0.3521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.09374999999999,
@@ -155,16 +91,8 @@
             "bortle": 4,
             "near": "Le Mesnil-Mauger",
             "id": "49.0937_-0.0271",
-            "altitude": null
-        },
-        {
-            "lat": 49.602083333333326,
-            "lon": -0.16875000000000728,
-            "darkness": 0.5757660961837898,
-            "bortle": 4,
-            "near": "Sainte-Adresse",
-            "id": "49.6021_-0.1688",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.28124999999999,
@@ -173,7 +101,8 @@
             "bortle": 4,
             "near": "Anguerny",
             "id": "49.2812_-0.3979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.231249999999996,
@@ -182,7 +111,8 @@
             "bortle": 5,
             "near": "Dozulé",
             "id": "49.2312_-0.0729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.18541666666666,
@@ -191,16 +121,8 @@
             "bortle": 5,
             "near": "Saint-Manvieu-Norrey",
             "id": "49.1854_-0.4896",
-            "altitude": null
-        },
-        {
-            "lat": 49.55624999999999,
-            "lon": -0.12291666666667389,
-            "darkness": 0.4940926536470659,
-            "bortle": 5,
-            "near": "Sainte-Adresse",
-            "id": "49.5562_-0.1229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.09374999999999,
@@ -209,7 +131,8 @@
             "bortle": 5,
             "near": "Garcelles-Secqueville",
             "id": "49.0937_-0.2563",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.28124999999999,
@@ -218,16 +141,8 @@
             "bortle": 5,
             "near": "Colleville-Montgomery",
             "id": "49.2812_-0.3021",
-            "altitude": null
-        },
-        {
-            "lat": 49.418749999999996,
-            "lon": -0.12291666666667389,
-            "darkness": 0.4642773131968537,
-            "bortle": 5,
-            "near": "Houlgate",
-            "id": "49.4187_-0.1229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 49.13958333333333,
@@ -236,7 +151,8 @@
             "bortle": 6,
             "near": "Ifs",
             "id": "49.1396_-0.3521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

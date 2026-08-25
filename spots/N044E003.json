@@ -11,7 +11,8 @@
             "bortle": 1,
             "near": "Villedieu",
             "id": "44.9687_3.0896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.922916666666666,
@@ -20,7 +21,8 @@
             "bortle": 1,
             "near": "Le Malzieu-Ville",
             "id": "44.9229_3.2729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.83125,
@@ -29,7 +31,8 @@
             "bortle": 1,
             "near": "Chaudes-Aigues",
             "id": "44.8312_3.0437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.78541666666666,
@@ -38,7 +41,8 @@
             "bortle": 1,
             "near": "Saint-Chély-d'Apcher",
             "id": "44.7854_3.2271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.64791666666666,
@@ -47,7 +51,8 @@
             "bortle": 1,
             "near": "Nasbinals",
             "id": "44.6479_3.1812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.510416666666664,
@@ -56,7 +61,8 @@
             "bortle": 1,
             "near": "Saint-Geniez-d'Olt",
             "id": "44.5104_3.0437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.664583333333326,
@@ -65,7 +71,8 @@
             "bortle": 2,
             "near": "Aumont-Aubrac",
             "id": "44.6646_3.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.46874999999999,
@@ -74,7 +81,8 @@
             "bortle": 2,
             "near": "Saint-Germain-du-Teil",
             "id": "44.4687_3.1479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.83541666666666,
@@ -83,7 +91,8 @@
             "bortle": 2,
             "near": "Le Malzieu-Ville",
             "id": "44.8354_3.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.36458333333333,
@@ -92,7 +101,8 @@
             "bortle": 2,
             "near": "Sainte-Enimie",
             "id": "44.3646_3.3146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.97291666666666,
@@ -101,7 +111,8 @@
             "bortle": 2,
             "near": "Saugues",
             "id": "44.9729_3.4521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.71874999999999,
@@ -110,7 +121,8 @@
             "bortle": 2,
             "near": "Grandrieu",
             "id": "44.7187_3.5437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.23958333333333,
@@ -119,7 +131,8 @@
             "bortle": 2,
             "near": "Meyrueis",
             "id": "44.2396_3.4062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.40208333333333,
@@ -128,7 +141,8 @@
             "bortle": 2,
             "near": "Ispagnac",
             "id": "44.4021_3.4979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.193749999999994,
@@ -137,7 +151,8 @@
             "bortle": 2,
             "near": "Rivière-sur-Tarn",
             "id": "44.1937_3.2271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.51458333333333,
@@ -146,7 +161,8 @@
             "bortle": 2,
             "near": "Badaroux",
             "id": "44.5146_3.6854",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.84374999999999,
@@ -155,7 +171,8 @@
             "bortle": 2,
             "near": "Grandrieu",
             "id": "44.8437_3.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.37708333333333,
@@ -164,7 +181,8 @@
             "bortle": 2,
             "near": "Florac",
             "id": "44.3771_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.52708333333333,
@@ -173,7 +191,8 @@
             "bortle": 2,
             "near": "Barjac",
             "id": "44.5271_3.4062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.65208333333333,
@@ -182,7 +201,8 @@
             "bortle": 2,
             "near": "Châteauneuf-de-Randon",
             "id": "44.6521_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.102083333333326,
@@ -191,7 +211,8 @@
             "bortle": 2,
             "near": "Meyrueis",
             "id": "44.1021_3.4062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.23958333333333,
@@ -200,7 +221,8 @@
             "bortle": 2,
             "near": "Florac",
             "id": "44.2396_3.6354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.05624999999999,
@@ -209,7 +231,8 @@
             "bortle": 2,
             "near": "Nant",
             "id": "44.0562_3.2271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.53124999999999,
@@ -218,7 +241,8 @@
             "bortle": 2,
             "near": "Villefort",
             "id": "44.5312_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.789583333333326,
@@ -227,7 +251,8 @@
             "bortle": 2,
             "near": "Pradelles",
             "id": "44.7896_3.8187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.102083333333326,
@@ -236,7 +261,8 @@
             "bortle": 3,
             "near": "Valleraugue",
             "id": "44.1021_3.5896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.37708333333333,
@@ -245,7 +271,8 @@
             "bortle": 3,
             "near": "Génolhac",
             "id": "44.3771_3.9104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.23958333333333,
@@ -254,7 +281,8 @@
             "bortle": 3,
             "near": "Saint-Étienne-Vallée-Française",
             "id": "44.2396_3.7729",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.14791666666666,
@@ -263,7 +291,8 @@
             "bortle": 3,
             "near": "Aguessac",
             "id": "44.1479_3.0896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.14791666666666,
@@ -272,7 +301,8 @@
             "bortle": 4,
             "near": "Saint-Étienne-Vallée-Française",
             "id": "44.1479_3.8646",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 44.010416666666664,
@@ -281,7 +311,8 @@
             "bortle": 4,
             "near": "Sumène",
             "id": "44.0104_3.7271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }

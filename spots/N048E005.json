@@ -11,7 +11,8 @@
             "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "id": "48.1062_5.5146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.227083333333326,
@@ -20,7 +21,8 @@
             "bortle": 2,
             "near": "Rimaucourt",
             "id": "48.2271_5.3812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.28541666666666,
@@ -29,7 +31,8 @@
             "bortle": 3,
             "near": "Bettaincourt-sur-Rognon",
             "id": "48.2854_5.2896",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.227083333333326,
@@ -38,7 +41,8 @@
             "bortle": 3,
             "near": "Colombey-les-Deux-Églises",
             "id": "48.2271_5.0104",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.22291666666666,
@@ -47,7 +51,8 @@
             "bortle": 3,
             "near": "Bourmont",
             "id": "48.2229_5.6062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.135416666666664,
@@ -56,7 +61,8 @@
             "bortle": 3,
             "near": "Biesles",
             "id": "48.1354_5.3354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.40624999999999,
@@ -65,7 +71,8 @@
             "bortle": 3,
             "near": "Grand",
             "id": "48.4062_5.4229",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.543749999999996,
@@ -74,7 +81,8 @@
             "bortle": 3,
             "near": "Gondrecourt-le-Château",
             "id": "48.5437_5.5146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.87291666666666,
@@ -83,7 +91,8 @@
             "bortle": 3,
             "near": "Revigny-sur-Ornain",
             "id": "48.8729_5.1021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.56458333333333,
@@ -92,7 +101,8 @@
             "bortle": 3,
             "near": "Chevillon",
             "id": "48.5646_5.2437",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.83958333333333,
@@ -101,7 +111,8 @@
             "bortle": 3,
             "near": "Naives-Rosières",
             "id": "48.8396_5.3312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.68124999999999,
@@ -110,7 +121,8 @@
             "bortle": 3,
             "near": "Ligny-en-Barrois",
             "id": "48.6812_5.3812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.40624999999999,
@@ -119,7 +131,8 @@
             "bortle": 4,
             "near": "Joinville",
             "id": "48.4062_5.1021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.039583333333326,
@@ -128,7 +141,8 @@
             "bortle": 4,
             "near": "Chamarandes-Choignes",
             "id": "48.0396_5.1271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.91041666666666,
@@ -137,7 +151,8 @@
             "bortle": 4,
             "near": "Lacroix-sur-Meuse",
             "id": "48.9104_5.3771",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.822916666666664,
@@ -146,7 +161,8 @@
             "bortle": 4,
             "near": "Behonne",
             "id": "48.8229_5.1479",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.68124999999999,
@@ -155,7 +171,8 @@
             "bortle": 4,
             "near": "Ligny-en-Barrois",
             "id": "48.6812_5.3354",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.58958333333333,
@@ -164,7 +181,8 @@
             "bortle": 4,
             "near": "Vaucouleurs",
             "id": "48.5896_5.5812",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.58125,
@@ -173,7 +191,8 @@
             "bortle": 4,
             "near": "Chevillon",
             "id": "48.5812_5.1521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.77708333333333,
@@ -182,7 +201,8 @@
             "bortle": 4,
             "near": "Lérouville",
             "id": "48.7771_5.5146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.03541666666666,
@@ -191,7 +211,8 @@
             "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "id": "48.0354_5.6312",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.08541666666666,
@@ -200,7 +221,8 @@
             "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "id": "48.0854_5.6271",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.11874999999999,
@@ -209,7 +231,8 @@
             "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "id": "48.1187_5.6062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.17708333333333,
@@ -218,7 +241,8 @@
             "bortle": 2,
             "near": "Bourmont",
             "id": "48.1771_5.6187",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.22291666666666,
@@ -227,7 +251,8 @@
             "bortle": 3,
             "near": "Bourmont",
             "id": "48.2229_5.6146",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.91041666666666,
@@ -236,7 +261,8 @@
             "bortle": 4,
             "near": "Saint-Mihiel",
             "id": "48.9104_5.5562",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.922916666666666,
@@ -245,7 +271,8 @@
             "bortle": 4,
             "near": "Saint-Mihiel",
             "id": "48.9229_5.5521",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.26458333333333,
@@ -254,7 +281,8 @@
             "bortle": 3,
             "near": "Bazoilles-sur-Meuse",
             "id": "48.2646_5.6062",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.43541666666666,
@@ -263,7 +291,8 @@
             "bortle": 3,
             "near": "Coussey",
             "id": "48.4354_5.5979",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         },
         {
             "lat": 48.36874999999999,
@@ -272,7 +301,8 @@
             "bortle": 3,
             "near": "Liffol-le-Grand",
             "id": "48.3687_5.6021",
-            "altitude": null
+            "altitude": null,
+            "country": "FR"
         }
     ]
 }
