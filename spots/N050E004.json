@@ -1,38 +1,98 @@
 {
-    "version": "2025.3",
     "source": "VIIRS/2025/france",
     "generated": "2026-07-25T13:30:57Z",
+    "version": "2025.4",
     "tile": "N050E004",
     "spots": [
         {
             "lat": 50.05625,
-            "lon": 4.097916666666659,
-            "darkness": 0.5091110999508919,
+            "lon": 4.189583333333326,
+            "darkness": 0.5337486181857534,
             "bortle": 4,
+            "country": "FR",
             "near": "Trélon",
-            "id": "50.0562_4.0979",
-            "altitude": null,
-            "country": "FR"
+            "name": "Baives",
+            "nameDistanceKm": 1.149,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3035298,
+            "id": "50.0562_4.1896",
+            "altitude": null
+        },
+        {
+            "lat": 50.102083333333326,
+            "lon": 4.735416666666659,
+            "darkness": 0.5220058963158134,
+            "bortle": 4,
+            "country": "FR",
+            "near": "Aubrives",
+            "name": "Hierges",
+            "nameDistanceKm": 0.487,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3013296,
+            "id": "50.1021_4.7354",
+            "altitude": null
         },
         {
             "lat": 50.102083333333326,
             "lon": 4.143749999999992,
             "darkness": 0.4892546256000051,
             "bortle": 5,
+            "country": "FR",
             "near": "Trélon",
+            "name": "Forêt de Trélon",
+            "nameDistanceKm": 2.137,
+            "nameFeatureCode": "FRST",
+            "nameFeatureClass": "V",
+            "nameGeoNameId": 2971886,
             "id": "50.1021_4.1437",
-            "altitude": null,
-            "country": "FR"
+            "altitude": null
+        },
+        {
+            "lat": 50.14791666666666,
+            "lon": 4.785416666666659,
+            "darkness": 0.4857697647263458,
+            "bortle": 5,
+            "country": "FR",
+            "near": "Givet",
+            "name": "Foisches",
+            "nameDistanceKm": 2.241,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3018182,
+            "id": "50.1479_4.7854",
+            "altitude": null
+        },
+        {
+            "lat": 50.23958333333333,
+            "lon": 4.189583333333326,
+            "darkness": 0.3614302655170205,
+            "bortle": 5,
+            "country": "FR",
+            "near": "Cousolre",
+            "name": "Reugnies",
+            "nameDistanceKm": 0.503,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2983865,
+            "id": "50.2396_4.1896",
+            "altitude": null
         },
         {
             "lat": 50.23958333333333,
             "lon": 4.143749999999992,
             "darkness": 0.3301247500329405,
             "bortle": 6,
+            "country": "FR",
             "near": "Cousolre",
+            "name": "Cousolre",
+            "nameDistanceKm": 0.826,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3022850,
             "id": "50.2396_4.1437",
-            "altitude": null,
-            "country": "FR"
+            "altitude": null
         }
     ]
 }

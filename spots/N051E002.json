@@ -1,0 +1,23 @@
+{
+    "source": "VIIRS/2025/france",
+    "generated": "2026-08-26T10:36:31Z",
+    "version": "2025.4",
+    "tile": "N051E002",
+    "spots": [
+        {
+            "lat": 51.02291666666666,
+            "lon": 2.447916666666659,
+            "darkness": 0.19012036030868695,
+            "bortle": 7,
+            "country": "FR",
+            "near": "Téteghem",
+            "name": "Téteghem",
+            "nameDistanceKm": 0.536,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2973049,
+            "id": "51.0229_2.4479",
+            "altitude": null
+        }
+    ]
+}

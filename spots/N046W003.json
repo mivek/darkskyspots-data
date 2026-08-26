@@ -1,0 +1,38 @@
+{
+    "source": "VIIRS/2025/france",
+    "generated": "2026-08-26T10:36:31Z",
+    "version": "2025.4",
+    "tile": "N046W003",
+    "spots": [
+        {
+            "lat": 46.71041666666666,
+            "lon": -2.3229166666666745,
+            "darkness": 0.9802021905181495,
+            "bortle": 2,
+            "country": "FR",
+            "near": "L'Île-d'Yeu",
+            "name": "Les Sapins",
+            "nameDistanceKm": 0.689,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 12310738,
+            "id": "46.7104_-2.3229",
+            "altitude": null
+        },
+        {
+            "lat": 46.89375,
+            "lon": -2.0937500000000075,
+            "darkness": 0.7898669723782797,
+            "bortle": 3,
+            "country": "FR",
+            "near": "La Barre-de-Monts",
+            "name": "Le Quai",
+            "nameDistanceKm": 1.844,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 12310653,
+            "id": "46.8937_-2.0938",
+            "altitude": null
+        }
+    ]
+}
