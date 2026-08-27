@@ -1,0 +1,53 @@
+{
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-08-27T09:30:45Z",
+    "version": "2025.5",
+    "tile": "N052W011",
+    "spots": [
+        {
+            "lat": 52.24791666666667,
+            "lon": -10.281250000000004,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Dingle",
+            "name": "Beennaman",
+            "nameDistanceKm": 1.13,
+            "nameFeatureCode": "MT",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2966260,
+            "id": "52.2479_-10.2813",
+            "altitude": null
+        },
+        {
+            "lat": 52.24791666666667,
+            "lon": -10.052083333333337,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Fenit",
+            "name": "Killiney",
+            "nameDistanceKm": 0.656,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2963325,
+            "id": "52.2479_-10.0521",
+            "altitude": null
+        },
+        {
+            "lat": 52.15625,
+            "lon": -10.464583333333337,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Dingle",
+            "name": "Clogher",
+            "nameDistanceKm": 0.514,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2965422,
+            "id": "52.1562_-10.4646",
+            "altitude": null
+        }
+    ]
+}

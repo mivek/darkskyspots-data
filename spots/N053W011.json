@@ -1,0 +1,38 @@
+{
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-08-27T09:30:45Z",
+    "version": "2025.5",
+    "tile": "N053W011",
+    "spots": [
+        {
+            "lat": 53.989583333333336,
+            "lon": -10.189583333333337,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Dooagh",
+            "name": "Toncroaghaun",
+            "nameDistanceKm": 0.491,
+            "nameFeatureCode": "LCTY",
+            "nameFeatureClass": "L",
+            "nameGeoNameId": 9805186,
+            "id": "53.9896_-10.1896",
+            "altitude": null
+        },
+        {
+            "lat": 53.53125,
+            "lon": -10.09791666666667,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Clifden",
+            "name": "Barnahllia Lough",
+            "nameDistanceKm": 1.542,
+            "nameFeatureCode": "LK",
+            "nameFeatureClass": "H",
+            "nameGeoNameId": 3315545,
+            "id": "53.5312_-10.0979",
+            "altitude": null
+        }
+    ]
+}

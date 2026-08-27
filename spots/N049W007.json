@@ -1,0 +1,23 @@
+{
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-08-27T09:30:45Z",
+    "version": "2025.5",
+    "tile": "N049W007",
+    "spots": [
+        {
+            "lat": 49.95625,
+            "lon": -6.339583333333337,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "GB",
+            "near": "Isles of Scilly",
+            "name": "New Grimsby",
+            "nameDistanceKm": 0.076,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 12263803,
+            "id": "49.9562_-6.3396",
+            "altitude": null
+        }
+    ]
+}

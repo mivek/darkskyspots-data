@@ -1,0 +1,53 @@
+{
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-08-27T09:30:45Z",
+    "version": "2025.5",
+    "tile": "N051W008",
+    "spots": [
+        {
+            "lat": 51.97291666666666,
+            "lon": -7.714583333333337,
+            "darkness": 0.820698500551463,
+            "bortle": 3,
+            "country": "IE",
+            "near": "Youghal",
+            "name": "Crushea",
+            "nameDistanceKm": 0.176,
+            "nameFeatureCode": "LCTY",
+            "nameFeatureClass": "L",
+            "nameGeoNameId": 3301042,
+            "id": "51.9729_-7.7146",
+            "altitude": null
+        },
+        {
+            "lat": 51.88125,
+            "lon": -7.897916666666671,
+            "darkness": 0.7474991090462999,
+            "bortle": 3,
+            "country": "IE",
+            "near": "Youghal",
+            "name": "Greenland",
+            "nameDistanceKm": 1.179,
+            "nameFeatureCode": "LCTY",
+            "nameFeatureClass": "L",
+            "nameGeoNameId": 3299802,
+            "id": "51.8813_-7.8979",
+            "altitude": null
+        },
+        {
+            "lat": 51.97708333333333,
+            "lon": -7.852083333333336,
+            "darkness": 0.7396043341114314,
+            "bortle": 4,
+            "country": "IE",
+            "near": "Youghal",
+            "name": "Tiknock",
+            "nameDistanceKm": 1.115,
+            "nameFeatureCode": "LCTY",
+            "nameFeatureClass": "L",
+            "nameGeoNameId": 3301046,
+            "id": "51.9771_-7.8521",
+            "altitude": null
+        }
+    ]
+}

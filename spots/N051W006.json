@@ -1,0 +1,53 @@
+{
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-08-27T09:30:45Z",
+    "version": "2025.5",
+    "tile": "N051W006",
+    "spots": [
+        {
+            "lat": 51.885416666666664,
+            "lon": -5.243750000000004,
+            "darkness": 0.9997114786373762,
+            "bortle": 1,
+            "country": "GB",
+            "near": "Saint Davids",
+            "name": "Trevinert",
+            "nameDistanceKm": 0.349,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 13274333,
+            "id": "51.8854_-5.2438",
+            "altitude": null
+        },
+        {
+            "lat": 51.885416666666664,
+            "lon": -5.197916666666671,
+            "darkness": 0.9591165081964693,
+            "bortle": 2,
+            "country": "GB",
+            "near": "Solva",
+            "name": "Whitchurch",
+            "nameDistanceKm": 0.199,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 13281425,
+            "id": "51.8854_-5.1979",
+            "altitude": null
+        },
+        {
+            "lat": 51.79375,
+            "lon": -5.106250000000005,
+            "darkness": 0.8001577100230067,
+            "bortle": 3,
+            "country": "GB",
+            "near": "Broad Haven",
+            "name": "Haroldston West",
+            "nameDistanceKm": 0.765,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2647457,
+            "id": "51.7938_-5.1063",
+            "altitude": null
+        }
+    ]
+}

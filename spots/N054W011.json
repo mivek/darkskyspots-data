@@ -1,0 +1,38 @@
+{
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-08-27T09:30:45Z",
+    "version": "2025.5",
+    "tile": "N054W011",
+    "spots": [
+        {
+            "lat": 54.264583333333334,
+            "lon": -10.052083333333337,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Belmullet",
+            "name": "An Ghleadraigh",
+            "nameDistanceKm": 0.762,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 9804830,
+            "id": "54.2646_-10.0521",
+            "altitude": null
+        },
+        {
+            "lat": 54.12708333333333,
+            "lon": -10.09791666666667,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Belmullet",
+            "name": "Cartron",
+            "nameDistanceKm": 0.225,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 9804898,
+            "id": "54.1271_-10.0979",
+            "altitude": null
+        }
+    ]
+}
