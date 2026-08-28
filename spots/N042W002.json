@@ -1,0 +1,23 @@
+{
+    "source": "VIIRS/2025/france",
+    "generated": "2026-08-28T15:55:42Z",
+    "version": "2025.6",
+    "tile": "N042W002",
+    "spots": [
+        {
+            "lat": 42.99791666666666,
+            "lon": -1.0395833333333409,
+            "darkness": 0.7851304242932593,
+            "bortle": 3,
+            "country": "FR",
+            "near": "Tardets",
+            "name": "Pic de Bizkarze",
+            "nameDistanceKm": 0.76,
+            "nameFeatureCode": "PK",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 12718437,
+            "id": "42.9979_-1.0396",
+            "altitude": null
+        }
+    ]
+}
