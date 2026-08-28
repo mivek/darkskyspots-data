@@ -1,7 +1,7 @@
 {
     "source": "VIIRS/2025/uk_ireland",
     "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.5",
+    "version": "2025.7",
     "tile": "N054W010",
     "spots": [
         {
@@ -50,6 +50,21 @@
             "altitude": null
         },
         {
+            "lat": 54.264583333333334,
+            "lon": -9.043750000000003,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Inishcrone",
+            "name": "Quignalahy",
+            "nameDistanceKm": 0.715,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2961982,
+            "id": "54.2646_-9.0438",
+            "altitude": null
+        },
+        {
             "lat": 54.172916666666666,
             "lon": -9.868750000000004,
             "darkness": 1.0,
@@ -80,6 +95,21 @@
             "altitude": null
         },
         {
+            "lat": 54.08125,
+            "lon": -9.41041666666667,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Crossmolina",
+            "name": "Knockbrack",
+            "nameDistanceKm": 0.849,
+            "nameFeatureCode": "PPLL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3316000,
+            "id": "54.0812_-9.4104",
+            "altitude": null
+        },
+        {
             "lat": 54.03541666666666,
             "lon": -9.868750000000004,
             "darkness": 1.0,
@@ -95,48 +125,48 @@
             "altitude": null
         },
         {
-            "lat": 54.03541666666666,
-            "lon": -9.593750000000004,
-            "darkness": 1.0,
-            "bortle": 1,
-            "country": "IE",
-            "near": "Newport",
-            "name": "Lough Namara",
-            "nameDistanceKm": 1.43,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 3316013,
-            "id": "54.0354_-9.5938",
-            "altitude": null
-        },
-        {
-            "lat": 54.22291666666666,
-            "lon": -9.231250000000003,
-            "darkness": 0.9963516925385747,
+            "lat": 54.21458333333333,
+            "lon": -9.22291666666667,
+            "darkness": 0.9951717634765436,
             "bortle": 2,
             "country": "IE",
             "near": "Killala",
             "name": "Killala",
-            "nameDistanceKm": 1.447,
+            "nameDistanceKm": 0.374,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 2963378,
-            "id": "54.2229_-9.2313",
+            "id": "54.2146_-9.2229",
             "altitude": null
         },
         {
-            "lat": 54.13125,
-            "lon": -9.043750000000003,
-            "darkness": 0.8458305980715449,
+            "lat": 54.03958333333333,
+            "lon": -9.364583333333337,
+            "darkness": 0.9871969397390918,
+            "bortle": 2,
+            "country": "IE",
+            "near": "Crossmolina",
+            "name": "Ballyduffy",
+            "nameDistanceKm": 1.55,
+            "nameFeatureCode": "PPLL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3315972,
+            "id": "54.0396_-9.3646",
+            "altitude": null
+        },
+        {
+            "lat": 54.08541666666667,
+            "lon": -9.04791666666667,
+            "darkness": 0.8460156383558057,
             "bortle": 3,
             "country": "IE",
             "near": "Ballina",
-            "name": "Cloonta",
-            "nameDistanceKm": 0.504,
-            "nameFeatureCode": "PPLL",
+            "name": "Kilgarvan",
+            "nameDistanceKm": 0.946,
+            "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 3315917,
-            "id": "54.1313_-9.0438",
+            "nameGeoNameId": 2963412,
+            "id": "54.0854_-9.0479",
             "altitude": null
         }
     ]

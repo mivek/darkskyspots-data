@@ -1,7 +1,7 @@
 {
     "source": "VIIRS/2025/uk_ireland",
     "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.5",
+    "version": "2025.7",
     "tile": "N052W011",
     "spots": [
         {
@@ -47,6 +47,21 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2965422,
             "id": "52.1562_-10.4646",
+            "altitude": null
+        },
+        {
+            "lat": 52.01875,
+            "lon": -10.143750000000004,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "IE",
+            "near": "Cahersiveen",
+            "name": "Roads",
+            "nameDistanceKm": 0.132,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3298060,
+            "id": "52.0187_-10.1438",
             "altitude": null
         }
     ]
