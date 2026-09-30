@@ -1,0 +1,83 @@
+{
+    "source": "VIIRS/2025/canaries",
+    "generated": "2026-09-30T13:28:24Z",
+    "version": "2025.8",
+    "tile": "N028W014",
+    "spots": [
+        {
+            "lat": 28.29791666666667,
+            "lon": -13.92291666666668,
+            "darkness": 0.7110687681662221,
+            "bortle": 4,
+            "country": "ES",
+            "near": "Tuineje",
+            "name": "Tenicosquey",
+            "nameDistanceKm": 3.176,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 8410760,
+            "id": "28.2979_-13.9229",
+            "altitude": null
+        },
+        {
+            "lat": 28.64375,
+            "lon": -13.831250000000013,
+            "darkness": 0.6586510039985121,
+            "bortle": 4,
+            "country": "ES",
+            "near": "La Oliva",
+            "name": "Montaña Roja",
+            "nameDistanceKm": 1.255,
+            "nameFeatureCode": "MT",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2511755,
+            "id": "28.6438_-13.8313",
+            "altitude": null
+        },
+        {
+            "lat": 28.981250000000003,
+            "lon": -13.827083333333347,
+            "darkness": 0.5923606772857263,
+            "bortle": 4,
+            "country": "ES",
+            "near": "Yaiza",
+            "name": "El Golfo",
+            "nameDistanceKm": 0.409,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 7117888,
+            "id": "28.9813_-13.8271",
+            "altitude": null
+        },
+        {
+            "lat": 28.889583333333334,
+            "lon": -13.87291666666668,
+            "darkness": 0.49457321524985876,
+            "bortle": 5,
+            "country": "ES",
+            "near": "Playa Blanca",
+            "name": "Monte Roja",
+            "nameDistanceKm": 2.854,
+            "nameFeatureCode": "MT",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2511754,
+            "id": "28.8896_-13.8729",
+            "altitude": null
+        },
+        {
+            "lat": 28.981250000000003,
+            "lon": -13.73541666666668,
+            "darkness": 0.4718960077863176,
+            "bortle": 5,
+            "country": "ES",
+            "near": "Uga",
+            "name": "Montaña Diama",
+            "nameDistanceKm": 2.216,
+            "nameFeatureCode": "MT",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2518852,
+            "id": "28.9813_-13.7354",
+            "altitude": null
+        }
+    ]
+}

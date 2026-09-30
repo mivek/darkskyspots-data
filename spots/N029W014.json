@@ -1,0 +1,83 @@
+{
+    "source": "VIIRS/2025/canaries",
+    "generated": "2026-09-30T13:28:24Z",
+    "version": "2025.8",
+    "tile": "N029W014",
+    "spots": [
+        {
+            "lat": 29.210416666666667,
+            "lon": -13.464583333333346,
+            "darkness": 0.7123717415718898,
+            "bortle": 4,
+            "country": "ES",
+            "near": "Caleta de Sebo",
+            "name": "Órzola",
+            "nameDistanceKm": 1.691,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2513061,
+            "id": "29.2104_-13.4646",
+            "altitude": null
+        },
+        {
+            "lat": 29.118750000000002,
+            "lon": -13.61041666666668,
+            "darkness": 0.5532321146005427,
+            "bortle": 4,
+            "country": "ES",
+            "near": "Soo",
+            "name": "Morro de la Laja Grande",
+            "nameDistanceKm": 1.201,
+            "nameFeatureCode": "HDLD",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2515856,
+            "id": "29.1188_-13.6104",
+            "altitude": null
+        },
+        {
+            "lat": 29.072916666666668,
+            "lon": -13.464583333333346,
+            "darkness": 0.5222414206629807,
+            "bortle": 4,
+            "country": "ES",
+            "near": "Guatiza",
+            "name": "Guatiza",
+            "nameDistanceKm": 1.44,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2516883,
+            "id": "29.0729_-13.4646",
+            "altitude": null
+        },
+        {
+            "lat": 29.072916666666668,
+            "lon": -13.51041666666668,
+            "darkness": 0.47604510821917456,
+            "bortle": 5,
+            "country": "ES",
+            "near": "Guatiza",
+            "name": "El Mojón",
+            "nameDistanceKm": 1.287,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2518338,
+            "id": "29.0729_-13.5104",
+            "altitude": null
+        },
+        {
+            "lat": 29.027083333333337,
+            "lon": -13.59791666666668,
+            "darkness": 0.3493225737447717,
+            "bortle": 6,
+            "country": "ES",
+            "near": "San Bartolomé",
+            "name": "Mozaga",
+            "nameDistanceKm": 1.645,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2513474,
+            "id": "29.0271_-13.5979",
+            "altitude": null
+        }
+    ]
+}

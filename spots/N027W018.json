@@ -1,0 +1,53 @@
+{
+    "source": "VIIRS/2025/canaries",
+    "generated": "2026-09-30T13:28:24Z",
+    "version": "2025.8",
+    "tile": "N027W018",
+    "spots": [
+        {
+            "lat": 27.835416666666667,
+            "lon": -17.95208333333335,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "ES",
+            "near": "Valverde",
+            "name": "Montaña de Aguarijo",
+            "nameDistanceKm": 1.85,
+            "nameFeatureCode": "ISL",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 12225645,
+            "id": "27.8354_-17.9521",
+            "altitude": null
+        },
+        {
+            "lat": 27.652083333333337,
+            "lon": -17.99791666666668,
+            "darkness": 1.0,
+            "bortle": 1,
+            "country": "ES",
+            "near": "La Restinga",
+            "name": "La Restinga",
+            "nameDistanceKm": 1.988,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 6698165,
+            "id": "27.6521_-17.9979",
+            "altitude": null
+        },
+        {
+            "lat": 27.78125,
+            "lon": -17.99791666666668,
+            "darkness": 0.9946336869736958,
+            "bortle": 2,
+            "country": "ES",
+            "near": "Frontera",
+            "name": "Tibataje",
+            "nameDistanceKm": 0.751,
+            "nameFeatureCode": "PRK",
+            "nameFeatureClass": "L",
+            "nameGeoNameId": 10346415,
+            "id": "27.7812_-17.9979",
+            "altitude": null
+        }
+    ]
+}

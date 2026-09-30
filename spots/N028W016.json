@@ -1,0 +1,53 @@
+{
+    "source": "VIIRS/2025/canaries",
+    "generated": "2026-09-30T13:28:24Z",
+    "version": "2025.8",
+    "tile": "N028W016",
+    "spots": [
+        {
+            "lat": 28.15625,
+            "lon": -15.66041666666668,
+            "darkness": 0.3153940967501905,
+            "bortle": 6,
+            "country": "ES",
+            "near": "Gáldar",
+            "name": "Gáldar",
+            "nameDistanceKm": 1.435,
+            "nameFeatureCode": "PPLA3",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2517436,
+            "id": "28.1562_-15.6604",
+            "altitude": null
+        },
+        {
+            "lat": 28.072916666666668,
+            "lon": -15.568750000000012,
+            "darkness": 0.17062934620262982,
+            "bortle": 7,
+            "country": "ES",
+            "near": "Teror",
+            "name": "Monagas",
+            "nameDistanceKm": 0.809,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2513707,
+            "id": "28.0729_-15.5688",
+            "altitude": null
+        },
+        {
+            "lat": 28.010416666666668,
+            "lon": -15.389583333333347,
+            "darkness": 0.08041461497462754,
+            "bortle": 7,
+            "country": "ES",
+            "near": "Telde",
+            "name": "La Estrella",
+            "nameDistanceKm": 0.772,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 11837213,
+            "id": "28.0104_-15.3896",
+            "altitude": null
+        }
+    ]
+}
