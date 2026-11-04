@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N052W009",
     "spots": [
         {
             "lat": 52.235416666666666,
             "lon": -8.99791666666667,
             "darkness": 0.8480306404252896,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Newmarket",
             "name": "Barleyhill",
             "nameDistanceKm": 0.98,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3292730,
             "id": "52.2354_-8.9979",
-            "altitude": null
+            "altitude": 187
         },
         {
             "lat": 52.98125,
             "lon": -8.543750000000003,
             "darkness": 0.8448780169644112,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Scarriff",
             "name": "Pollagoona Mountain",
             "nameDistanceKm": 1.86,
@@ -32,29 +32,29 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 3312815,
             "id": "52.9813_-8.5438",
-            "altitude": null
+            "altitude": 242
         },
         {
             "lat": 52.98125,
-            "lon": -8.31041666666667,
-            "darkness": 0.8384265367817144,
-            "bortle": 3,
+            "lon": -8.252083333333339,
+            "darkness": 0.834565500230931,
             "country": "IE",
+            "bortle": 3,
             "near": "Borrisokane",
-            "name": "Goat Island",
-            "nameDistanceKm": 1.848,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3312884,
-            "id": "52.9813_-8.3104",
-            "altitude": null
+            "name": "Coolbaun",
+            "nameDistanceKm": 0.196,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2965212,
+            "id": "52.9813_-8.2521",
+            "altitude": 90
         },
         {
             "lat": 52.99791666666667,
             "lon": -8.86041666666667,
             "darkness": 0.8171298304581844,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Boston",
             "name": "Shanaglish",
             "nameDistanceKm": 1.327,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3311918,
             "id": "52.9979_-8.8604",
-            "altitude": null
+            "altitude": 35
         },
         {
             "lat": 52.70625,
             "lon": -8.064583333333339,
             "darkness": 0.8134248981126828,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Borrisoleigh",
             "name": "Knockaviltoge",
             "nameDistanceKm": 0.917,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 3306244,
             "id": "52.7062_-8.0646",
-            "altitude": null
+            "altitude": 248
         },
         {
             "lat": 52.34375,
             "lon": -8.86041666666667,
             "darkness": 0.7988129019039508,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Dromcolliher",
             "name": "Milford",
             "nameDistanceKm": 0.295,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2962627,
             "id": "52.3438_-8.8604",
-            "altitude": null
+            "altitude": 108
         },
         {
             "lat": 52.33541666666667,
             "lon": -8.06041666666667,
             "darkness": 0.7974356670513393,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Cahir",
             "name": "Poulavala",
             "nameDistanceKm": 0.821,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3300957,
             "id": "52.3354_-8.0604",
-            "altitude": null
+            "altitude": 127
         },
         {
             "lat": 52.34791666666666,
             "lon": -8.289583333333336,
             "darkness": 0.7913897686535086,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Mitchelstown",
             "name": "Paradise Hill",
             "nameDistanceKm": 0.994,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 3300897,
             "id": "52.3479_-8.2896",
-            "altitude": null
+            "altitude": 183
         },
         {
             "lat": 52.56041666666667,
             "lon": -8.118750000000004,
             "darkness": 0.7906281071665842,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Doon",
             "name": "Hawarden Bridge",
             "nameDistanceKm": 0.525,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3305890,
             "id": "52.5604_-8.1188",
-            "altitude": null
+            "altitude": 110
         },
         {
             "lat": 52.30208333333333,
             "lon": -8.543750000000003,
             "darkness": 0.7664932197728435,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Cill Fhíonáin",
             "name": "Ballyhoura Mountains",
             "nameDistanceKm": 0.366,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2966553,
             "id": "52.3021_-8.5438",
-            "altitude": null
+            "altitude": 329
         },
         {
             "lat": 52.21458333333333,
             "lon": -8.768750000000004,
             "darkness": 0.7651836122417087,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Churchtown",
             "name": "Curraglass",
             "nameDistanceKm": 1.037,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3292604,
             "id": "52.2146_-8.7688",
-            "altitude": null
+            "altitude": 119
         },
         {
             "lat": 52.17708333333333,
             "lon": -8.08541666666667,
             "darkness": 0.7595906085279416,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Conna",
             "name": "Gortnapeaky",
             "nameDistanceKm": 1.221,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3300655,
             "id": "52.1771_-8.0854",
-            "altitude": null
+            "altitude": 262
         },
         {
             "lat": 52.06458333333333,
             "lon": -8.86041666666667,
             "darkness": 0.7584662367913749,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Bweeng",
             "name": "Nadanuller More",
             "nameDistanceKm": 0.884,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3292192,
             "id": "52.0646_-8.8604",
-            "altitude": null
+            "altitude": 321
         },
         {
             "lat": 52.84375,
             "lon": -8.33541666666667,
             "darkness": 0.7515947997386642,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Ballina",
             "name": "Curraghbaun",
             "nameDistanceKm": 0.668,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 12021157,
             "id": "52.8438_-8.3354",
-            "altitude": null
+            "altitude": 198
         },
         {
             "lat": 52.48125,
             "lon": -8.36041666666667,
             "darkness": 0.7419723632621162,
-            "bortle": 3,
             "country": "IE",
+            "bortle": 3,
             "near": "Hospital",
             "name": "Rodus Bridge",
             "nameDistanceKm": 1.412,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3305752,
             "id": "52.4813_-8.3604",
-            "altitude": null
+            "altitude": 110
         },
         {
             "lat": 52.24791666666667,
             "lon": -8.402083333333337,
             "darkness": 0.7393284823738235,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Glanworth",
             "name": "Glenavuddig Bridge",
             "nameDistanceKm": 0.179,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3300762,
             "id": "52.2479_-8.4021",
-            "altitude": null
+            "altitude": 68
         },
         {
             "lat": 52.84375,
             "lon": -8.36041666666667,
             "darkness": 0.7392414797363559,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Ballina",
             "name": "Coumbeg",
             "nameDistanceKm": 0.343,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3306405,
             "id": "52.8438_-8.3604",
-            "altitude": null
+            "altitude": 232
         },
         {
             "lat": 52.15625,
             "lon": -8.768750000000004,
             "darkness": 0.7389486742477153,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Drommahane",
             "name": "Cecilstown",
             "nameDistanceKm": 1.527,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2965530,
             "id": "52.1562_-8.7688",
-            "altitude": null
+            "altitude": 92
         },
         {
             "lat": 52.48125,
             "lon": -8.177083333333337,
             "darkness": 0.7384115033140828,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Tipperary",
             "name": "Tipperary",
             "nameDistanceKm": 1.687,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2961192,
             "id": "52.4813_-8.1771",
-            "altitude": null
+            "altitude": 94
         },
         {
             "lat": 52.889583333333334,
             "lon": -8.727083333333336,
             "darkness": 0.738409135758303,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Tulla",
             "name": "Drumcharley",
             "nameDistanceKm": 0.892,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3310443,
             "id": "52.8896_-8.7271",
-            "altitude": null
+            "altitude": 62
         },
         {
             "lat": 52.71458333333333,
             "lon": -8.268750000000004,
             "darkness": 0.7365443992240752,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Newport",
             "name": "Knockacappul",
             "nameDistanceKm": 0.349,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 3306323,
             "id": "52.7146_-8.2688",
-            "altitude": null
+            "altitude": 263
         },
         {
             "lat": 52.389583333333334,
             "lon": -8.49791666666667,
             "darkness": 0.7352020777481761,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Cill Fhíonáin",
             "name": "Ballincurra Bridge",
             "nameDistanceKm": 0.509,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3305446,
             "id": "52.3896_-8.4979",
-            "altitude": null
+            "altitude": 106
         },
         {
             "lat": 52.34375,
             "lon": -8.768750000000004,
             "darkness": 0.7349784636847768,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Charleville",
             "name": "Newtownshandrum",
             "nameDistanceKm": 0.709,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2962247,
             "id": "52.3438_-8.7688",
-            "altitude": null
+            "altitude": 136
         },
         {
             "lat": 52.01875,
             "lon": -8.86041666666667,
             "darkness": 0.7327334969777554,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Bweeng",
             "name": "Knockabrocka",
             "nameDistanceKm": 0.142,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3292068,
             "id": "52.0187_-8.8604",
-            "altitude": null
+            "altitude": 384
         },
         {
             "lat": 52.43541666666667,
             "lon": -8.99791666666667,
             "darkness": 0.7321151374262906,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Knockaderry",
             "name": "Mahoonagh",
             "nameDistanceKm": 1.127,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2962729,
             "id": "52.4354_-8.9979",
-            "altitude": null
+            "altitude": 64
         },
         {
             "lat": 52.15625,
             "lon": -8.131250000000005,
             "darkness": 0.7298509559732476,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Conna",
             "name": "Lyrenaglogle",
             "nameDistanceKm": 1.259,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3300657,
             "id": "52.1562_-8.1313",
-            "altitude": null
+            "altitude": 155
         },
         {
             "lat": 52.889583333333334,
             "lon": -8.131250000000005,
             "darkness": 0.7119374069293083,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Nenagh Bridge",
             "name": "Lisgarode",
             "nameDistanceKm": 0.259,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3306523,
             "id": "52.8896_-8.1313",
-            "altitude": null
+            "altitude": 86
         },
         {
             "lat": 52.52708333333333,
             "lon": -8.406250000000004,
             "darkness": 0.6762887229190998,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Hospital",
             "name": "Kilteely",
             "nameDistanceKm": 0.746,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2963202,
             "id": "52.5271_-8.4063",
-            "altitude": null
+            "altitude": 99
         },
         {
             "lat": 52.48125,
             "lon": -8.768750000000004,
             "darkness": 0.6678432036441113,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Croom",
             "name": "Morenane",
             "nameDistanceKm": 0.41,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3309998,
             "id": "52.4813_-8.7688",
-            "altitude": null
+            "altitude": 95
         },
         {
             "lat": 52.110416666666666,
             "lon": -8.518750000000004,
             "darkness": 0.6462979039850467,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Mallow",
             "name": "Beennaskehy",
             "nameDistanceKm": 0.978,
@@ -452,14 +452,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3300455,
             "id": "52.1104_-8.5188",
-            "altitude": null
+            "altitude": 260
         },
         {
             "lat": 52.61875,
             "lon": -8.906250000000004,
             "darkness": 0.5951208128519155,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Kilcornan",
             "name": "Ballyvogue",
             "nameDistanceKm": 1.191,
@@ -467,14 +467,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3310184,
             "id": "52.6187_-8.9063",
-            "altitude": null
+            "altitude": 27
         },
         {
             "lat": 52.01875,
             "lon": -8.177083333333337,
             "darkness": 0.5810128726416623,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Conna",
             "name": "Barrafahona",
             "nameDistanceKm": 1.189,
@@ -482,14 +482,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3300069,
             "id": "52.0187_-8.1771",
-            "altitude": null
+            "altitude": 198
         },
         {
             "lat": 52.75208333333333,
             "lon": -8.543750000000003,
             "darkness": 0.5430242493017536,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Clonlara",
             "name": "Aughboy",
             "nameDistanceKm": 1.455,
@@ -497,14 +497,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2966827,
             "id": "52.7521_-8.5438",
-            "altitude": null
+            "altitude": 92
         },
         {
             "lat": 52.75208333333333,
             "lon": -8.77291666666667,
             "darkness": 0.5276644754475096,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Sixmilebridge",
             "name": "Annagore Bridge",
             "nameDistanceKm": 0.581,
@@ -512,14 +512,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3310293,
             "id": "52.7521_-8.7729",
-            "altitude": null
+            "altitude": 22
         },
         {
             "lat": 52.01875,
             "lon": -8.539583333333336,
             "darkness": 0.4950649941491815,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Whitechurch",
             "name": "Lyrenamon",
             "nameDistanceKm": 0.688,
@@ -527,14 +527,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3299996,
             "id": "52.0187_-8.5396",
-            "altitude": null
+            "altitude": 188
         },
         {
             "lat": 52.01875,
             "lon": -8.314583333333339,
             "darkness": 0.4935346604157844,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Watergrasshill",
             "name": "Coolquane",
             "nameDistanceKm": 0.416,
@@ -542,14 +542,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3300029,
             "id": "52.0187_-8.3146",
-            "altitude": null
+            "altitude": 199
         },
         {
             "lat": 52.70625,
             "lon": -8.86041666666667,
             "darkness": 0.4852256480523577,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Shannon",
             "name": "Shannon",
             "nameDistanceKm": 0.364,
@@ -557,14 +557,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3310247,
             "id": "52.7062_-8.8604",
-            "altitude": null
+            "altitude": 2
         },
         {
             "lat": 52.572916666666664,
             "lon": -8.589583333333337,
             "darkness": 0.4786586891208745,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Caherconlish",
             "name": "Cloghane Bridge",
             "nameDistanceKm": 1.919,
@@ -572,14 +572,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3310041,
             "id": "52.5729_-8.5896",
-            "altitude": null
+            "altitude": 60
         },
         {
             "lat": 52.70625,
             "lon": -8.49791666666667,
             "darkness": 0.46197950090193374,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Castleconnell",
             "name": "Gardenhill",
             "nameDistanceKm": 0.482,
@@ -587,14 +587,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3305637,
             "id": "52.7062_-8.4979",
-            "altitude": null
+            "altitude": 24
         },
         {
             "lat": 52.70625,
             "lon": -8.631250000000005,
             "darkness": 0.3453583373020407,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Ardnacrusha",
             "name": "Ardnacrusha",
             "nameDistanceKm": 1.184,
@@ -602,7 +602,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2966906,
             "id": "52.7062_-8.6313",
-            "altitude": null
+            "altitude": 25
         }
     ]
 }

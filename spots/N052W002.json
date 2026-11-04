@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N052W002",
     "spots": [
         {
             "lat": 52.06875,
             "lon": -1.6687500000000046,
             "darkness": 0.399029456787531,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Ilmington",
             "name": "Darlingscott",
             "nameDistanceKm": 0.981,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12264490,
             "id": "52.0688_-1.6688",
-            "altitude": null
+            "altitude": 80
         },
         {
             "lat": 52.06875,
             "lon": -1.4354166666666703,
             "darkness": 0.3544118972314184,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Tadmarton",
             "name": "Balscote",
             "nameDistanceKm": 0.436,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12265100,
             "id": "52.0688_-1.4354",
-            "altitude": null
+            "altitude": 154
         },
         {
             "lat": 52.02291666666667,
             "lon": -1.3895833333333378,
             "darkness": 0.3446184623819313,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Bloxham",
             "name": "Bloxham",
             "nameDistanceKm": 1.155,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2655331,
             "id": "52.0229_-1.3896",
-            "altitude": null
+            "altitude": 125
         },
         {
             "lat": 52.10208333333333,
             "lon": -1.2062500000000043,
             "darkness": 0.342675197766127,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Greatworth",
             "name": "Lower Thorpe",
             "nameDistanceKm": 0.892,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13275016,
             "id": "52.1021_-1.2063",
-            "altitude": null
+            "altitude": 166
         },
         {
             "lat": 52.16041666666666,
             "lon": -1.5937500000000036,
             "darkness": 0.3180070625560101,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Ettington",
             "name": "Walton",
             "nameDistanceKm": 2.049,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 6620457,
             "id": "52.1604_-1.5938",
-            "altitude": null
+            "altitude": 62
         },
         {
             "lat": 52.16041666666666,
             "lon": -1.8270833333333378,
             "darkness": 0.3149553594873462,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Bidford-on-Avon",
             "name": "Barton",
             "nameDistanceKm": 1.194,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13274681,
             "id": "52.1604_-1.8271",
-            "altitude": null
+            "altitude": 32
         },
         {
             "lat": 52.20625,
             "lon": -1.34791666666667,
             "darkness": 0.2954009850524969,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Priors Marston",
             "name": "Priors Hardwick",
             "nameDistanceKm": 2.359,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12263742,
             "id": "52.2062_-1.3479",
-            "altitude": null
+            "altitude": 102
         },
         {
             "lat": 52.98125,
             "lon": -1.743750000000004,
             "darkness": 0.26147881433278897,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Mayfield",
             "name": "Edlaston",
             "nameDistanceKm": 0.99,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13276275,
             "id": "52.9813_-1.7438",
-            "altitude": null
+            "altitude": 174
         },
         {
             "lat": 52.25208333333333,
             "lon": -1.1145833333333375,
             "darkness": 0.24945437863787245,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Daventry",
             "name": "Dodford",
             "nameDistanceKm": 1.608,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2651176,
             "id": "52.2521_-1.1146",
-            "altitude": null
+            "altitude": 148
         },
         {
             "lat": 52.91875,
             "lon": -1.9437500000000032,
             "darkness": 0.24557062058251133,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Bramshall",
             "name": "Upper Nobut",
             "nameDistanceKm": 0.281,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13276066,
             "id": "52.9188_-1.9438",
-            "altitude": null
+            "altitude": 144
         },
         {
             "lat": 52.48125,
             "lon": -1.0729166666666714,
             "darkness": 0.24333851993152933,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Husbands Bosworth",
             "name": "Mowsley",
             "nameDistanceKm": 2.039,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2642078,
             "id": "52.4813_-1.0729",
-            "altitude": null
+            "altitude": 161
         },
         {
             "lat": 52.797916666666666,
             "lon": -1.0729166666666714,
             "darkness": 0.21952801057443272,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Wymeswold",
             "name": "Six Hills",
             "nameDistanceKm": 2.48,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13278160,
             "id": "52.7979_-1.0729",
-            "altitude": null
+            "altitude": 109
         },
         {
             "lat": 52.84791666666666,
             "lon": -1.0729166666666714,
             "darkness": 0.1988080585445826,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Keyworth",
             "name": "Widmerpool",
             "nameDistanceKm": 0.419,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2633955,
             "id": "52.8479_-1.0729",
-            "altitude": null
+            "altitude": 67
         },
         {
             "lat": 52.52708333333333,
             "lon": -1.118750000000004,
             "darkness": 0.19785965268429662,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Countesthorpe",
             "name": "Peatling Magna",
             "nameDistanceKm": 0.566,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2640534,
             "id": "52.5271_-1.1188",
-            "altitude": null
+            "altitude": 93
         },
         {
             "lat": 52.98125,
             "lon": -1.5729166666666714,
             "darkness": 0.1975606738834742,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Brailsford",
             "name": "Mugginton",
             "nameDistanceKm": 0.439,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2642016,
             "id": "52.9813_-1.5729",
-            "altitude": null
+            "altitude": 120
         },
         {
             "lat": 52.84375,
             "lon": -1.7562500000000032,
             "darkness": 0.19693874013693202,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Marchington",
             "name": "Hanbury",
             "nameDistanceKm": 0.857,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2647537,
             "id": "52.8438_-1.7563",
-            "altitude": null
+            "altitude": 126
         },
         {
             "lat": 52.34375,
             "lon": -1.1645833333333382,
             "darkness": 0.18958102781205488,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Kilsby",
             "name": "Emery Row",
             "nameDistanceKm": 1.307,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13284047,
             "id": "52.3438_-1.1646",
-            "altitude": null
+            "altitude": 138
         },
         {
             "lat": 52.66041666666666,
             "lon": -1.0270833333333371,
             "darkness": 0.18735032217888004,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Syston",
             "name": "Beeby",
             "nameDistanceKm": 0.901,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13278264,
             "id": "52.6604_-1.0271",
-            "altitude": null
+            "altitude": 96
         },
         {
             "lat": 52.297916666666666,
             "lon": -1.4395833333333368,
             "darkness": 0.18305041246804032,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Long Itchington",
             "name": "Hunningham",
             "nameDistanceKm": 1.463,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12263530,
             "id": "52.2979_-1.4396",
-            "altitude": null
+            "altitude": 86
         },
         {
             "lat": 52.297916666666666,
             "lon": -1.7104166666666707,
             "darkness": 0.1743247174189172,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Claverdon",
             "name": "Holywell",
             "nameDistanceKm": 0.227,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13275224,
             "id": "52.2979_-1.7104",
-            "altitude": null
+            "altitude": 112
         },
         {
             "lat": 52.62708333333333,
             "lon": -1.4145833333333382,
             "darkness": 0.15603270993215523,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Market Bosworth",
             "name": "Market Bosworth",
             "nameDistanceKm": 0.921,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2643030,
             "id": "52.6271_-1.4146",
-            "altitude": null
+            "altitude": 104
         },
         {
             "lat": 52.764583333333334,
             "lon": -1.2562500000000032,
             "darkness": 0.1447363962975463,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Shepshed",
             "name": "Shepshed",
             "nameDistanceKm": 2.288,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2638036,
             "id": "52.7646_-1.2563",
-            "altitude": null
+            "altitude": 63
         },
         {
             "lat": 52.760416666666664,
             "lon": -1.5312500000000036,
             "darkness": 0.14381764066975622,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Swadlincote",
             "name": "Boothorpe",
             "nameDistanceKm": 0.714,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13275676,
             "id": "52.7604_-1.5313",
-            "altitude": null
+            "altitude": 142
         },
         {
             "lat": 52.43541666666667,
             "lon": -1.3645833333333375,
             "darkness": 0.129439304664959,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Brinklow",
             "name": "Stretton under Fosse",
             "nameDistanceKm": 1.955,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2636656,
             "id": "52.4354_-1.3646",
-            "altitude": null
+            "altitude": 113
         },
         {
             "lat": 52.70625,
             "lon": -1.78541666666667,
             "darkness": 0.11673612248283127,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Alrewas",
             "name": "Fradley South",
             "nameDistanceKm": 0.774,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13282572,
             "id": "52.7062_-1.7854",
-            "altitude": null
+            "altitude": 77
         },
         {
             "lat": 52.52291666666667,
             "lon": -1.5770833333333378,
             "darkness": 0.07469216151606628,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Fillongley",
             "name": "Church End",
             "nameDistanceKm": 0.986,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 8126013,
             "id": "52.5229_-1.5771",
-            "altitude": null
+            "altitude": 146
         },
         {
             "lat": 52.56875,
             "lon": -1.84791666666667,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Sutton Coldfield",
             "name": "Four Oaks",
             "nameDistanceKm": 1.807,
@@ -407,7 +407,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2649131,
             "id": "52.5688_-1.8479",
-            "altitude": null
+            "altitude": 136
         }
     ]
 }

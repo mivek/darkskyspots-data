@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N051W004",
     "spots": [
         {
             "lat": 51.014583333333334,
             "lon": -3.8312500000000043,
             "darkness": 0.7958651353779462,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "South Molton",
             "name": "South Molton",
             "nameDistanceKm": 0.274,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2637373,
             "id": "51.0146_-3.8313",
-            "altitude": null
+            "altitude": 136
         },
         {
             "lat": 51.97291666666666,
             "lon": -3.818750000000003,
             "darkness": 0.7683391296320916,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Llandovery",
             "name": "Llandovery",
             "nameDistanceKm": 2.815,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644127,
             "id": "51.9729_-3.8188",
-            "altitude": null
+            "altitude": 80
         },
         {
             "lat": 51.15208333333333,
             "lon": -3.7729166666666707,
             "darkness": 0.7494053288174838,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Lynton",
             "name": "Simonsbath",
             "nameDistanceKm": 1.894,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2637822,
             "id": "51.1521_-3.7729",
-            "altitude": null
+            "altitude": 432
         },
         {
             "lat": 51.10625,
             "lon": -3.681250000000004,
             "darkness": 0.7387838949286548,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "North Molton",
             "name": "Withypool",
             "nameDistanceKm": 2.225,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2633732,
             "id": "51.1063_-3.6813",
-            "altitude": null
+            "altitude": 350
         },
         {
             "lat": 51.97291666666666,
             "lon": -3.6354166666666714,
             "darkness": 0.7377945590745011,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Cray",
             "name": "Llywel",
             "nameDistanceKm": 1.921,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2643864,
             "id": "51.9729_-3.6354",
-            "altitude": null
+            "altitude": 365
         },
         {
             "lat": 51.92708333333333,
             "lon": -3.9562500000000043,
             "darkness": 0.7360518509205742,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Llansadwrn",
             "name": "Cwmifor",
             "nameDistanceKm": 1.572,
@@ -92,29 +92,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12262168,
             "id": "51.9271_-3.9563",
-            "altitude": null
+            "altitude": 86
         },
         {
             "lat": 51.24375,
-            "lon": -3.7729166666666707,
-            "darkness": 0.7083544589524946,
-            "bortle": 4,
+            "lon": -3.7895833333333364,
+            "darkness": 0.7156106758201644,
             "country": "GB",
+            "bortle": 4,
             "near": "Lynton",
             "name": "The Foreland",
-            "nameDistanceKm": 0.935,
+            "nameDistanceKm": 0.45,
             "nameFeatureCode": "CAPE",
             "nameFeatureClass": "T",
             "nameGeoNameId": 2649221,
-            "id": "51.2437_-3.7729",
-            "altitude": null
+            "id": "51.2437_-3.7896",
+            "altitude": 133
         },
         {
             "lat": 51.047916666666666,
             "lon": -3.452083333333338,
             "darkness": 0.6618035555683259,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Dulverton",
             "name": "Upton",
             "nameDistanceKm": 1.072,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2635098,
             "id": "51.0479_-3.4521",
-            "altitude": null
+            "altitude": 324
         },
         {
             "lat": 51.97291666666666,
             "lon": -3.1770833333333375,
             "darkness": 0.647849908365197,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Talgarth",
             "name": "Penisha Rhos",
             "nameDistanceKm": 1.878,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13279957,
             "id": "51.9729_-3.1771",
-            "altitude": null
+            "altitude": 523
         },
         {
             "lat": 51.83541666666667,
             "lon": -3.7187500000000036,
             "darkness": 0.614447198635625,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Coelbren",
             "name": "Craig-y-nos",
             "nameDistanceKm": 2.693,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13274364,
             "id": "51.8354_-3.7188",
-            "altitude": null
+            "altitude": 516
         },
         {
             "lat": 51.88125,
             "lon": -3.452083333333338,
             "darkness": 0.6040807627473002,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Brecon",
             "name": "Brecon Beacons",
             "nameDistanceKm": 0.561,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2654816,
             "id": "51.8813_-3.4521",
-            "altitude": null
+            "altitude": 701
         },
         {
             "lat": 51.197916666666664,
             "lon": -3.4979166666666703,
             "darkness": 0.5929855232230317,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Minehead",
             "name": "Woodcombe",
             "nameDistanceKm": 1.132,
@@ -182,29 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 10376354,
             "id": "51.1979_-3.4979",
-            "altitude": null
-        },
-        {
-            "lat": 51.78958333333333,
-            "lon": -3.952083333333338,
-            "darkness": 0.5374839823402312,
-            "bortle": 4,
-            "country": "GB",
-            "near": "Glanamman",
-            "name": "Glanamman",
-            "nameDistanceKm": 1.733,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2648603,
-            "id": "51.7896_-3.9521",
-            "altitude": null
+            "altitude": 100
         },
         {
             "lat": 51.15208333333333,
             "lon": -3.3145833333333368,
             "darkness": 0.4972983354295253,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Williton",
             "name": "Capton",
             "nameDistanceKm": 0.508,
@@ -212,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9199904,
             "id": "51.1521_-3.3146",
-            "altitude": null
+            "altitude": 74
         },
         {
             "lat": 51.74375,
             "lon": -3.589583333333337,
             "darkness": 0.4966389484903321,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Rhigos",
             "name": "Cwm-hwnt",
             "nameDistanceKm": 1.302,
@@ -227,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13274463,
             "id": "51.7437_-3.5896",
-            "altitude": null
+            "altitude": 217
         },
         {
             "lat": 51.83541666666667,
             "lon": -3.2687500000000043,
             "darkness": 0.4876948730375026,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Llangynidr",
             "name": "Wern",
             "nameDistanceKm": 1.991,
@@ -242,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13283923,
             "id": "51.8354_-3.2688",
-            "altitude": null
+            "altitude": 489
         },
         {
             "lat": 51.74375,
             "lon": -3.8229166666666714,
             "darkness": 0.4628069624035319,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Ystalyfera",
             "name": "Llangiwg",
             "nameDistanceKm": 2.196,
@@ -257,44 +242,59 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644024,
             "id": "51.7437_-3.8229",
-            "altitude": null
+            "altitude": 132
         },
         {
-            "lat": 51.42708333333333,
-            "lon": -3.5437500000000046,
-            "darkness": 0.4271777295418616,
-            "bortle": 5,
+            "lat": 51.40208333333333,
+            "lon": -3.547916666666671,
+            "darkness": 0.4604232297989507,
             "country": "GB",
+            "bortle": 5,
             "near": "Wick",
-            "name": "Broughton",
-            "nameDistanceKm": 0.574,
+            "name": "Marcross",
+            "nameDistanceKm": 1.163,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 12262779,
-            "id": "51.4271_-3.5438",
-            "altitude": null
+            "nameGeoNameId": 2643063,
+            "id": "51.4021_-3.5479",
+            "altitude": 38
+        },
+        {
+            "lat": 51.49791666666667,
+            "lon": -3.7312500000000046,
+            "darkness": 0.4180574586143889,
+            "country": "GB",
+            "bortle": 5,
+            "near": "Porthcawl",
+            "name": "Nottage",
+            "nameDistanceKm": 2.09,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2641171,
+            "id": "51.4979_-3.7313",
+            "altitude": 6
         },
         {
             "lat": 51.60625,
-            "lon": -3.6479166666666707,
-            "darkness": 0.39851271795442567,
-            "bortle": 5,
+            "lon": -3.589583333333337,
+            "darkness": 0.39468737644524876,
             "country": "GB",
-            "near": "Maesteg",
-            "name": "Maesteg",
-            "nameDistanceKm": 0.787,
+            "bortle": 5,
+            "near": "Pontycymer",
+            "name": "Pontycymer",
+            "nameDistanceKm": 0.662,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2643218,
-            "id": "51.6063_-3.6479",
-            "altitude": null
+            "nameGeoNameId": 2640109,
+            "id": "51.6063_-3.5896",
+            "altitude": 249
         },
         {
             "lat": 51.10625,
             "lon": -3.0854166666666707,
             "darkness": 0.3895482270592544,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "North Petherton",
             "name": "Enmore",
             "nameDistanceKm": 0.211,
@@ -302,14 +302,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2649986,
             "id": "51.1063_-3.0854",
-            "altitude": null
+            "altitude": 85
+        },
+        {
+            "lat": 51.24791666666667,
+            "lon": -3.0020833333333368,
+            "darkness": 0.37225692607919214,
+            "country": "GB",
+            "bortle": 5,
+            "near": "Burnham-on-Sea",
+            "name": "Burnham-on-Sea",
+            "nameDistanceKm": 1.076,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2654269,
+            "id": "51.2479_-3.0021",
+            "altitude": 11
         },
         {
             "lat": 51.68125,
             "lon": -3.360416666666671,
             "darkness": 0.3614011770296419,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Mountain Ash",
             "name": "Mountain Ash",
             "nameDistanceKm": 1.381,
@@ -317,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2642116,
             "id": "51.6812_-3.3604",
-            "altitude": null
+            "altitude": 318
         },
         {
             "lat": 51.15208333333333,
             "lon": -3.0437500000000046,
             "darkness": 0.3484803887827723,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Bridgwater",
             "name": "Perry Green",
             "nameDistanceKm": 0.875,
@@ -332,14 +347,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13280752,
             "id": "51.1521_-3.0438",
-            "altitude": null
+            "altitude": 5
+        },
+        {
+            "lat": 51.43125,
+            "lon": -3.4062500000000036,
+            "darkness": 0.34706304593216997,
+            "country": "GB",
+            "bortle": 6,
+            "near": "Cowbridge",
+            "name": "Flemingston",
+            "nameDistanceKm": 1.271,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2649311,
+            "id": "51.4312_-3.4063",
+            "altitude": 21
         },
         {
             "lat": 51.697916666666664,
             "lon": -3.2687500000000043,
             "darkness": 0.34600107707568883,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Deri",
             "name": "Deri",
             "nameDistanceKm": 1.199,
@@ -347,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2651342,
             "id": "51.6979_-3.2688",
-            "altitude": null
+            "altitude": 294
         },
         {
             "lat": 51.697916666666664,
             "lon": -3.868750000000004,
             "darkness": 0.3459610916171201,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Clydach",
             "name": "Trebanos",
             "nameDistanceKm": 1.154,
@@ -362,29 +392,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12265043,
             "id": "51.6979_-3.8688",
-            "altitude": null
+            "altitude": 31
         },
         {
-            "lat": 51.47291666666666,
-            "lon": -3.4687500000000036,
-            "darkness": 0.34147450910257304,
-            "bortle": 6,
+            "lat": 51.56041666666667,
+            "lon": -3.589583333333337,
+            "darkness": 0.3391762830517492,
             "country": "GB",
-            "near": "Penllyn",
-            "name": "Penllyn",
-            "nameDistanceKm": 0.722,
-            "nameFeatureCode": "PPLA3",
+            "bortle": 6,
+            "near": "Betws",
+            "name": "Coytrahên",
+            "nameDistanceKm": 0.916,
+            "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2640455,
-            "id": "51.4729_-3.4688",
-            "altitude": null
+            "nameGeoNameId": 12262167,
+            "id": "51.5604_-3.5896",
+            "altitude": 101
         },
         {
             "lat": 51.697916666666664,
             "lon": -3.0229166666666707,
             "darkness": 0.3259648474837167,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "New Inn",
             "name": "Llanvihangel Pontymoel",
             "nameDistanceKm": 1.133,
@@ -392,37 +422,67 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13283927,
             "id": "51.6979_-3.0229",
-            "altitude": null
+            "altitude": 110
         },
         {
             "lat": 51.56041666666667,
-            "lon": -3.2687500000000043,
-            "darkness": 0.23899008369706687,
-            "bortle": 6,
+            "lon": -3.3145833333333368,
+            "darkness": 0.2539839722084942,
             "country": "GB",
-            "near": "Caerphilly",
-            "name": "Nantgarw",
-            "nameDistanceKm": 0.2,
+            "bortle": 6,
+            "near": "Llantwit Fardre",
+            "name": "Church Village",
+            "nameDistanceKm": 0.643,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2641898,
-            "id": "51.5604_-3.2688",
-            "altitude": null
+            "nameGeoNameId": 11593134,
+            "id": "51.5604_-3.3146",
+            "altitude": 79
         },
         {
-            "lat": 51.42708333333333,
-            "lon": -3.22291666666667,
-            "darkness": 0.19839313956764726,
-            "bortle": 7,
+            "lat": 51.40625,
+            "lon": -3.1770833333333375,
+            "darkness": 0.24268514551588116,
             "country": "GB",
-            "near": "Dinas Powys",
-            "name": "Dinas Powys",
-            "nameDistanceKm": 1.064,
+            "bortle": 6,
+            "near": "Penarth",
+            "name": "Lavernock",
+            "nameDistanceKm": 0.135,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2651248,
-            "id": "51.4271_-3.2229",
-            "altitude": null
+            "nameGeoNameId": 2644801,
+            "id": "51.4062_-3.1771",
+            "altitude": 36
+        },
+        {
+            "lat": 51.56041666666667,
+            "lon": -3.0020833333333368,
+            "darkness": 0.20442549598075122,
+            "country": "GB",
+            "bortle": 6,
+            "near": "Newport",
+            "name": "Duffryn",
+            "nameDistanceKm": 0.707,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3345332,
+            "id": "51.5604_-3.0021",
+            "altitude": 9
+        },
+        {
+            "lat": 51.514583333333334,
+            "lon": -3.0604166666666703,
+            "darkness": 0.19862531288003726,
+            "country": "GB",
+            "bortle": 7,
+            "near": "Marshfield",
+            "name": "Pengam",
+            "nameDistanceKm": 0.189,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 13265840,
+            "id": "51.5146_-3.0604",
+            "altitude": 6
         }
     ]
 }

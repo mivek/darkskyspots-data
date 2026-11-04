@@ -1,30 +1,30 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N050W001",
     "spots": [
         {
-            "lat": 50.73958333333333,
-            "lon": -0.797916666666671,
-            "darkness": 0.4560856920589591,
-            "bortle": 5,
+            "lat": 50.73125,
+            "lon": -0.7895833333333382,
+            "darkness": 0.46558669318758594,
             "country": "GB",
+            "bortle": 5,
             "near": "Selsey",
             "name": "Selsey",
-            "nameDistanceKm": 0.765,
+            "nameDistanceKm": 0.418,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 2638219,
-            "id": "50.7396_-0.7979",
-            "altitude": null
+            "id": "50.7313_-0.7896",
+            "altitude": 8
         },
         {
             "lat": 50.93541666666667,
             "lon": -0.7604166666666714,
             "darkness": 0.416381605298772,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Midhurst",
             "name": "Cocking",
             "nameDistanceKm": 1.774,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2652671,
             "id": "50.9354_-0.7604",
-            "altitude": null
+            "altitude": 127
         },
         {
             "lat": 50.89375,
             "lon": -0.5187500000000043,
             "darkness": 0.3960611301054141,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Amberley",
             "name": "Amberley",
             "nameDistanceKm": 1.835,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2657364,
             "id": "50.8937_-0.5188",
-            "altitude": null
+            "altitude": 77
         },
         {
             "lat": 50.91041666666666,
             "lon": -0.2895833333333382,
             "darkness": 0.3455738030355159,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Small Dole",
             "name": "Small Dole",
             "nameDistanceKm": 1.439,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 6457267,
             "id": "50.9104_-0.2896",
-            "altitude": null
+            "altitude": 9
         },
         {
             "lat": 50.96875,
             "lon": -0.018750000000004263,
             "darkness": 0.33624554948310204,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Newick",
             "name": "Chailey",
             "nameDistanceKm": 1.243,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2653407,
             "id": "50.9688_-0.0188",
-            "altitude": null
+            "altitude": 45
         },
         {
             "lat": 50.91875,
             "lon": -0.9812500000000046,
             "darkness": 0.33529738809472887,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Cowplain",
             "name": "Blendworth",
             "nameDistanceKm": 0.61,
@@ -92,22 +92,22 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12264366,
             "id": "50.9188_-0.9813",
-            "altitude": null
+            "altitude": 100
         },
         {
-            "lat": 50.83125,
+            "lat": 50.80625,
             "lon": -0.06458333333333677,
-            "darkness": 0.3045124416380185,
-            "bortle": 6,
+            "darkness": 0.3260197137145753,
             "country": "GB",
+            "bortle": 6,
             "near": "Rottingdean",
-            "name": "Woodingdean",
-            "nameDistanceKm": 0.933,
-            "nameFeatureCode": "PPL",
+            "name": "Rottingdean",
+            "nameDistanceKm": 0.541,
+            "nameFeatureCode": "PPLA3",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 6690584,
-            "id": "50.8312_-0.0646",
-            "altitude": null
+            "nameGeoNameId": 2639069,
+            "id": "50.8062_-0.0646",
+            "altitude": 48
         }
     ]
 }

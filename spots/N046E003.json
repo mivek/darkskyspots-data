@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N046E003",
     "spots": [
         {
             "lat": 46.93958333333333,
             "lon": 3.5687499999999925,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "FR",
+            "bortle": 1,
             "near": "La Machine",
             "name": "La Garenne",
             "nameDistanceKm": 2.006,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3009175,
             "id": "46.9396_3.5687",
-            "altitude": null
+            "altitude": 269
         },
         {
             "lat": 46.93958333333333,
             "lon": 3.7770833333333265,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "FR",
+            "bortle": 1,
             "near": "Moulins-Engilbert",
             "name": "Nourry",
             "nameDistanceKm": 1.609,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12318997,
             "id": "46.9396_3.7771",
-            "altitude": null
+            "altitude": 270
         },
         {
             "lat": 46.80208333333333,
             "lon": 3.706249999999992,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "FR",
+            "bortle": 1,
             "near": "Fours",
             "name": "Étang Donjon",
             "nameDistanceKm": 1.143,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "H",
             "nameGeoNameId": 3021088,
             "id": "46.8021_3.7062",
-            "altitude": null
+            "altitude": 232
         },
         {
             "lat": 46.80208333333333,
             "lon": 3.7770833333333265,
             "darkness": 0.9956704604378264,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Fours",
             "name": "Laugimone",
             "nameDistanceKm": 2.654,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 7522247,
             "id": "46.8021_3.7771",
-            "altitude": null
+            "altitude": 236
         },
         {
             "lat": 46.93958333333333,
             "lon": 3.9145833333333258,
             "darkness": 0.9891539800463384,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Villapourçon",
             "name": "Le Mousseau",
             "nameDistanceKm": 1.102,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12318990,
             "id": "46.9396_3.9146",
-            "altitude": null
+            "altitude": 448
         },
         {
             "lat": 46.84791666666666,
             "lon": 3.5895833333333265,
             "darkness": 0.9758007763382737,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Cercy-la-Tour",
             "name": "Faye",
             "nameDistanceKm": 0.916,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3018853,
             "id": "46.8479_3.5896",
-            "altitude": null
+            "altitude": 196
         },
         {
             "lat": 46.71041666666666,
             "lon": 3.581249999999992,
             "darkness": 0.9590366989484145,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Lucenay-lès-Aix",
             "name": "Étang Neuf",
             "nameDistanceKm": 2.655,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "H",
             "nameGeoNameId": 2990701,
             "id": "46.7104_3.5812",
-            "altitude": null
+            "altitude": 210
         },
         {
             "lat": 46.77291666666666,
             "lon": 3.043749999999992,
             "darkness": 0.9549158282061656,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Le Veurdre",
             "name": "Chambon",
             "nameDistanceKm": 0.531,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3027387,
             "id": "46.7729_3.0437",
-            "altitude": null
+            "altitude": 191
         },
         {
             "lat": 46.52291666666666,
             "lon": 3.010416666666659,
             "darkness": 0.9520030198448921,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Saint-Hilaire",
             "name": "Saint-Aubin-le-Monial",
             "nameDistanceKm": 1.1,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2981548,
             "id": "46.5229_3.0104",
-            "altitude": null
+            "altitude": 312
         },
         {
             "lat": 46.77708333333333,
             "lon": 3.2479166666666597,
             "darkness": 0.9393930131484193,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Chantenay-Saint-Imbert",
             "name": "Les Loges Fraillons",
             "nameDistanceKm": 1.468,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3000459,
             "id": "46.7771_3.2479",
-            "altitude": null
+            "altitude": 249
         },
         {
             "lat": 46.664583333333326,
             "lon": 3.8604166666666586,
             "darkness": 0.9347626736525974,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Grury",
             "name": "Bryon",
             "nameDistanceKm": 1.173,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12313893,
             "id": "46.6646_3.8604",
-            "altitude": null
+            "altitude": 312
         },
         {
             "lat": 46.46874999999999,
             "lon": 3.668749999999992,
             "darkness": 0.9328398914876626,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Vaumas",
             "name": "Saint-Pourçain-sur-Besbre",
             "nameDistanceKm": 2.587,
@@ -182,29 +182,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2977366,
             "id": "46.4687_3.6687",
-            "altitude": null
+            "altitude": 262
         },
         {
-            "lat": 46.48958333333333,
-            "lon": 3.864583333333325,
-            "darkness": 0.9110988905694246,
-            "bortle": 2,
+            "lat": 46.485416666666666,
+            "lon": 3.8687499999999915,
+            "darkness": 0.9105480870012186,
             "country": "FR",
+            "bortle": 2,
             "near": "Saint-Agnan",
             "name": "Coulanges",
-            "nameDistanceKm": 0.617,
+            "nameDistanceKm": 0.747,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 3023285,
-            "id": "46.4896_3.8646",
-            "altitude": null
+            "id": "46.4854_3.8687",
+            "altitude": 221
         },
         {
             "lat": 46.34374999999999,
             "lon": 3.793749999999992,
             "darkness": 0.9030528817531996,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Le Donjon",
             "name": "Les Costières",
             "nameDistanceKm": 0.471,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12321844,
             "id": "46.3437_3.7937",
-            "altitude": null
+            "altitude": 297
         },
         {
             "lat": 46.38958333333333,
             "lon": 3.127083333333326,
             "darkness": 0.8927829456743988,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Tronget",
             "name": "Chantocelle",
             "nameDistanceKm": 0.301,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3026825,
             "id": "46.3896_3.1271",
-            "altitude": null
+            "altitude": 389
         },
         {
             "lat": 46.34374999999999,
             "lon": 3.5895833333333265,
             "darkness": 0.8866720966313866,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Jaligny-sur-Besbre",
             "name": "Chavroches",
             "nameDistanceKm": 1.196,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025703,
             "id": "46.3437_3.5896",
-            "altitude": null
+            "altitude": 267
         },
         {
             "lat": 46.572916666666664,
             "lon": 3.543749999999992,
             "darkness": 0.8816414412512237,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Chevagnes",
             "name": "Les Taniers",
             "nameDistanceKm": 1.02,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2999548,
             "id": "46.5729_3.5437",
-            "altitude": null
+            "altitude": 238
         },
         {
             "lat": 46.20625,
             "lon": 3.7270833333333258,
             "darkness": 0.8601682726323802,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Arfeuilles",
             "name": "Rossignol",
             "nameDistanceKm": 1.468,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12321932,
             "id": "46.2062_3.7271",
-            "altitude": null
+            "altitude": 395
         },
         {
             "lat": 46.260416666666664,
             "lon": 3.0229166666666583,
             "darkness": 0.8592841556350739,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Bellenaves",
             "name": "Morlat",
             "nameDistanceKm": 1.029,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2991766,
             "id": "46.2604_3.0229",
-            "altitude": null
+            "altitude": 414
         },
         {
             "lat": 46.89791666666666,
             "lon": 3.156249999999993,
             "darkness": 0.8589849992599227,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Magny-Cours",
             "name": "Les Pommais",
             "nameDistanceKm": 1.305,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2999916,
             "id": "46.8979_3.1562",
-            "altitude": null
+            "altitude": 214
         },
         {
             "lat": 46.61874999999999,
             "lon": 3.1812499999999915,
             "darkness": 0.8552479735093629,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Saint-Menoux",
             "name": "Agonges",
             "nameDistanceKm": 2.237,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3038588,
             "id": "46.6187_3.1812",
-            "altitude": null
+            "altitude": 255
         },
         {
             "lat": 46.89791666666666,
             "lon": 3.314583333333326,
             "darkness": 0.8476732925647806,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Imphy",
             "name": "Les Essarts",
             "nameDistanceKm": 0.899,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3001133,
             "id": "46.8979_3.3146",
-            "altitude": null
+            "altitude": 225
         },
         {
             "lat": 46.17708333333333,
             "lon": 3.6812499999999915,
             "darkness": 0.8470008250210427,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Arfeuilles",
             "name": "Chez Gaillard",
             "nameDistanceKm": 0.418,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12321957,
             "id": "46.1771_3.6812",
-            "altitude": null
+            "altitude": 382
         },
         {
             "lat": 46.664583333333326,
             "lon": 3.2729166666666583,
             "darkness": 0.8460957078807505,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Villeneuve-sur-Allier",
             "name": "Villeneuve-sur-Allier",
             "nameDistanceKm": 1.926,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2968521,
             "id": "46.6646_3.2729",
-            "altitude": null
+            "altitude": 230
         },
         {
             "lat": 46.46458333333333,
             "lon": 3.9604166666666583,
             "darkness": 0.8446225055896422,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Molinet",
             "name": "Les Bretons",
             "nameDistanceKm": 0.61,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12321786,
             "id": "46.4646_3.9604",
-            "altitude": null
+            "altitude": 232
         },
         {
             "lat": 46.43958333333333,
             "lon": 3.4520833333333254,
             "darkness": 0.8445208220756919,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Neuilly-le-Réal",
             "name": "Long Pré",
             "nameDistanceKm": 1.247,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2997697,
             "id": "46.4396_3.4521",
-            "altitude": null
+            "altitude": 293
         },
         {
             "lat": 46.25208333333333,
             "lon": 3.1812499999999915,
             "darkness": 0.8392886016433667,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Chantelle",
             "name": "Taxat",
             "nameDistanceKm": 1.358,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2973252,
             "id": "46.2521_3.1812",
-            "altitude": null
+            "altitude": 278
         },
         {
             "lat": 46.61874999999999,
             "lon": 3.4979166666666597,
             "darkness": 0.8384980536983778,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Lusigny",
             "name": "L'Hâte",
             "nameDistanceKm": 0.926,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2998634,
             "id": "46.6187_3.4979",
-            "altitude": null
+            "altitude": 249
         },
         {
             "lat": 46.43958333333333,
             "lon": 3.2270833333333258,
             "darkness": 0.8341264625879482,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Besson",
             "name": "Bresnay",
             "nameDistanceKm": 1.729,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030322,
             "id": "46.4396_3.2271",
-            "altitude": null
+            "altitude": 311
         },
         {
             "lat": 46.297916666666666,
             "lon": 3.4979166666666597,
             "darkness": 0.8214193312029594,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Rongères",
             "name": "Montaigu-le-Blin",
             "nameDistanceKm": 1.078,
@@ -452,14 +452,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2993086,
             "id": "46.2979_3.4979",
-            "altitude": null
+            "altitude": 276
         },
         {
             "lat": 46.02291666666666,
             "lon": 3.7104166666666583,
             "darkness": 0.8119491248971367,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Ferrières-sur-Sichon",
             "name": "La Chabanne",
             "nameDistanceKm": 3.281,
@@ -467,14 +467,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3010508,
             "id": "46.0229_3.7104",
-            "altitude": null
+            "altitude": 721
         },
         {
             "lat": 46.20625,
             "lon": 3.9145833333333258,
             "darkness": 0.8068823525348057,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "La Pacaudière",
             "name": "Les Matheys",
             "nameDistanceKm": 1.283,
@@ -482,14 +482,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12314102,
             "id": "46.2062_3.9146",
-            "altitude": null
+            "altitude": 303
         },
         {
             "lat": 46.047916666666666,
             "lon": 3.4979166666666597,
             "darkness": 0.7582191041549156,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Busset",
             "name": "Busset",
             "nameDistanceKm": 1.92,
@@ -497,14 +497,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3029446,
             "id": "46.0479_3.4979",
-            "altitude": null
+            "altitude": 371
         },
         {
             "lat": 46.11458333333333,
             "lon": 3.302083333333325,
             "darkness": 0.752294045620889,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Cognat-Lyonne",
             "name": "Cognat-Lyonne",
             "nameDistanceKm": 0.94,
@@ -512,14 +512,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3024435,
             "id": "46.1146_3.3021",
-            "altitude": null
+            "altitude": 326
         },
         {
             "lat": 46.61874999999999,
             "lon": 3.2729166666666583,
             "darkness": 0.7391194565248954,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Montilly",
             "name": "Chamerande",
             "nameDistanceKm": 1.49,
@@ -527,14 +527,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3027319,
             "id": "46.6187_3.2729",
-            "altitude": null
+            "altitude": 202
         },
         {
             "lat": 46.068749999999994,
             "lon": 3.3354166666666583,
             "darkness": 0.7389409763893642,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Brugheas",
             "name": "Forêt de Montpensier",
             "nameDistanceKm": 1.391,
@@ -542,14 +542,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2992160,
             "id": "46.0687_3.3354",
-            "altitude": null
+            "altitude": 366
         },
         {
             "lat": 46.068749999999994,
             "lon": 3.043749999999992,
             "darkness": 0.7375616251986737,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Ébreuil",
             "name": "Mathas",
             "nameDistanceKm": 0.368,
@@ -557,14 +557,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12323580,
             "id": "46.0687_3.0437",
-            "altitude": null
+            "altitude": 489
         },
         {
             "lat": 46.20625,
             "lon": 3.4520833333333254,
             "darkness": 0.7353534356636884,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Germain-des-Fossés",
             "name": "La Roche",
             "nameDistanceKm": 0.787,
@@ -572,14 +572,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12321943,
             "id": "46.2062_3.4521",
-            "altitude": null
+            "altitude": 282
         },
         {
             "lat": 46.11458333333333,
             "lon": 3.9145833333333258,
             "darkness": 0.7180971484192988,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Ambierle",
             "name": "Saint-Forgeux-Lespinasse",
             "nameDistanceKm": 1.641,
@@ -587,14 +587,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2980093,
             "id": "46.1146_3.9146",
-            "altitude": null
+            "altitude": 319
         },
         {
             "lat": 46.485416666666666,
             "lon": 3.3187499999999925,
             "darkness": 0.7126797123639532,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Chemilly",
             "name": "Chemilly",
             "nameDistanceKm": 0.419,
@@ -602,7 +602,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025598,
             "id": "46.4854_3.3187",
-            "altitude": null
+            "altitude": 219
         }
     ]
 }

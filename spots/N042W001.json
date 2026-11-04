@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N042W001",
     "spots": [
         {
             "lat": 42.81458333333333,
             "lon": -0.16875000000000728,
             "darkness": 0.8884020084125125,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Cauterets",
             "name": "la Huchole",
             "nameDistanceKm": 1.186,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 13631531,
             "id": "42.8146_-0.1688",
-            "altitude": null
+            "altitude": 2566
         },
         {
             "lat": 42.88958333333333,
             "lon": -0.5812500000000078,
             "darkness": 0.8723759668739601,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Bedous",
             "name": "Pène d'Udapet",
             "nameDistanceKm": 0.662,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 13645304,
             "id": "42.8896_-0.5813",
-            "altitude": null
+            "altitude": 1096
         },
         {
             "lat": 42.87708333333333,
             "lon": -0.35208333333334085,
             "darkness": 0.8706552543179165,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Arrens-Marsous",
             "name": "Crête les Quintétes",
             "nameDistanceKm": 0.827,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 13264313,
             "id": "42.8771_-0.3521",
-            "altitude": null
+            "altitude": 2216
         },
         {
             "lat": 42.93958333333333,
             "lon": -0.031250000000007994,
             "darkness": 0.86079597158501,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Pierrefitte-Nestalas",
             "name": "Ortiac",
             "nameDistanceKm": 1.696,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12314933,
             "id": "42.9396_-0.0313",
-            "altitude": null
+            "altitude": 1298
         },
         {
             "lat": 42.96874999999999,
             "lon": -0.7645833333333414,
             "darkness": 0.8585461212687605,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Bedous",
             "name": "Soum de Lèche",
             "nameDistanceKm": 0.673,
@@ -77,44 +77,44 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 12718420,
             "id": "42.9687_-0.7646",
-            "altitude": null
-        },
-        {
-            "lat": 42.95625,
-            "lon": -0.8562500000000073,
-            "darkness": 0.8449778223426434,
-            "bortle": 3,
-            "country": "FR",
-            "near": "Tardets",
-            "name": "Pic Lakhoura",
-            "nameDistanceKm": 1.518,
-            "nameFeatureCode": "PK",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3009839,
-            "id": "42.9562_-0.8563",
-            "altitude": null
+            "altitude": 1767
         },
         {
             "lat": 42.81458333333333,
-            "lon": -0.5770833333333414,
-            "darkness": 0.8441987751638065,
-            "bortle": 3,
+            "lon": -0.6104166666666746,
+            "darkness": 0.8474462806415414,
             "country": "FR",
+            "bortle": 3,
             "near": "Bedous",
             "name": "Pic d'Arri",
-            "nameDistanceKm": 2.583,
+            "nameDistanceKm": 1.792,
             "nameFeatureCode": "PK",
             "nameFeatureClass": "T",
             "nameGeoNameId": 13664945,
-            "id": "42.8146_-0.5771",
-            "altitude": null
+            "id": "42.8146_-0.6104",
+            "altitude": 1801
+        },
+        {
+            "lat": 42.947916666666664,
+            "lon": -0.8562500000000073,
+            "darkness": 0.845603664252998,
+            "country": "FR",
+            "bortle": 3,
+            "near": "Tardets",
+            "name": "Pic Lakhoura",
+            "nameDistanceKm": 1.755,
+            "nameFeatureCode": "PK",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 3009839,
+            "id": "42.9479_-0.8563",
+            "altitude": 1403
         },
         {
             "lat": 42.95625,
             "lon": -0.11875000000000746,
             "darkness": 0.8392142136459771,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Pierrefitte-Nestalas",
             "name": "Pic d'Escorne-Crabe",
             "nameDistanceKm": 1.171,
@@ -122,7 +122,22 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 3019777,
             "id": "42.9562_-0.1188",
-            "altitude": null
+            "altitude": 1513
+        },
+        {
+            "lat": 42.81458333333333,
+            "lon": -0.3937500000000078,
+            "darkness": 0.8205902461991884,
+            "country": "FR",
+            "bortle": 3,
+            "near": "Laruns",
+            "name": "Pic du Pourtalet",
+            "nameDistanceKm": 1.047,
+            "nameFeatureCode": "PK",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 12541770,
+            "id": "42.8146_-0.3938",
+            "altitude": 1934
         }
     ]
 }

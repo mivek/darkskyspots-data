@@ -1,15 +1,30 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/canaries",
-    "generated": "2026-09-30T13:28:24Z",
-    "version": "2025.8",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N027W016",
     "spots": [
         {
             "lat": 27.98541666666667,
-            "lon": -15.79791666666668,
-            "darkness": 0.49269712254107356,
-            "bortle": 5,
+            "lon": -15.818750000000012,
+            "darkness": 0.5196184156244055,
             "country": "ES",
+            "bortle": 4,
+            "near": "San Nicolás",
+            "name": "Cabo Colorado",
+            "nameDistanceKm": 1.909,
+            "nameFeatureCode": "CAPE",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2519331,
+            "id": "27.9854_-15.8188",
+            "altitude": 320
+        },
+        {
+            "lat": 27.98541666666667,
+            "lon": -15.79791666666668,
+            "darkness": 0.4926971225410751,
+            "country": "ES",
+            "bortle": 5,
             "near": "San Nicolás",
             "name": "Mederos",
             "nameDistanceKm": 0.364,
@@ -17,29 +32,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2515324,
             "id": "27.9854_-15.7979",
-            "altitude": null
+            "altitude": 109
         },
         {
             "lat": 27.835416666666667,
-            "lon": -15.752083333333346,
-            "darkness": 0.36384545673028756,
-            "bortle": 5,
+            "lon": -15.777083333333348,
+            "darkness": 0.41594973789927525,
             "country": "ES",
+            "bortle": 5,
             "near": "Mogán",
             "name": "Lomo Quiebre",
-            "nameDistanceKm": 1.591,
+            "nameDistanceKm": 2.089,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 11961695,
-            "id": "27.8354_-15.7521",
-            "altitude": null
+            "id": "27.8354_-15.7771",
+            "altitude": 119
         },
         {
             "lat": 27.977083333333336,
             "lon": -15.66041666666668,
-            "darkness": 0.3474009219588352,
-            "bortle": 6,
+            "darkness": 0.3474009219588374,
             "country": "ES",
+            "bortle": 6,
             "near": "Tejeda",
             "name": "El Chorrillo",
             "nameDistanceKm": 0.611,
@@ -47,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2518548,
             "id": "27.9771_-15.6604",
-            "altitude": null
+            "altitude": 869
         },
         {
             "lat": 27.835416666666667,
             "lon": -15.706250000000013,
-            "darkness": 0.30734173881777893,
-            "bortle": 6,
+            "darkness": 0.3073417388177754,
             "country": "ES",
+            "bortle": 6,
             "near": "Puerto Rico",
             "name": "Guirre",
             "nameDistanceKm": 4.592,
@@ -62,29 +77,29 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2571564,
             "id": "27.8354_-15.7063",
-            "altitude": null
+            "altitude": 528
         },
         {
-            "lat": 27.89375,
-            "lon": -15.522916666666681,
-            "darkness": 0.21994189043704493,
-            "bortle": 6,
+            "lat": 27.78541666666667,
+            "lon": -15.502083333333346,
+            "darkness": 0.2263066577887738,
             "country": "ES",
-            "near": "Santa Lucía",
-            "name": "La Sorrueda",
-            "nameDistanceKm": 1.453,
+            "bortle": 6,
+            "near": "Playa del Ingles",
+            "name": "Tarajalillo",
+            "nameDistanceKm": 1.379,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 9171510,
-            "id": "27.8938_-15.5229",
-            "altitude": null
+            "nameGeoNameId": 6354967,
+            "id": "27.7854_-15.5021",
+            "altitude": 7
         },
         {
             "lat": 27.931250000000002,
             "lon": -15.522916666666681,
-            "darkness": 0.19794086343206474,
-            "bortle": 7,
+            "darkness": 0.1979408634320663,
             "country": "ES",
+            "bortle": 7,
             "near": "Santa Lucía",
             "name": "Barranco de Guayadeque",
             "nameDistanceKm": 1.695,
@@ -92,7 +107,22 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 10346770,
             "id": "27.9313_-15.5229",
-            "altitude": null
+            "altitude": 1300
+        },
+        {
+            "lat": 27.814583333333335,
+            "lon": -15.431250000000013,
+            "darkness": 0.1814837069563966,
+            "country": "ES",
+            "bortle": 7,
+            "near": "Vecindario",
+            "name": "Pozo Izquierdo",
+            "nameDistanceKm": 1.38,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 8051266,
+            "id": "27.8146_-15.4313",
+            "altitude": 31
         }
     ]
 }

@@ -1,38 +1,38 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N054W011",
     "spots": [
         {
-            "lat": 54.264583333333334,
-            "lon": -10.052083333333337,
+            "lat": 54.26875,
+            "lon": -10.072916666666671,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "IE",
+            "bortle": 1,
             "near": "Belmullet",
-            "name": "An Ghleadraigh",
-            "nameDistanceKm": 0.762,
+            "name": "Aughernagalliagh",
+            "nameDistanceKm": 0.452,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 9804830,
-            "id": "54.2646_-10.0521",
-            "altitude": null
+            "nameGeoNameId": 9804831,
+            "id": "54.2687_-10.0729",
+            "altitude": 37
         },
         {
-            "lat": 54.12708333333333,
-            "lon": -10.09791666666667,
+            "lat": 54.014583333333334,
+            "lon": -10.189583333333337,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "IE",
-            "near": "Belmullet",
-            "name": "Cartron",
-            "nameDistanceKm": 0.225,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 9804898,
-            "id": "54.1271_-10.0979",
-            "altitude": null
+            "bortle": 1,
+            "near": "Dooagh",
+            "name": "Saddle Head",
+            "nameDistanceKm": 0.078,
+            "nameFeatureCode": "CAPE",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2961639,
+            "id": "54.0146_-10.1896",
+            "altitude": 28
         }
     ]
 }

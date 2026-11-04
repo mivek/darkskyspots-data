@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N049E000",
     "spots": [
         {
             "lat": 49.006249999999994,
             "lon": 0.12291666666665879,
             "darkness": 0.7195414180477147,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Livarot",
             "name": "La Route",
             "nameDistanceKm": 1.177,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12309654,
             "id": "49.0062_0.1229",
-            "altitude": null
+            "altitude": 180
         },
         {
             "lat": 49.006249999999994,
             "lon": 0.38124999999999254,
             "darkness": 0.7008903094988215,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "La Vespière",
             "name": "Friardel",
             "nameDistanceKm": 0.839,
@@ -32,14 +32,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3017051,
             "id": "49.0062_0.3812",
-            "altitude": null
+            "altitude": 187
+        },
+        {
+            "lat": 49.88958333333333,
+            "lon": 0.8520833333333258,
+            "darkness": 0.6626400036756681,
+            "country": "FR",
+            "bortle": 4,
+            "near": "Veules-les-Roses",
+            "name": "Le Mesnil Gaillard",
+            "nameDistanceKm": 0.674,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3003387,
+            "id": "49.8896_0.8521",
+            "altitude": 32
         },
         {
             "lat": 49.05208333333333,
             "lon": 0.5770833333333254,
             "darkness": 0.654736912105911,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Aubin-le-Vertueux",
             "name": "Saint-Quentin-des-Isles",
             "nameDistanceKm": 0.449,
@@ -47,44 +62,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2977283,
             "id": "49.0521_0.5771",
-            "altitude": null
-        },
-        {
-            "lat": 49.87291666666666,
-            "lon": 0.8270833333333254,
-            "darkness": 0.6468638845521902,
-            "bortle": 4,
-            "country": "FR",
-            "near": "Veules-les-Roses",
-            "name": "Sotteville-sur-Mer",
-            "nameDistanceKm": 0.898,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2974151,
-            "id": "49.8729_0.8271",
-            "altitude": null
+            "altitude": 141
         },
         {
             "lat": 49.82708333333333,
-            "lon": 0.5229166666666591,
-            "darkness": 0.6321155739547483,
-            "bortle": 4,
+            "lon": 0.5270833333333256,
+            "darkness": 0.6308915146769434,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Martin-aux-Buneaux",
             "name": "Les Petites-Dalles",
-            "nameDistanceKm": 0.324,
+            "nameDistanceKm": 0.254,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 3000021,
-            "id": "49.8271_0.5229",
-            "altitude": null
+            "id": "49.8271_0.5271",
+            "altitude": 71
         },
         {
             "lat": 49.78124999999999,
             "lon": 0.9812499999999922,
             "darkness": 0.6050571483211656,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Bacqueville-en-Caux",
             "name": "Beautot",
             "nameDistanceKm": 0.384,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3034021,
             "id": "49.7812_0.9812",
-            "altitude": null
+            "altitude": 94
         },
         {
             "lat": 49.05208333333333,
             "lon": 0.7979166666666586,
             "darkness": 0.6036440415161166,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Grosley-sur-Risle",
             "name": "Grosley-sur-Risle",
             "nameDistanceKm": 0.815,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3014537,
             "id": "49.0521_0.7979",
-            "altitude": null
+            "altitude": 95
         },
         {
             "lat": 49.14375,
             "lon": 0.11041666666665861,
             "darkness": 0.5978084350310682,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Cambremer",
             "name": "Saint-Ouen-le-Pin",
             "nameDistanceKm": 0.556,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2977796,
             "id": "49.1437_0.1104",
-            "altitude": null
+            "altitude": 154
         },
         {
             "lat": 49.14375,
             "lon": 0.38124999999999254,
             "darkness": 0.5887600646274964,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Marolles",
             "name": "Marolles",
             "nameDistanceKm": 0.847,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2995577,
             "id": "49.1437_0.3812",
-            "altitude": null
+            "altitude": 162
         },
         {
             "lat": 49.735416666666666,
             "lon": 0.7479166666666588,
             "darkness": 0.5827958836456661,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Doudeville",
             "name": "Routes",
             "nameDistanceKm": 0.611,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2982432,
             "id": "49.7354_0.7479",
-            "altitude": null
+            "altitude": 129
         },
         {
             "lat": 49.18958333333333,
             "lon": 0.6145833333333259,
             "darkness": 0.5722505066277508,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Plasnes",
             "name": "Notre-Dame-d'Épine",
             "nameDistanceKm": 1.213,
@@ -167,14 +167,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2990044,
             "id": "49.1896_0.6146",
-            "altitude": null
+            "altitude": 159
+        },
+        {
+            "lat": 49.72291666666666,
+            "lon": 0.2520833333333261,
+            "darkness": 0.5194475049573168,
+            "country": "FR",
+            "bortle": 4,
+            "near": "Bordeaux-Saint-Clair",
+            "name": "Bénouville",
+            "nameDistanceKm": 0.617,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3033457,
+            "id": "49.7229_0.2521",
+            "altitude": 64
         },
         {
             "lat": 49.64375,
             "lon": 0.906249999999992,
             "darkness": 0.5191098975241768,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Yerville",
             "name": "Les Mares",
             "nameDistanceKm": 0.619,
@@ -182,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3000391,
             "id": "49.6437_0.9062",
-            "altitude": null
+            "altitude": 171
         },
         {
             "lat": 49.68958333333333,
             "lon": 0.49374999999999236,
             "darkness": 0.5173304679338389,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Bec-de-Mortagne",
             "name": "La Rue Faucon",
             "nameDistanceKm": 0.285,
@@ -197,29 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12317511,
             "id": "49.6896_0.4937",
-            "altitude": null
-        },
-        {
-            "lat": 49.735416666666666,
-            "lon": 0.2937499999999922,
-            "darkness": 0.5044489502728186,
-            "bortle": 4,
-            "country": "FR",
-            "near": "Yport",
-            "name": "Vattetot-sur-Mer",
-            "nameDistanceKm": 1.299,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2970595,
-            "id": "49.7354_0.2937",
-            "altitude": null
+            "altitude": 116
         },
         {
             "lat": 49.64375,
             "lon": 0.7979166666666586,
             "darkness": 0.4978962931965546,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Veauville-lès-Baons",
             "name": "Ectot-lès-Baons",
             "nameDistanceKm": 0.518,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3020409,
             "id": "49.6437_0.7979",
-            "altitude": null
+            "altitude": 138
         },
         {
             "lat": 49.09791666666666,
             "lon": 0.9354166666666588,
             "darkness": 0.4978056480900376,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Combon",
             "name": "Le Buisson",
             "nameDistanceKm": 1.022,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12306506,
             "id": "49.0979_0.9354",
-            "altitude": null
+            "altitude": 138
         },
         {
             "lat": 49.28124999999999,
             "lon": 0.7062499999999927,
             "darkness": 0.4942923577781809,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Montfort-sur-Risle",
             "name": "La Prée",
             "nameDistanceKm": 1.589,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12306437,
             "id": "49.2812_0.7062",
-            "altitude": null
+            "altitude": 128
         },
         {
             "lat": 49.64375,
             "lon": 0.5645833333333261,
             "darkness": 0.49268004946075084,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Hattenville",
             "name": "Auberbosc",
             "nameDistanceKm": 1.357,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3036407,
             "id": "49.6437_0.5646",
-            "altitude": null
+            "altitude": 134
         },
         {
             "lat": 49.28124999999999,
             "lon": 0.4729166666666593,
             "darkness": 0.4888047676073365,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Épaignes",
             "name": "Épaignes",
             "nameDistanceKm": 2.411,
@@ -287,29 +287,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3020094,
             "id": "49.2812_0.4729",
-            "altitude": null
+            "altitude": 147
         },
         {
             "lat": 49.68958333333333,
-            "lon": 0.25624999999999254,
-            "darkness": 0.4698893746596816,
-            "bortle": 5,
+            "lon": 0.1729166666666586,
+            "darkness": 0.47350395929547806,
             "country": "FR",
-            "near": "Bordeaux-Saint-Clair",
-            "name": "Épiven",
-            "nameDistanceKm": 0.962,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3019993,
-            "id": "49.6896_0.2562",
-            "altitude": null
+            "bortle": 5,
+            "near": "Le Tilleul",
+            "name": "Cap d'Antifer",
+            "nameDistanceKm": 0.728,
+            "nameFeatureCode": "CAPE",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 3037451,
+            "id": "49.6896_0.1729",
+            "altitude": 94
         },
         {
             "lat": 49.418749999999996,
             "lon": 0.7145833333333256,
             "darkness": 0.43131942912689514,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Routot",
             "name": "La Haye-de-Routot",
             "nameDistanceKm": 1.75,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3008760,
             "id": "49.4187_0.7146",
-            "altitude": null
+            "altitude": 120
         },
         {
             "lat": 49.235416666666666,
             "lon": 0.9354166666666588,
             "darkness": 0.400826338825785,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Amfreville-la-Campagne",
             "name": "Saint-Amand-des-Hautes-Terres",
             "nameDistanceKm": 0.277,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2981846,
             "id": "49.2354_0.9354",
-            "altitude": null
+            "altitude": 131
         },
         {
             "lat": 49.32708333333333,
             "lon": 0.24374999999999236,
             "darkness": 0.37718804167121955,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Saint-Gatien-des-Bois",
             "name": "Vieux-Bourg",
             "nameDistanceKm": 1.822,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2969224,
             "id": "49.3271_0.2437",
-            "altitude": null
+            "altitude": 159
         },
         {
             "lat": 49.55208333333333,
             "lon": 0.9812499999999922,
             "darkness": 0.3756344719492706,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Barentin",
             "name": "Le Grand-Catillon",
             "nameDistanceKm": 0.736,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3004031,
             "id": "49.5521_0.9812",
-            "altitude": null
+            "altitude": 71
         },
         {
             "lat": 49.418749999999996,
             "lon": 0.468749999999992,
             "darkness": 0.35412673069343037,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Conteville",
             "name": "Marais-Vernier",
             "nameDistanceKm": 1.194,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3231381,
             "id": "49.4187_0.4687",
-            "altitude": null
+            "altitude": 1
         },
         {
             "lat": 49.46458333333333,
             "lon": 0.6104166666666586,
             "darkness": 0.3434261663283539,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Petiville",
             "name": "Saint-Maurice-d'Ételan",
             "nameDistanceKm": 0.625,
@@ -392,29 +392,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2978148,
             "id": "49.4646_0.6104",
-            "altitude": null
+            "altitude": 23
         },
         {
-            "lat": 49.43124999999999,
-            "lon": 0.8895833333333254,
-            "darkness": 0.338677234150504,
-            "bortle": 6,
+            "lat": 49.506249999999994,
+            "lon": 0.9354166666666588,
+            "darkness": 0.3378420053766603,
             "country": "FR",
-            "near": "Bardouville",
-            "name": "La Grève",
-            "nameDistanceKm": 0.723,
+            "bortle": 6,
+            "near": "Saint-Pierre-de-Varengeville",
+            "name": "Saint-Pierre-de-Varengeville",
+            "nameDistanceKm": 0.526,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 3008888,
-            "id": "49.4312_0.8896",
-            "altitude": null
+            "nameGeoNameId": 2977477,
+            "id": "49.5062_0.9354",
+            "altitude": 103
         },
         {
             "lat": 49.59791666666666,
             "lon": 0.33541666666665915,
             "darkness": 0.33411175416300964,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Manneville-la-Goupil",
             "name": "Écosse",
             "nameDistanceKm": 0.779,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3020449,
             "id": "49.5979_0.3354",
-            "altitude": null
+            "altitude": 121
         },
         {
             "lat": 49.28124999999999,
             "lon": 0.9354166666666588,
             "darkness": 0.3326180879383739,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Le Bosc-Roger-en-Roumois",
             "name": "Le Bosc-Roger-en-Roumois",
             "nameDistanceKm": 0.276,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3005182,
             "id": "49.2812_0.9354",
-            "altitude": null
+            "altitude": 138
         },
         {
             "lat": 49.37291666666666,
             "lon": 0.33541666666665915,
             "darkness": 0.3167549426327181,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Fiquefleur-Équainville",
             "name": "Manneville-la-Raoult",
             "nameDistanceKm": 1.427,
@@ -452,29 +452,44 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2996194,
             "id": "49.3729_0.3354",
-            "altitude": null
+            "altitude": 113
         },
         {
             "lat": 49.37291666666666,
-            "lon": 0.11041666666665861,
-            "darkness": 0.27807744578285687,
-            "bortle": 6,
+            "lon": 0.08541666666665915,
+            "darkness": 0.28943953611244,
             "country": "FR",
+            "bortle": 6,
             "near": "Trouville-sur-Mer",
-            "name": "Les Aubets",
-            "nameDistanceKm": 0.689,
+            "name": "Trouville-sur-Mer",
+            "nameDistanceKm": 0.867,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 12309375,
-            "id": "49.3729_0.1104",
-            "altitude": null
+            "nameGeoNameId": 2971555,
+            "id": "49.3729_0.0854",
+            "altitude": 23
+        },
+        {
+            "lat": 49.59791666666666,
+            "lon": 0.1270833333333261,
+            "darkness": 0.28791654790680754,
+            "country": "FR",
+            "bortle": 6,
+            "near": "Cauville-sur-Mer",
+            "name": "Cauville-sur-Mer",
+            "nameDistanceKm": 0.506,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3028144,
+            "id": "49.5979_0.1271",
+            "altitude": 91
         },
         {
             "lat": 49.506249999999994,
             "lon": 0.33541666666665915,
             "darkness": 0.19174755286604117,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Sandouville",
             "name": "Secqueville",
             "nameDistanceKm": 0.406,
@@ -482,22 +497,22 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2975353,
             "id": "49.5062_0.3354",
-            "altitude": null
+            "altitude": 106
         },
         {
             "lat": 49.55208333333333,
-            "lon": 0.11041666666665861,
-            "darkness": 0.1626334460420844,
-            "bortle": 7,
+            "lon": 0.08958333333332558,
+            "darkness": 0.18263964131210886,
             "country": "FR",
+            "bortle": 7,
             "near": "Octeville-sur-Mer",
-            "name": "Octeville-sur-Mer",
-            "nameDistanceKm": 0.549,
+            "name": "Saint-Andrieux",
+            "nameDistanceKm": 1.07,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2989753,
-            "id": "49.5521_0.1104",
-            "altitude": null
+            "nameGeoNameId": 2981708,
+            "id": "49.5521_0.0896",
+            "altitude": 96
         }
     ]
 }

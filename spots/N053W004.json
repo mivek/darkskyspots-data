@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N053W004",
     "spots": [
         {
             "lat": 53.077083333333334,
             "lon": -3.91041666666667,
             "darkness": 0.7370863799558971,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Betws-y-Coed",
             "name": "Moel Siabod",
             "nameDistanceKm": 1.638,
@@ -17,29 +17,29 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2642388,
             "id": "53.0771_-3.9104",
-            "altitude": null
+            "altitude": 507
         },
         {
-            "lat": 53.03125,
+            "lat": 53.03541666666666,
             "lon": -3.681250000000004,
-            "darkness": 0.6853528083551129,
-            "bortle": 4,
+            "darkness": 0.6832526779952781,
             "country": "GB",
+            "bortle": 4,
             "near": "Betws-y-Coed",
             "name": "Pentre-Foelas",
-            "nameDistanceKm": 2.09,
+            "nameDistanceKm": 1.628,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 2640396,
-            "id": "53.0312_-3.6813",
-            "altitude": null
+            "id": "53.0354_-3.6813",
+            "altitude": 303
         },
         {
             "lat": 53.21458333333333,
             "lon": -3.91041666666667,
             "darkness": 0.6273489149664346,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Penmaenmawr",
             "name": "Llanbedr-y-cennin",
             "nameDistanceKm": 3.334,
@@ -47,44 +47,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644173,
             "id": "53.2146_-3.9104",
-            "altitude": null
+            "altitude": 373
         },
         {
             "lat": 53.16875,
-            "lon": -3.681250000000004,
-            "darkness": 0.5904776398656344,
-            "bortle": 4,
+            "lon": -3.6354166666666714,
+            "darkness": 0.570514947110036,
             "country": "GB",
+            "bortle": 4,
             "near": "Llanrwst",
-            "name": "Pandy Tudur",
-            "nameDistanceKm": 1.928,
+            "name": "Llansannan",
+            "nameDistanceKm": 2.858,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 13278811,
-            "id": "53.1688_-3.6813",
-            "altitude": null
-        },
-        {
-            "lat": 53.12291666666667,
-            "lon": -3.452083333333338,
-            "darkness": 0.508256622149895,
-            "bortle": 4,
-            "country": "GB",
-            "near": "Denbigh",
-            "name": "Saron",
-            "nameDistanceKm": 1.259,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13283785,
-            "id": "53.1229_-3.4521",
-            "altitude": null
+            "nameGeoNameId": 2643953,
+            "id": "53.1688_-3.6354",
+            "altitude": 240
         },
         {
             "lat": 53.16875,
             "lon": -3.4979166666666703,
             "darkness": 0.4986983416212084,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Henllan",
             "name": "Rhydgaled",
             "nameDistanceKm": 0.491,
@@ -92,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13283546,
             "id": "53.1688_-3.4979",
-            "altitude": null
+            "altitude": 248
         },
         {
             "lat": 53.260416666666664,
             "lon": -3.7104166666666707,
             "darkness": 0.4985940087423083,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Mochdre",
             "name": "Llanelian-yn-Rhôs",
             "nameDistanceKm": 0.982,
@@ -107,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644103,
             "id": "53.2604_-3.7104",
-            "altitude": null
+            "altitude": 204
         },
         {
             "lat": 53.03125,
             "lon": -3.3145833333333368,
             "darkness": 0.4965522661287305,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Bryneglwys",
             "name": "Llanelidan",
             "nameDistanceKm": 1.88,
@@ -122,14 +107,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644102,
             "id": "53.0312_-3.3146",
-            "altitude": null
+            "altitude": 233
+        },
+        {
+            "lat": 53.31041666666667,
+            "lon": -3.4979166666666703,
+            "darkness": 0.3937810027524816,
+            "country": "GB",
+            "bortle": 5,
+            "near": "Rhyl",
+            "name": "Rhyl",
+            "nameDistanceKm": 1.055,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2639409,
+            "id": "53.3104_-3.4979",
+            "altitude": 6
         },
         {
             "lat": 53.16875,
             "lon": -3.2687500000000043,
             "darkness": 0.3587600049843833,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Llandyrnog",
             "name": "Moel Famau",
             "nameDistanceKm": 1.799,
@@ -137,29 +137,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2649712,
             "id": "53.1688_-3.2688",
-            "altitude": null
-        },
-        {
-            "lat": 53.34791666666666,
-            "lon": -3.360416666666671,
-            "darkness": 0.3498695769817587,
-            "bortle": 5,
-            "country": "GB",
-            "near": "Gronant",
-            "name": "Gronant",
-            "nameDistanceKm": 1.248,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 10400828,
-            "id": "53.3479_-3.3604",
-            "altitude": null
+            "altitude": 307
         },
         {
             "lat": 53.260416666666664,
             "lon": -3.3145833333333368,
             "darkness": 0.33798949776155973,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Caerwys",
             "name": "Croes-wian",
             "nameDistanceKm": 0.756,
@@ -167,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13274354,
             "id": "53.2604_-3.3146",
-            "altitude": null
+            "altitude": 185
         },
         {
             "lat": 53.077083333333334,
             "lon": -3.131250000000003,
             "darkness": 0.3346625376855201,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Treuddyn",
             "name": "Maes Maelor",
             "nameDistanceKm": 0.422,
@@ -182,44 +167,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13280368,
             "id": "53.0771_-3.1313",
-            "altitude": null
+            "altitude": 320
         },
         {
-            "lat": 53.89791666666667,
-            "lon": -3.039583333333338,
-            "darkness": 0.2961215017233477,
-            "bortle": 6,
+            "lat": 53.635416666666664,
+            "lon": -3.03541666666667,
+            "darkness": 0.2260827226999712,
             "country": "GB",
-            "near": "Cleveleys",
-            "name": "Cleveleys",
-            "nameDistanceKm": 2.27,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2652857,
-            "id": "53.8979_-3.0396",
-            "altitude": null
-        },
-        {
-            "lat": 53.62291666666667,
-            "lon": -3.039583333333338,
-            "darkness": 0.22012836162183436,
             "bortle": 6,
-            "country": "GB",
             "near": "Southport",
-            "name": "Ainsdale",
-            "nameDistanceKm": 2.254,
-            "nameFeatureCode": "PPL",
+            "name": "Southport",
+            "nameDistanceKm": 2.031,
+            "nameFeatureCode": "PPLA2",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2657623,
-            "id": "53.6229_-3.0396",
-            "altitude": null
+            "nameGeoNameId": 2637343,
+            "id": "53.6354_-3.0354",
+            "altitude": 7
         },
         {
             "lat": 53.16875,
             "lon": -3.0854166666666707,
             "darkness": 0.19233733156201893,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Buckley",
             "name": "Buckley",
             "nameDistanceKm": 0.27,
@@ -227,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2654394,
             "id": "53.1688_-3.0854",
-            "altitude": null
+            "altitude": 157
         },
         {
             "lat": 53.577083333333334,
             "lon": -3.039583333333338,
             "darkness": 0.1880351169103811,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Formby",
             "name": "Formby",
             "nameDistanceKm": 2.891,
@@ -242,22 +212,22 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2649198,
             "id": "53.5771_-3.0396",
-            "altitude": null
+            "altitude": 4
         },
         {
-            "lat": 53.35208333333333,
-            "lon": -3.131250000000003,
-            "darkness": 0.13417847227865676,
-            "bortle": 7,
+            "lat": 53.38125,
+            "lon": -3.1854166666666703,
+            "darkness": 0.18154220579763902,
             "country": "GB",
-            "near": "Greasby",
-            "name": "Thurstaston",
-            "nameDistanceKm": 0.34,
+            "bortle": 7,
+            "near": "West Kirby",
+            "name": "West Kirby",
+            "nameDistanceKm": 0.919,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2635878,
-            "id": "53.3521_-3.1313",
-            "altitude": null
+            "nameGeoNameId": 2634375,
+            "id": "53.3813_-3.1854",
+            "altitude": 8
         }
     ]
 }

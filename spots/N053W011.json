@@ -1,38 +1,38 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N053W011",
     "spots": [
         {
-            "lat": 53.989583333333336,
-            "lon": -10.189583333333337,
+            "lat": 53.60208333333333,
+            "lon": -10.02291666666667,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "IE",
-            "near": "Dooagh",
-            "name": "Toncroaghaun",
-            "nameDistanceKm": 0.491,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 9805186,
-            "id": "53.9896_-10.1896",
-            "altitude": null
+            "bortle": 1,
+            "near": "Clifden",
+            "name": "Cashleen",
+            "nameDistanceKm": 0.725,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3230348,
+            "id": "53.6021_-10.0229",
+            "altitude": 54
         },
         {
-            "lat": 53.53125,
-            "lon": -10.09791666666667,
+            "lat": 53.44375,
+            "lon": -10.135416666666671,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "IE",
+            "bortle": 1,
             "near": "Clifden",
-            "name": "Barnahllia Lough",
-            "nameDistanceKm": 1.542,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 3315545,
-            "id": "53.5312_-10.0979",
-            "altitude": null
+            "name": "Doonloughan",
+            "nameDistanceKm": 0.656,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3230319,
+            "id": "53.4438_-10.1354",
+            "altitude": 14
         }
     ]
 }

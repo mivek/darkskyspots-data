@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N048E005",
     "spots": [
         {
             "lat": 48.15208333333333,
             "lon": 5.481249999999992,
             "darkness": 0.8877705614126651,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Bourmont",
             "name": "Thol-lès-Millières",
             "nameDistanceKm": 0.66,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2972766,
             "id": "48.1521_5.4812",
-            "altitude": null
+            "altitude": 442
         },
         {
             "lat": 48.26875,
             "lon": 5.37291666666666,
             "darkness": 0.871341232935411,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Rimaucourt",
             "name": "Manois",
             "nameDistanceKm": 1.417,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2996187,
             "id": "48.2687_5.3729",
-            "altitude": null
+            "altitude": 310
         },
         {
             "lat": 48.256249999999994,
             "lon": 5.043749999999992,
             "darkness": 0.8521810801514622,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Froncles",
             "name": "La Genevroye",
             "nameDistanceKm": 2.562,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3009121,
             "id": "48.2562_5.0437",
-            "altitude": null
+            "altitude": 372
         },
         {
             "lat": 48.24791666666666,
             "lon": 5.010416666666659,
             "darkness": 0.8481761264008018,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Colombey-les-Deux-Églises",
             "name": "Forêt de l'Étoile",
             "nameDistanceKm": 1.144,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3019393,
             "id": "48.2479_5.0104",
-            "altitude": null
+            "altitude": 365
         },
         {
             "lat": 48.36458333333333,
             "lon": 5.460416666666658,
             "darkness": 0.8433789582145965,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Grand",
             "name": "Brechainville",
             "nameDistanceKm": 1.709,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030438,
             "id": "48.3646_5.4604",
-            "altitude": null
+            "altitude": 421
         },
         {
             "lat": 48.30624999999999,
             "lon": 5.239583333333325,
             "darkness": 0.8358326066777608,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Bettaincourt-sur-Rognon",
             "name": "Bettaincourt-sur-Rognon",
             "nameDistanceKm": 1.015,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3032983,
             "id": "48.3062_5.2396",
-            "altitude": null
+            "altitude": 223
         },
         {
             "lat": 48.227083333333326,
             "lon": 5.610416666666659,
             "darkness": 0.834699137178159,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Bourmont",
             "name": "Goncourt",
             "nameDistanceKm": 1.212,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3015710,
             "id": "48.2271_5.6104",
-            "altitude": null
+            "altitude": 317
         },
         {
             "lat": 48.168749999999996,
             "lon": 5.268749999999992,
             "darkness": 0.8331905106050805,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Andelot-Blancheville",
             "name": "Bois de Mareilles",
             "nameDistanceKm": 1.657,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2995862,
             "id": "48.1687_5.2687",
-            "altitude": null
+            "altitude": 359
         },
         {
             "lat": 48.00208333333333,
             "lon": 5.2437499999999915,
             "darkness": 0.8145959807993448,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Foulain",
             "name": "Marnay-sur-Marne",
             "nameDistanceKm": 1.004,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2995608,
             "id": "48.0021_5.2437",
-            "altitude": null
+            "altitude": 328
         },
         {
             "lat": 48.50208333333333,
             "lon": 5.4645833333333265,
             "darkness": 0.8024348148599354,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Gondrecourt-le-Château",
             "name": "Horville-en-Ornois",
             "nameDistanceKm": 1.282,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3013144,
             "id": "48.5021_5.4646",
-            "altitude": null
+            "altitude": 380
         },
         {
             "lat": 48.96041666666666,
             "lon": 5.0270833333333265,
             "darkness": 0.798330772209045,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Seuil-d'Argonne",
             "name": "Charmontois-l'Abbé",
             "nameDistanceKm": 1.82,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 8260325,
             "id": "48.9604_5.0271",
-            "altitude": null
+            "altitude": 170
         },
         {
             "lat": 48.506249999999994,
             "lon": 5.24791666666666,
             "darkness": 0.7879763780723957,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Thonnance-lès-Joinville",
             "name": "Paroy-sur-Saulx",
             "nameDistanceKm": 0.946,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2988469,
             "id": "48.5062_5.2479",
-            "altitude": null
+            "altitude": 318
         },
         {
             "lat": 48.63958333333333,
             "lon": 5.414583333333326,
             "darkness": 0.7724654617583147,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Tréveray",
             "name": "Boviolles",
             "nameDistanceKm": 0.934,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030658,
             "id": "48.6396_5.4146",
-            "altitude": null
+            "altitude": 371
         },
         {
             "lat": 48.86458333333333,
             "lon": 5.1937499999999925,
             "darkness": 0.7704742005873599,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Behonne",
             "name": "Les Hauts-de-Chée",
             "nameDistanceKm": 1.994,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3023971,
             "id": "48.8646_5.1937",
-            "altitude": null
+            "altitude": 284
         },
         {
             "lat": 48.77291666666666,
             "lon": 5.364583333333325,
             "darkness": 0.7536534555239904,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Tronville-en-Barrois",
             "name": "Bois de Salmagne",
             "nameDistanceKm": 1.118,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2976355,
             "id": "48.7729_5.3646",
-            "altitude": null
+            "altitude": 373
         },
         {
             "lat": 48.668749999999996,
             "lon": 5.1937499999999925,
             "darkness": 0.7512602173425468,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Haironville",
             "name": "Stainville",
             "nameDistanceKm": 1.885,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2973840,
             "id": "48.6687_5.1937",
-            "altitude": null
+            "altitude": 301
         },
         {
             "lat": 48.63958333333333,
             "lon": 5.518749999999992,
             "darkness": 0.7399039914320049,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Vacon",
             "name": "Bovée-sur-Barboure",
             "nameDistanceKm": 0.718,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030662,
             "id": "48.6396_5.5187",
-            "altitude": null
+            "altitude": 369
         },
         {
             "lat": 48.50208333333333,
             "lon": 5.072916666666659,
             "darkness": 0.7376199008724424,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Rachecourt-sur-Marne",
             "name": "Bois de Maizières",
             "nameDistanceKm": 1.031,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2996541,
             "id": "48.5021_5.0729",
-            "altitude": null
+            "altitude": 264
         },
         {
             "lat": 48.68541666666666,
             "lon": 5.197916666666659,
             "darkness": 0.7375973902398137,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Longeville-en-Barrois",
             "name": "Montplonne",
             "nameDistanceKm": 2.084,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2992135,
             "id": "48.6854_5.1979",
-            "altitude": null
+            "altitude": 305
         },
         {
             "lat": 48.922916666666666,
             "lon": 5.3812499999999925,
             "darkness": 0.7372586943603758,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Lacroix-sur-Meuse",
             "name": "Bois de Pierrefitte",
             "nameDistanceKm": 1.308,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2987280,
             "id": "48.9229_5.3812",
-            "altitude": null
+            "altitude": 326
         },
         {
             "lat": 48.77708333333333,
             "lon": 5.427083333333325,
             "darkness": 0.7364186598597602,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Sampigny",
             "name": "Cousances-aux-Bois",
             "nameDistanceKm": 1.156,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3022854,
             "id": "48.7771_5.4271",
-            "altitude": null
+            "altitude": 294
         },
         {
             "lat": 48.043749999999996,
             "lon": 5.106249999999992,
             "darkness": 0.7335470479732766,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Chamarandes-Choignes",
             "name": "Forêt de Corgebin",
             "nameDistanceKm": 1.17,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3023669,
             "id": "48.0437_5.1062",
-            "altitude": null
+            "altitude": 347
         },
         {
             "lat": 48.852083333333326,
             "lon": 5.427083333333325,
             "darkness": 0.731701523444978,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Sampigny",
             "name": "Forêt des Koeurs",
             "nameDistanceKm": 0.231,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3011432,
             "id": "48.8521_5.4271",
-            "altitude": null
+            "altitude": 336
         },
         {
             "lat": 48.131249999999994,
             "lon": 5.577083333333325,
             "darkness": 0.8827880245504259,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "name": "Levécourt",
             "nameDistanceKm": 1.455,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2998922,
             "id": "48.1312_5.5771",
-            "altitude": null
+            "altitude": 331
         },
         {
             "lat": 48.08958333333333,
             "lon": 5.610416666666659,
             "darkness": 0.8743374598797922,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "name": "Breuvannes-en-Bassigny",
             "nameDistanceKm": 1.248,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030189,
             "id": "48.0896_5.6104",
-            "altitude": null
+            "altitude": 325
         },
         {
             "lat": 48.135416666666664,
             "lon": 5.610416666666659,
             "darkness": 0.8713869419653143,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Breuvannes-en-Bassigny",
             "name": "Malaincourt-sur-Meuse",
             "nameDistanceKm": 2.22,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2996517,
             "id": "48.1354_5.6104",
-            "altitude": null
+            "altitude": 327
         },
         {
             "lat": 48.18124999999999,
             "lon": 5.610416666666659,
             "darkness": 0.8538701603634058,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Bourmont",
             "name": "Brainville-sur-Meuse",
             "nameDistanceKm": 1.798,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030594,
             "id": "48.1812_5.6104",
-            "altitude": null
+            "altitude": 495
         },
         {
             "lat": 48.96041666666666,
             "lon": 5.518749999999992,
             "darkness": 0.6814552358223568,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Lacroix-sur-Meuse",
             "name": "Bannoncourt",
             "nameDistanceKm": 1.397,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3035120,
             "id": "48.9604_5.5187",
-            "altitude": null
+            "altitude": 213
         },
         {
             "lat": 48.27708333333333,
             "lon": 5.610416666666659,
             "darkness": 0.8251688348257007,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Bazoilles-sur-Meuse",
             "name": "Harréville-les-Chanteurs",
             "nameDistanceKm": 2.051,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3013899,
             "id": "48.2771_5.6104",
-            "altitude": null
+            "altitude": 419
         },
         {
             "lat": 48.36458333333333,
             "lon": 5.564583333333326,
             "darkness": 0.8183193919157206,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Liffol-le-Grand",
             "name": "Forêt de Mureau",
             "nameDistanceKm": 0.279,
@@ -452,14 +452,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2991158,
             "id": "48.3646_5.5646",
-            "altitude": null
+            "altitude": 384
         },
         {
             "lat": 48.45625,
             "lon": 5.518749999999992,
             "darkness": 0.8072857566784037,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Gondrecourt-le-Château",
             "name": "Bertheléville",
             "nameDistanceKm": 1.517,
@@ -467,14 +467,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12747081,
             "id": "48.4562_5.5187",
-            "altitude": null
+            "altitude": 364
         },
         {
             "lat": 48.41041666666666,
             "lon": 5.564583333333326,
             "darkness": 0.8005810746762179,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Grand",
             "name": "Chermisey",
             "nameDistanceKm": 0.706,
@@ -482,7 +482,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025438,
             "id": "48.4104_5.5646",
-            "altitude": null
+            "altitude": 416
         }
     ]
 }

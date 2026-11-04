@@ -1,30 +1,30 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N050W002",
     "spots": [
         {
-            "lat": 50.60208333333333,
-            "lon": -1.3437500000000036,
-            "darkness": 0.570671427771364,
-            "bortle": 4,
+            "lat": 50.58541666666667,
+            "lon": -1.2937500000000046,
+            "darkness": 0.5803275556338926,
             "country": "GB",
-            "near": "Chale",
-            "name": "Atherfield Green",
-            "nameDistanceKm": 1.334,
+            "bortle": 4,
+            "near": "Niton",
+            "name": "Niton",
+            "nameDistanceKm": 0.65,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 13276292,
-            "id": "50.6021_-1.3438",
-            "altitude": null
+            "nameGeoNameId": 2641480,
+            "id": "50.5854_-1.2938",
+            "altitude": 123
         },
         {
             "lat": 50.95625,
             "lon": -1.9395833333333368,
             "darkness": 0.5511106148525006,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Sixpenny Handley",
             "name": "Pentridge",
             "nameDistanceKm": 0.983,
@@ -32,14 +32,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2640394,
             "id": "50.9562_-1.9396",
-            "altitude": null
+            "altitude": 165
+        },
+        {
+            "lat": 50.66458333333333,
+            "lon": -1.5604166666666703,
+            "darkness": 0.5188776824435636,
+            "country": "GB",
+            "bortle": 4,
+            "near": "Totland",
+            "name": "Totland Bay",
+            "nameDistanceKm": 1.087,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 8031355,
+            "id": "50.6646_-1.5604",
+            "altitude": 124
         },
         {
             "lat": 50.96458333333333,
             "lon": -1.8020833333333375,
             "darkness": 0.49949916408222517,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Fordingbridge",
             "name": "Outwick",
             "nameDistanceKm": 0.888,
@@ -47,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13279354,
             "id": "50.9646_-1.8021",
-            "altitude": null
+            "altitude": 77
         },
         {
             "lat": 50.69375,
             "lon": -1.5312500000000036,
             "darkness": 0.4906922830535684,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Totland",
             "name": "Colwell",
             "nameDistanceKm": 0.703,
@@ -62,14 +77,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12263373,
             "id": "50.6938_-1.5313",
-            "altitude": null
+            "altitude": 15
+        },
+        {
+            "lat": 50.639583333333334,
+            "lon": -1.9395833333333368,
+            "darkness": 0.4884447828625911,
+            "country": "GB",
+            "bortle": 5,
+            "near": "Swanage",
+            "name": "Glebeland Estate",
+            "nameDistanceKm": 0.838,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 12263414,
+            "id": "50.6396_-1.9396",
+            "altitude": 26
         },
         {
             "lat": 50.64791666666667,
             "lon": -1.1687500000000046,
             "darkness": 0.484002806526623,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Sandown",
             "name": "Sandown",
             "nameDistanceKm": 0.68,
@@ -77,29 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2638568,
             "id": "50.6479_-1.1688",
-            "altitude": null
-        },
-        {
-            "lat": 50.64791666666667,
-            "lon": -1.985416666666671,
-            "darkness": 0.4745726145250534,
-            "bortle": 5,
-            "country": "GB",
-            "near": "Swanage",
-            "name": "Drove Island",
-            "nameDistanceKm": 2.058,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13285803,
-            "id": "50.6479_-1.9854",
-            "altitude": null
+            "altitude": 17
         },
         {
             "lat": 50.83125,
             "lon": -1.6645833333333382,
             "darkness": 0.4212146339188758,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Burley",
             "name": "Burley",
             "nameDistanceKm": 2.498,
@@ -107,14 +122,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2654287,
             "id": "50.8312_-1.6646",
-            "altitude": null
+            "altitude": 38
+        },
+        {
+            "lat": 50.73125,
+            "lon": -1.7604166666666714,
+            "darkness": 0.3479071565303913,
+            "country": "GB",
+            "bortle": 6,
+            "near": "Christchurch",
+            "name": "Mudeford",
+            "nameDistanceKm": 1.218,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 9430066,
+            "id": "50.7313_-1.7604",
+            "altitude": 3
         },
         {
             "lat": 50.83125,
             "lon": -1.5270833333333371,
             "darkness": 0.3455818541583684,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Brockenhurst",
             "name": "Dilton",
             "nameDistanceKm": 2.262,
@@ -122,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13279402,
             "id": "50.8312_-1.5271",
-            "altitude": null
+            "altitude": 35
         },
         {
             "lat": 50.78125,
             "lon": -1.985416666666671,
             "darkness": 0.34402110118450024,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Wimborne Minster",
             "name": "Wimborne Minster",
             "nameDistanceKm": 0.274,
@@ -137,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2633863,
             "id": "50.7812_-1.9854",
-            "altitude": null
+            "altitude": 48
         },
         {
             "lat": 50.96458333333333,
             "lon": -1.5729166666666714,
             "darkness": 0.3409519842066365,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "West Wellow",
             "name": "Blackhill",
             "nameDistanceKm": 0.266,
@@ -152,29 +182,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13279630,
             "id": "50.9646_-1.5729",
-            "altitude": null
+            "altitude": 38
         },
         {
             "lat": 50.73958333333333,
-            "lon": -1.181250000000004,
-            "darkness": 0.3406244413570203,
-            "bortle": 6,
+            "lon": -1.2520833333333368,
+            "darkness": 0.33140432631845007,
             "country": "GB",
-            "near": "Ryde",
-            "name": "Ryde",
-            "nameDistanceKm": 1.719,
+            "bortle": 6,
+            "near": "Wootton",
+            "name": "Whippingham",
+            "nameDistanceKm": 1.187,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2638911,
-            "id": "50.7396_-1.1813",
-            "altitude": null
+            "nameGeoNameId": 2634150,
+            "id": "50.7396_-1.2521",
+            "altitude": 40
         },
         {
             "lat": 50.91875,
             "lon": -1.3020833333333375,
             "darkness": 0.19658507932739977,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Hedge End",
             "name": "Hedge End",
             "nameDistanceKm": 0.719,
@@ -182,7 +212,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 6620360,
             "id": "50.9188_-1.3021",
-            "altitude": null
+            "altitude": 28
         }
     ]
 }

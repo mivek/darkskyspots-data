@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N048E002",
     "spots": [
         {
             "lat": 48.00208333333333,
             "lon": 2.3062499999999915,
             "darkness": 0.5872247361275055,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Nibelle",
             "name": "La Cave",
             "nameDistanceKm": 0.27,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3010555,
             "id": "48.0021_2.3062",
-            "altitude": null
+            "altitude": 155
         },
         {
             "lat": 48.08958333333333,
             "lon": 2.5354166666666593,
             "darkness": 0.5549510496110637,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Corbeilles",
             "name": "Le Petit-Chantegrôle",
             "nameDistanceKm": 0.689,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3002923,
             "id": "48.0896_2.5354",
-            "altitude": null
+            "altitude": 83
         },
         {
             "lat": 48.09374999999999,
             "lon": 2.7645833333333254,
             "darkness": 0.5363083297853438,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Fontenay-sur-Loing",
             "name": "Fontenay-sur-Loing",
             "nameDistanceKm": 1.364,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3017906,
             "id": "48.0937_2.7646",
-            "altitude": null
+            "altitude": 78
         },
         {
             "lat": 48.06041666666666,
             "lon": 2.122916666666659,
             "darkness": 0.5244438890277925,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Chilleurs-aux-Bois",
             "name": "Chilleurs-aux-Bois",
             "nameDistanceKm": 1.605,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025152,
             "id": "48.0604_2.1229",
-            "altitude": null
+            "altitude": 121
         },
         {
             "lat": 48.18124999999999,
             "lon": 2.031249999999992,
             "darkness": 0.5116589387197938,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Bazoches-les-Gallerandes",
             "name": "Gueudreville",
             "nameDistanceKm": 0.974,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3014335,
             "id": "48.1812_2.0312",
-            "altitude": null
+            "altitude": 128
         },
         {
             "lat": 48.227083333333326,
             "lon": 2.9020833333333265,
             "darkness": 0.509176900760816,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Lorrez-le-Bocage-Préaux",
             "name": "Lorrez-le-Bocage-Préaux",
             "nameDistanceKm": 0.712,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2997548,
             "id": "48.2271_2.9021",
-            "altitude": null
+            "altitude": 105
         },
         {
             "lat": 48.18124999999999,
             "lon": 2.3687499999999915,
             "darkness": 0.5014610375593542,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Aulnay-la-Rivière",
             "name": "Ligerville",
             "nameDistanceKm": 0.642,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13192395,
             "id": "48.1812_2.3687",
-            "altitude": null
+            "altitude": 113
         },
         {
             "lat": 48.18124999999999,
             "lon": 2.581249999999992,
             "darkness": 0.499036148470956,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Bougligny",
             "name": "Busseau",
             "nameDistanceKm": 1.108,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3029460,
             "id": "48.1812_2.5812",
-            "altitude": null
+            "altitude": 103
         },
         {
             "lat": 48.135416666666664,
             "lon": 2.3062499999999915,
             "darkness": 0.49571379100048085,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Yèvre-la-Ville",
             "name": "Rougemont",
             "nameDistanceKm": 0.589,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2982590,
             "id": "48.1354_2.3062",
-            "altitude": null
+            "altitude": 114
         },
         {
             "lat": 48.27291666666666,
             "lon": 2.9937499999999915,
             "darkness": 0.4955710731614691,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Voulx",
             "name": "L'Aunoy",
             "nameDistanceKm": 1.08,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3006005,
             "id": "48.2729_2.9937",
-            "altitude": null
+            "altitude": 108
         },
         {
             "lat": 48.039583333333326,
             "lon": 2.677083333333325,
             "darkness": 0.49531657379702954,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Corquilleroy",
             "name": "Le Buzoir",
             "nameDistanceKm": 1.168,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3004895,
             "id": "48.0396_2.6771",
-            "altitude": null
+            "altitude": 93
         },
         {
             "lat": 48.227083333333326,
             "lon": 2.0812499999999927,
             "darkness": 0.4900168524433821,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Outarville",
             "name": "Léouville",
             "nameDistanceKm": 0.61,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3003050,
             "id": "48.2271_2.0812",
-            "altitude": null
+            "altitude": 133
         },
         {
             "lat": 48.27291666666666,
             "lon": 2.3187499999999925,
             "darkness": 0.4365887855350965,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Manchecourt",
             "name": "Viévy",
             "nameDistanceKm": 1.147,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2969163,
             "id": "48.2729_2.3187",
-            "altitude": null
+            "altitude": 136
         },
         {
             "lat": 48.36458333333333,
             "lon": 2.0812499999999927,
             "darkness": 0.39473657760854886,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Guillerval",
             "name": "Chanval",
             "nameDistanceKm": 0.69,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3026814,
             "id": "48.3646_2.0812",
-            "altitude": null
+            "altitude": 146
         },
         {
             "lat": 48.27291666666666,
             "lon": 2.7645833333333254,
             "darkness": 0.39438479462431797,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Nonville",
             "name": "Bois de Darvault",
             "nameDistanceKm": 1.284,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3021707,
             "id": "48.2729_2.7646",
-            "altitude": null
+            "altitude": 136
         },
         {
             "lat": 48.46458333333333,
             "lon": 2.947916666666659,
             "darkness": 0.36159178072340725,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Échouboulains",
             "name": "Échouboulains",
             "nameDistanceKm": 0.209,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3020493,
             "id": "48.4646_2.9479",
-            "altitude": null
+            "altitude": 122
         },
         {
             "lat": 48.36458333333333,
             "lon": 2.3104166666666597,
             "darkness": 0.3485346907735304,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Valpuiseaux",
             "name": "Gandevilliers",
             "nameDistanceKm": 1.343,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3016717,
             "id": "48.3646_2.3104",
-            "altitude": null
+            "altitude": 110
         },
         {
             "lat": 48.45208333333333,
             "lon": 2.9020833333333265,
             "darkness": 0.34715205513705805,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Valence-en-Brie",
             "name": "Échou",
             "nameDistanceKm": 1.205,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3020494,
             "id": "48.4521_2.9021",
-            "altitude": null
+            "altitude": 117
         },
         {
             "lat": 48.36458333333333,
             "lon": 2.718749999999993,
             "darkness": 0.3433811816256873,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Bourron-Marlotte",
             "name": "Marlotte",
             "nameDistanceKm": 2.405,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2995658,
             "id": "48.3646_2.7187",
-            "altitude": null
+            "altitude": 99
         },
         {
             "lat": 48.41041666666666,
             "lon": 2.5229166666666583,
             "darkness": 0.2812346883180523,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Arbonne-la-Forêt",
             "name": "Bois de Turelles",
             "nameDistanceKm": 3.058,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2971464,
             "id": "48.4104_2.5229",
-            "altitude": null
+            "altitude": 94
         },
         {
             "lat": 48.59374999999999,
             "lon": 2.9020833333333265,
             "darkness": 0.249899408048593,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Mormant",
             "name": "Lady",
             "nameDistanceKm": 1.148,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3009603,
             "id": "48.5937_2.9021",
-            "altitude": null
+            "altitude": 116
         },
         {
             "lat": 48.50208333333333,
             "lon": 2.1729166666666586,
             "darkness": 0.19742210045513375,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Étréchy",
             "name": "Chauffour-lès-Étréchy",
             "nameDistanceKm": 0.331,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025959,
             "id": "48.5021_2.1729",
-            "altitude": null
+            "altitude": 149
         },
         {
             "lat": 48.63958333333333,
             "lon": 2.856249999999992,
             "darkness": 0.19658713842457332,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Aubepierre-Ozouer-le-Repos",
             "name": "Beauvoir",
             "nameDistanceKm": 0.767,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3033975,
             "id": "48.6396_2.8562",
-            "altitude": null
+            "altitude": 98
         },
         {
             "lat": 48.822916666666664,
             "lon": 2.947916666666659,
             "darkness": 0.18813864433002503,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Guérard",
             "name": "Montbrieux",
             "nameDistanceKm": 0.28,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12306778,
             "id": "48.8229_2.9479",
-            "altitude": null
+            "altitude": 118
         },
         {
             "lat": 48.50208333333333,
             "lon": 2.718749999999993,
             "darkness": 0.17357654188565297,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Chartrettes",
             "name": "Le Buisson de Massoury",
             "nameDistanceKm": 0.88,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3004914,
             "id": "48.5021_2.7187",
-            "altitude": null
+            "altitude": 90
         },
         {
             "lat": 48.63958333333333,
             "lon": 2.0354166666666593,
             "darkness": 0.1357366750972726,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Pecqueuse",
             "name": "Villevert",
             "nameDistanceKm": 0.82,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2968239,
             "id": "48.6396_2.0354",
-            "altitude": null
+            "altitude": 166
         },
         {
             "lat": 48.50208333333333,
             "lon": 2.4020833333333265,
             "darkness": 0.13430777657356907,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Mondeville",
             "name": "Mondeville",
             "nameDistanceKm": 1.647,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2993359,
             "id": "48.5021_2.4021",
-            "altitude": null
+            "altitude": 142
         },
         {
             "lat": 48.91041666666666,
             "lon": 2.0354166666666593,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Chambourcy",
             "name": "Chambourcy",
             "nameDistanceKm": 0.593,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3027351,
             "id": "48.9104_2.0354",
-            "altitude": null
+            "altitude": 76
         },
         {
             "lat": 48.91041666666666,
             "lon": 2.2645833333333254,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Colombes",
             "name": "Les Vallées",
             "nameDistanceKm": 0.908,
@@ -437,44 +437,44 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12306369,
             "id": "48.9104_2.2646",
-            "altitude": null
+            "altitude": 45
         },
         {
             "lat": 48.91041666666666,
-            "lon": 2.4937499999999915,
+            "lon": 2.4979166666666597,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
-            "near": "Bondy",
-            "name": "Les Merisiers",
-            "nameDistanceKm": 0.536,
+            "bortle": 8,
+            "near": "Les Pavillons-sous-Bois",
+            "name": "La Fourche",
+            "nameDistanceKm": 0.363,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 12306888,
-            "id": "48.9104_2.4937",
-            "altitude": null
+            "nameGeoNameId": 12306896,
+            "id": "48.9104_2.4979",
+            "altitude": 54
         },
         {
             "lat": 48.818749999999994,
-            "lon": 2.677083333333325,
+            "lon": 2.6812499999999915,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Croissy-Beaubourg",
             "name": "Croissy-Beaubourg",
-            "nameDistanceKm": 1.194,
+            "nameDistanceKm": 1.36,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 3022382,
-            "id": "48.8187_2.6771",
-            "altitude": null
+            "id": "48.8187_2.6812",
+            "altitude": 113
         },
         {
             "lat": 48.77291666666666,
             "lon": 2.127083333333325,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Buc",
             "name": "Buc",
             "nameDistanceKm": 0.385,
@@ -482,14 +482,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3029695,
             "id": "48.7729_2.1271",
-            "altitude": null
+            "altitude": 144
         },
         {
             "lat": 48.77291666666666,
             "lon": 2.356249999999992,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Chevilly-Larue",
             "name": "Chevilly-Larue",
             "nameDistanceKm": 1.006,
@@ -497,14 +497,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025314,
             "id": "48.7729_2.3562",
-            "altitude": null
+            "altitude": 90
         },
         {
             "lat": 48.68124999999999,
             "lon": 2.5395833333333258,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Quincy-sous-Sénart",
             "name": "Quincy-sous-Sénart",
             "nameDistanceKm": 1.005,
@@ -512,14 +512,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2984678,
             "id": "48.6812_2.5396",
-            "altitude": null
+            "altitude": 61
         },
         {
             "lat": 48.635416666666664,
             "lon": 2.3104166666666597,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "FR",
+            "bortle": 8,
             "near": "Saint-Michel-sur-Orge",
             "name": "Saint-Michel-sur-Orge",
             "nameDistanceKm": 0.17,
@@ -527,7 +527,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2977952,
             "id": "48.6354_2.3104",
-            "altitude": null
+            "altitude": 71
         }
     ]
 }
