@@ -1,135 +1,135 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N052W004",
     "spots": [
         {
-            "lat": 52.34375,
-            "lon": -3.8312500000000043,
-            "darkness": 0.9238630070380474,
-            "bortle": 2,
+            "lat": 52.30208333333333,
+            "lon": -3.8645833333333375,
+            "darkness": 0.9295551121046621,
             "country": "GB",
+            "bortle": 2,
             "near": "Pontrhydfendigaid",
-            "name": "Pont-rhyd-y-groes",
-            "nameDistanceKm": 1.722,
+            "name": "Ffair-Rhos",
+            "nameDistanceKm": 1.438,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2640117,
-            "id": "52.3438_-3.8313",
-            "altitude": null
+            "nameGeoNameId": 12264526,
+            "id": "52.3021_-3.8646",
+            "altitude": 206
         },
         {
-            "lat": 52.48125,
+            "lat": 52.43958333333333,
             "lon": -3.818750000000003,
-            "darkness": 0.9139901410519211,
-            "bortle": 2,
+            "darkness": 0.9200353613417267,
             "country": "GB",
-            "near": "Machynlleth",
-            "name": "Plynlimon",
-            "nameDistanceKm": 2.893,
-            "nameFeatureCode": "MTS",
+            "bortle": 2,
+            "near": "Bow Street",
+            "name": "Eisteddfa Gurig",
+            "nameDistanceKm": 2.5,
+            "nameFeatureCode": "PASS",
             "nameFeatureClass": "T",
-            "nameGeoNameId": 2640188,
-            "id": "52.4813_-3.8188",
-            "altitude": null
+            "nameGeoNameId": 2650137,
+            "id": "52.4396_-3.8188",
+            "altitude": 516
         },
         {
-            "lat": 52.202083333333334,
-            "lon": -3.818750000000003,
-            "darkness": 0.9041697507919148,
-            "bortle": 2,
+            "lat": 52.15625,
+            "lon": -3.91041666666667,
+            "darkness": 0.905091358986444,
             "country": "GB",
+            "bortle": 2,
             "near": "Tregaron",
-            "name": "Garn Gron",
-            "nameDistanceKm": 3.958,
+            "name": "Bryn Brawd",
+            "nameDistanceKm": 0.816,
             "nameFeatureCode": "MT",
             "nameFeatureClass": "T",
-            "nameGeoNameId": 2647844,
-            "id": "52.2021_-3.8188",
-            "altitude": null
+            "nameGeoNameId": 2654856,
+            "id": "52.1562_-3.9104",
+            "altitude": 461
         },
         {
-            "lat": 52.66458333333333,
-            "lon": -3.8645833333333375,
-            "darkness": 0.8982475366610346,
-            "bortle": 2,
+            "lat": 52.58958333333333,
+            "lon": -3.8562500000000046,
+            "darkness": 0.9036794867361506,
             "country": "GB",
-            "near": "Corris",
-            "name": "Upper Corris",
-            "nameDistanceKm": 0.651,
+            "bortle": 2,
+            "near": "Machynlleth",
+            "name": "Machynlleth",
+            "nameDistanceKm": 0.214,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 7522128,
-            "id": "52.6646_-3.8646",
-            "altitude": null
+            "nameGeoNameId": 2643251,
+            "id": "52.5896_-3.8563",
+            "altitude": 6
         },
         {
-            "lat": 52.35625,
-            "lon": -3.589583333333337,
-            "darkness": 0.8749082950047748,
-            "bortle": 2,
+            "lat": 52.31458333333333,
+            "lon": -3.6354166666666714,
+            "darkness": 0.8846278514613388,
             "country": "GB",
+            "bortle": 2,
             "near": "Rhayader",
             "name": "Craig-yr-allt gôch Reservoir",
-            "nameDistanceKm": 5.311,
+            "nameDistanceKm": 0.272,
             "nameFeatureCode": "RSV",
             "nameFeatureClass": "H",
             "nameGeoNameId": 2652104,
-            "id": "52.3563_-3.5896",
-            "altitude": null
+            "id": "52.3146_-3.6354",
+            "altitude": 409
         },
         {
-            "lat": 52.81458333333333,
+            "lat": 52.75625,
             "lon": -3.91041666666667,
-            "darkness": 0.8626818057532354,
-            "bortle": 2,
+            "darkness": 0.8762770795758097,
             "country": "GB",
+            "bortle": 2,
             "near": "Dolgellau",
-            "name": "Ganllwyd",
-            "nameDistanceKm": 1.688,
+            "name": "Llanelltyd",
+            "nameDistanceKm": 0.528,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 12264465,
-            "id": "52.8146_-3.9104",
-            "altitude": null
+            "nameGeoNameId": 2644099,
+            "id": "52.7563_-3.9104",
+            "altitude": 2
         },
         {
-            "lat": 52.572916666666664,
+            "lat": 52.52708333333333,
             "lon": -3.6354166666666714,
-            "darkness": 0.8556440580148388,
-            "bortle": 2,
+            "darkness": 0.865513278050205,
             "country": "GB",
+            "bortle": 2,
             "near": "Carno",
-            "name": "Bont Dolgadfan",
-            "nameDistanceKm": 1.597,
+            "name": "Staylittle",
+            "nameDistanceKm": 1.521,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 12264543,
-            "id": "52.5729_-3.6354",
-            "altitude": null
+            "nameGeoNameId": 2636985,
+            "id": "52.5271_-3.6354",
+            "altitude": 426
         },
         {
-            "lat": 52.202083333333334,
-            "lon": -3.589583333333337,
-            "darkness": 0.8518142156831228,
-            "bortle": 2,
+            "lat": 52.15625,
+            "lon": -3.681250000000004,
+            "darkness": 0.8613015295998052,
             "country": "GB",
-            "near": "Newbridge on Wye",
-            "name": "Dol-y-mynach Reservoir",
-            "nameDistanceKm": 3.546,
-            "nameFeatureCode": "RSV",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2651141,
-            "id": "52.2021_-3.5896",
-            "altitude": null
+            "bortle": 2,
+            "near": "Llanwrtyd Wells",
+            "name": "Abergwesyn",
+            "nameDistanceKm": 0.649,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2657809,
+            "id": "52.1562_-3.6813",
+            "altitude": 326
         },
         {
             "lat": 52.37708333333333,
             "lon": -3.4979166666666703,
             "darkness": 0.8472148874782228,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Rhayader",
             "name": "Nantgwyn",
             "nameDistanceKm": 0.319,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13283566,
             "id": "52.3771_-3.4979",
-            "altitude": null
+            "altitude": 301
         },
         {
             "lat": 52.66458333333333,
             "lon": -3.681250000000004,
             "darkness": 0.8471416151854965,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Corris",
             "name": "Cwm-Llinau",
             "nameDistanceKm": 1.861,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12261777,
             "id": "52.6646_-3.6813",
-            "altitude": null
+            "altitude": 216
         },
         {
             "lat": 52.89375,
             "lon": -3.97291666666667,
             "darkness": 0.8438717266985012,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Trawsfynydd",
             "name": "Gwynedd",
             "nameDistanceKm": 2.886,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 11612613,
             "id": "52.8937_-3.9729",
-            "altitude": null
+            "altitude": 416
         },
         {
             "lat": 52.110416666666666,
             "lon": -3.681250000000004,
             "darkness": 0.8417329301397951,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Llanwrtyd Wells",
             "name": "Llanwrtyd",
             "nameDistanceKm": 1.214,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2643906,
             "id": "52.1104_-3.6813",
-            "altitude": null
+            "altitude": 396
         },
         {
             "lat": 52.52708333333333,
             "lon": -3.5437500000000046,
             "darkness": 0.8341514833410184,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Carno",
             "name": "Llawr-y-glyn",
             "nameDistanceKm": 2.976,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12264854,
             "id": "52.5271_-3.5438",
-            "altitude": null
+            "altitude": 398
         },
         {
             "lat": 52.80208333333333,
             "lon": -3.7729166666666707,
             "darkness": 0.8306016128742781,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Dolgellau",
             "name": "Rhydymain",
             "nameDistanceKm": 2.345,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9410025,
             "id": "52.8021_-3.7729",
-            "altitude": null
+            "altitude": 442
         },
         {
             "lat": 52.202083333333334,
             "lon": -3.4979166666666703,
             "darkness": 0.830596941509919,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Newbridge on Wye",
             "name": "Llanfihangel-Bryn-Pabuan",
             "nameDistanceKm": 0.272,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644069,
             "id": "52.2021_-3.4979",
-            "altitude": null
+            "altitude": 356
         },
         {
             "lat": 52.29375,
             "lon": -3.3145833333333368,
             "darkness": 0.7904159165914942,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Penybont",
             "name": "Llanddewi Ystradenny",
             "nameDistanceKm": 1.671,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644151,
             "id": "52.2938_-3.3146",
-            "altitude": null
+            "altitude": 226
         },
         {
             "lat": 52.66458333333333,
             "lon": -3.452083333333338,
             "darkness": 0.7686682248889988,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Llanfair Caereinion",
             "name": "Llanerfyl",
             "nameDistanceKm": 1.904,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2644094,
             "id": "52.6646_-3.4521",
-            "altitude": null
+            "altitude": 215
         },
         {
             "lat": 52.15625,
             "lon": -3.28541666666667,
             "darkness": 0.7672925737771359,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Builth Wells",
             "name": "Cregrina",
             "nameDistanceKm": 0.523,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2652017,
             "id": "52.1562_-3.2854",
-            "altitude": null
+            "altitude": 243
         },
         {
             "lat": 52.06458333333333,
             "lon": -3.452083333333338,
             "darkness": 0.763476890090915,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Builth Wells",
             "name": "Upper Chapel",
             "nameDistanceKm": 1.14,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2635139,
             "id": "52.0646_-3.4521",
-            "altitude": null
+            "altitude": 305
         },
         {
             "lat": 52.43541666666667,
             "lon": -3.2687500000000043,
             "darkness": 0.7623807849718183,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Kerry",
             "name": "Crug-y-byddar",
             "nameDistanceKm": 2.662,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13274488,
             "id": "52.4354_-3.2688",
-            "altitude": null
+            "altitude": 334
         },
         {
             "lat": 52.93958333333333,
             "lon": -3.7270833333333364,
             "darkness": 0.7553948296904034,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Bala",
             "name": "Ynys Goediog",
             "nameDistanceKm": 0.554,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 13286003,
             "id": "52.9396_-3.7271",
-            "altitude": null
+            "altitude": 337
         },
         {
             "lat": 52.80208333333333,
             "lon": -3.5437500000000046,
             "darkness": 0.7500200220184466,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Llangynog",
             "name": "Lake Vyrnwy",
             "nameDistanceKm": 2.95,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "H",
             "nameGeoNameId": 2634932,
             "id": "52.8021_-3.5438",
-            "altitude": null
+            "altitude": 499
         },
         {
             "lat": 52.24791666666667,
             "lon": -3.131250000000003,
             "darkness": 0.7395667039556202,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Whitton",
             "name": "Downton",
             "nameDistanceKm": 1.171,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13278579,
             "id": "52.2479_-3.1313",
-            "altitude": null
+            "altitude": 240
         },
         {
             "lat": 52.89375,
             "lon": -3.6354166666666714,
             "darkness": 0.7395564454801399,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Bala",
             "name": "Bala Lake",
             "nameDistanceKm": 1.167,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "H",
             "nameGeoNameId": 2656611,
             "id": "52.8937_-3.6354",
-            "altitude": null
+            "altitude": 269
         },
         {
             "lat": 52.52708333333333,
             "lon": -3.360416666666671,
             "darkness": 0.7385778149079367,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Newtown",
             "name": "Aberhafesp",
             "nameDistanceKm": 1.061,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2657805,
             "id": "52.5271_-3.3604",
-            "altitude": null
+            "altitude": 157
         },
         {
             "lat": 52.110416666666666,
             "lon": -3.22291666666667,
             "darkness": 0.7368141312311425,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Clyro",
             "name": "Painscastle",
             "nameDistanceKm": 0.397,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2640679,
             "id": "52.1104_-3.2229",
-            "altitude": null
+            "altitude": 280
         },
         {
             "lat": 52.71041666666667,
             "lon": -3.4062500000000036,
             "darkness": 0.7346916980038669,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Llanfair Caereinion",
             "name": "Dolanog",
             "nameDistanceKm": 1.566,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2651161,
             "id": "52.7104_-3.4063",
-            "altitude": null
+            "altitude": 186
         },
         {
             "lat": 52.43541666666667,
             "lon": -3.1770833333333375,
             "darkness": 0.7317898543803351,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Mainstone",
             "name": "Bettws y Crwyn",
             "nameDistanceKm": 0.743,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2655792,
             "id": "52.4354_-3.1771",
-            "altitude": null
+            "altitude": 390
         },
         {
             "lat": 52.01875,
             "lon": -3.4062500000000036,
             "darkness": 0.7212898095645457,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Brecon",
             "name": "Lower Chapel",
             "nameDistanceKm": 1.075,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2643531,
             "id": "52.0187_-3.4063",
-            "altitude": null
+            "altitude": 340
         },
         {
             "lat": 52.572916666666664,
             "lon": -3.131250000000003,
             "darkness": 0.6709472505812888,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Montgomery",
             "name": "Montgomery",
             "nameDistanceKm": 1.634,
@@ -452,14 +452,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2642304,
             "id": "52.5729_-3.1313",
-            "altitude": null
+            "altitude": 106
         },
         {
             "lat": 52.84791666666666,
             "lon": -3.4062500000000036,
             "darkness": 0.6685280362595885,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Llangynog",
             "name": "Llangynog",
             "nameDistanceKm": 1.675,
@@ -467,14 +467,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2643997,
             "id": "52.8479_-3.4063",
-            "altitude": null
+            "altitude": 601
         },
         {
             "lat": 52.72708333333333,
             "lon": -3.1770833333333375,
             "darkness": 0.6272515839030182,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Guilsfield",
             "name": "Trefnanney",
             "nameDistanceKm": 0.593,
@@ -482,14 +482,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13276974,
             "id": "52.7271_-3.1771",
-            "altitude": null
+            "altitude": 98
         },
         {
             "lat": 52.985416666666666,
             "lon": -3.452083333333338,
             "darkness": 0.6044070342702739,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Cynwyd",
             "name": "Maerdy",
             "nameDistanceKm": 1.17,
@@ -497,14 +497,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12263656,
             "id": "52.9854_-3.4521",
-            "altitude": null
+            "altitude": 175
         },
         {
             "lat": 52.89375,
             "lon": -3.1770833333333375,
             "darkness": 0.524022453518764,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Llangollen",
             "name": "Rhiwlas",
             "nameDistanceKm": 1.816,
@@ -512,14 +512,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13276906,
             "id": "52.8937_-3.1771",
-            "altitude": null
+            "altitude": 426
         },
         {
             "lat": 52.84791666666666,
             "lon": -3.0854166666666707,
             "darkness": 0.4950322484371664,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Trefonen",
             "name": "Coed y Go",
             "nameDistanceKm": 0.807,
@@ -527,14 +527,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13265878,
             "id": "52.8479_-3.0854",
-            "altitude": null
+            "altitude": 144
         },
         {
             "lat": 52.985416666666666,
             "lon": -3.0854166666666707,
             "darkness": 0.3783401797785636,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Ruabon",
             "name": "Pen-y-cae",
             "nameDistanceKm": 0.271,
@@ -542,7 +542,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2640386,
             "id": "52.9854_-3.0854",
-            "altitude": null
+            "altitude": 161
         }
     ]
 }

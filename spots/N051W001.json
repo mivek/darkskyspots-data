@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N051W001",
     "spots": [
         {
             "lat": 51.06041666666667,
             "lon": -0.6562500000000036,
             "darkness": 0.3580067767125781,
-            "bortle": 5,
             "country": "GB",
+            "bortle": 5,
             "near": "Fernhurst",
             "name": "North Chapel",
             "nameDistanceKm": 0.968,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2641397,
             "id": "51.0604_-0.6563",
-            "altitude": null
+            "altitude": 80
         },
         {
             "lat": 51.014583333333334,
             "lon": -0.47291666666667,
             "darkness": 0.34827157741620285,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Billingshurst",
             "name": "Billingshurst",
             "nameDistanceKm": 1.652,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2655662,
             "id": "51.0146_-0.4729",
-            "altitude": null
+            "altitude": 22
         },
         {
             "lat": 51.10625,
             "lon": -0.7937500000000046,
             "darkness": 0.33966652348180904,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Grayshott",
             "name": "Bramshott",
             "nameDistanceKm": 1.876,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2654909,
             "id": "51.1063_-0.7938",
-            "altitude": null
+            "altitude": 154
         },
         {
             "lat": 51.697916666666664,
             "lon": -0.9770833333333382,
             "darkness": 0.28940473276695977,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Tetsworth",
             "name": "Postcombe",
             "nameDistanceKm": 0.829,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9072604,
             "id": "51.6979_-0.9771",
-            "altitude": null
+            "altitude": 105
         },
         {
             "lat": 51.90625,
             "lon": -0.8395833333333371,
             "darkness": 0.25863328761913185,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "North Marston",
             "name": "Hoggeston",
             "nameDistanceKm": 1.612,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2646794,
             "id": "51.9062_-0.8396",
-            "altitude": null
+            "altitude": 129
         },
         {
             "lat": 51.15208333333333,
             "lon": -0.5645833333333368,
             "darkness": 0.2550782602740892,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Bramley",
             "name": "Hascombe",
             "nameDistanceKm": 0.618,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2647375,
             "id": "51.1521_-0.5646",
-            "altitude": null
+            "altitude": 136
         },
         {
             "lat": 51.24375,
             "lon": -0.8854166666666714,
             "darkness": 0.24135614776212844,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Crondall",
             "name": "Mill Lane",
             "nameDistanceKm": 0.738,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12266435,
             "id": "51.2437_-0.8854",
-            "altitude": null
+            "altitude": 90
         },
         {
             "lat": 51.06041666666667,
             "lon": -0.2437500000000039,
             "darkness": 0.22134519008429887,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Handcross",
             "name": "Saint Leonards Forest",
             "nameDistanceKm": 0.821,
@@ -122,29 +122,29 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2638755,
             "id": "51.0604_-0.2438",
-            "altitude": null
+            "altitude": 86
         },
         {
-            "lat": 51.56041666666667,
+            "lat": 51.55625,
             "lon": -0.8854166666666714,
-            "darkness": 0.2036062383866969,
-            "bortle": 6,
+            "darkness": 0.20185331750283164,
             "country": "GB",
+            "bortle": 6,
             "near": "Remenham",
-            "name": "Greenlands",
-            "nameDistanceKm": 0.397,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13265747,
-            "id": "51.5604_-0.8854",
-            "altitude": null
+            "name": "Temple Island",
+            "nameDistanceKm": 0.256,
+            "nameFeatureCode": "ISL",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 13284363,
+            "id": "51.5562_-0.8854",
+            "altitude": 31
         },
         {
             "lat": 51.735416666666666,
             "lon": -0.7479166666666703,
             "darkness": 0.1989429555194121,
-            "bortle": 6,
             "country": "GB",
+            "bortle": 6,
             "near": "Wendover",
             "name": "Dunsmore",
             "nameDistanceKm": 0.524,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12262382,
             "id": "51.7354_-0.7479",
-            "altitude": null
+            "altitude": 228
         },
         {
             "lat": 51.15208333333333,
             "lon": -0.3354166666666707,
             "darkness": 0.1973466000249151,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Capel",
             "name": "Capel",
             "nameDistanceKm": 0.866,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2653855,
             "id": "51.1521_-0.3354",
-            "altitude": null
+            "altitude": 97
         },
         {
             "lat": 51.74791666666667,
             "lon": -0.7479166666666703,
             "darkness": 0.1972669941976284,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Wendover",
             "name": "Dunsmore",
             "nameDistanceKm": 1.04,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12262382,
             "id": "51.7479_-0.7479",
-            "altitude": null
+            "altitude": 181
         },
         {
             "lat": 51.197916666666664,
             "lon": -0.5645833333333368,
             "darkness": 0.19398108056887586,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Bramley",
             "name": "Bramley",
             "nameDistanceKm": 0.53,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2654924,
             "id": "51.1979_-0.5646",
-            "altitude": null
+            "altitude": 45
         },
         {
             "lat": 51.93125,
             "lon": -0.7020833333333378,
             "darkness": 0.18799688560489358,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Stoke Hammond",
             "name": "Chelmscote",
             "nameDistanceKm": 0.765,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 7874409,
             "id": "51.9312_-0.7021",
-            "altitude": null
+            "altitude": 102
         },
         {
             "lat": 51.60625,
             "lon": -0.8395833333333371,
             "darkness": 0.18649104783214931,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Frieth",
             "name": "Moor End",
             "nameDistanceKm": 0.357,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13279276,
             "id": "51.6063_-0.8396",
-            "altitude": null
+            "altitude": 147
         },
         {
             "lat": 51.24375,
             "lon": -0.7937500000000046,
             "darkness": 0.18447238521883147,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Hale",
             "name": "Upper Hale",
             "nameDistanceKm": 1.067,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2635128,
             "id": "51.2437_-0.7938",
-            "altitude": null
+            "altitude": 134
         },
         {
             "lat": 51.38125,
             "lon": -0.9770833333333382,
             "darkness": 0.1833759295130517,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Swallowfield",
             "name": "Swallowfield",
             "nameDistanceKm": 1.351,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2636448,
             "id": "51.3813_-0.9771",
-            "altitude": null
+            "altitude": 59
         },
         {
             "lat": 51.92708333333333,
             "lon": -0.20208333333333783,
             "darkness": 0.15641809772863757,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Little Wymondley",
             "name": "Rooks Nest",
             "nameDistanceKm": 0.751,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13282385,
             "id": "51.9271_-0.2021",
-            "altitude": null
+            "altitude": 115
         },
         {
             "lat": 51.10625,
             "lon": -0.11041666666667105,
             "darkness": 0.148765876798591,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Turners Hill",
             "name": "Rowfant",
             "nameDistanceKm": 1.282,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13265707,
             "id": "51.1063_-0.1104",
-            "altitude": null
+            "altitude": 143
         },
         {
             "lat": 51.822916666666664,
             "lon": -0.5187500000000043,
             "darkness": 0.12854109746654907,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Little Gaddesden",
             "name": "Studham",
             "nameDistanceKm": 0.939,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2636598,
             "id": "51.8229_-0.5188",
-            "altitude": null
+            "altitude": 185
         },
         {
             "lat": 51.46875,
             "lon": -0.7937500000000046,
             "darkness": 0.11143864611998322,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Waltham St Lawrence",
             "name": "Beenham's Heath",
             "nameDistanceKm": 0.671,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13279344,
             "id": "51.4688_-0.7938",
-            "altitude": null
+            "altitude": 39
         },
         {
             "lat": 51.33541666666667,
             "lon": -0.610416666666671,
             "darkness": 0.08182720330078841,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Chobham",
             "name": "Castle Green",
             "nameDistanceKm": 0.353,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12266379,
             "id": "51.3354_-0.6104",
-            "altitude": null
+            "altitude": 27
         },
         {
             "lat": 51.24375,
             "lon": -0.11041666666667105,
             "darkness": 0.06955600080629876,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Bletchingley",
             "name": "Bletchingley",
             "nameDistanceKm": 0.782,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2655352,
             "id": "51.2437_-0.1104",
-            "altitude": null
+            "altitude": 150
         },
         {
             "lat": 51.78958333333333,
             "lon": -0.1812500000000039,
             "darkness": 0.06004970776207719,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Welwyn Garden City",
             "name": "Hatfield Hyde",
             "nameDistanceKm": 1.055,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 11550609,
             "id": "51.7896_-0.1813",
-            "altitude": null
+            "altitude": 75
         },
         {
             "lat": 51.28958333333333,
             "lon": -0.3812500000000032,
             "darkness": 0.0563730462143075,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Little Bookham",
             "name": "Isle of Wight",
             "nameDistanceKm": 0.771,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13282787,
             "id": "51.2896_-0.3813",
-            "altitude": null
+            "altitude": 47
         },
         {
             "lat": 51.65208333333333,
             "lon": -0.5645833333333368,
             "darkness": 0.05325789234889189,
-            "bortle": 7,
             "country": "GB",
+            "bortle": 7,
             "near": "Little Chalfont",
             "name": "Little Chalfont",
             "nameDistanceKm": 1.846,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 6690591,
             "id": "51.6521_-0.5646",
-            "altitude": null
+            "altitude": 156
         },
         {
             "lat": 51.697916666666664,
             "lon": -0.3812500000000032,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Garston",
             "name": "Garston",
             "nameDistanceKm": 1.377,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2648828,
             "id": "51.6979_-0.3813",
-            "altitude": null
+            "altitude": 73
         },
         {
             "lat": 51.697916666666664,
             "lon": -0.15208333333333712,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Northaw",
             "name": "Northaw",
             "nameDistanceKm": 0.677,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2641427,
             "id": "51.6979_-0.1521",
-            "altitude": null
+            "altitude": 105
         },
         {
             "lat": 51.56041666666667,
             "lon": -0.5645833333333368,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Wexham Street",
             "name": "Fulmer",
             "nameDistanceKm": 0.339,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2648992,
             "id": "51.5604_-0.5646",
-            "altitude": null
+            "altitude": 78
         },
         {
             "lat": 51.56041666666667,
             "lon": -0.3354166666666707,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Sudbury",
             "name": "Sudbury",
             "nameDistanceKm": 1.0,
@@ -452,14 +452,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2636565,
             "id": "51.5604_-0.3354",
-            "altitude": null
+            "altitude": 62
         },
         {
             "lat": 51.56041666666667,
             "lon": -0.10625000000000462,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Highbury",
             "name": "Finsbury Park",
             "nameDistanceKm": 0.988,
@@ -467,14 +467,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 6690588,
             "id": "51.5604_-0.1063",
-            "altitude": null
+            "altitude": 35
         },
         {
             "lat": 51.422916666666666,
             "lon": -0.5187500000000043,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Staines",
             "name": "Egham Hythe",
             "nameDistanceKm": 0.449,
@@ -482,14 +482,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 10376317,
             "id": "51.4229_-0.5188",
-            "altitude": null
+            "altitude": 14
         },
         {
             "lat": 51.422916666666666,
             "lon": -0.2895833333333382,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "GB",
+            "bortle": 8,
             "near": "Kingston upon Thames",
             "name": "Richmond and Kingston",
             "nameDistanceKm": 0.661,
@@ -497,7 +497,7 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 13100072,
             "id": "51.4229_-0.2896",
-            "altitude": null
+            "altitude": 11
         }
     ]
 }

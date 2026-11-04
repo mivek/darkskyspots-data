@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N042E001",
     "spots": [
         {
             "lat": 42.914583333333326,
             "lon": 1.322916666666659,
             "darkness": 0.8517982909711533,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Massat",
             "name": "Biert",
             "nameDistanceKm": 1.874,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3032716,
             "id": "42.9146_1.3229",
-            "altitude": null
+            "altitude": 1023
         },
         {
             "lat": 42.90208333333333,
             "lon": 1.2062499999999927,
             "darkness": 0.8474162702731692,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Oust",
             "name": "Soueix-Rogalle",
             "nameDistanceKm": 0.88,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2974093,
             "id": "42.9021_1.2062",
-            "altitude": null
+            "altitude": 546
         },
         {
             "lat": 42.92708333333333,
             "lon": 1.3937499999999927,
             "darkness": 0.8378129286071339,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Massat",
             "name": "Cap du Carmil",
             "nameDistanceKm": 1.717,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 12573847,
             "id": "42.9271_1.3937",
-            "altitude": null
+            "altitude": 1078
         },
         {
             "lat": 42.96458333333333,
             "lon": 1.9645833333333256,
             "darkness": 0.8203971797338394,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Chalabre",
             "name": "Sainte-Colombe-sur-l'Hers",
             "nameDistanceKm": 1.372,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2980671,
             "id": "42.9646_1.9646",
-            "altitude": null
+            "altitude": 440
         },
         {
             "lat": 42.947916666666664,
             "lon": 1.7520833333333252,
             "darkness": 0.7965531118648167,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Montferrier",
             "name": "Roc Marot",
             "nameDistanceKm": 1.331,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 9653610,
             "id": "42.9479_1.7521",
-            "altitude": null
+            "altitude": 835
         },
         {
             "lat": 42.93958333333333,
             "lon": 1.656249999999992,
             "darkness": 0.7398801713993476,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Montgaillard",
             "name": "Roc Nègre",
             "nameDistanceKm": 1.29,
@@ -92,7 +92,7 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 12746873,
             "id": "42.9396_1.6562",
-            "altitude": null
+            "altitude": 634
         }
     ]
 }

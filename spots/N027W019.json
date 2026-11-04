@@ -1,23 +1,23 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/canaries",
-    "generated": "2026-09-30T13:28:24Z",
-    "version": "2025.8",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N027W019",
     "spots": [
         {
-            "lat": 27.743750000000002,
-            "lon": -18.13541666666668,
+            "lat": 27.760416666666668,
+            "lon": -18.14375000000001,
             "darkness": 1.0,
-            "bortle": 1,
             "country": "ES",
+            "bortle": 1,
             "near": "Frontera",
             "name": "La Punta",
-            "nameDistanceKm": 0.725,
+            "nameDistanceKm": 1.547,
             "nameFeatureCode": "HDLD",
             "nameFeatureClass": "T",
             "nameGeoNameId": 2515615,
-            "id": "27.7438_-18.1354",
-            "altitude": null
+            "id": "27.7604_-18.1438",
+            "altitude": 36
         }
     ]
 }

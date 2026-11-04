@@ -1,0 +1,38 @@
+{
+    "version": "2025.9",
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-11-03T00:00:00Z",
+    "tile": "N049W006",
+    "spots": [
+        {
+            "lat": 49.96458333333333,
+            "lon": -5.202083333333338,
+            "darkness": 1.0,
+            "country": "GB",
+            "bortle": 1,
+            "near": "Lizard",
+            "name": "Housel Bay",
+            "nameDistanceKm": 0.368,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 13265475,
+            "id": "49.9646_-5.2021",
+            "altitude": 60
+        },
+        {
+            "lat": 49.99375,
+            "lon": -5.243750000000004,
+            "darkness": 0.9670439880333093,
+            "country": "GB",
+            "bortle": 2,
+            "near": "Mullion",
+            "name": "Predannack Head",
+            "nameDistanceKm": 0.826,
+            "nameFeatureCode": "HDLD",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 2639936,
+            "id": "49.9937_-5.2438",
+            "altitude": 77
+        }
+    ]
+}

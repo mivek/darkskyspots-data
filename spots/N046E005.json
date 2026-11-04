@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N046E005",
     "spots": [
         {
             "lat": 46.93541666666666,
             "lon": 5.722916666666659,
             "darkness": 0.7509145094804859,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Arbois",
             "name": "Vadans",
             "nameDistanceKm": 1.595,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2971201,
             "id": "46.9354_5.7229",
-            "altitude": null
+            "altitude": 312
         },
         {
             "lat": 46.793749999999996,
             "lon": 5.285416666666659,
             "darkness": 0.7495305863539978,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Saint-Germain-du-Bois",
             "name": "Montjay",
             "nameDistanceKm": 2.591,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2992360,
             "id": "46.7937_5.2854",
-            "altitude": null
+            "altitude": 199
         },
         {
             "lat": 46.77291666666666,
             "lon": 5.735416666666659,
             "darkness": 0.7478753062154493,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Crotenay",
             "name": "Le Fied",
             "nameDistanceKm": 1.52,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3004241,
             "id": "46.7729_5.7354",
-            "altitude": null
+            "altitude": 539
         },
         {
             "lat": 46.83958333333333,
             "lon": 5.472916666666659,
             "darkness": 0.7440260038231931,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Commenailles",
             "name": "Chaumergy",
             "nameDistanceKm": 0.837,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025914,
             "id": "46.8396_5.4729",
-            "altitude": null
+            "altitude": 230
         },
         {
             "lat": 46.852083333333326,
             "lon": 5.3812499999999925,
             "darkness": 0.7399932083409556,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Chapelle-Voland",
             "name": "Mouthier-en-Bresse",
             "nameDistanceKm": 0.966,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2991332,
             "id": "46.8521_5.3812",
-            "altitude": null
+            "altitude": 190
         },
         {
             "lat": 46.756249999999994,
             "lon": 5.739583333333325,
             "darkness": 0.7391135726491773,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Crotenay",
             "name": "Picarreau",
             "nameDistanceKm": 0.407,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2987372,
             "id": "46.7562_5.7396",
-            "altitude": null
+            "altitude": 538
         },
         {
             "lat": 46.89791666666666,
             "lon": 5.606249999999992,
             "darkness": 0.7388534927618935,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Sellières",
             "name": "Neuvilley",
             "nameDistanceKm": 0.925,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2990506,
             "id": "46.8979_5.6062",
-            "altitude": null
+            "altitude": 225
         },
         {
             "lat": 46.71041666666666,
             "lon": 5.281249999999993,
             "darkness": 0.7325045456827005,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Usuge",
             "name": "Montcony",
             "nameDistanceKm": 1.438,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2992805,
             "id": "46.7104_5.2812",
-            "altitude": null
+            "altitude": 181
         },
         {
             "lat": 46.57708333333333,
             "lon": 5.3812499999999925,
             "darkness": 0.7061567967271873,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Beaufort",
             "name": "Flacey-en-Bresse",
             "nameDistanceKm": 2.796,
@@ -137,29 +137,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3018432,
             "id": "46.5771_5.3812",
-            "altitude": null
+            "altitude": 207
         },
         {
-            "lat": 46.56041666666666,
-            "lon": 5.168749999999992,
-            "darkness": 0.7054209674281942,
-            "bortle": 4,
+            "lat": 46.56458333333333,
+            "lon": 5.164583333333326,
+            "darkness": 0.7053830512690231,
             "country": "FR",
+            "bortle": 4,
             "near": "Montpont-en-Bresse",
             "name": "Montpont-en-Bresse",
-            "nameDistanceKm": 0.557,
+            "nameDistanceKm": 0.921,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 2992131,
-            "id": "46.5604_5.1687",
-            "altitude": null
+            "id": "46.5646_5.1646",
+            "altitude": 202
         },
         {
             "lat": 46.89791666666666,
             "lon": 5.177083333333325,
             "darkness": 0.7018544712699699,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Pierre-de-Bresse",
             "name": "Étang du Milieu",
             "nameDistanceKm": 2.052,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "H",
             "nameGeoNameId": 2993887,
             "id": "46.8979_5.1771",
-            "altitude": null
+            "altitude": 178
         },
         {
             "lat": 46.59791666666666,
             "lon": 5.752083333333326,
             "darkness": 0.6972687487647773,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Clairvaux-les-Lacs",
             "name": "Vertamboz",
             "nameDistanceKm": 0.896,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2969645,
             "id": "46.5979_5.7521",
-            "altitude": null
+            "altitude": 533
         },
         {
             "lat": 46.46041666666666,
             "lon": 5.489583333333325,
             "darkness": 0.681087134146444,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Cuiseaux",
             "name": "Monnetay",
             "nameDistanceKm": 1.999,
@@ -197,29 +197,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2993251,
             "id": "46.4604_5.4896",
-            "altitude": null
+            "altitude": 491
         },
         {
-            "lat": 46.67708333333333,
+            "lat": 46.71458333333333,
             "lon": 5.0562499999999915,
-            "darkness": 0.6733618835123171,
-            "bortle": 4,
+            "darkness": 0.666454322504894,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Étienne-en-Bresse",
-            "name": "Saint-Vincent-en-Bresse",
-            "nameDistanceKm": 1.268,
+            "name": "Saint-Étienne-en-Bresse",
+            "nameDistanceKm": 1.017,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2976596,
-            "id": "46.6771_5.0562",
-            "altitude": null
+            "nameGeoNameId": 2980232,
+            "id": "46.7146_5.0562",
+            "altitude": 193
         },
         {
             "lat": 46.43541666666666,
             "lon": 5.285416666666659,
             "darkness": 0.658145687057814,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Beaupont",
             "name": "Domsure",
             "nameDistanceKm": 2.166,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3021108,
             "id": "46.4354_5.2854",
-            "altitude": null
+            "altitude": 212
         },
         {
             "lat": 46.98958333333333,
             "lon": 5.335416666666658,
             "darkness": 0.6515819583520742,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Longwy-sur-le-Doubs",
             "name": "Chemin",
             "nameDistanceKm": 1.885,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025594,
             "id": "46.9896_5.3354",
-            "altitude": null
+            "altitude": 185
         },
         {
             "lat": 46.43541666666666,
             "lon": 5.0562499999999915,
             "darkness": 0.6293381750169749,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Trivier-de-Courtes",
             "name": "Les Vernettes",
             "nameDistanceKm": 0.125,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12277308,
             "id": "46.4354_5.0562",
-            "altitude": null
+            "altitude": 202
         },
         {
             "lat": 46.43541666666666,
             "lon": 5.702083333333325,
             "darkness": 0.6069861648378423,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Moirans-en-Montagne",
             "name": "Moirans-en-Montagne",
             "nameDistanceKm": 1.874,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2993604,
             "id": "46.4354_5.7021",
-            "altitude": null
+            "altitude": 572
         },
         {
             "lat": 46.672916666666666,
             "lon": 5.5562499999999915,
             "darkness": 0.6012905985062957,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Lons-le-Saunier",
             "name": "Lons-le-Saunier",
             "nameDistanceKm": 0.273,
@@ -287,29 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2997626,
             "id": "46.6729_5.5562",
-            "altitude": null
-        },
-        {
-            "lat": 46.822916666666664,
-            "lon": 5.010416666666659,
-            "darkness": 0.5851739088006649,
-            "bortle": 4,
-            "country": "FR",
-            "near": "Damerey",
-            "name": "Damerey",
-            "nameDistanceKm": 1.971,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3021867,
-            "id": "46.8229_5.0104",
-            "altitude": null
+            "altitude": 261
         },
         {
             "lat": 46.297916666666666,
             "lon": 5.4312499999999915,
             "darkness": 0.5839450643314774,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Cuisiat",
             "name": "Mont Nivigne",
             "nameDistanceKm": 1.652,
@@ -317,14 +302,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2990332,
             "id": "46.2979_5.4312",
-            "altitude": null
+            "altitude": 327
         },
         {
             "lat": 46.297916666666666,
             "lon": 5.047916666666659,
             "darkness": 0.5465705774001213,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Confrançon",
             "name": "Saint-Didier-d'Aussiat",
             "nameDistanceKm": 1.314,
@@ -332,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2980846,
             "id": "46.2979_5.0479",
-            "altitude": null
+            "altitude": 213
         },
         {
             "lat": 46.02708333333333,
             "lon": 5.606249999999992,
             "darkness": 0.539317362909594,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Hauteville-Lompnes",
             "name": "Champdor",
             "nameDistanceKm": 1.438,
@@ -347,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3027186,
             "id": "46.0271_5.6062",
-            "altitude": null
+            "altitude": 891
         },
         {
             "lat": 46.297916666666666,
             "lon": 5.772916666666658,
             "darkness": 0.5177803957503794,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Viry",
             "name": "Choux",
             "nameDistanceKm": 0.836,
@@ -362,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025011,
             "id": "46.2979_5.7729",
-            "altitude": null
+            "altitude": 826
         },
         {
             "lat": 46.15624999999999,
             "lon": 5.43541666666666,
             "darkness": 0.5126493877703515,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Hautecourt-Romanèche",
             "name": "Serrières-sur-Ain",
             "nameDistanceKm": 1.298,
@@ -377,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2974803,
             "id": "46.1562_5.4354",
-            "altitude": null
+            "altitude": 431
         },
         {
             "lat": 46.164583333333326,
             "lon": 5.697916666666659,
             "darkness": 0.5066995546606219,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Germain-de-Joux",
             "name": "Lalleyriat",
             "nameDistanceKm": 1.678,
@@ -392,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3008454,
             "id": "46.1646_5.6979",
-            "altitude": null
+            "altitude": 625
         },
         {
             "lat": 46.20625,
             "lon": 5.377083333333326,
             "darkness": 0.49846390276541375,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Villereversure",
             "name": "Montagne de Valuisant",
             "nameDistanceKm": 0.513,
@@ -407,14 +392,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 11185825,
             "id": "46.2062_5.3771",
-            "altitude": null
+            "altitude": 402
         },
         {
             "lat": 46.11874999999999,
             "lon": 5.7562499999999925,
             "darkness": 0.49311661584348176,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Châtillon-en-Michaille",
             "name": "Vouvray",
             "nameDistanceKm": 2.009,
@@ -422,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2967613,
             "id": "46.1187_5.7562",
-            "altitude": null
+            "altitude": 1111
         },
         {
             "lat": 46.06041666666666,
             "lon": 5.422916666666659,
             "darkness": 0.48978444737364946,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Jujurieux",
             "name": "Chaux",
             "nameDistanceKm": 1.358,
@@ -437,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12277402,
             "id": "46.0604_5.4229",
-            "altitude": null
+            "altitude": 334
         },
         {
             "lat": 46.297916666666666,
             "lon": 5.610416666666659,
             "darkness": 0.4875873460004938,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Dortan",
             "name": "Coisia",
             "nameDistanceKm": 2.444,
@@ -452,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3024379,
             "id": "46.2979_5.6104",
-            "altitude": null
+            "altitude": 666
         },
         {
             "lat": 46.12708333333333,
             "lon": 5.1520833333333265,
             "darkness": 0.4668297798728347,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Servas",
             "name": "Servas",
             "nameDistanceKm": 1.21,
@@ -467,7 +452,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2974782,
             "id": "46.1271_5.1521",
-            "altitude": null
+            "altitude": 267
         }
     ]
 }

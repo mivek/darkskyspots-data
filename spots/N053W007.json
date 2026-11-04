@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N053W007",
     "spots": [
         {
             "lat": 53.83541666666667,
             "lon": -6.8437500000000036,
             "darkness": 0.6521428390867854,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Mullagh",
             "name": "Kilmainham Wood",
             "nameDistanceKm": 2.789,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2963279,
             "id": "53.8354_-6.8438",
-            "altitude": null
+            "altitude": 157
         },
         {
             "lat": 53.68125,
             "lon": -6.981250000000005,
             "darkness": 0.6424990836206971,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Clonmellon",
             "name": "Johnstown",
             "nameDistanceKm": 0.629,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9866715,
             "id": "53.6812_-6.9813",
-            "altitude": null
+            "altitude": 87
         },
         {
             "lat": 53.91875,
             "lon": -6.6145833333333375,
             "darkness": 0.594125496192378,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Tallanstown",
             "name": "Reaghstown",
             "nameDistanceKm": 0.884,
@@ -47,29 +47,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2961863,
             "id": "53.9188_-6.6146",
-            "altitude": null
+            "altitude": 33
         },
         {
-            "lat": 53.864583333333336,
-            "lon": -6.252083333333337,
-            "darkness": 0.5676704744882849,
-            "bortle": 4,
+            "lat": 53.860416666666666,
+            "lon": -6.243750000000004,
+            "darkness": 0.5705590054838718,
             "country": "IE",
+            "bortle": 4,
             "near": "Clogherhead",
             "name": "Roadstown",
-            "nameDistanceKm": 0.667,
+            "nameDistanceKm": 0.643,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 3316432,
-            "id": "53.8646_-6.2521",
-            "altitude": null
+            "id": "53.8604_-6.2438",
+            "altitude": 18
         },
         {
             "lat": 53.06041666666667,
             "lon": -6.93541666666667,
             "darkness": 0.560541944457133,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Suncroft",
             "name": "Loughabor",
             "nameDistanceKm": 0.8,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3314378,
             "id": "53.0604_-6.9354",
-            "altitude": null
+            "altitude": 67
         },
         {
             "lat": 53.03125,
             "lon": -6.706250000000004,
             "darkness": 0.5359243714951111,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Dunlavin",
             "name": "Ballylaffin",
             "nameDistanceKm": 0.462,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3314292,
             "id": "53.0312_-6.7063",
-            "altitude": null
+            "altitude": 180
         },
         {
             "lat": 53.760416666666664,
             "lon": -6.6145833333333375,
             "darkness": 0.5255959294127511,
-            "bortle": 4,
             "country": "IE",
+            "bortle": 4,
             "near": "Slane",
             "name": "Horistown",
             "nameDistanceKm": 1.576,
@@ -107,29 +107,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9867221,
             "id": "53.7604_-6.6146",
-            "altitude": null
+            "altitude": 155
         },
         {
-            "lat": 53.510416666666664,
-            "lon": -6.889583333333338,
-            "darkness": 0.5132708412450924,
-            "bortle": 4,
+            "lat": 53.21041666666667,
+            "lon": -6.981250000000005,
+            "darkness": 0.5058722691960583,
             "country": "IE",
-            "near": "Ballivor",
-            "name": "Ballymulmore",
-            "nameDistanceKm": 0.534,
+            "bortle": 4,
+            "near": "Rathangan",
+            "name": "Tullylost Cross Roads",
+            "nameDistanceKm": 1.379,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 9866749,
-            "id": "53.5104_-6.8896",
-            "altitude": null
+            "nameGeoNameId": 3314505,
+            "id": "53.2104_-6.9813",
+            "altitude": 77
         },
         {
             "lat": 53.39375,
             "lon": -6.93541666666667,
             "darkness": 0.49948458964816966,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Johnstown Bridge",
             "name": "Calfstown",
             "nameDistanceKm": 1.138,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3314814,
             "id": "53.3937_-6.9354",
-            "altitude": null
+            "altitude": 82
         },
         {
             "lat": 53.66875,
             "lon": -6.797916666666671,
             "darkness": 0.4965014922475349,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Navan",
             "name": "Jordanstown",
             "nameDistanceKm": 0.551,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9866858,
             "id": "53.6688_-6.7979",
-            "altitude": null
+            "altitude": 95
         },
         {
             "lat": 53.760416666666664,
             "lon": -6.568750000000003,
             "darkness": 0.49564966953684864,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Collon",
             "name": "Grangegeeth Cross Roads",
             "nameDistanceKm": 1.184,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2963886,
             "id": "53.7604_-6.5688",
-            "altitude": null
+            "altitude": 166
         },
         {
             "lat": 53.03125,
             "lon": -6.431250000000004,
             "darkness": 0.49351562436638075,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Valleymount",
             "name": "Lough Firrib",
             "nameDistanceKm": 0.701,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "H",
             "nameGeoNameId": 3315037,
             "id": "53.0312_-6.4313",
-            "altitude": null
+            "altitude": 611
         },
         {
             "lat": 53.12291666666667,
             "lon": -6.93541666666667,
             "darkness": 0.4926224776640842,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Kildare",
             "name": "Kingsbog",
             "nameDistanceKm": 0.988,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3314400,
             "id": "53.1229_-6.9354",
-            "altitude": null
+            "altitude": 77
         },
         {
             "lat": 53.53125,
             "lon": -6.8437500000000036,
             "darkness": 0.48175665285569336,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Trim",
             "name": "Roristown",
             "nameDistanceKm": 0.782,
@@ -212,14 +212,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 9866759,
             "id": "53.5312_-6.8438",
-            "altitude": null
+            "altitude": 57
+        },
+        {
+            "lat": 53.03125,
+            "lon": -6.06041666666667,
+            "darkness": 0.4707847313163378,
+            "country": "IE",
+            "bortle": 5,
+            "near": "Newcastle",
+            "name": "Ballyvolan",
+            "nameDistanceKm": 2.842,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3315048,
+            "id": "53.0312_-6.0604",
+            "altitude": 9
         },
         {
             "lat": 53.077083333333334,
             "lon": -6.706250000000004,
             "darkness": 0.4691160203107374,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Dunlavin",
             "name": "Logatrina",
             "nameDistanceKm": 1.402,
@@ -227,29 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3314436,
             "id": "53.0771_-6.7063",
-            "altitude": null
-        },
-        {
-            "lat": 53.03125,
-            "lon": -6.068750000000003,
-            "darkness": 0.468573884106812,
-            "bortle": 5,
-            "country": "IE",
-            "near": "Ashford",
-            "name": "Ballyvolan",
-            "nameDistanceKm": 2.565,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3315048,
-            "id": "53.0312_-6.0688",
-            "altitude": null
+            "altitude": 154
         },
         {
             "lat": 53.947916666666664,
             "lon": -6.477083333333336,
             "darkness": 0.46789199388221925,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Knockbridge",
             "name": "Rathneety",
             "nameDistanceKm": 0.505,
@@ -257,14 +257,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3310700,
             "id": "53.9479_-6.4771",
-            "altitude": null
+            "altitude": 38
+        },
+        {
+            "lat": 53.760416666666664,
+            "lon": -6.24791666666667,
+            "darkness": 0.4506203796908069,
+            "country": "IE",
+            "bortle": 5,
+            "near": "Termonfeckin",
+            "name": "Tobertoby",
+            "nameDistanceKm": 1.184,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3316422,
+            "id": "53.7604_-6.2479",
+            "altitude": 5
         },
         {
             "lat": 53.25625,
             "lon": -6.889583333333338,
             "darkness": 0.4472837547002325,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Kilmeage",
             "name": "Cloncumber",
             "nameDistanceKm": 0.766,
@@ -272,29 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3314658,
             "id": "53.2563_-6.8896",
-            "altitude": null
-        },
-        {
-            "lat": 53.760416666666664,
-            "lon": -6.252083333333337,
-            "darkness": 0.44574999775896373,
-            "bortle": 5,
-            "country": "IE",
-            "near": "Termonfeckin",
-            "name": "Termonfeckin",
-            "nameDistanceKm": 1.081,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2961231,
-            "id": "53.7604_-6.2521",
-            "altitude": null
+            "altitude": 73
         },
         {
             "lat": 53.62291666666667,
             "lon": -6.568750000000003,
             "darkness": 0.39402688125974783,
-            "bortle": 5,
             "country": "IE",
+            "bortle": 5,
             "near": "Kentstown",
             "name": "Walterstown",
             "nameDistanceKm": 1.53,
@@ -302,14 +302,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2961002,
             "id": "53.6229_-6.5688",
-            "altitude": null
+            "altitude": 77
+        },
+        {
+            "lat": 53.62708333333333,
+            "lon": -6.193750000000003,
+            "darkness": 0.35007043995417986,
+            "country": "IE",
+            "bortle": 5,
+            "near": "Balbriggan",
+            "name": "Balbriggan",
+            "nameDistanceKm": 2.187,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2966794,
+            "id": "53.6271_-6.1938",
+            "altitude": 11
         },
         {
             "lat": 53.12291666666667,
             "lon": -6.385416666666671,
             "darkness": 0.3490920408568089,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Blessington",
             "name": "Duff Hill",
             "nameDistanceKm": 1.569,
@@ -317,14 +332,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2964562,
             "id": "53.1229_-6.3854",
-            "altitude": null
+            "altitude": 474
         },
         {
             "lat": 53.71458333333333,
             "lon": -6.297916666666671,
             "darkness": 0.3489454316690085,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Drogheda",
             "name": "Colp",
             "nameDistanceKm": 0.69,
@@ -332,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3316395,
             "id": "53.7146_-6.2979",
-            "altitude": null
+            "altitude": 17
         },
         {
             "lat": 53.34791666666666,
             "lon": -6.752083333333337,
             "darkness": 0.34258781254458215,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Prosperous",
             "name": "Donadea",
             "nameDistanceKm": 0.491,
@@ -347,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2964763,
             "id": "53.3479_-6.7521",
-            "altitude": null
+            "altitude": 109
         },
         {
             "lat": 53.577083333333334,
             "lon": -6.522916666666671,
             "darkness": 0.3423966455994417,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Kentstown",
             "name": "Rathfeigh",
             "nameDistanceKm": 3.046,
@@ -362,14 +377,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2961910,
             "id": "53.5771_-6.5229",
-            "altitude": null
+            "altitude": 81
+        },
+        {
+            "lat": 53.58125,
+            "lon": -6.106250000000005,
+            "darkness": 0.3358693653570428,
+            "country": "IE",
+            "bortle": 6,
+            "near": "Skerries",
+            "name": "Skerries",
+            "nameDistanceKm": 0.219,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2961461,
+            "id": "53.5812_-6.1063",
+            "altitude": 4
         },
         {
             "lat": 53.16875,
             "lon": -6.752083333333337,
             "darkness": 0.3358571606671703,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Athgarvan",
             "name": "Mooney’s Bridge",
             "nameDistanceKm": 0.984,
@@ -377,14 +407,14 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 3314558,
             "id": "53.1688_-6.7521",
-            "altitude": null
+            "altitude": 88
         },
         {
             "lat": 53.12291666666667,
             "lon": -6.1145833333333375,
             "darkness": 0.330806457604512,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Kilpedder",
             "name": "Kilpedder",
             "nameDistanceKm": 1.617,
@@ -392,29 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3315082,
             "id": "53.1229_-6.1146",
-            "altitude": null
-        },
-        {
-            "lat": 53.577083333333334,
-            "lon": -6.1145833333333375,
-            "darkness": 0.3250045691993254,
-            "bortle": 6,
-            "country": "IE",
-            "near": "Skerries",
-            "name": "Skerries",
-            "nameDistanceKm": 0.756,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2961461,
-            "id": "53.5771_-6.1146",
-            "altitude": null
+            "altitude": 116
         },
         {
             "lat": 53.43958333333333,
             "lon": -6.568750000000003,
             "darkness": 0.20636154670172469,
-            "bortle": 6,
             "country": "IE",
+            "bortle": 6,
             "near": "Maynooth",
             "name": "Kilcloon",
             "nameDistanceKm": 1.753,
@@ -422,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 8643246,
             "id": "53.4396_-6.5688",
-            "altitude": null
+            "altitude": 93
         },
         {
             "lat": 53.21458333333333,
             "lon": -6.477083333333336,
             "darkness": 0.19741432502595901,
-            "bortle": 7,
             "country": "IE",
+            "bortle": 7,
             "near": "Blessington",
             "name": "Dowry",
             "nameDistanceKm": 1.837,
@@ -437,14 +452,14 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 3315193,
             "id": "53.2146_-6.4771",
-            "altitude": null
+            "altitude": 224
         },
         {
             "lat": 53.485416666666666,
             "lon": -6.477083333333336,
             "darkness": 0.18978205461000885,
-            "bortle": 7,
             "country": "IE",
+            "bortle": 7,
             "near": "Ratoath",
             "name": "The Black Bush",
             "nameDistanceKm": 1.854,
@@ -452,44 +467,59 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2966146,
             "id": "53.4854_-6.4771",
-            "altitude": null
+            "altitude": 101
         },
         {
             "lat": 53.21458333333333,
-            "lon": -6.1145833333333375,
-            "darkness": 0.17760706708543927,
-            "bortle": 7,
+            "lon": -6.106250000000005,
+            "darkness": 0.18310562947235764,
             "country": "IE",
-            "near": "Little Bray",
-            "name": "Shankill",
-            "nameDistanceKm": 1.44,
+            "bortle": 7,
+            "near": "Bray",
+            "name": "Bray",
+            "nameDistanceKm": 1.414,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2961523,
-            "id": "53.2146_-6.1146",
-            "altitude": null
+            "nameGeoNameId": 2966022,
+            "id": "53.2146_-6.1063",
+            "altitude": 12
+        },
+        {
+            "lat": 53.385416666666664,
+            "lon": -6.0520833333333375,
+            "darkness": 0.16869916505557414,
+            "country": "IE",
+            "bortle": 7,
+            "near": "Howth",
+            "name": "Howth",
+            "nameDistanceKm": 0.914,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2963722,
+            "id": "53.3854_-6.0521",
+            "altitude": 41
         },
         {
             "lat": 53.485416666666666,
-            "lon": -6.16041666666667,
-            "darkness": 0.1587477636633532,
-            "bortle": 7,
+            "lon": -6.206250000000004,
+            "darkness": 0.12046299365522817,
             "country": "IE",
-            "near": "Donabate",
-            "name": "Newbridge Demesne",
-            "nameDistanceKm": 0.512,
-            "nameFeatureCode": "PRK",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 11777270,
-            "id": "53.4854_-6.1604",
-            "altitude": null
+            "bortle": 7,
+            "near": "Swords",
+            "name": "Seafield",
+            "nameDistanceKm": 2.306,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 3316293,
+            "id": "53.4854_-6.2063",
+            "altitude": 11
         },
         {
             "lat": 53.39375,
             "lon": -6.385416666666671,
             "darkness": 0.0,
-            "bortle": 8,
             "country": "IE",
+            "bortle": 8,
             "near": "Blanchardstown",
             "name": "Tolka Valley Park",
             "nameDistanceKm": 0.279,
@@ -497,7 +527,22 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 10171057,
             "id": "53.3937_-6.3854",
-            "altitude": null
+            "altitude": 60
+        },
+        {
+            "lat": 53.31041666666667,
+            "lon": -6.202083333333338,
+            "darkness": 0.0,
+            "country": "IE",
+            "bortle": 8,
+            "near": "Booterstown",
+            "name": "Donnybrook",
+            "nameDistanceKm": 1.421,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2964745,
+            "id": "53.3104_-6.2021",
+            "altitude": 7
         }
     ]
 }

@@ -1,45 +1,60 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-08-27T09:30:45Z",
-    "version": "2025.7",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N051W006",
     "spots": [
         {
-            "lat": 51.88125,
-            "lon": -5.28541666666667,
+            "lat": 51.94375,
+            "lon": -5.197916666666671,
             "darkness": 1.0,
+            "country": "GB",
             "bortle": 1,
-            "country": "GB",
-            "near": "Saint Davids",
-            "name": "Clegyr-Boia",
-            "nameDistanceKm": 0.456,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13283870,
-            "id": "51.8813_-5.2854",
-            "altitude": null
-        },
-        {
-            "lat": 51.92708333333333,
-            "lon": -5.193750000000003,
-            "darkness": 0.9823063552282445,
-            "bortle": 2,
-            "country": "GB",
             "near": "Llanrhian",
-            "name": "Cwmwdig Water",
-            "nameDistanceKm": 0.243,
+            "name": "Abereiddy",
+            "nameDistanceKm": 0.988,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 13281049,
-            "id": "51.9271_-5.1938",
-            "altitude": null
+            "nameGeoNameId": 2657823,
+            "id": "51.9438_-5.1979",
+            "altitude": 30
+        },
+        {
+            "lat": 51.88125,
+            "lon": -5.2395833333333375,
+            "darkness": 0.9845206444915826,
+            "country": "GB",
+            "bortle": 2,
+            "near": "Saint Davids",
+            "name": "Trevinert",
+            "nameDistanceKm": 0.414,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 13274333,
+            "id": "51.8813_-5.2396",
+            "altitude": 51
+        },
+        {
+            "lat": 51.73125,
+            "lon": -5.235416666666671,
+            "darkness": 0.8822615966178365,
+            "country": "GB",
+            "bortle": 2,
+            "near": "Dale",
+            "name": "Gateholm Island",
+            "nameDistanceKm": 1.459,
+            "nameFeatureCode": "ISL",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 3345098,
+            "id": "51.7313_-5.2354",
+            "altitude": 49
         },
         {
             "lat": 51.73958333333333,
             "lon": -5.193750000000003,
             "darkness": 0.8440813775189415,
-            "bortle": 3,
             "country": "GB",
+            "bortle": 3,
             "near": "Dale",
             "name": "Marloes",
             "nameDistanceKm": 1.061,
@@ -47,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2643004,
             "id": "51.7396_-5.1938",
-            "altitude": null
+            "altitude": 42
         },
         {
             "lat": 51.78958333333333,
             "lon": -5.056250000000004,
             "darkness": 0.7367020971855816,
-            "bortle": 4,
             "country": "GB",
+            "bortle": 4,
             "near": "Broad Haven",
             "name": "Broadway",
             "nameDistanceKm": 1.954,
@@ -62,7 +77,22 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13281417,
             "id": "51.7896_-5.0563",
-            "altitude": null
+            "altitude": 90
+        },
+        {
+            "lat": 51.61875,
+            "lon": -5.027083333333337,
+            "darkness": 0.7324326446745391,
+            "country": "GB",
+            "bortle": 4,
+            "near": "Castlemartin",
+            "name": "Flimston",
+            "nameDistanceKm": 2.062,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 2649303,
+            "id": "51.6187_-5.0271",
+            "altitude": 42
         }
     ]
 }

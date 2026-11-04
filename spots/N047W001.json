@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N047W001",
     "spots": [
         {
             "lat": 47.072916666666664,
             "lon": -0.22291666666667442,
             "darkness": 0.8707719166086016,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Saint-Martin-de-Sanzay",
             "name": "Bagneux",
             "nameDistanceKm": 0.564,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3035414,
             "id": "47.0729_-0.2229",
-            "altitude": null
+            "altitude": 39
         },
         {
             "lat": 47.12708333333333,
             "lon": -0.44375000000000764,
             "darkness": 0.8474331981177861,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Nueil-sur-Layon",
             "name": "La Viardière",
             "nameDistanceKm": 0.436,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3005596,
             "id": "47.1271_-0.4438",
-            "altitude": null
+            "altitude": 104
         },
         {
             "lat": 47.12708333333333,
             "lon": -0.11875000000000746,
             "darkness": 0.8464549721069646,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Montreuil-Bellay",
             "name": "Méron",
             "nameDistanceKm": 1.036,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2994335,
             "id": "47.1271_-0.1188",
-            "altitude": null
+            "altitude": 37
         },
         {
             "lat": 47.631249999999994,
             "lon": -0.12291666666667389,
             "darkness": 0.8198781838324635,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Fougeré",
             "name": "Saint-Quentin-lès-Beaurepaire",
             "nameDistanceKm": 1.209,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2977270,
             "id": "47.6312_-0.1229",
-            "altitude": null
+            "altitude": 42
         },
         {
             "lat": 47.21874999999999,
             "lon": -0.28958333333334085,
             "darkness": 0.8144010723446797,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Louresse",
             "name": "Rochemenier",
             "nameDistanceKm": 1.743,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2983243,
             "id": "47.2187_-0.2896",
-            "altitude": null
+            "altitude": 52
         },
         {
             "lat": 47.98958333333333,
             "lon": -0.3479166666666744,
             "darkness": 0.8092817345048288,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Ballée",
             "name": "Bannes",
             "nameDistanceKm": 0.925,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3035127,
             "id": "47.9896_-0.3479",
-            "altitude": null
+            "altitude": 98
         },
         {
             "lat": 47.76458333333333,
             "lon": -0.9229166666666746,
             "darkness": 0.7974333447242197,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Châtelais",
             "name": "Châtelais",
             "nameDistanceKm": 0.761,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3026169,
             "id": "47.7646_-0.9229",
-            "altitude": null
+            "altitude": 35
         },
         {
             "lat": 47.352083333333326,
             "lon": -0.1104166666666746,
             "darkness": 0.7943234016371012,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Saint-Martin-de-la-Place",
             "name": "L'Oucheraie",
             "nameDistanceKm": 2.697,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12308463,
             "id": "47.3521_-0.1104",
-            "altitude": null
+            "altitude": 26
         },
         {
             "lat": 47.87708333333333,
             "lon": -0.5562500000000075,
             "darkness": 0.7890488537852541,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Grez-en-Bouère",
             "name": "Grez-en-Bouère",
             "nameDistanceKm": 2.58,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3014683,
             "id": "47.8771_-0.5563",
-            "altitude": null
+            "altitude": 96
         },
         {
             "lat": 47.76458333333333,
             "lon": -0.4354166666666739,
             "darkness": 0.7727491255057892,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Morannes",
             "name": "Chemiré-sur-Sarthe",
             "nameDistanceKm": 1.609,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025586,
             "id": "47.7646_-0.4354",
-            "altitude": null
+            "altitude": 27
         },
         {
             "lat": 47.74791666666666,
             "lon": -0.7145833333333407,
             "darkness": 0.7718679948324242,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Ménil",
             "name": "Molière",
             "nameDistanceKm": 2.618,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2993530,
             "id": "47.7479_-0.7146",
-            "altitude": null
+            "altitude": 69
         },
         {
             "lat": 47.09374999999999,
             "lon": -0.6729166666666746,
             "darkness": 0.7680595546527722,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Chanteloup-les-Bois",
             "name": "Chanteloup-les-Bois",
             "nameDistanceKm": 0.904,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3026863,
             "id": "47.0937_-0.6729",
-            "altitude": null
+            "altitude": 171
         },
         {
             "lat": 47.88958333333333,
             "lon": -0.21041666666667425,
             "darkness": 0.7642636229133624,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Avoise",
             "name": "Asnières-sur-Vègre",
             "nameDistanceKm": 1.778,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3036560,
             "id": "47.8896_-0.2104",
-            "altitude": null
+            "altitude": 56
         },
         {
             "lat": 47.91041666666666,
             "lon": -0.7645833333333414,
             "darkness": 0.7639853991047041,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Quelaines-Saint-Gault",
             "name": "La Bodarière",
             "nameDistanceKm": 0.941,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12312830,
             "id": "47.9104_-0.7646",
-            "altitude": null
+            "altitude": 103
         },
         {
             "lat": 47.61458333333333,
             "lon": -0.8520833333333409,
             "darkness": 0.7582022824395798,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Vern-d'Anjou",
             "name": "Marans",
             "nameDistanceKm": 1.721,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2996102,
             "id": "47.6146_-0.8521",
-            "altitude": null
+            "altitude": 41
         },
         {
             "lat": 47.26458333333333,
             "lon": -0.48958333333334103,
             "darkness": 0.7524164372327589,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Thouarcé",
             "name": "Petit Bonnezeaux",
             "nameDistanceKm": 0.819,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2987764,
             "id": "47.2646_-0.4896",
-            "altitude": null
+            "altitude": 30
         },
         {
             "lat": 47.62708333333333,
             "lon": -0.30625000000000746,
             "darkness": 0.7395157650538525,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Lézigné",
             "name": "Lézigné",
             "nameDistanceKm": 1.301,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2998642,
             "id": "47.6271_-0.3063",
-            "altitude": null
+            "altitude": 48
         },
         {
             "lat": 47.856249999999996,
             "lon": -0.6270833333333412,
             "darkness": 0.7392869399890399,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Gennes-sur-Glaize",
             "name": "Gennes-sur-Glaize",
             "nameDistanceKm": 1.366,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3016328,
             "id": "47.8562_-0.6271",
-            "altitude": null
+            "altitude": 70
         },
         {
             "lat": 47.48958333333333,
             "lon": -0.8979166666666742,
             "darkness": 0.73881935425288,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Villemoisan",
             "name": "Le Chillon",
             "nameDistanceKm": 1.707,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3004600,
             "id": "47.4896_-0.8979",
-            "altitude": null
+            "altitude": 54
         },
         {
             "lat": 47.860416666666666,
             "lon": -0.07291666666667407,
             "darkness": 0.7382016101528572,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Noyen-sur-Sarthe",
             "name": "La Madeleine",
             "nameDistanceKm": 1.694,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12323509,
             "id": "47.8604_-0.0729",
-            "altitude": null
+            "altitude": 55
         },
         {
             "lat": 47.09374999999999,
             "lon": -0.718750000000008,
             "darkness": 0.7354591151494259,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Chanteloup-les-Bois",
             "name": "Les Poteries",
             "nameDistanceKm": 1.256,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2999904,
             "id": "47.0937_-0.7188",
-            "altitude": null
+            "altitude": 185
         },
         {
             "lat": 47.26458333333333,
             "lon": -0.5354166666666744,
             "darkness": 0.7307934072246149,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Thouarcé",
             "name": "Orillé",
             "nameDistanceKm": 2.159,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2989339,
             "id": "47.2646_-0.5354",
-            "altitude": null
+            "altitude": 53
         },
         {
             "lat": 47.28541666666666,
             "lon": -0.9229166666666746,
             "darkness": 0.7305705798341766,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Quentin-en-Mauges",
             "name": "Saint-Quentin-en-Mauges",
             "nameDistanceKm": 1.057,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2977280,
             "id": "47.2854_-0.9229",
-            "altitude": null
+            "altitude": 118
         },
         {
             "lat": 47.672916666666666,
             "lon": -0.6687500000000073,
             "darkness": 0.7291046544352493,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Montreuil-sur-Maine",
             "name": "Champteussé-sur-Baconne",
             "nameDistanceKm": 1.167,
@@ -362,14 +362,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3027009,
             "id": "47.6729_-0.6688",
-            "altitude": null
+            "altitude": 38
         },
         {
             "lat": 47.356249999999996,
             "lon": -0.30625000000000746,
             "darkness": 0.7245382110122043,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Georges-des-Sept-Voies",
             "name": "Le Plessis",
             "nameDistanceKm": 0.396,
@@ -377,14 +377,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12308451,
             "id": "47.3562_-0.3063",
-            "altitude": null
+            "altitude": 49
         },
         {
             "lat": 47.76875,
             "lon": -0.26041666666667407,
             "darkness": 0.7180043608803686,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Louailles",
             "name": "Forêt de Malpaire",
             "nameDistanceKm": 1.533,
@@ -392,14 +392,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2996350,
             "id": "47.7687_-0.2604",
-            "altitude": null
+            "altitude": 47
         },
         {
             "lat": 47.95208333333333,
             "lon": -0.7979166666666746,
             "darkness": 0.7112928992471129,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Quelaines-Saint-Gault",
             "name": "Quelaines-Saint-Gault",
             "nameDistanceKm": 2.091,
@@ -407,14 +407,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2984846,
             "id": "47.9521_-0.7979",
-            "altitude": null
+            "altitude": 99
         },
         {
             "lat": 47.48958333333333,
             "lon": -0.26041666666667407,
             "darkness": 0.7107287352467895,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Mazé",
             "name": "Les Hautes Touches",
             "nameDistanceKm": 1.251,
@@ -422,14 +422,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12308368,
             "id": "47.4896_-0.2604",
-            "altitude": null
+            "altitude": 45
         },
         {
             "lat": 47.356249999999996,
             "lon": -0.7145833333333407,
             "darkness": 0.6566557880259267,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "La Possonnière",
             "name": "L'Alleud",
             "nameDistanceKm": 1.608,
@@ -437,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12308445,
             "id": "47.3562_-0.7146",
-            "altitude": null
+            "altitude": 14
         },
         {
             "lat": 47.53541666666666,
             "lon": -0.6687500000000073,
             "darkness": 0.5389041244058038,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Le Plessis-Macé",
             "name": "Le Plessis-Macé",
             "nameDistanceKm": 0.947,
@@ -452,14 +452,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3002658,
             "id": "47.5354_-0.6688",
-            "altitude": null
+            "altitude": 65
         },
         {
             "lat": 47.40208333333333,
             "lon": -0.48958333333334103,
             "darkness": 0.48840810266988777,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Juigné sur Loire",
             "name": "La Bourrelière",
             "nameDistanceKm": 0.58,
@@ -467,14 +467,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12308415,
             "id": "47.4021_-0.4896",
-            "altitude": null
+            "altitude": 33
         },
         {
             "lat": 47.53541666666666,
             "lon": -0.6229166666666739,
             "darkness": 0.4738686835907333,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Le Plessis-Macé",
             "name": "Montreuil-Juigné",
             "nameDistanceKm": 1.122,
@@ -482,14 +482,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2992085,
             "id": "47.5354_-0.6229",
-            "altitude": null
+            "altitude": 59
         },
         {
             "lat": 47.447916666666664,
             "lon": -0.5770833333333414,
             "darkness": 0.3399883565567904,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Sainte-Gemmes-sur-Loire",
             "name": "La Roseraie",
             "nameDistanceKm": 1.023,
@@ -497,7 +497,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12308390,
             "id": "47.4479_-0.5771",
-            "altitude": null
+            "altitude": 42
         }
     ]
 }

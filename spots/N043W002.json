@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N043W002",
     "spots": [
         {
             "lat": 43.96041666666666,
             "lon": -1.1937500000000076,
             "darkness": 0.7874710344060307,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Linxe",
             "name": "Quartier de Labastre",
             "nameDistanceKm": 2.108,
@@ -17,14 +17,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12311075,
             "id": "43.9604_-1.1938",
-            "altitude": null
+            "altitude": 56
+        },
+        {
+            "lat": 43.89375,
+            "lon": -1.3770833333333412,
+            "darkness": 0.7636115880289391,
+            "country": "FR",
+            "bortle": 3,
+            "near": "Moliets-et-Maa",
+            "name": "Maa",
+            "nameDistanceKm": 4.02,
+            "nameFeatureCode": "PPL",
+            "nameFeatureClass": "P",
+            "nameGeoNameId": 13448170,
+            "id": "43.8937_-1.3771",
+            "altitude": 18
         },
         {
             "lat": 43.14375,
             "lon": -1.1312500000000076,
             "darkness": 0.7541720897290176,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Saint-Jean-le-Vieux",
             "name": "Mendive",
             "nameDistanceKm": 1.297,
@@ -32,14 +47,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2994610,
             "id": "43.1437_-1.1313",
-            "altitude": null
+            "altitude": 483
         },
         {
             "lat": 43.89375,
             "lon": -1.0145833333333414,
             "darkness": 0.7481227479809709,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Laluque",
             "name": "Boos",
             "nameDistanceKm": 1.721,
@@ -47,29 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3031613,
             "id": "43.8937_-1.0146",
-            "altitude": null
-        },
-        {
-            "lat": 43.881249999999994,
-            "lon": -1.3562500000000073,
-            "darkness": 0.745896919393306,
-            "bortle": 3,
-            "country": "FR",
-            "near": "Moliets-et-Maa",
-            "name": "Maa",
-            "nameDistanceKm": 2.035,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13448170,
-            "id": "43.8812_-1.3563",
-            "altitude": null
+            "altitude": 81
         },
         {
             "lat": 43.322916666666664,
             "lon": -1.0854166666666742,
             "darkness": 0.7378823956887537,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Beyrie-sur-Joyeuse",
             "name": "Beyrie-sur-Joyeuse",
             "nameDistanceKm": 1.668,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3032866,
             "id": "43.3229_-1.0854",
-            "altitude": null
+            "altitude": 215
         },
         {
             "lat": 43.86874999999999,
             "lon": -1.0187500000000078,
             "darkness": 0.7370185977495118,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Laluque",
             "name": "Lacomère",
             "nameDistanceKm": 0.694,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12311085,
             "id": "43.8687_-1.0188",
-            "altitude": null
+            "altitude": 76
         },
         {
             "lat": 43.86874999999999,
             "lon": -1.3562500000000073,
             "darkness": 0.7350266870788398,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Moliets-et-Maa",
             "name": "Maa",
             "nameDistanceKm": 0.795,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 13448170,
             "id": "43.8687_-1.3563",
-            "altitude": null
+            "altitude": 34
         },
         {
             "lat": 43.09791666666666,
             "lon": -1.177083333333341,
             "darkness": 0.7298741010329746,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Jean-le-Vieux",
             "name": "Esterenguibel",
             "nameDistanceKm": 0.951,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12312560,
             "id": "43.0979_-1.1771",
-            "altitude": null
+            "altitude": 482
         },
         {
             "lat": 43.46041666666666,
             "lon": -1.0270833333333407,
             "darkness": 0.72115741302638,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Carresse-Cassaber",
             "name": "Labastide-Villefranche",
             "nameDistanceKm": 0.994,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3011244,
             "id": "43.4604_-1.0271",
-            "altitude": null
+            "altitude": 32
         },
         {
             "lat": 43.610416666666666,
             "lon": -1.0395833333333409,
             "darkness": 0.6811588736028038,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Cagnotte",
             "name": "Gaas",
             "nameDistanceKm": 0.423,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3016875,
             "id": "43.6104_-1.0396",
-            "altitude": null
+            "altitude": 80
         },
         {
             "lat": 43.235416666666666,
             "lon": -1.2687500000000078,
             "darkness": 0.680661471871969,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Ossès",
             "name": "Ahaice",
             "nameDistanceKm": 0.315,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12312552,
             "id": "43.2354_-1.2688",
-            "altitude": null
+            "altitude": 146
         },
         {
             "lat": 43.77708333333333,
             "lon": -1.156250000000008,
             "darkness": 0.6616673162921491,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Herm",
             "name": "L'Airial",
             "nameDistanceKm": 2.922,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12311091,
             "id": "43.7771_-1.1563",
-            "altitude": null
+            "altitude": 49
         },
         {
             "lat": 43.418749999999996,
             "lon": -1.2229166666666744,
             "darkness": 0.642346118341774,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Ayherre",
             "name": "Quartier de Pessarou",
             "nameDistanceKm": 1.286,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12312499,
             "id": "43.4187_-1.2229",
-            "altitude": null
+            "altitude": 58
         },
         {
             "lat": 43.043749999999996,
             "lon": -1.3604166666666746,
             "darkness": 0.6097334526384551,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Étienne-de-Baïgorry",
             "name": "Forêt de Hayra",
             "nameDistanceKm": 0.903,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3013620,
             "id": "43.0437_-1.3604",
-            "altitude": null
+            "altitude": 782
         },
         {
             "lat": 43.64375,
             "lon": -1.2229166666666744,
             "darkness": 0.5908382540320735,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Josse",
             "name": "Josse",
             "nameDistanceKm": 0.244,
@@ -227,44 +227,44 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3012249,
             "id": "43.6437_-1.2229",
-            "altitude": null
+            "altitude": 13
         },
         {
-            "lat": 43.27708333333333,
-            "lon": -1.4520833333333414,
-            "darkness": 0.5467008778169469,
-            "bortle": 4,
+            "lat": 43.731249999999996,
+            "lon": -1.427083333333341,
+            "darkness": 0.5852563726517893,
             "country": "FR",
-            "near": "Ainhoa",
-            "name": "Pic d'Ourrezti",
-            "nameDistanceKm": 2.443,
-            "nameFeatureCode": "PK",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 12535085,
-            "id": "43.2771_-1.4521",
-            "altitude": null
-        },
-        {
-            "lat": 43.68541666666666,
-            "lon": -1.4020833333333407,
-            "darkness": 0.5108778025207998,
             "bortle": 4,
-            "country": "FR",
             "near": "Seignosse",
-            "name": "Seignosse",
-            "nameDistanceKm": 2.358,
+            "name": "Le Penon",
+            "nameDistanceKm": 2.864,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2975273,
-            "id": "43.6854_-1.4021",
-            "altitude": null
+            "nameGeoNameId": 6559499,
+            "id": "43.7312_-1.4271",
+            "altitude": 8
+        },
+        {
+            "lat": 43.26458333333333,
+            "lon": -1.4520833333333414,
+            "darkness": 0.5509434182700769,
+            "country": "FR",
+            "bortle": 4,
+            "near": "Ainhoa",
+            "name": "Pic Iguzki",
+            "nameDistanceKm": 2.598,
+            "nameFeatureCode": "PK",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 12535084,
+            "id": "43.2646_-1.4521",
+            "altitude": 619
         },
         {
             "lat": 43.322916666666664,
             "lon": -1.497916666666674,
             "darkness": 0.4909660501584504,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Ainhoa",
             "name": "Amespétou",
             "nameDistanceKm": 1.534,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3037868,
             "id": "43.3229_-1.4979",
-            "altitude": null
+            "altitude": 252
         },
         {
             "lat": 43.63958333333333,
             "lon": -1.3604166666666746,
             "darkness": 0.488366619474787,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Bénesse-Maremne",
             "name": "Bénesse-Maremne",
             "nameDistanceKm": 0.549,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3033500,
             "id": "43.6396_-1.3604",
-            "altitude": null
+            "altitude": 19
         },
         {
             "lat": 43.46041666666666,
             "lon": -1.3604166666666746,
             "darkness": 0.47219763677348314,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Briscous",
             "name": "Chandondeya",
             "nameDistanceKm": 0.079,
@@ -302,14 +302,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12312479,
             "id": "43.4604_-1.3604",
-            "altitude": null
+            "altitude": 9
+        },
+        {
+            "lat": 43.30624999999999,
+            "lon": -1.6812500000000075,
+            "darkness": 0.34863708125217396,
+            "country": "FR",
+            "bortle": 6,
+            "near": "Biriatou",
+            "name": "Érintsou",
+            "nameDistanceKm": 0.298,
+            "nameFeatureCode": "MT",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 3019914,
+            "id": "43.3062_-1.6813",
+            "altitude": 338
         },
         {
             "lat": 43.547916666666666,
             "lon": -1.4520833333333414,
             "darkness": 0.34237914385894264,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Tarnos",
             "name": "Tarnos",
             "nameDistanceKm": 1.107,
@@ -317,22 +332,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2973355,
             "id": "43.5479_-1.4521",
-            "altitude": null
-        },
-        {
-            "lat": 43.322916666666664,
-            "lon": -1.6812500000000075,
-            "darkness": 0.3283859366912818,
-            "bortle": 6,
-            "country": "FR",
-            "near": "Urrugne",
-            "name": "Col d'Ibardin",
-            "nameDistanceKm": 0.715,
-            "nameFeatureCode": "PASS",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3120489,
-            "id": "43.3229_-1.6813",
-            "altitude": null
+            "altitude": 10
         }
     ]
 }

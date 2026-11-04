@@ -1,0 +1,23 @@
+{
+    "version": "2025.9",
+    "source": "VIIRS/2025/uk_ireland",
+    "generated": "2026-11-03T00:00:00Z",
+    "tile": "N052W006",
+    "spots": [
+        {
+            "lat": 52.02291666666667,
+            "lon": -5.077083333333338,
+            "darkness": 0.9975741746166866,
+            "country": "GB",
+            "bortle": 2,
+            "near": "Goodwick",
+            "name": "Ynys Onnen",
+            "nameDistanceKm": 0.621,
+            "nameFeatureCode": "ISL",
+            "nameFeatureClass": "T",
+            "nameGeoNameId": 13286277,
+            "id": "52.0229_-5.0771",
+            "altitude": 46
+        }
+    ]
+}

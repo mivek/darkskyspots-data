@@ -1,15 +1,15 @@
 {
+    "version": "2025.9",
     "source": "VIIRS/2025/france",
-    "generated": "2026-07-25T13:30:57Z",
-    "version": "2025.6",
+    "generated": "2026-11-03T00:00:00Z",
     "tile": "N044W001",
     "spots": [
         {
             "lat": 44.07708333333333,
             "lon": -0.006250000000007638,
             "darkness": 0.9502966985658627,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Gabarret",
             "name": "Lubbon",
             "nameDistanceKm": 3.498,
@@ -17,14 +17,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2997275,
             "id": "44.0771_-0.0063",
-            "altitude": null
+            "altitude": 148
         },
         {
             "lat": 44.14791666666666,
             "lon": -0.1854166666666739,
             "darkness": 0.9400835266791245,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Roquefort",
             "name": "Bergonce",
             "nameDistanceKm": 2.904,
@@ -32,14 +32,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3033371,
             "id": "44.1479_-0.1854",
-            "altitude": null
+            "altitude": 129
         },
         {
             "lat": 44.18541666666666,
             "lon": -0.406250000000008,
             "darkness": 0.9202017147217241,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Luxey",
             "name": "Forêt de Tresouts",
             "nameDistanceKm": 3.926,
@@ -47,14 +47,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2971785,
             "id": "44.1854_-0.4063",
-            "altitude": null
+            "altitude": 125
         },
         {
             "lat": 44.172916666666666,
             "lon": -0.6270833333333412,
             "darkness": 0.9065565683419443,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Sabres",
             "name": "Quartier de Poursuguères",
             "nameDistanceKm": 3.02,
@@ -62,14 +62,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12311036,
             "id": "44.1729_-0.6271",
-            "altitude": null
+            "altitude": 101
         },
         {
             "lat": 44.23958333333333,
             "lon": -0.027083333333340676,
             "darkness": 0.9064287472947222,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Houeillès",
             "name": "Sauméjan",
             "nameDistanceKm": 1.868,
@@ -77,14 +77,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2975766,
             "id": "44.2396_-0.0271",
-            "altitude": null
+            "altitude": 135
         },
         {
             "lat": 44.006249999999994,
             "lon": -0.16875000000000728,
             "darkness": 0.9035931721076119,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Labastide-d'Armagnac",
             "name": "Arouille",
             "nameDistanceKm": 1.957,
@@ -92,14 +92,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3036827,
             "id": "44.0062_-0.1688",
-            "altitude": null
+            "altitude": 137
         },
         {
             "lat": 44.28541666666666,
             "lon": -0.22708333333334085,
             "darkness": 0.8800320812062163,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Captieux",
             "name": "Captieux",
             "nameDistanceKm": 2.883,
@@ -107,14 +107,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3028684,
             "id": "44.2854_-0.2271",
-            "altitude": null
+            "altitude": 107
         },
         {
             "lat": 44.18958333333333,
             "lon": -0.8145833333333412,
             "darkness": 0.8777680645405516,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Sabres",
             "name": "Commensacq",
             "nameDistanceKm": 2.575,
@@ -122,14 +122,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3024091,
             "id": "44.1896_-0.8146",
-            "altitude": null
+            "altitude": 73
         },
         {
             "lat": 44.05208333333333,
             "lon": -0.531250000000008,
             "darkness": 0.8696265979773171,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Brocas",
             "name": "Brocas",
             "nameDistanceKm": 0.871,
@@ -137,14 +137,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3029960,
             "id": "44.0521_-0.5313",
-            "altitude": null
+            "altitude": 82
         },
         {
             "lat": 44.05208333333333,
             "lon": -0.7645833333333414,
             "darkness": 0.8590944113361821,
-            "bortle": 2,
             "country": "FR",
+            "bortle": 2,
             "near": "Arengosse",
             "name": "Luglon",
             "nameDistanceKm": 5.035,
@@ -152,14 +152,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2997171,
             "id": "44.0521_-0.7646",
-            "altitude": null
+            "altitude": 84
         },
         {
             "lat": 44.33125,
             "lon": -0.44791666666667407,
             "darkness": 0.8479982941895525,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Luxey",
             "name": "Bourideys",
             "nameDistanceKm": 4.261,
@@ -167,14 +167,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030929,
             "id": "44.3312_-0.4479",
-            "altitude": null
+            "altitude": 94
         },
         {
             "lat": 44.006249999999994,
             "lon": -0.6229166666666739,
             "darkness": 0.8479047120602101,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Geloux",
             "name": "Geloux",
             "nameDistanceKm": 3.096,
@@ -182,14 +182,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3016405,
             "id": "44.0062_-0.6229",
-            "altitude": null
+            "altitude": 79
         },
         {
             "lat": 44.33125,
             "lon": -0.16875000000000728,
             "darkness": 0.8468876239334563,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Cudos",
             "name": "Lerm-et-Musset",
             "nameDistanceKm": 1.004,
@@ -197,14 +197,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3002323,
             "id": "44.3312_-0.1688",
-            "altitude": null
+            "altitude": 101
         },
         {
             "lat": 44.05208333333333,
             "lon": -0.8104166666666739,
             "darkness": 0.8467289102841877,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Arengosse",
             "name": "Le Platiet",
             "nameDistanceKm": 5.412,
@@ -212,14 +212,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12305816,
             "id": "44.0521_-0.8104",
-            "altitude": null
+            "altitude": 79
         },
         {
             "lat": 44.28541666666666,
             "lon": -0.8104166666666739,
             "darkness": 0.842014122326008,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Pissos",
             "name": "Escoursolles",
             "nameDistanceKm": 0.668,
@@ -227,14 +227,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12305815,
             "id": "44.2854_-0.8104",
-            "altitude": null
+            "altitude": 63
         },
         {
             "lat": 44.006249999999994,
             "lon": -0.35208333333334085,
             "darkness": 0.8131211136703935,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Sarbazan",
             "name": "Sarbazan",
             "nameDistanceKm": 3.514,
@@ -242,14 +242,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2976047,
             "id": "44.0062_-0.3521",
-            "altitude": null
+            "altitude": 100
         },
         {
             "lat": 44.37708333333333,
             "lon": -0.6479166666666742,
             "darkness": 0.8066670092049648,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Sore",
             "name": "Argelouse",
             "nameDistanceKm": 1.257,
@@ -257,14 +257,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3037063,
             "id": "44.3771_-0.6479",
-            "altitude": null
+            "altitude": 61
         },
         {
             "lat": 44.422916666666666,
             "lon": -0.010416666666674068,
             "darkness": 0.7975716658070658,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Cocumont",
             "name": "Romestaing",
             "nameDistanceKm": 1.238,
@@ -272,14 +272,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2982986,
             "id": "44.4229_-0.0104",
-            "altitude": null
+            "altitude": 145
         },
         {
             "lat": 44.39791666666666,
             "lon": -0.9395833333333412,
             "darkness": 0.7891764697667281,
-            "bortle": 3,
             "country": "FR",
+            "bortle": 3,
             "near": "Ychoux",
             "name": "La Gare de Lugos",
             "nameDistanceKm": 6.206,
@@ -287,14 +287,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12316415,
             "id": "44.3979_-0.9396",
-            "altitude": null
+            "altitude": 54
         },
         {
             "lat": 44.46874999999999,
             "lon": -0.8979166666666742,
             "darkness": 0.7347974016304677,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Lugos",
             "name": "Lugos",
             "nameDistanceKm": 1.93,
@@ -302,14 +302,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2997160,
             "id": "44.4687_-0.8979",
-            "altitude": null
+            "altitude": 42
         },
         {
             "lat": 44.46874999999999,
             "lon": -0.16875000000000728,
             "darkness": 0.7233536373540326,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Auros",
             "name": "Lados",
             "nameDistanceKm": 1.656,
@@ -317,14 +317,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3009632,
             "id": "44.4687_-0.1688",
-            "altitude": null
+            "altitude": 72
         },
         {
             "lat": 44.46874999999999,
             "lon": -0.6854166666666739,
             "darkness": 0.7212210843394565,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Hostens",
             "name": "Forêt des Landes de Gascogne",
             "nameDistanceKm": 3.618,
@@ -332,14 +332,14 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 12908785,
             "id": "44.4687_-0.6854",
-            "altitude": null
+            "altitude": 70
         },
         {
             "lat": 44.46874999999999,
             "lon": -0.47708333333334085,
             "darkness": 0.7109230076078079,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Saint-Symphorien",
             "name": "Origne",
             "nameDistanceKm": 3.3,
@@ -347,14 +347,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2989350,
             "id": "44.4687_-0.4771",
-            "altitude": null
+            "altitude": 56
         },
         {
             "lat": 44.697916666666664,
             "lon": -0.12291666666667389,
             "darkness": 0.6247412573578337,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Sauveterre-de-Guyenne",
             "name": "Saint-Brice",
             "nameDistanceKm": 2.12,
@@ -362,74 +362,44 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2981292,
             "id": "44.6979_-0.1229",
-            "altitude": null
+            "altitude": 70
         },
         {
             "lat": 44.606249999999996,
-            "lon": -0.9520833333333414,
-            "darkness": 0.5886760492293875,
-            "bortle": 4,
+            "lon": -0.8520833333333409,
+            "darkness": 0.5825196542673827,
             "country": "FR",
-            "near": "Mios",
-            "name": "Mios",
-            "nameDistanceKm": 1.18,
+            "bortle": 4,
+            "near": "Salles",
+            "name": "Peylahon",
+            "nameDistanceKm": 3.616,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 2993779,
-            "id": "44.6062_-0.9521",
-            "altitude": null
+            "nameGeoNameId": 12316389,
+            "id": "44.6062_-0.8521",
+            "altitude": 41
         },
         {
-            "lat": 44.83541666666666,
+            "lat": 44.83958333333333,
             "lon": -0.07708333333334139,
-            "darkness": 0.5615028636937427,
-            "bortle": 4,
+            "darkness": 0.5613496090989873,
             "country": "FR",
-            "near": "Saint-Pey-de-Castets",
-            "name": "Civrac-sur-Dordogne",
-            "nameDistanceKm": 0.676,
+            "bortle": 4,
+            "near": "Castillon-la-Bataille",
+            "name": "La Besse",
+            "nameDistanceKm": 0.96,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 3024850,
-            "id": "44.8354_-0.0771",
-            "altitude": null
-        },
-        {
-            "lat": 44.606249999999996,
-            "lon": -0.7604166666666741,
-            "darkness": 0.5599974153228265,
-            "bortle": 4,
-            "country": "FR",
-            "near": "Le Barp",
-            "name": "Le Sableret",
-            "nameDistanceKm": 0.739,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12306009,
-            "id": "44.6062_-0.7604",
-            "altitude": null
-        },
-        {
-            "lat": 44.74374999999999,
-            "lon": -0.9437500000000076,
-            "darkness": 0.5579336810765256,
-            "bortle": 4,
-            "country": "FR",
-            "near": "Lanton",
-            "name": "Bois de Lubec",
-            "nameDistanceKm": 3.097,
-            "nameFeatureCode": "FRST",
-            "nameFeatureClass": "V",
-            "nameGeoNameId": 2997274,
-            "id": "44.7437_-0.9438",
-            "altitude": null
+            "nameGeoNameId": 12316257,
+            "id": "44.8396_-0.0771",
+            "altitude": 7
         },
         {
             "lat": 44.61458333333333,
             "lon": -0.30625000000000746,
             "darkness": 0.5403375259502143,
-            "bortle": 4,
             "country": "FR",
+            "bortle": 4,
             "near": "Barsac",
             "name": "Barsac",
             "nameDistanceKm": 1.123,
@@ -437,29 +407,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3034807,
             "id": "44.6146_-0.3063",
-            "altitude": null
+            "altitude": 7
         },
         {
             "lat": 44.606249999999996,
-            "lon": -0.531250000000008,
-            "darkness": 0.5255130896763132,
-            "bortle": 4,
+            "lon": -0.6104166666666746,
+            "darkness": 0.5284880639754052,
             "country": "FR",
+            "bortle": 4,
             "near": "Cabanac-et-Villagrains",
-            "name": "Cabanac-et-Villagrains",
-            "nameDistanceKm": 1.639,
+            "name": "Villagrains",
+            "nameDistanceKm": 4.27,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
-            "nameGeoNameId": 3029320,
-            "id": "44.6062_-0.5313",
-            "altitude": null
+            "nameGeoNameId": 13447781,
+            "id": "44.6062_-0.6104",
+            "altitude": 66
         },
         {
             "lat": 44.789583333333326,
             "lon": -0.21458333333334068,
             "darkness": 0.49858344804778665,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Naujan-et-Postiac",
             "name": "Guillac",
             "nameDistanceKm": 1.329,
@@ -467,14 +437,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3014275,
             "id": "44.7896_-0.2146",
-            "altitude": null
+            "altitude": 76
         },
         {
             "lat": 44.65208333333333,
             "lon": -0.35208333333334085,
             "darkness": 0.48853739808886487,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Podensac",
             "name": "Podensac",
             "nameDistanceKm": 0.313,
@@ -482,14 +452,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2986585,
             "id": "44.6521_-0.3521",
-            "altitude": null
+            "altitude": 6
         },
         {
             "lat": 44.922916666666666,
             "lon": -0.8520833333333409,
             "darkness": 0.4805917219474446,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Salaunes",
             "name": "La Rue",
             "nameDistanceKm": 0.94,
@@ -497,14 +467,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12316182,
             "id": "44.9229_-0.8521",
-            "altitude": null
+            "altitude": 45
         },
         {
             "lat": 44.74374999999999,
             "lon": -0.8520833333333409,
             "darkness": 0.48001844787164993,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Marcheprime",
             "name": "Berganton",
             "nameDistanceKm": 4.161,
@@ -512,29 +482,29 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3033397,
             "id": "44.7437_-0.8521",
-            "altitude": null
+            "altitude": 58
         },
         {
             "lat": 44.96874999999999,
-            "lon": -0.21458333333334068,
-            "darkness": 0.47651512620313574,
-            "bortle": 5,
+            "lon": -0.218750000000008,
+            "darkness": 0.47392340166671953,
             "country": "FR",
+            "bortle": 5,
             "near": "Savignac-de-l'Isle",
             "name": "Les Eymerits",
-            "nameDistanceKm": 0.502,
+            "nameDistanceKm": 0.177,
             "nameFeatureCode": "PPL",
             "nameFeatureClass": "P",
             "nameGeoNameId": 12316135,
-            "id": "44.9687_-0.2146",
-            "altitude": null
+            "id": "44.9687_-0.2188",
+            "altitude": 12
         },
         {
             "lat": 44.65208333333333,
             "lon": -0.6812500000000075,
             "darkness": 0.46060058851512076,
-            "bortle": 5,
             "country": "FR",
+            "bortle": 5,
             "near": "Saucats",
             "name": "Saucats",
             "nameDistanceKm": 6.7,
@@ -542,14 +512,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2975883,
             "id": "44.6521_-0.6813",
-            "altitude": null
+            "altitude": 67
         },
         {
             "lat": 44.697916666666664,
             "lon": -0.5354166666666744,
             "darkness": 0.3463386582277882,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Martillac",
             "name": "Martillac",
             "nameDistanceKm": 1.464,
@@ -557,14 +527,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2995385,
             "id": "44.6979_-0.5354",
-            "altitude": null
+            "altitude": 40
         },
         {
             "lat": 44.96874999999999,
             "lon": -0.6687500000000073,
             "darkness": 0.32842881199638396,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Le Pian-Médoc",
             "name": "Le Pian-Médoc",
             "nameDistanceKm": 1.512,
@@ -572,14 +542,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3002836,
             "id": "44.9687_-0.6688",
-            "altitude": null
+            "altitude": 25
         },
         {
             "lat": 44.96874999999999,
             "lon": -0.44375000000000764,
             "darkness": 0.3208508062060168,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Cubzac-les-Ponts",
             "name": "Cubzac-les-Ponts",
             "nameDistanceKm": 0.823,
@@ -587,14 +557,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3022177,
             "id": "44.9687_-0.4438",
-            "altitude": null
+            "altitude": 6
         },
         {
             "lat": 44.789583333333326,
             "lon": -0.7604166666666741,
             "darkness": 0.3073835914904256,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Saint-Jean-d'Illac",
             "name": "Saint-Jean-d'Illac",
             "nameDistanceKm": 2.913,
@@ -602,14 +572,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2979256,
             "id": "44.7896_-0.7604",
-            "altitude": null
+            "altitude": 52
         },
         {
             "lat": 44.83541666666666,
             "lon": -0.39791666666667425,
             "darkness": 0.2957045013554991,
-            "bortle": 6,
             "country": "FR",
+            "bortle": 6,
             "near": "Sallebœuf",
             "name": "Sallebœuf",
             "nameDistanceKm": 0.284,
@@ -617,14 +587,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2976399,
             "id": "44.8354_-0.3979",
-            "altitude": null
+            "altitude": 83
         },
         {
             "lat": 44.789583333333326,
             "lon": -0.6687500000000073,
             "darkness": 0.18288549301457224,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Canéjan",
             "name": "Canéjan",
             "nameDistanceKm": 3.165,
@@ -632,14 +602,14 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3028838,
             "id": "44.7896_-0.6688",
-            "altitude": null
+            "altitude": 51
         },
         {
             "lat": 44.922916666666666,
             "lon": -0.5354166666666744,
             "darkness": 0.17408165377571172,
-            "bortle": 7,
             "country": "FR",
+            "bortle": 7,
             "near": "Bassens",
             "name": "Le Moura",
             "nameDistanceKm": 1.921,
@@ -647,7 +617,7 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12316208,
             "id": "44.9229_-0.5354",
-            "altitude": null
+            "altitude": 4
         }
     ]
 }
