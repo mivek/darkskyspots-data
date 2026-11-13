@@ -1,548 +1,2599 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N052W004",
-    "spots": [
-        {
-            "lat": 52.30208333333333,
-            "lon": -3.8645833333333375,
-            "darkness": 0.9295551121046621,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Pontrhydfendigaid",
-            "name": "Ffair-Rhos",
-            "nameDistanceKm": 1.438,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12264526,
-            "id": "52.3021_-3.8646",
-            "altitude": 206
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N052W004",
+  "spots": [
+    {
+      "lat": 52.30208333333333,
+      "lon": -3.8645833333333375,
+      "darkness": 0.9295551121046621,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Pontrhydfendigaid",
+      "name": "Ffair-Rhos",
+      "nameDistanceKm": 1.438,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12264526,
+      "id": "52.3021_-3.8646",
+      "altitude": 206,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/158927683",
+          "distanceM": 11,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
         },
-        {
-            "lat": 52.43958333333333,
-            "lon": -3.818750000000003,
-            "darkness": 0.9200353613417267,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Bow Street",
-            "name": "Eisteddfa Gurig",
-            "nameDistanceKm": 2.5,
-            "nameFeatureCode": "PASS",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2650137,
-            "id": "52.4396_-3.8188",
-            "altitude": 516
+        "track": {
+          "status": "found",
+          "osm": "way/1302809485",
+          "distanceM": 220,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 52.15625,
-            "lon": -3.91041666666667,
-            "darkness": 0.905091358986444,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Tregaron",
-            "name": "Bryn Brawd",
-            "nameDistanceKm": 0.816,
-            "nameFeatureCode": "MT",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2654856,
-            "id": "52.1562_-3.9104",
-            "altitude": 461
+        "path": {
+          "status": "found",
+          "osm": "way/1311578346",
+          "distanceM": 95,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
         },
-        {
-            "lat": 52.58958333333333,
-            "lon": -3.8562500000000046,
-            "darkness": 0.9036794867361506,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Machynlleth",
-            "name": "Machynlleth",
-            "nameDistanceKm": 0.214,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2643251,
-            "id": "52.5896_-3.8563",
-            "altitude": 6
-        },
-        {
-            "lat": 52.31458333333333,
-            "lon": -3.6354166666666714,
-            "darkness": 0.8846278514613388,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Rhayader",
-            "name": "Craig-yr-allt gôch Reservoir",
-            "nameDistanceKm": 0.272,
-            "nameFeatureCode": "RSV",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2652104,
-            "id": "52.3146_-3.6354",
-            "altitude": 409
-        },
-        {
-            "lat": 52.75625,
-            "lon": -3.91041666666667,
-            "darkness": 0.8762770795758097,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Dolgellau",
-            "name": "Llanelltyd",
-            "nameDistanceKm": 0.528,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2644099,
-            "id": "52.7563_-3.9104",
-            "altitude": 2
-        },
-        {
-            "lat": 52.52708333333333,
-            "lon": -3.6354166666666714,
-            "darkness": 0.865513278050205,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Carno",
-            "name": "Staylittle",
-            "nameDistanceKm": 1.521,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2636985,
-            "id": "52.5271_-3.6354",
-            "altitude": 426
-        },
-        {
-            "lat": 52.15625,
-            "lon": -3.681250000000004,
-            "darkness": 0.8613015295998052,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Llanwrtyd Wells",
-            "name": "Abergwesyn",
-            "nameDistanceKm": 0.649,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2657809,
-            "id": "52.1562_-3.6813",
-            "altitude": 326
-        },
-        {
-            "lat": 52.37708333333333,
-            "lon": -3.4979166666666703,
-            "darkness": 0.8472148874782228,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Rhayader",
-            "name": "Nantgwyn",
-            "nameDistanceKm": 0.319,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13283566,
-            "id": "52.3771_-3.4979",
-            "altitude": 301
-        },
-        {
-            "lat": 52.66458333333333,
-            "lon": -3.681250000000004,
-            "darkness": 0.8471416151854965,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Corris",
-            "name": "Cwm-Llinau",
-            "nameDistanceKm": 1.861,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12261777,
-            "id": "52.6646_-3.6813",
-            "altitude": 216
-        },
-        {
-            "lat": 52.89375,
-            "lon": -3.97291666666667,
-            "darkness": 0.8438717266985012,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Trawsfynydd",
-            "name": "Gwynedd",
-            "nameDistanceKm": 2.886,
-            "nameFeatureCode": "RGN",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 11612613,
-            "id": "52.8937_-3.9729",
-            "altitude": 416
-        },
-        {
-            "lat": 52.110416666666666,
-            "lon": -3.681250000000004,
-            "darkness": 0.8417329301397951,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Llanwrtyd Wells",
-            "name": "Llanwrtyd",
-            "nameDistanceKm": 1.214,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2643906,
-            "id": "52.1104_-3.6813",
-            "altitude": 396
-        },
-        {
-            "lat": 52.52708333333333,
-            "lon": -3.5437500000000046,
-            "darkness": 0.8341514833410184,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Carno",
-            "name": "Llawr-y-glyn",
-            "nameDistanceKm": 2.976,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12264854,
-            "id": "52.5271_-3.5438",
-            "altitude": 398
-        },
-        {
-            "lat": 52.80208333333333,
-            "lon": -3.7729166666666707,
-            "darkness": 0.8306016128742781,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Dolgellau",
-            "name": "Rhydymain",
-            "nameDistanceKm": 2.345,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 9410025,
-            "id": "52.8021_-3.7729",
-            "altitude": 442
-        },
-        {
-            "lat": 52.202083333333334,
-            "lon": -3.4979166666666703,
-            "darkness": 0.830596941509919,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Newbridge on Wye",
-            "name": "Llanfihangel-Bryn-Pabuan",
-            "nameDistanceKm": 0.272,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2644069,
-            "id": "52.2021_-3.4979",
-            "altitude": 356
-        },
-        {
-            "lat": 52.29375,
-            "lon": -3.3145833333333368,
-            "darkness": 0.7904159165914942,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Penybont",
-            "name": "Llanddewi Ystradenny",
-            "nameDistanceKm": 1.671,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2644151,
-            "id": "52.2938_-3.3146",
-            "altitude": 226
-        },
-        {
-            "lat": 52.66458333333333,
-            "lon": -3.452083333333338,
-            "darkness": 0.7686682248889988,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Llanfair Caereinion",
-            "name": "Llanerfyl",
-            "nameDistanceKm": 1.904,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2644094,
-            "id": "52.6646_-3.4521",
-            "altitude": 215
-        },
-        {
-            "lat": 52.15625,
-            "lon": -3.28541666666667,
-            "darkness": 0.7672925737771359,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Builth Wells",
-            "name": "Cregrina",
-            "nameDistanceKm": 0.523,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2652017,
-            "id": "52.1562_-3.2854",
-            "altitude": 243
-        },
-        {
-            "lat": 52.06458333333333,
-            "lon": -3.452083333333338,
-            "darkness": 0.763476890090915,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Builth Wells",
-            "name": "Upper Chapel",
-            "nameDistanceKm": 1.14,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2635139,
-            "id": "52.0646_-3.4521",
-            "altitude": 305
-        },
-        {
-            "lat": 52.43541666666667,
-            "lon": -3.2687500000000043,
-            "darkness": 0.7623807849718183,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Kerry",
-            "name": "Crug-y-byddar",
-            "nameDistanceKm": 2.662,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13274488,
-            "id": "52.4354_-3.2688",
-            "altitude": 334
-        },
-        {
-            "lat": 52.93958333333333,
-            "lon": -3.7270833333333364,
-            "darkness": 0.7553948296904034,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Bala",
-            "name": "Ynys Goediog",
-            "nameDistanceKm": 0.554,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13286003,
-            "id": "52.9396_-3.7271",
-            "altitude": 337
-        },
-        {
-            "lat": 52.80208333333333,
-            "lon": -3.5437500000000046,
-            "darkness": 0.7500200220184466,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Llangynog",
-            "name": "Lake Vyrnwy",
-            "nameDistanceKm": 2.95,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2634932,
-            "id": "52.8021_-3.5438",
-            "altitude": 499
-        },
-        {
-            "lat": 52.24791666666667,
-            "lon": -3.131250000000003,
-            "darkness": 0.7395667039556202,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Whitton",
-            "name": "Downton",
-            "nameDistanceKm": 1.171,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13278579,
-            "id": "52.2479_-3.1313",
-            "altitude": 240
-        },
-        {
-            "lat": 52.89375,
-            "lon": -3.6354166666666714,
-            "darkness": 0.7395564454801399,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Bala",
-            "name": "Bala Lake",
-            "nameDistanceKm": 1.167,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2656611,
-            "id": "52.8937_-3.6354",
-            "altitude": 269
-        },
-        {
-            "lat": 52.52708333333333,
-            "lon": -3.360416666666671,
-            "darkness": 0.7385778149079367,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Newtown",
-            "name": "Aberhafesp",
-            "nameDistanceKm": 1.061,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2657805,
-            "id": "52.5271_-3.3604",
-            "altitude": 157
-        },
-        {
-            "lat": 52.110416666666666,
-            "lon": -3.22291666666667,
-            "darkness": 0.7368141312311425,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Clyro",
-            "name": "Painscastle",
-            "nameDistanceKm": 0.397,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2640679,
-            "id": "52.1104_-3.2229",
-            "altitude": 280
-        },
-        {
-            "lat": 52.71041666666667,
-            "lon": -3.4062500000000036,
-            "darkness": 0.7346916980038669,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Llanfair Caereinion",
-            "name": "Dolanog",
-            "nameDistanceKm": 1.566,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2651161,
-            "id": "52.7104_-3.4063",
-            "altitude": 186
-        },
-        {
-            "lat": 52.43541666666667,
-            "lon": -3.1770833333333375,
-            "darkness": 0.7317898543803351,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Mainstone",
-            "name": "Bettws y Crwyn",
-            "nameDistanceKm": 0.743,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2655792,
-            "id": "52.4354_-3.1771",
-            "altitude": 390
-        },
-        {
-            "lat": 52.01875,
-            "lon": -3.4062500000000036,
-            "darkness": 0.7212898095645457,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Brecon",
-            "name": "Lower Chapel",
-            "nameDistanceKm": 1.075,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2643531,
-            "id": "52.0187_-3.4063",
-            "altitude": 340
-        },
-        {
-            "lat": 52.572916666666664,
-            "lon": -3.131250000000003,
-            "darkness": 0.6709472505812888,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Montgomery",
-            "name": "Montgomery",
-            "nameDistanceKm": 1.634,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2642304,
-            "id": "52.5729_-3.1313",
-            "altitude": 106
-        },
-        {
-            "lat": 52.84791666666666,
-            "lon": -3.4062500000000036,
-            "darkness": 0.6685280362595885,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Llangynog",
-            "name": "Llangynog",
-            "nameDistanceKm": 1.675,
-            "nameFeatureCode": "PPLA3",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2643997,
-            "id": "52.8479_-3.4063",
-            "altitude": 601
-        },
-        {
-            "lat": 52.72708333333333,
-            "lon": -3.1770833333333375,
-            "darkness": 0.6272515839030182,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Guilsfield",
-            "name": "Trefnanney",
-            "nameDistanceKm": 0.593,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276974,
-            "id": "52.7271_-3.1771",
-            "altitude": 98
-        },
-        {
-            "lat": 52.985416666666666,
-            "lon": -3.452083333333338,
-            "darkness": 0.6044070342702739,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Cynwyd",
-            "name": "Maerdy",
-            "nameDistanceKm": 1.17,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12263656,
-            "id": "52.9854_-3.4521",
-            "altitude": 175
-        },
-        {
-            "lat": 52.89375,
-            "lon": -3.1770833333333375,
-            "darkness": 0.524022453518764,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Llangollen",
-            "name": "Rhiwlas",
-            "nameDistanceKm": 1.816,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276906,
-            "id": "52.8937_-3.1771",
-            "altitude": 426
-        },
-        {
-            "lat": 52.84791666666666,
-            "lon": -3.0854166666666707,
-            "darkness": 0.4950322484371664,
-            "country": "GB",
-            "bortle": 5,
-            "near": "Trefonen",
-            "name": "Coed y Go",
-            "nameDistanceKm": 0.807,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13265878,
-            "id": "52.8479_-3.0854",
-            "altitude": 144
-        },
-        {
-            "lat": 52.985416666666666,
-            "lon": -3.0854166666666707,
-            "darkness": 0.3783401797785636,
-            "country": "GB",
-            "bortle": 5,
-            "near": "Ruabon",
-            "name": "Pen-y-cae",
-            "nameDistanceKm": 0.271,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2640386,
-            "id": "52.9854_-3.0854",
-            "altitude": 161
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    },
+    {
+      "lat": 52.43958333333333,
+      "lon": -3.818750000000003,
+      "darkness": 0.9200353613417267,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Bow Street",
+      "name": "Eisteddfa Gurig",
+      "nameDistanceKm": 2.5,
+      "nameFeatureCode": "PASS",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2650137,
+      "id": "52.4396_-3.8188",
+      "altitude": 516,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/521554073",
+          "distanceM": 868,
+          "elevationDeltaM": 182,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/896550569",
+          "distanceM": 184,
+          "elevationDeltaM": 87,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/896550568",
+          "distanceM": 437,
+          "elevationDeltaM": 105,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.15625,
+      "lon": -3.91041666666667,
+      "darkness": 0.905091358986444,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Tregaron",
+      "name": "Bryn Brawd",
+      "nameDistanceKm": 0.816,
+      "nameFeatureCode": "MT",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2654856,
+      "id": "52.1562_-3.9104",
+      "altitude": 461,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/429089032",
+          "distanceM": 17,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.58958333333333,
+      "lon": -3.8562500000000046,
+      "darkness": 0.9036794867361506,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Machynlleth",
+      "name": "Machynlleth",
+      "nameDistanceKm": 0.214,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2643251,
+      "id": "52.5896_-3.8563",
+      "altitude": 6,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/945127997",
+          "distanceM": 56,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/945127995",
+          "distanceM": 96,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/981142770",
+          "distanceM": 75,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.31458333333333,
+      "lon": -3.6354166666666714,
+      "darkness": 0.8846278514613388,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Rhayader",
+      "name": "Craig-yr-allt gôch Reservoir",
+      "nameDistanceKm": 0.272,
+      "nameFeatureCode": "RSV",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2652104,
+      "id": "52.3146_-3.6354",
+      "altitude": 409,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/4616393",
+          "distanceM": 204,
+          "elevationDeltaM": 51,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/305245733",
+          "distanceM": 842,
+          "elevationDeltaM": 82,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.75625,
+      "lon": -3.91041666666667,
+      "darkness": 0.8762770795758097,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Dolgellau",
+      "name": "Llanelltyd",
+      "nameDistanceKm": 0.528,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2644099,
+      "id": "52.7563_-3.9104",
+      "altitude": 2,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/44851815",
+          "distanceM": 63,
+          "elevationDeltaM": -7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "primary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/332861536",
+          "distanceM": 27,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/663834218",
+          "distanceM": 163,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.52708333333333,
+      "lon": -3.6354166666666714,
+      "darkness": 0.865513278050205,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Carno",
+      "name": "Staylittle",
+      "nameDistanceKm": 1.521,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2636985,
+      "id": "52.5271_-3.6354",
+      "altitude": 426,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/663489071",
+          "distanceM": 93,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "permissive"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/663489070",
+          "distanceM": 459,
+          "elevationDeltaM": 11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1092391428",
+          "distanceM": 626,
+          "elevationDeltaM": 14,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.15625,
+      "lon": -3.681250000000004,
+      "darkness": 0.8613015295998052,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Llanwrtyd Wells",
+      "name": "Abergwesyn",
+      "nameDistanceKm": 0.649,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2657809,
+      "id": "52.1562_-3.6813",
+      "altitude": 326,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/204042387",
+          "distanceM": 192,
+          "elevationDeltaM": 50,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/662408044",
+          "distanceM": 133,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "yes"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/662408048",
+          "distanceM": 245,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.37708333333333,
+      "lon": -3.4979166666666703,
+      "darkness": 0.8472148874782228,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Rhayader",
+      "name": "Nantgwyn",
+      "nameDistanceKm": 0.319,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13283566,
+      "id": "52.3771_-3.4979",
+      "altitude": 301,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/938439465",
+          "distanceM": 223,
+          "elevationDeltaM": -24,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1249539794",
+          "distanceM": 243,
+          "elevationDeltaM": -28,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.66458333333333,
+      "lon": -3.681250000000004,
+      "darkness": 0.8471416151854965,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Corris",
+      "name": "Cwm-Llinau",
+      "nameDistanceKm": 1.861,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12261777,
+      "id": "52.6646_-3.6813",
+      "altitude": 216,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/711870334",
+          "distanceM": 612,
+          "elevationDeltaM": 58,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1080949114",
+          "distanceM": 150,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1450400997",
+          "distanceM": 509,
+          "elevationDeltaM": -92,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.89375,
+      "lon": -3.97291666666667,
+      "darkness": 0.8438717266985012,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Trawsfynydd",
+      "name": "Gwynedd",
+      "nameDistanceKm": 2.886,
+      "nameFeatureCode": "RGN",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 11612613,
+      "id": "52.8937_-3.9729",
+      "altitude": 416,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/313156846",
+          "distanceM": 167,
+          "elevationDeltaM": -10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1069075326",
+          "distanceM": 492,
+          "elevationDeltaM": -87,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.110416666666666,
+      "lon": -3.681250000000004,
+      "darkness": 0.8417329301397951,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Llanwrtyd Wells",
+      "name": "Llanwrtyd",
+      "nameDistanceKm": 1.214,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2643906,
+      "id": "52.1104_-3.6813",
+      "altitude": 396,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1075140453",
+          "distanceM": 475,
+          "elevationDeltaM": 71,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1000046544",
+          "distanceM": 27,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/204270064",
+          "distanceM": 867,
+          "elevationDeltaM": 136,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.52708333333333,
+      "lon": -3.5437500000000046,
+      "darkness": 0.8341514833410184,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Carno",
+      "name": "Llawr-y-glyn",
+      "nameDistanceKm": 2.976,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12264854,
+      "id": "52.5271_-3.5438",
+      "altitude": 398,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1246430246",
+          "distanceM": 135,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1246430245",
+          "distanceM": 182,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.80208333333333,
+      "lon": -3.7729166666666707,
+      "darkness": 0.8306016128742781,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Dolgellau",
+      "name": "Rhydymain",
+      "nameDistanceKm": 2.345,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 9410025,
+      "id": "52.8021_-3.7729",
+      "altitude": 442,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/32848223",
+          "distanceM": 951,
+          "elevationDeltaM": 92,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/464281073",
+          "distanceM": 575,
+          "elevationDeltaM": 77,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1005396172",
+          "distanceM": 607,
+          "elevationDeltaM": 75,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.202083333333334,
+      "lon": -3.4979166666666703,
+      "darkness": 0.830596941509919,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Newbridge on Wye",
+      "name": "Llanfihangel-Bryn-Pabuan",
+      "nameDistanceKm": 0.272,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2644069,
+      "id": "52.2021_-3.4979",
+      "altitude": 356,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/943838135",
+          "distanceM": 474,
+          "elevationDeltaM": 131,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/911141130",
+          "distanceM": 296,
+          "elevationDeltaM": 108,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1032625133",
+          "distanceM": 641,
+          "elevationDeltaM": 87,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.29375,
+      "lon": -3.3145833333333368,
+      "darkness": 0.7904159165914942,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Penybont",
+      "name": "Llanddewi Ystradenny",
+      "nameDistanceKm": 1.671,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2644151,
+      "id": "52.2938_-3.3146",
+      "altitude": 226,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/409441306",
+          "distanceM": 394,
+          "elevationDeltaM": -27,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/409441299",
+          "distanceM": 258,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.66458333333333,
+      "lon": -3.452083333333338,
+      "darkness": 0.7686682248889988,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Llanfair Caereinion",
+      "name": "Llanerfyl",
+      "nameDistanceKm": 1.904,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2644094,
+      "id": "52.6646_-3.4521",
+      "altitude": 215,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/395135600",
+          "distanceM": 29,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1150657108",
+          "distanceM": 273,
+          "elevationDeltaM": -42,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1039899411",
+          "distanceM": 624,
+          "elevationDeltaM": -93,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.15625,
+      "lon": -3.28541666666667,
+      "darkness": 0.7672925737771359,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Builth Wells",
+      "name": "Cregrina",
+      "nameDistanceKm": 0.523,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2652017,
+      "id": "52.1562_-3.2854",
+      "altitude": 243,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/84300456",
+          "distanceM": 1,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/943538430",
+          "distanceM": 154,
+          "elevationDeltaM": 46,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/941406627",
+          "distanceM": 944,
+          "elevationDeltaM": -58,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.06458333333333,
+      "lon": -3.452083333333338,
+      "darkness": 0.763476890090915,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Builth Wells",
+      "name": "Upper Chapel",
+      "nameDistanceKm": 1.14,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2635139,
+      "id": "52.0646_-3.4521",
+      "altitude": 305,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/399588144",
+          "distanceM": 78,
+          "elevationDeltaM": 13,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1344350796",
+          "distanceM": 595,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1344350779",
+          "distanceM": 748,
+          "elevationDeltaM": -17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.43541666666667,
+      "lon": -3.2687500000000043,
+      "darkness": 0.7623807849718183,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Kerry",
+      "name": "Crug-y-byddar",
+      "nameDistanceKm": 2.662,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13274488,
+      "id": "52.4354_-3.2688",
+      "altitude": 334,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/938382265",
+          "distanceM": 120,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/671929356",
+          "distanceM": 171,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/931822970",
+          "distanceM": 585,
+          "elevationDeltaM": -101,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.93958333333333,
+      "lon": -3.7270833333333364,
+      "darkness": 0.7553948296904034,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Bala",
+      "name": "Ynys Goediog",
+      "nameDistanceKm": 0.554,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 13286003,
+      "id": "52.9396_-3.7271",
+      "altitude": 337,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/239559272",
+          "distanceM": 74,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/239557462",
+          "distanceM": 326,
+          "elevationDeltaM": -38,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1569215754",
+          "distanceM": 356,
+          "elevationDeltaM": -8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.80208333333333,
+      "lon": -3.5437500000000046,
+      "darkness": 0.7500200220184466,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Llangynog",
+      "name": "Lake Vyrnwy",
+      "nameDistanceKm": 2.95,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2634932,
+      "id": "52.8021_-3.5438",
+      "altitude": 499,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/229116205",
+          "distanceM": 415,
+          "elevationDeltaM": 232,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/229115963",
+          "distanceM": 415,
+          "elevationDeltaM": 232,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "vehicle",
+              "value": "agricultural"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1171619626",
+          "distanceM": 474,
+          "elevationDeltaM": 222,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.24791666666667,
+      "lon": -3.131250000000003,
+      "darkness": 0.7395667039556202,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Whitton",
+      "name": "Downton",
+      "nameDistanceKm": 1.171,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13278579,
+      "id": "52.2479_-3.1313",
+      "altitude": 240,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/27153032",
+          "distanceM": 382,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/420190115",
+          "distanceM": 207,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/855380599",
+          "distanceM": 619,
+          "elevationDeltaM": 24,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.89375,
+      "lon": -3.6354166666666714,
+      "darkness": 0.7395564454801399,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Bala",
+      "name": "Bala Lake",
+      "nameDistanceKm": 1.167,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2656611,
+      "id": "52.8937_-3.6354",
+      "altitude": 269,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/314145796",
+          "distanceM": 240,
+          "elevationDeltaM": 18,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/633703373",
+          "distanceM": 179,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.52708333333333,
+      "lon": -3.360416666666671,
+      "darkness": 0.7385778149079367,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Newtown",
+      "name": "Aberhafesp",
+      "nameDistanceKm": 1.061,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2657805,
+      "id": "52.5271_-3.3604",
+      "altitude": 157,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/111604913",
+          "distanceM": 300,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/532979011",
+          "distanceM": 22,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/532979012",
+          "distanceM": 403,
+          "elevationDeltaM": -21,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.110416666666666,
+      "lon": -3.22291666666667,
+      "darkness": 0.7368141312311425,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Clyro",
+      "name": "Painscastle",
+      "nameDistanceKm": 0.397,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2640679,
+      "id": "52.1104_-3.2229",
+      "altitude": 280,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/835666389",
+          "distanceM": 146,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1390918528",
+          "distanceM": 271,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/875587752",
+          "distanceM": 452,
+          "elevationDeltaM": -32,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.71041666666667,
+      "lon": -3.4062500000000036,
+      "darkness": 0.7346916980038669,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Llanfair Caereinion",
+      "name": "Dolanog",
+      "nameDistanceKm": 1.566,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2651161,
+      "id": "52.7104_-3.4063",
+      "altitude": 186,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1157899532",
+          "distanceM": 195,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1157899535",
+          "distanceM": 34,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1157905882",
+          "distanceM": 561,
+          "elevationDeltaM": 22,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.43541666666667,
+      "lon": -3.1770833333333375,
+      "darkness": 0.7317898543803351,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Mainstone",
+      "name": "Bettws y Crwyn",
+      "nameDistanceKm": 0.743,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2655792,
+      "id": "52.4354_-3.1771",
+      "altitude": 390,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/400137694",
+          "distanceM": 33,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/400498361",
+          "distanceM": 493,
+          "elevationDeltaM": -39,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.01875,
+      "lon": -3.4062500000000036,
+      "darkness": 0.7212898095645457,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Brecon",
+      "name": "Lower Chapel",
+      "nameDistanceKm": 1.075,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2643531,
+      "id": "52.0187_-3.4063",
+      "altitude": 340,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/391707730",
+          "distanceM": 191,
+          "elevationDeltaM": 61,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1459345443",
+          "distanceM": 233,
+          "elevationDeltaM": 46,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1101022223",
+          "distanceM": 291,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.572916666666664,
+      "lon": -3.131250000000003,
+      "darkness": 0.6709472505812888,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Montgomery",
+      "name": "Montgomery",
+      "nameDistanceKm": 1.634,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2642304,
+      "id": "52.5729_-3.1313",
+      "altitude": 106,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/173534051",
+          "distanceM": 370,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/109386895",
+          "distanceM": 48,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/109386892",
+          "distanceM": 271,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.84791666666666,
+      "lon": -3.4062500000000036,
+      "darkness": 0.6685280362595885,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Llangynog",
+      "name": "Llangynog",
+      "nameDistanceKm": 1.675,
+      "nameFeatureCode": "PPLA3",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2643997,
+      "id": "52.8479_-3.4063",
+      "altitude": 601,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/844736505",
+          "distanceM": 914,
+          "elevationDeltaM": 249,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1056876201",
+          "distanceM": 494,
+          "elevationDeltaM": 173,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1056861019",
+          "distanceM": 248,
+          "elevationDeltaM": -18,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.72708333333333,
+      "lon": -3.1770833333333375,
+      "darkness": 0.6272515839030182,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Guilsfield",
+      "name": "Trefnanney",
+      "nameDistanceKm": 0.593,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276974,
+      "id": "52.7271_-3.1771",
+      "altitude": 98,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/92352256",
+          "distanceM": 96,
+          "elevationDeltaM": -8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/481803915",
+          "distanceM": 481,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.985416666666666,
+      "lon": -3.452083333333338,
+      "darkness": 0.6044070342702739,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Cynwyd",
+      "name": "Maerdy",
+      "nameDistanceKm": 1.17,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12263656,
+      "id": "52.9854_-3.4521",
+      "altitude": 175,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/94197496",
+          "distanceM": 239,
+          "elevationDeltaM": -47,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/261669514",
+          "distanceM": 109,
+          "elevationDeltaM": -11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.89375,
+      "lon": -3.1770833333333375,
+      "darkness": 0.524022453518764,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Llangollen",
+      "name": "Rhiwlas",
+      "nameDistanceKm": 1.816,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276906,
+      "id": "52.8937_-3.1771",
+      "altitude": 426,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/206096159",
+          "distanceM": 885,
+          "elevationDeltaM": 19,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/677148305",
+          "distanceM": 87,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/152268638",
+          "distanceM": 134,
+          "elevationDeltaM": -14,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.84791666666666,
+      "lon": -3.0854166666666707,
+      "darkness": 0.4950322484371664,
+      "country": "GB",
+      "bortle": 5,
+      "near": "Trefonen",
+      "name": "Coed y Go",
+      "nameDistanceKm": 0.807,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13265878,
+      "id": "52.8479_-3.0854",
+      "altitude": 144,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/857155342",
+          "distanceM": 86,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/462843361",
+          "distanceM": 435,
+          "elevationDeltaM": -36,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/857155358",
+          "distanceM": 115,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 52.985416666666666,
+      "lon": -3.0854166666666707,
+      "darkness": 0.3783401797785636,
+      "country": "GB",
+      "bortle": 5,
+      "near": "Ruabon",
+      "name": "Pen-y-cae",
+      "nameDistanceKm": 0.271,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2640386,
+      "id": "52.9854_-3.0854",
+      "altitude": 161,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/966340397",
+          "distanceM": 119,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1530986685",
+          "distanceM": 784,
+          "elevationDeltaM": 9,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1530996352",
+          "distanceM": 62,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    }
+  ]
 }

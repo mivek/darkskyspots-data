@@ -1,173 +1,694 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N054W010",
-    "spots": [
-        {
-            "lat": 54.327083333333334,
-            "lon": -9.83541666666667,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Knocknalower",
-            "name": "Carrownaglogh",
-            "nameDistanceKm": 1.564,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 9804867,
-            "id": "54.3271_-9.8354",
-            "altitude": 98
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N054W010",
+  "spots": [
+    {
+      "lat": 54.327083333333334,
+      "lon": -9.83541666666667,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Knocknalower",
+      "name": "Carrownaglogh",
+      "nameDistanceKm": 1.564,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 9804867,
+      "id": "54.3271_-9.8354",
+      "altitude": 98,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/191158296",
+          "distanceM": 486,
+          "elevationDeltaM": 9,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
         },
-        {
-            "lat": 54.31458333333333,
-            "lon": -9.502083333333339,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Killala",
-            "name": "Glenlassra River",
-            "nameDistanceKm": 0.161,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3316220,
-            "id": "54.3146_-9.5021",
-            "altitude": 27
+        "track": {
+          "status": "found",
+          "osm": "way/438420113",
+          "distanceM": 751,
+          "elevationDeltaM": -79,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 54.28125,
-            "lon": -9.218750000000004,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Killala",
-            "name": "Kilcummin",
-            "nameDistanceKm": 0.403,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2963441,
-            "id": "54.2812_-9.2188",
-            "altitude": 38
+        "path": {
+          "status": "found",
+          "osm": "way/1534803177",
+          "distanceM": 392,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
         },
-        {
-            "lat": 54.21875,
-            "lon": -9.68541666666667,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Knocknalower",
-            "name": "Lough Naguroge",
-            "nameDistanceKm": 2.119,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 3316142,
-            "id": "54.2188_-9.6854",
-            "altitude": 76
-        },
-        {
-            "lat": 54.16458333333333,
-            "lon": -9.914583333333336,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Belmullet",
-            "name": "Loughnahelly",
-            "nameDistanceKm": 0.268,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 9821236,
-            "id": "54.1646_-9.9146",
-            "altitude": 21
-        },
-        {
-            "lat": 54.172916666666666,
-            "lon": -9.414583333333336,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Crossmolina",
-            "name": "Lough Naweela",
-            "nameDistanceKm": 0.63,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 3316192,
-            "id": "54.1729_-9.4146",
-            "altitude": 83
-        },
-        {
-            "lat": 54.08125,
-            "lon": -9.68541666666667,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Knocknalower",
-            "name": "Maumykelly",
-            "nameDistanceKm": 1.737,
-            "nameFeatureCode": "MT",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3316028,
-            "id": "54.0812_-9.6854",
-            "altitude": 147
-        },
-        {
-            "lat": 54.03541666666666,
-            "lon": -9.452083333333338,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Crossmolina",
-            "name": "Lough Clevala",
-            "nameDistanceKm": 1.093,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 3315980,
-            "id": "54.0354_-9.4521",
-            "altitude": 80
-        },
-        {
-            "lat": 54.21458333333333,
-            "lon": -9.22291666666667,
-            "darkness": 0.9951717634765436,
-            "country": "IE",
-            "bortle": 2,
-            "near": "Killala",
-            "name": "Killala",
-            "nameDistanceKm": 0.374,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2963378,
-            "id": "54.2146_-9.2229",
-            "altitude": 6
-        },
-        {
-            "lat": 54.03958333333333,
-            "lon": -9.364583333333337,
-            "darkness": 0.9871969397390918,
-            "country": "IE",
-            "bortle": 2,
-            "near": "Crossmolina",
-            "name": "Ballyduffy",
-            "nameDistanceKm": 1.55,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3315972,
-            "id": "54.0396_-9.3646",
-            "altitude": 51
-        },
-        {
-            "lat": 54.08541666666667,
-            "lon": -9.04791666666667,
-            "darkness": 0.8460156383558057,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Ballina",
-            "name": "Kilgarvan",
-            "nameDistanceKm": 0.946,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2963412,
-            "id": "54.0854_-9.0479",
-            "altitude": 44
+        "parking": {
+          "status": "not_found_within_radius"
         }
-    ]
+      }
+    },
+    {
+      "lat": 54.31458333333333,
+      "lon": -9.502083333333339,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Killala",
+      "name": "Glenlassra River",
+      "nameDistanceKm": 0.161,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3316220,
+      "id": "54.3146_-9.5021",
+      "altitude": 27,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/346088382",
+          "distanceM": 438,
+          "elevationDeltaM": -27,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 54.28125,
+      "lon": -9.218750000000004,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Killala",
+      "name": "Kilcummin",
+      "nameDistanceKm": 0.403,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2963441,
+      "id": "54.2812_-9.2188",
+      "altitude": 38,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/178239429",
+          "distanceM": 196,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1456588264",
+          "distanceM": 359,
+          "elevationDeltaM": 25,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/1476914242",
+          "distanceM": 880,
+          "elevationDeltaM": 29,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 54.21875,
+      "lon": -9.68541666666667,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Knocknalower",
+      "name": "Lough Naguroge",
+      "nameDistanceKm": 2.119,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 3316142,
+      "id": "54.2188_-9.6854",
+      "altitude": 76,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 54.16458333333333,
+      "lon": -9.914583333333336,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Belmullet",
+      "name": "Loughnahelly",
+      "nameDistanceKm": 0.268,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 9821236,
+      "id": "54.1646_-9.9146",
+      "altitude": 21,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/296836343",
+          "distanceM": 5,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1496179549",
+          "distanceM": 29,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/857825322",
+          "distanceM": 7,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 54.172916666666666,
+      "lon": -9.414583333333336,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Crossmolina",
+      "name": "Lough Naweela",
+      "nameDistanceKm": 0.63,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 3316192,
+      "id": "54.1729_-9.4146",
+      "altitude": 83,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/761581833",
+          "distanceM": 77,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1471644480",
+          "distanceM": 525,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 54.08125,
+      "lon": -9.68541666666667,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Knocknalower",
+      "name": "Maumykelly",
+      "nameDistanceKm": 1.737,
+      "nameFeatureCode": "MT",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 3316028,
+      "id": "54.0812_-9.6854",
+      "altitude": 147,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 54.03541666666666,
+      "lon": -9.452083333333338,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Crossmolina",
+      "name": "Lough Clevala",
+      "nameDistanceKm": 1.093,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 3315980,
+      "id": "54.0354_-9.4521",
+      "altitude": 80,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/221114078",
+          "distanceM": 156,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/221109099",
+          "distanceM": 81,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 54.21458333333333,
+      "lon": -9.22291666666667,
+      "darkness": 0.9951717634765436,
+      "country": "IE",
+      "bortle": 2,
+      "near": "Killala",
+      "name": "Killala",
+      "nameDistanceKm": 0.374,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2963378,
+      "id": "54.2146_-9.2229",
+      "altitude": 6,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/87455780",
+          "distanceM": 5,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "residential"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/555724868",
+          "distanceM": 95,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/353283235",
+          "distanceM": 120,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/87455792",
+          "distanceM": 42,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 54.03958333333333,
+      "lon": -9.364583333333337,
+      "darkness": 0.9871969397390918,
+      "country": "IE",
+      "bortle": 2,
+      "near": "Crossmolina",
+      "name": "Ballyduffy",
+      "nameDistanceKm": 1.55,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3315972,
+      "id": "54.0396_-9.3646",
+      "altitude": 51,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/200154682",
+          "distanceM": 209,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/529260842",
+          "distanceM": 46,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/949066677",
+          "distanceM": 713,
+          "elevationDeltaM": -19,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/1285117507",
+          "distanceM": 571,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 54.08541666666667,
+      "lon": -9.04791666666667,
+      "darkness": 0.8460156383558057,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Ballina",
+      "name": "Kilgarvan",
+      "nameDistanceKm": 0.946,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2963412,
+      "id": "54.0854_-9.0479",
+      "altitude": 44,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1051907800",
+          "distanceM": 191,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1286784355",
+          "distanceM": 269,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    }
+  ]
 }

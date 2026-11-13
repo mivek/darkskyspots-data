@@ -1,68 +1,261 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N051W008",
-    "spots": [
-        {
-            "lat": 51.99375,
-            "lon": -7.589583333333337,
-            "darkness": 0.8501985481975587,
-            "country": "IE",
-            "bortle": 2,
-            "near": "Dungarvan",
-            "name": "Mine Head",
-            "nameDistanceKm": 0.348,
-            "nameFeatureCode": "CAPE",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2962591,
-            "id": "51.9937_-7.5896",
-            "altitude": 72
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N051W008",
+  "spots": [
+    {
+      "lat": 51.99375,
+      "lon": -7.589583333333337,
+      "darkness": 0.8501985481975587,
+      "country": "IE",
+      "bortle": 2,
+      "near": "Dungarvan",
+      "name": "Mine Head",
+      "nameDistanceKm": 0.348,
+      "nameFeatureCode": "CAPE",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2962591,
+      "id": "51.9937_-7.5896",
+      "altitude": 72,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/430440125",
+          "distanceM": 146,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
         },
-        {
-            "lat": 51.98125,
-            "lon": -7.627083333333337,
-            "darkness": 0.8401884789014482,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Dungarvan",
-            "name": "Ballynaharda",
-            "nameDistanceKm": 0.683,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3301104,
-            "id": "51.9813_-7.6271",
-            "altitude": 42
+        "track": {
+          "status": "found",
+          "osm": "way/267412391",
+          "distanceM": 32,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 51.88125,
-            "lon": -7.897916666666671,
-            "darkness": 0.7474991090462999,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Youghal",
-            "name": "Greenland",
-            "nameDistanceKm": 1.179,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3299802,
-            "id": "51.8813_-7.8979",
-            "altitude": 53
+        "path": {
+          "status": "not_found_within_radius"
         },
-        {
-            "lat": 51.885416666666664,
-            "lon": -7.902083333333337,
-            "darkness": 0.7396402420028296,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Youghal",
-            "name": "Greenland",
-            "nameDistanceKm": 0.641,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3299802,
-            "id": "51.8854_-7.9021",
-            "altitude": 61
+        "parking": {
+          "status": "not_found_within_radius"
         }
-    ]
+      }
+    },
+    {
+      "lat": 51.98125,
+      "lon": -7.627083333333337,
+      "darkness": 0.8401884789014482,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Dungarvan",
+      "name": "Ballynaharda",
+      "nameDistanceKm": 0.683,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3301104,
+      "id": "51.9813_-7.6271",
+      "altitude": 42,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/153387619",
+          "distanceM": 418,
+          "elevationDeltaM": 34,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/240059763",
+          "distanceM": 450,
+          "elevationDeltaM": -20,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/817541334",
+          "distanceM": 409,
+          "elevationDeltaM": 38,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 51.88125,
+      "lon": -7.897916666666671,
+      "darkness": 0.7474991090462999,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Youghal",
+      "name": "Greenland",
+      "nameDistanceKm": 1.179,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3299802,
+      "id": "51.8813_-7.8979",
+      "altitude": 53,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/207649336",
+          "distanceM": 42,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/348423342",
+          "distanceM": 508,
+          "elevationDeltaM": 34,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.885416666666664,
+      "lon": -7.902083333333337,
+      "darkness": 0.7396402420028296,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Youghal",
+      "name": "Greenland",
+      "nameDistanceKm": 0.641,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3299802,
+      "id": "51.8854_-7.9021",
+      "altitude": 61,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/207649299",
+          "distanceM": 242,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/348423342",
+          "distanceM": 980,
+          "elevationDeltaM": 42,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    }
+  ]
 }

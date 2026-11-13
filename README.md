@@ -45,6 +45,10 @@ Use a specific Git revision for reproducibility and retain the licence and
 attribution notices with copies. The release record identifies the geographic
 revision and audited Git tree for this payload.
 
+## Accessibility in GB and Ireland
+
+The 1,217 GB and Ireland spots include accessibility evidence derived from OpenStreetMap within 1,000 metres. Nearby infrastructure does not establish legal access. Great Britain parking evidence is incomplete and reported as unknown; restriction evidence is incomplete throughout the coverage. Missing or incomplete mapped evidence can be unknown. In a cluster, `rep.accessibility` describes only the representative spot, not the cluster as a whole. Original astronomical measurements are unchanged. Source records are in `accessibility/sources/`; their index checksums identify retained preparation indexes, which are not included here.
+
 ## Generation
 
 The [Darkspots pipeline](https://github.com/mivek/darkskyspots-pipeline) converts

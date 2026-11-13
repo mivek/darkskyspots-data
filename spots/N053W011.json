@@ -1,38 +1,183 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N053W011",
-    "spots": [
-        {
-            "lat": 53.60208333333333,
-            "lon": -10.02291666666667,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Clifden",
-            "name": "Cashleen",
-            "nameDistanceKm": 0.725,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3230348,
-            "id": "53.6021_-10.0229",
-            "altitude": 54
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N053W011",
+  "spots": [
+    {
+      "lat": 53.60208333333333,
+      "lon": -10.02291666666667,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Clifden",
+      "name": "Cashleen",
+      "nameDistanceKm": 0.725,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3230348,
+      "id": "53.6021_-10.0229",
+      "altitude": 54,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/392027416",
+          "distanceM": 15,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
         },
-        {
-            "lat": 53.44375,
-            "lon": -10.135416666666671,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Clifden",
-            "name": "Doonloughan",
-            "nameDistanceKm": 0.656,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3230319,
-            "id": "53.4438_-10.1354",
-            "altitude": 14
+        "track": {
+          "status": "found",
+          "osm": "way/1207711466",
+          "distanceM": 190,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1499768533",
+          "distanceM": 775,
+          "elevationDeltaM": 31,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/1207711447",
+          "distanceM": 517,
+          "elevationDeltaM": 46,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
         }
-    ]
+      }
+    },
+    {
+      "lat": 53.44375,
+      "lon": -10.135416666666671,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Clifden",
+      "name": "Doonloughan",
+      "nameDistanceKm": 0.656,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3230319,
+      "id": "53.4438_-10.1354",
+      "altitude": 14,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/272833273",
+          "distanceM": 508,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/272832194",
+          "distanceM": 30,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/251804577",
+          "distanceM": 543,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/1163487463",
+          "distanceM": 916,
+          "elevationDeltaM": 11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    }
+  ]
 }

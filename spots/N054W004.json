@@ -1,443 +1,2022 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N054W004",
-    "spots": [
-        {
-            "lat": 54.797916666666666,
-            "lon": -3.91041666666667,
-            "darkness": 0.922744923931383,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Kirkcudbright",
-            "name": "Rerrick High Row",
-            "nameDistanceKm": 1.406,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13282304,
-            "id": "54.7979_-3.9104",
-            "altitude": 58
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N054W004",
+  "spots": [
+    {
+      "lat": 54.797916666666666,
+      "lon": -3.91041666666667,
+      "darkness": 0.922744923931383,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Kirkcudbright",
+      "name": "Rerrick High Row",
+      "nameDistanceKm": 1.406,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13282304,
+      "id": "54.7979_-3.9104",
+      "altitude": 58,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/959064576",
+          "distanceM": 29,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
         },
-        {
-            "lat": 54.95625,
-            "lon": -3.9562500000000043,
-            "darkness": 0.8775546611380437,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Castle Douglas",
-            "name": "Squarepoint",
-            "nameDistanceKm": 0.302,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13274194,
-            "id": "54.9562_-3.9563",
-            "altitude": 50
+        "track": {
+          "status": "found",
+          "osm": "way/1128255174",
+          "distanceM": 181,
+          "elevationDeltaM": -11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 54.88125,
-            "lon": -3.714583333333337,
-            "darkness": 0.8459201822689588,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Dalbeattie",
-            "name": "Sandyhills",
-            "nameDistanceKm": 1.328,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12262078,
-            "id": "54.8813_-3.7146",
-            "altitude": 26
+        "path": {
+          "status": "not_found_within_radius"
         },
-        {
-            "lat": 54.99791666666667,
-            "lon": -3.8645833333333375,
-            "darkness": 0.8343232301701038,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Castle Douglas",
-            "name": "Springholm",
-            "nameDistanceKm": 1.388,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2637191,
-            "id": "54.9979_-3.8646",
-            "altitude": 100
-        },
-        {
-            "lat": 54.797916666666666,
-            "lon": -3.4354166666666703,
-            "darkness": 0.8027739908698526,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Aspatria",
-            "name": "Salta",
-            "nameDistanceKm": 0.398,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13275799,
-            "id": "54.7979_-3.4354",
-            "altitude": 9
-        },
-        {
-            "lat": 54.614583333333336,
-            "lon": -3.1270833333333368,
-            "darkness": 0.7992579552497981,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Keswick",
-            "name": "Ormathwaite",
-            "nameDistanceKm": 0.497,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276227,
-            "id": "54.6146_-3.1271",
-            "altitude": 195
-        },
-        {
-            "lat": 54.447916666666664,
-            "lon": -3.1229166666666703,
-            "darkness": 0.7803684201683267,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Coniston",
-            "name": "Pike of Stickle",
-            "nameDistanceKm": 0.947,
-            "nameFeatureCode": "MT",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2644944,
-            "id": "54.4479_-3.1229",
-            "altitude": 125
-        },
-        {
-            "lat": 54.98125,
-            "lon": -3.389583333333338,
-            "darkness": 0.772516330553106,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Annan",
-            "name": "Ruthwell",
-            "nameDistanceKm": 1.769,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2638920,
-            "id": "54.9813_-3.3896",
-            "altitude": 7
-        },
-        {
-            "lat": 54.52708333333333,
-            "lon": -3.318750000000003,
-            "darkness": 0.7501266827863107,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Arlecdon",
-            "name": "Starling Dodd",
-            "nameDistanceKm": 0.62,
-            "nameFeatureCode": "PK",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 6696236,
-            "id": "54.5271_-3.3188",
-            "altitude": 557
-        },
-        {
-            "lat": 54.35625,
-            "lon": -3.139583333333338,
-            "darkness": 0.7395725917096067,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Coniston",
-            "name": "Coniston Old Man",
-            "nameDistanceKm": 1.941,
-            "nameFeatureCode": "MT",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2641009,
-            "id": "54.3563_-3.1396",
-            "altitude": 532
-        },
-        {
-            "lat": 54.81875,
-            "lon": -3.1770833333333375,
-            "darkness": 0.7393862145109817,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Wigton",
-            "name": "Wigton",
-            "nameDistanceKm": 1.224,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2633933,
-            "id": "54.8188_-3.1771",
-            "altitude": 34
-        },
-        {
-            "lat": 54.72291666666666,
-            "lon": -3.3645833333333375,
-            "darkness": 0.7392568371948579,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Dearham",
-            "name": "Gilcrux",
-            "nameDistanceKm": 1.014,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2648674,
-            "id": "54.7229_-3.3646",
-            "altitude": 135
-        },
-        {
-            "lat": 54.985416666666666,
-            "lon": -3.264583333333338,
-            "darkness": 0.7331308492362729,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Annan",
-            "name": "Annan",
-            "nameDistanceKm": 0.614,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2657293,
-            "id": "54.9854_-3.2646",
-            "altitude": 17
-        },
-        {
-            "lat": 54.27708333333333,
-            "lon": -3.4062500000000036,
-            "darkness": 0.7286661742071792,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Haverigg",
-            "name": "Annaside",
-            "nameDistanceKm": 1.286,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2657290,
-            "id": "54.2771_-3.4063",
-            "altitude": 22
-        },
-        {
-            "lat": 54.547916666666666,
-            "lon": -3.3645833333333375,
-            "darkness": 0.7262235464760602,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Arlecdon",
-            "name": "Great Borne",
-            "nameDistanceKm": 1.563,
-            "nameFeatureCode": "PK",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 6696237,
-            "id": "54.5479_-3.3646",
-            "altitude": 422
-        },
-        {
-            "lat": 54.48125,
-            "lon": -3.589583333333337,
-            "darkness": 0.6567355398421496,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Saint Bees",
-            "name": "Saint Bees",
-            "nameDistanceKm": 1.177,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2638851,
-            "id": "54.4813_-3.5896",
-            "altitude": 32
-        },
-        {
-            "lat": 54.64375,
-            "lon": -3.5604166666666703,
-            "darkness": 0.6058479429572314,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Workington",
-            "name": "Workington",
-            "nameDistanceKm": 1.057,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2633553,
-            "id": "54.6437_-3.5604",
-            "altitude": 6
-        },
-        {
-            "lat": 54.21875,
-            "lon": -3.1979166666666714,
-            "darkness": 0.6047067958301824,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Kirkby-in-Furness",
-            "name": "Soutergate",
-            "nameDistanceKm": 0.905,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2637494,
-            "id": "54.2188_-3.1979",
-            "altitude": 4
-        },
-        {
-            "lat": 54.947916666666664,
-            "lon": -3.03541666666667,
-            "darkness": 0.5483910147233715,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Burgh by Sands",
-            "name": "Rockcliffe Cross",
-            "nameDistanceKm": 1.082,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276177,
-            "id": "54.9479_-3.0354",
-            "altitude": 6
-        },
-        {
-            "lat": 54.12291666666667,
-            "lon": -3.235416666666671,
-            "darkness": 0.4711795215058865,
-            "country": "GB",
-            "bortle": 5,
-            "near": "Barrow in Furness",
-            "name": "Barrow in Furness",
-            "nameDistanceKm": 1.426,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2656241,
-            "id": "54.1229_-3.2354",
-            "altitude": 19
-        },
-        {
-            "lat": 54.985416666666666,
-            "lon": -3.91041666666667,
-            "darkness": 0.848451309589888,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Castle Douglas",
-            "name": "Old Bridge of Urr",
-            "nameDistanceKm": 0.486,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2641038,
-            "id": "54.9854_-3.9104",
-            "altitude": 35
-        },
-        {
-            "lat": 54.98125,
-            "lon": -3.41041666666667,
-            "darkness": 0.7675931408964725,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Annan",
-            "name": "Ruthwell",
-            "nameDistanceKm": 1.316,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2638920,
-            "id": "54.9813_-3.4104",
-            "altitude": 4
-        },
-        {
-            "lat": 54.99375,
-            "lon": -3.4979166666666703,
-            "darkness": 0.7552959951089356,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Dumfries",
-            "name": "Shearington",
-            "nameDistanceKm": 1.387,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13273955,
-            "id": "54.9937_-3.4979",
-            "altitude": 8
-        },
-        {
-            "lat": 54.989583333333336,
-            "lon": -3.22291666666667,
-            "darkness": 0.7257002415519149,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Annan",
-            "name": "Dornock",
-            "nameDistanceKm": 1.619,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2651084,
-            "id": "54.9896_-3.2229",
-            "altitude": 29
-        },
-        {
-            "lat": 54.99791666666667,
-            "lon": -3.1770833333333375,
-            "darkness": 0.6940885924153501,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Eastriggs",
-            "name": "Eastriggs",
-            "nameDistanceKm": 1.346,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 8063602,
-            "id": "54.9979_-3.1771",
-            "altitude": 23
-        },
-        {
-            "lat": 54.99791666666667,
-            "lon": -3.131250000000003,
-            "darkness": 0.6801288333807356,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Eastriggs",
-            "name": "Rigg",
-            "nameDistanceKm": 1.634,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2639360,
-            "id": "54.9979_-3.1313",
-            "altitude": 24
-        },
-        {
-            "lat": 54.99791666666667,
-            "lon": -3.0854166666666707,
-            "darkness": 0.6671928932605813,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Gretna",
-            "name": "Gretna",
-            "nameDistanceKm": 1.324,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2647910,
-            "id": "54.9979_-3.0854",
-            "altitude": 28
-        },
-        {
-            "lat": 54.99791666666667,
-            "lon": -3.039583333333338,
-            "darkness": 0.6446916139551012,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Gretna",
-            "name": "Blackbank",
-            "nameDistanceKm": 1.237,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13281569,
-            "id": "54.9979_-3.0396",
-            "altitude": 20
-        },
-        {
-            "lat": 54.98125,
-            "lon": -3.5395833333333364,
-            "darkness": 0.766545948458185,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Cargenbridge",
-            "name": "Shearington",
-            "nameDistanceKm": 1.617,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13273955,
-            "id": "54.9813_-3.5396",
-            "altitude": 39
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    },
+    {
+      "lat": 54.95625,
+      "lon": -3.9562500000000043,
+      "darkness": 0.8775546611380437,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Castle Douglas",
+      "name": "Squarepoint",
+      "nameDistanceKm": 0.302,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13274194,
+      "id": "54.9562_-3.9563",
+      "altitude": 50,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/5148777",
+          "distanceM": 14,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "primary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/669968508",
+          "distanceM": 300,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.88125,
+      "lon": -3.714583333333337,
+      "darkness": 0.8459201822689588,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Dalbeattie",
+      "name": "Sandyhills",
+      "nameDistanceKm": 1.328,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12262078,
+      "id": "54.8813_-3.7146",
+      "altitude": 26,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/880533612",
+          "distanceM": 111,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "primary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/481854812",
+          "distanceM": 159,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1528261104",
+          "distanceM": 849,
+          "elevationDeltaM": null,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "elevationUnknownReason": "water_ocean",
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -3.8645833333333375,
+      "darkness": 0.8343232301701038,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Castle Douglas",
+      "name": "Springholm",
+      "nameDistanceKm": 1.388,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2637191,
+      "id": "54.9979_-3.8646",
+      "altitude": 100,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/137344641",
+          "distanceM": 402,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/568728958",
+          "distanceM": 290,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.797916666666666,
+      "lon": -3.4354166666666703,
+      "darkness": 0.8027739908698526,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Aspatria",
+      "name": "Salta",
+      "nameDistanceKm": 0.398,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13275799,
+      "id": "54.7979_-3.4354",
+      "altitude": 9,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/33143684",
+          "distanceM": 123,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/649993578",
+          "distanceM": 623,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1241158508",
+          "distanceM": 131,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.614583333333336,
+      "lon": -3.1270833333333368,
+      "darkness": 0.7992579552497981,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Keswick",
+      "name": "Ormathwaite",
+      "nameDistanceKm": 0.497,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276227,
+      "id": "54.6146_-3.1271",
+      "altitude": 195,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/494398523",
+          "distanceM": 384,
+          "elevationDeltaM": 75,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/112326364",
+          "distanceM": 164,
+          "elevationDeltaM": -11,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "permissive"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/183774253",
+          "distanceM": 100,
+          "elevationDeltaM": -30,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.447916666666664,
+      "lon": -3.1229166666666703,
+      "darkness": 0.7803684201683267,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Coniston",
+      "name": "Pike of Stickle",
+      "nameDistanceKm": 0.947,
+      "nameFeatureCode": "MT",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2644944,
+      "id": "54.4479_-3.1229",
+      "altitude": 125,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/43330594",
+          "distanceM": 848,
+          "elevationDeltaM": 13,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/867254042",
+          "distanceM": 201,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/217466973",
+          "distanceM": 30,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.98125,
+      "lon": -3.389583333333338,
+      "darkness": 0.772516330553106,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Annan",
+      "name": "Ruthwell",
+      "nameDistanceKm": 1.769,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2638920,
+      "id": "54.9813_-3.3896",
+      "altitude": 7,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/134582207",
+          "distanceM": 135,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/373814556",
+          "distanceM": 247,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.52708333333333,
+      "lon": -3.318750000000003,
+      "darkness": 0.7501266827863107,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Arlecdon",
+      "name": "Starling Dodd",
+      "nameDistanceKm": 0.62,
+      "nameFeatureCode": "PK",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 6696236,
+      "id": "54.5271_-3.3188",
+      "altitude": 557,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/168177114",
+          "distanceM": 756,
+          "elevationDeltaM": 276,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/699333079",
+          "distanceM": 183,
+          "elevationDeltaM": -32,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.35625,
+      "lon": -3.139583333333338,
+      "darkness": 0.7395725917096067,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Coniston",
+      "name": "Coniston Old Man",
+      "nameDistanceKm": 1.941,
+      "nameFeatureCode": "MT",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2641009,
+      "id": "54.3563_-3.1396",
+      "altitude": 532,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1188031713",
+          "distanceM": 647,
+          "elevationDeltaM": 102,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/772853455",
+          "distanceM": 95,
+          "elevationDeltaM": 37,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.81875,
+      "lon": -3.1770833333333375,
+      "darkness": 0.7393862145109817,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Wigton",
+      "name": "Wigton",
+      "nameDistanceKm": 1.224,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2633933,
+      "id": "54.8188_-3.1771",
+      "altitude": 34,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/521763672",
+          "distanceM": 101,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/626218955",
+          "distanceM": 629,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/626226161",
+          "distanceM": 424,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.72291666666666,
+      "lon": -3.3645833333333375,
+      "darkness": 0.7392568371948579,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Dearham",
+      "name": "Gilcrux",
+      "nameDistanceKm": 1.014,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2648674,
+      "id": "54.7229_-3.3646",
+      "altitude": 135,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/615168453",
+          "distanceM": 450,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/783971742",
+          "distanceM": 246,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/471771501",
+          "distanceM": 544,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.985416666666666,
+      "lon": -3.264583333333338,
+      "darkness": 0.7331308492362729,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Annan",
+      "name": "Annan",
+      "nameDistanceKm": 0.614,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2657293,
+      "id": "54.9854_-3.2646",
+      "altitude": 17,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/119147977",
+          "distanceM": 2,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "residential"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/816088533",
+          "distanceM": 292,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1348789264",
+          "distanceM": 58,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.27708333333333,
+      "lon": -3.4062500000000036,
+      "darkness": 0.7286661742071792,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Haverigg",
+      "name": "Annaside",
+      "nameDistanceKm": 1.286,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2657290,
+      "id": "54.2771_-3.4063",
+      "altitude": 22,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/118500055",
+          "distanceM": 174,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1419199902",
+          "distanceM": 495,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/517962397",
+          "distanceM": 373,
+          "elevationDeltaM": 18,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.547916666666666,
+      "lon": -3.3645833333333375,
+      "darkness": 0.7262235464760602,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Arlecdon",
+      "name": "Great Borne",
+      "nameDistanceKm": 1.563,
+      "nameFeatureCode": "PK",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 6696237,
+      "id": "54.5479_-3.3646",
+      "altitude": 422,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1079774350",
+          "distanceM": 732,
+          "elevationDeltaM": 26,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/198488863",
+          "distanceM": 4,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.48125,
+      "lon": -3.589583333333337,
+      "darkness": 0.6567355398421496,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Saint Bees",
+      "name": "Saint Bees",
+      "nameDistanceKm": 1.177,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2638851,
+      "id": "54.4813_-3.5896",
+      "altitude": 32,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/104482941",
+          "distanceM": 83,
+          "elevationDeltaM": 21,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "residential"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/112893196",
+          "distanceM": 83,
+          "elevationDeltaM": 21,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/381983942",
+          "distanceM": 64,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.64375,
+      "lon": -3.5604166666666703,
+      "darkness": 0.6058479429572314,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Workington",
+      "name": "Workington",
+      "nameDistanceKm": 1.057,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2633553,
+      "id": "54.6437_-3.5604",
+      "altitude": 6,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/788056326",
+          "distanceM": 47,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1252873519",
+          "distanceM": 554,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/430077496",
+          "distanceM": 187,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.21875,
+      "lon": -3.1979166666666714,
+      "darkness": 0.6047067958301824,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Kirkby-in-Furness",
+      "name": "Soutergate",
+      "nameDistanceKm": 0.905,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2637494,
+      "id": "54.2188_-3.1979",
+      "altitude": 4,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/561483848",
+          "distanceM": 333,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/794510029",
+          "distanceM": 90,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/794510013",
+          "distanceM": 39,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.947916666666664,
+      "lon": -3.03541666666667,
+      "darkness": 0.5483910147233715,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Burgh by Sands",
+      "name": "Rockcliffe Cross",
+      "nameDistanceKm": 1.082,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276177,
+      "id": "54.9479_-3.0354",
+      "altitude": 6,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/812778777",
+          "distanceM": 448,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1241158628",
+          "distanceM": 136,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/523653857",
+          "distanceM": 211,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.12291666666667,
+      "lon": -3.235416666666671,
+      "darkness": 0.4711795215058865,
+      "country": "GB",
+      "bortle": 5,
+      "near": "Barrow in Furness",
+      "name": "Barrow in Furness",
+      "nameDistanceKm": 1.426,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2656241,
+      "id": "54.1229_-3.2354",
+      "altitude": 19,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/386846864",
+          "distanceM": 7,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/393909985",
+          "distanceM": 551,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1423296750",
+          "distanceM": 112,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.985416666666666,
+      "lon": -3.91041666666667,
+      "darkness": 0.848451309589888,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Castle Douglas",
+      "name": "Old Bridge of Urr",
+      "nameDistanceKm": 0.486,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2641038,
+      "id": "54.9854_-3.9104",
+      "altitude": 35,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/889350505",
+          "distanceM": 315,
+          "elevationDeltaM": -19,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/383950496",
+          "distanceM": 609,
+          "elevationDeltaM": -25,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.98125,
+      "lon": -3.41041666666667,
+      "darkness": 0.7675931408964725,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Annan",
+      "name": "Ruthwell",
+      "nameDistanceKm": 1.316,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2638920,
+      "id": "54.9813_-3.4104",
+      "altitude": 4,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/373814561",
+          "distanceM": 123,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1412271404",
+          "distanceM": 119,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1412286304",
+          "distanceM": 540,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99375,
+      "lon": -3.4979166666666703,
+      "darkness": 0.7552959951089356,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Dumfries",
+      "name": "Shearington",
+      "nameDistanceKm": 1.387,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13273955,
+      "id": "54.9937_-3.4979",
+      "altitude": 8,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/42114459",
+          "distanceM": 32,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/904482184",
+          "distanceM": 352,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.989583333333336,
+      "lon": -3.22291666666667,
+      "darkness": 0.7257002415519149,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Annan",
+      "name": "Dornock",
+      "nameDistanceKm": 1.619,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2651084,
+      "id": "54.9896_-3.2229",
+      "altitude": 29,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/119148162",
+          "distanceM": 272,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/569075217",
+          "distanceM": 816,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -3.1770833333333375,
+      "darkness": 0.6940885924153501,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Eastriggs",
+      "name": "Eastriggs",
+      "nameDistanceKm": 1.346,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 8063602,
+      "id": "54.9979_-3.1771",
+      "altitude": 23,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/119746395",
+          "distanceM": 173,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/568767994",
+          "distanceM": 210,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -3.131250000000003,
+      "darkness": 0.6801288333807356,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Eastriggs",
+      "name": "Rigg",
+      "nameDistanceKm": 1.634,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2639360,
+      "id": "54.9979_-3.1313",
+      "altitude": 24,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/80375021",
+          "distanceM": 88,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/80375024",
+          "distanceM": 12,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -3.0854166666666707,
+      "darkness": 0.6671928932605813,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Gretna",
+      "name": "Gretna",
+      "nameDistanceKm": 1.324,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2647910,
+      "id": "54.9979_-3.0854",
+      "altitude": 28,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/976925112",
+          "distanceM": 48,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1019755323",
+          "distanceM": 26,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/915739753",
+          "distanceM": 665,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -3.039583333333338,
+      "darkness": 0.6446916139551012,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Gretna",
+      "name": "Blackbank",
+      "nameDistanceKm": 1.237,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13281569,
+      "id": "54.9979_-3.0396",
+      "altitude": 20,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/45377175",
+          "distanceM": 46,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/802951655",
+          "distanceM": 329,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.98125,
+      "lon": -3.5395833333333364,
+      "darkness": 0.766545948458185,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Cargenbridge",
+      "name": "Shearington",
+      "nameDistanceKm": 1.617,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13273955,
+      "id": "54.9813_-3.5396",
+      "altitude": 39,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/280915123",
+          "distanceM": 344,
+          "elevationDeltaM": 20,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/761026741",
+          "distanceM": 576,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1052994405",
+          "distanceM": 366,
+          "elevationDeltaM": -20,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    }
+  ]
 }

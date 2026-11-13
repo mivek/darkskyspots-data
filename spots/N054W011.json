@@ -1,38 +1,127 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N054W011",
-    "spots": [
-        {
-            "lat": 54.26875,
-            "lon": -10.072916666666671,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Belmullet",
-            "name": "Aughernagalliagh",
-            "nameDistanceKm": 0.452,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 9804831,
-            "id": "54.2687_-10.0729",
-            "altitude": 37
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N054W011",
+  "spots": [
+    {
+      "lat": 54.26875,
+      "lon": -10.072916666666671,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Belmullet",
+      "name": "Aughernagalliagh",
+      "nameDistanceKm": 0.452,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 9804831,
+      "id": "54.2687_-10.0729",
+      "altitude": 37,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/306474416",
+          "distanceM": 56,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
         },
-        {
-            "lat": 54.014583333333334,
-            "lon": -10.189583333333337,
-            "darkness": 1.0,
-            "country": "IE",
-            "bortle": 1,
-            "near": "Dooagh",
-            "name": "Saddle Head",
-            "nameDistanceKm": 0.078,
-            "nameFeatureCode": "CAPE",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2961639,
-            "id": "54.0146_-10.1896",
-            "altitude": 28
+        "track": {
+          "status": "found",
+          "osm": "way/231910916",
+          "distanceM": 495,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1478561200",
+          "distanceM": 489,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/1478561202",
+          "distanceM": 62,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
         }
-    ]
+      }
+    },
+    {
+      "lat": 54.014583333333334,
+      "lon": -10.189583333333337,
+      "darkness": 1.0,
+      "country": "IE",
+      "bortle": 1,
+      "near": "Dooagh",
+      "name": "Saddle Head",
+      "nameDistanceKm": 0.078,
+      "nameFeatureCode": "CAPE",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2961639,
+      "id": "54.0146_-10.1896",
+      "altitude": 28,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    }
+  ]
 }

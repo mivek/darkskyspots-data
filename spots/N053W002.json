@@ -1,428 +1,2115 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N053W002",
-    "spots": [
-        {
-            "lat": 53.989583333333336,
-            "lon": -1.9395833333333368,
-            "darkness": 0.34251614195704194,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Embsay",
-            "name": "Halton East",
-            "nameDistanceKm": 0.913,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13275280,
-            "id": "53.9896_-1.9396",
-            "altitude": 236
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N053W002",
+  "spots": [
+    {
+      "lat": 53.989583333333336,
+      "lon": -1.9395833333333368,
+      "darkness": 0.34251614195704194,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Embsay",
+      "name": "Halton East",
+      "nameDistanceKm": 0.913,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13275280,
+      "id": "53.9896_-1.9396",
+      "altitude": 236,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/132527053",
+          "distanceM": 609,
+          "elevationDeltaM": -73,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
         },
-        {
-            "lat": 53.11458333333333,
-            "lon": -1.8229166666666714,
-            "darkness": 0.297458641427507,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Youlgreave",
-            "name": "Alstonefield",
-            "nameDistanceKm": 2.114,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2657426,
-            "id": "53.1146_-1.8229",
-            "altitude": 261
+        "track": {
+          "status": "found",
+          "osm": "way/132527088",
+          "distanceM": 178,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "yes"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 53.21458333333333,
-            "lon": -1.6645833333333382,
-            "darkness": 0.2663138515382194,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Bakewell",
-            "name": "Bakewell",
-            "nameDistanceKm": 0.694,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2656617,
-            "id": "53.2146_-1.6646",
-            "altitude": 146
+        "path": {
+          "status": "found",
+          "osm": "way/58488072",
+          "distanceM": 183,
+          "elevationDeltaM": 11,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
         },
-        {
-            "lat": 53.89375,
-            "lon": -1.1645833333333382,
-            "darkness": 0.26271087012666894,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Copmanthorpe",
-            "name": "Colton",
-            "nameDistanceKm": 0.928,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 8051270,
-            "id": "53.8937_-1.1646",
-            "altitude": 12
-        },
-        {
-            "lat": 53.260416666666664,
-            "lon": -1.0270833333333371,
-            "darkness": 0.2472819224399444,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Hardwick Village",
-            "name": "Hardwick Village",
-            "nameDistanceKm": 1.827,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 11863041,
-            "id": "53.2604_-1.0271",
-            "altitude": 38
-        },
-        {
-            "lat": 53.072916666666664,
-            "lon": -1.5729166666666714,
-            "darkness": 0.24115675040196272,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Wirksworth",
-            "name": "Millers Green",
-            "nameDistanceKm": 0.758,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276282,
-            "id": "53.0729_-1.5729",
-            "altitude": 138
-        },
-        {
-            "lat": 53.35208333333333,
-            "lon": -1.7645833333333378,
-            "darkness": 0.23332794119240907,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Hope",
-            "name": "Hope",
-            "nameDistanceKm": 0.995,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2646640,
-            "id": "53.3521_-1.7646",
-            "altitude": 196
-        },
-        {
-            "lat": 53.02708333333333,
-            "lon": -1.0270833333333371,
-            "darkness": 0.20223522029668684,
-            "country": "GB",
-            "bortle": 6,
-            "near": "Lowdham",
-            "name": "Epperstone",
-            "nameDistanceKm": 0.309,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 11592729,
-            "id": "53.0271_-1.0271",
-            "altitude": 31
-        },
-        {
-            "lat": 53.072916666666664,
-            "lon": -1.0729166666666714,
-            "darkness": 0.1986609867106548,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Oxton",
-            "name": "Oxton",
-            "nameDistanceKm": 2.076,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2640716,
-            "id": "53.0729_-1.0729",
-            "altitude": 78
-        },
-        {
-            "lat": 53.94375,
-            "lon": -1.5312500000000036,
-            "darkness": 0.19809710797704128,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Pannal",
-            "name": "Kirkby Overblow",
-            "nameDistanceKm": 1.799,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2645302,
-            "id": "53.9438_-1.5313",
-            "altitude": 139
-        },
-        {
-            "lat": 53.44375,
-            "lon": -1.806250000000004,
-            "darkness": 0.19797926476447536,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Dunford Bridge",
-            "name": "Howden Reservoir",
-            "nameDistanceKm": 3.902,
-            "nameFeatureCode": "RSV",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2646498,
-            "id": "53.4438_-1.8063",
-            "altitude": 477
-        },
-        {
-            "lat": 53.260416666666664,
-            "lon": -1.118750000000004,
-            "darkness": 0.1978421451887803,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Worksop",
-            "name": "Carburton",
-            "nameDistanceKm": 2.498,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2653827,
-            "id": "53.2604_-1.1188",
-            "altitude": 84
-        },
-        {
-            "lat": 53.39791666666667,
-            "lon": -1.0270833333333371,
-            "darkness": 0.1970614564176537,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Ranskill",
-            "name": "Serlby",
-            "nameDistanceKm": 0.888,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13283883,
-            "id": "53.3979_-1.0271",
-            "altitude": 21
-        },
-        {
-            "lat": 53.71458333333333,
-            "lon": -1.118750000000004,
-            "darkness": 0.19625656045528972,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Hensall",
-            "name": "Hensall",
-            "nameDistanceKm": 1.543,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2647093,
-            "id": "53.7146_-1.1188",
-            "altitude": 6
-        },
-        {
-            "lat": 53.15625,
-            "lon": -1.4354166666666703,
-            "darkness": 0.1913124201268821,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Ashover",
-            "name": "Handley",
-            "nameDistanceKm": 0.586,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276075,
-            "id": "53.1562_-1.4354",
-            "altitude": 128
-        },
-        {
-            "lat": 53.89791666666667,
-            "lon": -1.84791666666667,
-            "darkness": 0.18448457894847414,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Ilkley",
-            "name": "West Morton",
-            "nameDistanceKm": 1.944,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12265602,
-            "id": "53.8979_-1.8479",
-            "altitude": 336
-        },
-        {
-            "lat": 53.35625,
-            "lon": -1.618750000000004,
-            "darkness": 0.18382641437183056,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Hathersage",
-            "name": "Redmires",
-            "nameDistanceKm": 1.391,
-            "nameFeatureCode": "RSV",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 6618605,
-            "id": "53.3563_-1.6188",
-            "altitude": 403
-        },
-        {
-            "lat": 53.85208333333333,
-            "lon": -1.3020833333333375,
-            "darkness": 0.18102185524376235,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Saxton",
-            "name": "Stutton",
-            "nameDistanceKm": 2.458,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12264371,
-            "id": "53.8521_-1.3021",
-            "altitude": 32
-        },
-        {
-            "lat": 53.71458333333333,
-            "lon": -1.985416666666671,
-            "darkness": 0.13949535992736206,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Cragg vale",
-            "name": "Cragg vale",
-            "nameDistanceKm": 1.31,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 11611428,
-            "id": "53.7146_-1.9854",
-            "altitude": 248
-        },
-        {
-            "lat": 53.53541666666666,
-            "lon": -1.618750000000004,
-            "darkness": 0.13226733569818938,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Penistone",
-            "name": "Hoylandswaine",
-            "nameDistanceKm": 0.991,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12265670,
-            "id": "53.5354_-1.6188",
-            "altitude": 236
-        },
-        {
-            "lat": 53.58125,
-            "lon": -1.8520833333333382,
-            "darkness": 0.13189478964610823,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Meltham",
-            "name": "Meltham",
-            "nameDistanceKm": 1.332,
-            "nameFeatureCode": "PPLA3",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2642766,
-            "id": "53.5812_-1.8521",
-            "altitude": 269
-        },
-        {
-            "lat": 53.014583333333334,
-            "lon": -1.3437500000000036,
-            "darkness": 0.11357739447235105,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Heanor",
-            "name": "Heanor",
-            "nameDistanceKm": 0.681,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2647227,
-            "id": "53.0146_-1.3438",
-            "altitude": 79
-        },
-        {
-            "lat": 53.30625,
-            "lon": -1.34791666666667,
-            "darkness": 0.11198609409032345,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Killamarsh",
-            "name": "Eckington",
-            "nameDistanceKm": 1.125,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2650264,
-            "id": "53.3062_-1.3479",
-            "altitude": 54
-        },
-        {
-            "lat": 53.577083333333334,
-            "lon": -1.2145833333333371,
-            "darkness": 0.10630350601107708,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Adwick le Street",
-            "name": "Skellow",
-            "nameDistanceKm": 1.293,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2637754,
-            "id": "53.5771_-1.2146",
-            "altitude": 32
-        },
-        {
-            "lat": 53.44375,
-            "lon": -1.2562500000000032,
-            "darkness": 0.07900464859237766,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Hellaby",
-            "name": "South Yorkshire",
-            "nameDistanceKm": 0.809,
-            "nameFeatureCode": "RGN",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 2637273,
-            "id": "53.4438_-1.2563",
-            "altitude": 106
-        },
-        {
-            "lat": 53.63125,
-            "lon": -1.4395833333333368,
-            "darkness": 0.06445636986220582,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Ryhill",
-            "name": "Cold Hiendley",
-            "nameDistanceKm": 0.866,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13280545,
-            "id": "53.6313_-1.4396",
-            "altitude": 65
-        },
-        {
-            "lat": 53.672916666666666,
-            "lon": -1.6645833333333382,
-            "darkness": 0.0352416068586523,
-            "country": "GB",
-            "bortle": 7,
-            "near": "Mirfield",
-            "name": "Sands",
-            "nameDistanceKm": 0.567,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13273920,
-            "id": "53.6729_-1.6646",
-            "altitude": 56
-        },
-        {
-            "lat": 53.80625,
-            "lon": -1.6645833333333382,
-            "darkness": 0.0,
-            "country": "GB",
-            "bortle": 8,
-            "near": "Pudsey",
-            "name": "Stanningley",
-            "nameDistanceKm": 0.171,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2637059,
-            "id": "53.8062_-1.6646",
-            "altitude": 122
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    },
+    {
+      "lat": 53.11458333333333,
+      "lon": -1.8229166666666714,
+      "darkness": 0.297458641427507,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Youlgreave",
+      "name": "Alstonefield",
+      "nameDistanceKm": 2.114,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2657426,
+      "id": "53.1146_-1.8229",
+      "altitude": 261,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/156365511",
+          "distanceM": 114,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/881385702",
+          "distanceM": 166,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/35031494",
+          "distanceM": 354,
+          "elevationDeltaM": 21,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.21458333333333,
+      "lon": -1.6645833333333382,
+      "darkness": 0.2663138515382194,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Bakewell",
+      "name": "Bakewell",
+      "nameDistanceKm": 0.694,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2656617,
+      "id": "53.2146_-1.6646",
+      "altitude": 146,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/413684921",
+          "distanceM": 63,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/30818992",
+          "distanceM": 62,
+          "elevationDeltaM": null,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "elevationUnknownReason": "surface_not_ground",
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/30818994",
+          "distanceM": 16,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.89375,
+      "lon": -1.1645833333333382,
+      "darkness": 0.26271087012666894,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Copmanthorpe",
+      "name": "Colton",
+      "nameDistanceKm": 0.928,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 8051270,
+      "id": "53.8937_-1.1646",
+      "altitude": 12,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/828513277",
+          "distanceM": 502,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/697976954",
+          "distanceM": 42,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/828448647",
+          "distanceM": 224,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "ambiguous_mode"
+            }
+          },
+          "highway": "steps"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.260416666666664,
+      "lon": -1.0270833333333371,
+      "darkness": 0.2472819224399444,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Hardwick Village",
+      "name": "Hardwick Village",
+      "nameDistanceKm": 1.827,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 11863041,
+      "id": "53.2604_-1.0271",
+      "altitude": 38,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/291477599",
+          "distanceM": 44,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "trunk"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/865473715",
+          "distanceM": 58,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "permissive"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "permissive"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/266669684",
+          "distanceM": 26,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.072916666666664,
+      "lon": -1.5729166666666714,
+      "darkness": 0.24115675040196272,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Wirksworth",
+      "name": "Millers Green",
+      "nameDistanceKm": 0.758,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276282,
+      "id": "53.0729_-1.5729",
+      "altitude": 138,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/23183398",
+          "distanceM": 129,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "residential"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/228319222",
+          "distanceM": 182,
+          "elevationDeltaM": -24,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/228319221",
+          "distanceM": 170,
+          "elevationDeltaM": -35,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.35208333333333,
+      "lon": -1.7645833333333378,
+      "darkness": 0.23332794119240907,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Hope",
+      "name": "Hope",
+      "nameDistanceKm": 0.995,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2646640,
+      "id": "53.3521_-1.7646",
+      "altitude": 196,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/76864240",
+          "distanceM": 10,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "destination"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/60303097",
+          "distanceM": 143,
+          "elevationDeltaM": -9,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/60303112",
+          "distanceM": 136,
+          "elevationDeltaM": -10,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.02708333333333,
+      "lon": -1.0270833333333371,
+      "darkness": 0.20223522029668684,
+      "country": "GB",
+      "bortle": 6,
+      "near": "Lowdham",
+      "name": "Epperstone",
+      "nameDistanceKm": 0.309,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 11592729,
+      "id": "53.0271_-1.0271",
+      "altitude": 31,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/109487851",
+          "distanceM": 102,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/974843562",
+          "distanceM": 143,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/109487834",
+          "distanceM": 142,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.072916666666664,
+      "lon": -1.0729166666666714,
+      "darkness": 0.1986609867106548,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Oxton",
+      "name": "Oxton",
+      "nameDistanceKm": 2.076,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2640716,
+      "id": "53.0729_-1.0729",
+      "altitude": 78,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/735114040",
+          "distanceM": 177,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/353647356",
+          "distanceM": 193,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/942851384",
+          "distanceM": 690,
+          "elevationDeltaM": -11,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.94375,
+      "lon": -1.5312500000000036,
+      "darkness": 0.19809710797704128,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Pannal",
+      "name": "Kirkby Overblow",
+      "nameDistanceKm": 1.799,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2645302,
+      "id": "53.9438_-1.5313",
+      "altitude": 139,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/35094039",
+          "distanceM": 68,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/778799227",
+          "distanceM": 104,
+          "elevationDeltaM": -11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1063712589",
+          "distanceM": 186,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.44375,
+      "lon": -1.806250000000004,
+      "darkness": 0.19797926476447536,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Dunford Bridge",
+      "name": "Howden Reservoir",
+      "nameDistanceKm": 3.902,
+      "nameFeatureCode": "RSV",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2646498,
+      "id": "53.4438_-1.8063",
+      "altitude": 477,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/254899464",
+          "distanceM": 603,
+          "elevationDeltaM": -19,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.260416666666664,
+      "lon": -1.118750000000004,
+      "darkness": 0.1978421451887803,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Worksop",
+      "name": "Carburton",
+      "nameDistanceKm": 2.498,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2653827,
+      "id": "53.2604_-1.1188",
+      "altitude": 84,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/300910411",
+          "distanceM": 218,
+          "elevationDeltaM": -8,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/340873359",
+          "distanceM": 983,
+          "elevationDeltaM": 27,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.39791666666667,
+      "lon": -1.0270833333333371,
+      "darkness": 0.1970614564176537,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Ranskill",
+      "name": "Serlby",
+      "nameDistanceKm": 0.888,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13283883,
+      "id": "53.3979_-1.0271",
+      "altitude": 21,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/864974503",
+          "distanceM": 430,
+          "elevationDeltaM": 14,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1531195762",
+          "distanceM": 196,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.71458333333333,
+      "lon": -1.118750000000004,
+      "darkness": 0.19625656045528972,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Hensall",
+      "name": "Hensall",
+      "nameDistanceKm": 1.543,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2647093,
+      "id": "53.7146_-1.1188",
+      "altitude": 6,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/45740139",
+          "distanceM": 54,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/182547585",
+          "distanceM": 319,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1443903980",
+          "distanceM": 887,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.15625,
+      "lon": -1.4354166666666703,
+      "darkness": 0.1913124201268821,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Ashover",
+      "name": "Handley",
+      "nameDistanceKm": 0.586,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276075,
+      "id": "53.1562_-1.4354",
+      "altitude": 128,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/27558575",
+          "distanceM": 98,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/79277642",
+          "distanceM": 51,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/79277627",
+          "distanceM": 62,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.89791666666667,
+      "lon": -1.84791666666667,
+      "darkness": 0.18448457894847414,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Ilkley",
+      "name": "West Morton",
+      "nameDistanceKm": 1.944,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12265602,
+      "id": "53.8979_-1.8479",
+      "altitude": 336,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/4635175",
+          "distanceM": 637,
+          "elevationDeltaM": -38,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/91910168",
+          "distanceM": 651,
+          "elevationDeltaM": -52,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/42770969",
+          "distanceM": 672,
+          "elevationDeltaM": -50,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.35625,
+      "lon": -1.618750000000004,
+      "darkness": 0.18382641437183056,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Hathersage",
+      "name": "Redmires",
+      "nameDistanceKm": 1.391,
+      "nameFeatureCode": "RSV",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 6618605,
+      "id": "53.3563_-1.6188",
+      "altitude": 403,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/436855235",
+          "distanceM": 717,
+          "elevationDeltaM": 46,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/22913084",
+          "distanceM": 444,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/89584247",
+          "distanceM": 170,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "permissive"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.85208333333333,
+      "lon": -1.3020833333333375,
+      "darkness": 0.18102185524376235,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Saxton",
+      "name": "Stutton",
+      "nameDistanceKm": 2.458,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12264371,
+      "id": "53.8521_-1.3021",
+      "altitude": 32,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1425525461",
+          "distanceM": 2,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/366004068",
+          "distanceM": 46,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1184282013",
+          "distanceM": 768,
+          "elevationDeltaM": -25,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.71458333333333,
+      "lon": -1.985416666666671,
+      "darkness": 0.13949535992736206,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Cragg vale",
+      "name": "Cragg vale",
+      "nameDistanceKm": 1.31,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 11611428,
+      "id": "53.7146_-1.9854",
+      "altitude": 248,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/959685251",
+          "distanceM": 172,
+          "elevationDeltaM": -13,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/713893447",
+          "distanceM": 293,
+          "elevationDeltaM": 75,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/959685249",
+          "distanceM": 14,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.53541666666666,
+      "lon": -1.618750000000004,
+      "darkness": 0.13226733569818938,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Penistone",
+      "name": "Hoylandswaine",
+      "nameDistanceKm": 0.991,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12265670,
+      "id": "53.5354_-1.6188",
+      "altitude": 236,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/4448650",
+          "distanceM": 143,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "trunk"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1003031544",
+          "distanceM": 200,
+          "elevationDeltaM": -13,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/698120370",
+          "distanceM": 81,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.58125,
+      "lon": -1.8520833333333382,
+      "darkness": 0.13189478964610823,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Meltham",
+      "name": "Meltham",
+      "nameDistanceKm": 1.332,
+      "nameFeatureCode": "PPLA3",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2642766,
+      "id": "53.5812_-1.8521",
+      "altitude": 269,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/33095421",
+          "distanceM": 38,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/33095422",
+          "distanceM": 79,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1136557290",
+          "distanceM": 80,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.014583333333334,
+      "lon": -1.3437500000000036,
+      "darkness": 0.11357739447235105,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Heanor",
+      "name": "Heanor",
+      "nameDistanceKm": 0.681,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2647227,
+      "id": "53.0146_-1.3438",
+      "altitude": 79,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/902646622",
+          "distanceM": 11,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/119241864",
+          "distanceM": 733,
+          "elevationDeltaM": -40,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/111414460",
+          "distanceM": 233,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.30625,
+      "lon": -1.34791666666667,
+      "darkness": 0.11198609409032345,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Killamarsh",
+      "name": "Eckington",
+      "nameDistanceKm": 1.125,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2650264,
+      "id": "53.3062_-1.3479",
+      "altitude": 54,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/44015756",
+          "distanceM": 118,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "primary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/878906071",
+          "distanceM": 181,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/878906069",
+          "distanceM": 245,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "permissive"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.577083333333334,
+      "lon": -1.2145833333333371,
+      "darkness": 0.10630350601107708,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Adwick le Street",
+      "name": "Skellow",
+      "nameDistanceKm": 1.293,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2637754,
+      "id": "53.5771_-1.2146",
+      "altitude": 32,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/30282723",
+          "distanceM": 22,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "trunk_link"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/818856977",
+          "distanceM": 258,
+          "elevationDeltaM": 9,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/394953617",
+          "distanceM": 126,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "no"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "no"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.44375,
+      "lon": -1.2562500000000032,
+      "darkness": 0.07900464859237766,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Hellaby",
+      "name": "South Yorkshire",
+      "nameDistanceKm": 0.809,
+      "nameFeatureCode": "RGN",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 2637273,
+      "id": "53.4438_-1.2563",
+      "altitude": 106,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/58742300",
+          "distanceM": 348,
+          "elevationDeltaM": -15,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "residential"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/951494066",
+          "distanceM": 163,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/945182146",
+          "distanceM": 41,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.63125,
+      "lon": -1.4395833333333368,
+      "darkness": 0.06445636986220582,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Ryhill",
+      "name": "Cold Hiendley",
+      "nameDistanceKm": 0.866,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13280545,
+      "id": "53.6313_-1.4396",
+      "altitude": 65,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/257359358",
+          "distanceM": 162,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/199613877",
+          "distanceM": 84,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1334660417",
+          "distanceM": 154,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.672916666666666,
+      "lon": -1.6645833333333382,
+      "darkness": 0.0352416068586523,
+      "country": "GB",
+      "bortle": 7,
+      "near": "Mirfield",
+      "name": "Sands",
+      "nameDistanceKm": 0.567,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13273920,
+      "id": "53.6729_-1.6646",
+      "altitude": 56,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/194097139",
+          "distanceM": 187,
+          "elevationDeltaM": 15,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/38890175",
+          "distanceM": 109,
+          "elevationDeltaM": 16,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/88273815",
+          "distanceM": 18,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "bridleway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.80625,
+      "lon": -1.6645833333333382,
+      "darkness": 0.0,
+      "country": "GB",
+      "bortle": 8,
+      "near": "Pudsey",
+      "name": "Stanningley",
+      "nameDistanceKm": 0.171,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2637059,
+      "id": "53.8062_-1.6646",
+      "altitude": 122,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/33857835",
+          "distanceM": 10,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/38128477",
+          "distanceM": 710,
+          "elevationDeltaM": -16,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1537780291",
+          "distanceM": 5,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    }
+  ]
 }

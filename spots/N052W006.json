@@ -1,23 +1,72 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N052W006",
-    "spots": [
-        {
-            "lat": 52.02291666666667,
-            "lon": -5.077083333333338,
-            "darkness": 0.9975741746166866,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Goodwick",
-            "name": "Ynys Onnen",
-            "nameDistanceKm": 0.621,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13286277,
-            "id": "52.0229_-5.0771",
-            "altitude": 46
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N052W006",
+  "spots": [
+    {
+      "lat": 52.02291666666667,
+      "lon": -5.077083333333338,
+      "darkness": 0.9975741746166866,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Goodwick",
+      "name": "Ynys Onnen",
+      "nameDistanceKm": 0.621,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 13286277,
+      "id": "52.0229_-5.0771",
+      "altitude": 46,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/205272135",
+          "distanceM": 544,
+          "elevationDeltaM": -7,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/4228423",
+          "distanceM": 59,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "motor_vehicle",
+              "value": "no"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    }
+  ]
 }

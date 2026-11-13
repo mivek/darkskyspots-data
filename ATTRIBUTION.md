@@ -62,6 +62,8 @@ See [OpenStreetMap copyright](https://www.openstreetmap.org/copyright) and
   shapefile archives/members and their recorded regional provenance, not today's
   `latest` downloads. [Geofabrik download terms](https://www.geofabrik.de/data/download.html).
 
+GB and Ireland accessibility fields use Geofabrik OSM extracts identified in `accessibility/sources/`. They describe nearby mapped infrastructure, not proof of legal access. Parking evidence in Great Britain and restriction evidence are incomplete; missing or incomplete mapped evidence can be unknown. Cluster representative accessibility describes only that individual spot.
+
 OSM-derived land, water and wetland evidence is spatially prepared and indexed,
 then influences candidate qualification, ranking, selection and retention.
 Coordinates originate at VIIRS pixel centres; that fact alone does not remove

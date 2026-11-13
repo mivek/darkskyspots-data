@@ -1,23 +1,85 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N049W007",
-    "spots": [
-        {
-            "lat": 49.96041666666667,
-            "lon": -6.3437500000000036,
-            "darkness": 1.0,
-            "country": "GB",
-            "bortle": 1,
-            "near": "Isles of Scilly",
-            "name": "Hangman Island",
-            "nameDistanceKm": 0.444,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13285297,
-            "id": "49.9604_-6.3438",
-            "altitude": 37
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N049W007",
+  "spots": [
+    {
+      "lat": 49.96041666666667,
+      "lon": -6.3437500000000036,
+      "darkness": 1.0,
+      "country": "GB",
+      "bortle": 1,
+      "near": "Isles of Scilly",
+      "name": "Hangman Island",
+      "nameDistanceKm": 0.444,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 13285297,
+      "id": "49.9604_-6.3438",
+      "altitude": 37,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/62032319",
+          "distanceM": 459,
+          "elevationDeltaM": 35,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1059087581",
+          "distanceM": 112,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1059087583",
+          "distanceM": 11,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    }
+  ]
 }

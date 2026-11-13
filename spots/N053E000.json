@@ -1,128 +1,601 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N053E000",
-    "spots": [
-        {
-            "lat": 53.28541666666666,
-            "lon": 0.306249999999995,
-            "darkness": 0.6675201351477319,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Huttoft",
-            "name": "Sandilands",
-            "nameDistanceKm": 2.164,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12263446,
-            "id": "53.2854_0.3062",
-            "altitude": 3
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N053E000",
+  "spots": [
+    {
+      "lat": 53.28541666666666,
+      "lon": 0.306249999999995,
+      "darkness": 0.6675201351477319,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Huttoft",
+      "name": "Sandilands",
+      "nameDistanceKm": 2.164,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12263446,
+      "id": "53.2854_0.3062",
+      "altitude": 3,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/67335164",
+          "distanceM": 192,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
         },
-        {
-            "lat": 53.077083333333334,
-            "lon": 0.2729166666666636,
-            "darkness": 0.6496475475546866,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Wainfleet All Saints",
-            "name": "Wainfleet All Saints",
-            "nameDistanceKm": 4.032,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2634914,
-            "id": "53.0771_0.2729",
-            "altitude": 2
+        "track": {
+          "status": "found",
+          "osm": "way/1359686012",
+          "distanceM": 134,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "permissive"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "permit"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 53.202083333333334,
-            "lon": 0.09374999999999645,
-            "darkness": 0.6374006506860858,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Spilsby",
-            "name": "Partney",
-            "nameDistanceKm": 1.414,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2640592,
-            "id": "53.2021_0.0937",
-            "altitude": 26
+        "path": {
+          "status": "found",
+          "osm": "way/1424706024",
+          "distanceM": 39,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
         },
-        {
-            "lat": 53.39791666666667,
-            "lon": 0.1645833333333293,
-            "darkness": 0.6143161489406395,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Saltfleet",
-            "name": "Saltfleetby St Clement",
-            "nameDistanceKm": 1.264,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2638642,
-            "id": "53.3979_0.1646",
-            "altitude": 1
-        },
-        {
-            "lat": 53.072916666666664,
-            "lon": 0.027083333333330017,
-            "darkness": 0.5848377605502322,
-            "country": "GB",
-            "bortle": 4,
-            "near": "Stickney",
-            "name": "Northlands",
-            "nameDistanceKm": 1.581,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12263416,
-            "id": "53.0729_0.0271",
-            "altitude": 0
-        },
-        {
-            "lat": 53.61458333333333,
-            "lon": 0.14374999999999716,
-            "darkness": 0.4991470846571867,
-            "country": "GB",
-            "bortle": 5,
-            "near": "Easington",
-            "name": "Kilnsea",
-            "nameDistanceKm": 0.713,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2645566,
-            "id": "53.6146_0.1437",
-            "altitude": 4
-        },
-        {
-            "lat": 53.452083333333334,
-            "lon": 0.027083333333330017,
-            "darkness": 0.49250687223112977,
-            "country": "GB",
-            "bortle": 5,
-            "near": "Fulstow",
-            "name": "West End",
-            "nameDistanceKm": 1.623,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13276477,
-            "id": "53.4521_0.0271",
-            "altitude": 3
-        },
-        {
-            "lat": 53.735416666666666,
-            "lon": 0.027083333333330017,
-            "darkness": 0.4611916496595999,
-            "country": "GB",
-            "bortle": 5,
-            "near": "Withernsea",
-            "name": "Withernsea",
-            "nameDistanceKm": 0.572,
-            "nameFeatureCode": "PPLA3",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2633744,
-            "id": "53.7354_0.0271",
-            "altitude": 15
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    },
+    {
+      "lat": 53.077083333333334,
+      "lon": 0.2729166666666636,
+      "darkness": 0.6496475475546866,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Wainfleet All Saints",
+      "name": "Wainfleet All Saints",
+      "nameDistanceKm": 4.032,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2634914,
+      "id": "53.0771_0.2729",
+      "altitude": 2,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/352310316",
+          "distanceM": 756,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/252060196",
+          "distanceM": 46,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "no"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.202083333333334,
+      "lon": 0.09374999999999645,
+      "darkness": 0.6374006506860858,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Spilsby",
+      "name": "Partney",
+      "nameDistanceKm": 1.414,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2640592,
+      "id": "53.2021_0.0937",
+      "altitude": 26,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/884676752",
+          "distanceM": 619,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/256367511",
+          "distanceM": 27,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/256367509",
+          "distanceM": 35,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.39791666666667,
+      "lon": 0.1645833333333293,
+      "darkness": 0.6143161489406395,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Saltfleet",
+      "name": "Saltfleetby St Clement",
+      "nameDistanceKm": 1.264,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2638642,
+      "id": "53.3979_0.1646",
+      "altitude": 1,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/30676886",
+          "distanceM": 647,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1161757337",
+          "distanceM": 24,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1315035249",
+          "distanceM": 932,
+          "elevationDeltaM": null,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "elevationUnknownReason": "surface_not_ground",
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.072916666666664,
+      "lon": 0.027083333333330017,
+      "darkness": 0.5848377605502322,
+      "country": "GB",
+      "bortle": 4,
+      "near": "Stickney",
+      "name": "Northlands",
+      "nameDistanceKm": 1.581,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12263416,
+      "id": "53.0729_0.0271",
+      "altitude": 0,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/26643561",
+          "distanceM": 702,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1469923659",
+          "distanceM": 212,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1469923640",
+          "distanceM": 898,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.61458333333333,
+      "lon": 0.14374999999999716,
+      "darkness": 0.4991470846571867,
+      "country": "GB",
+      "bortle": 5,
+      "near": "Easington",
+      "name": "Kilnsea",
+      "nameDistanceKm": 0.713,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2645566,
+      "id": "53.6146_0.1437",
+      "altitude": 4,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1375117579",
+          "distanceM": 190,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/145574544",
+          "distanceM": 406,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/950104970",
+          "distanceM": 178,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.452083333333334,
+      "lon": 0.027083333333330017,
+      "darkness": 0.49250687223112977,
+      "country": "GB",
+      "bortle": 5,
+      "near": "Fulstow",
+      "name": "West End",
+      "nameDistanceKm": 1.623,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13276477,
+      "id": "53.4521_0.0271",
+      "altitude": 3,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/254952843",
+          "distanceM": 272,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1427316315",
+          "distanceM": 195,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1024953009",
+          "distanceM": 623,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "designated"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 53.735416666666666,
+      "lon": 0.027083333333330017,
+      "darkness": 0.4611916496595999,
+      "country": "GB",
+      "bortle": 5,
+      "near": "Withernsea",
+      "name": "Withernsea",
+      "nameDistanceKm": 0.572,
+      "nameFeatureCode": "PPLA3",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2633744,
+      "id": "53.7354_0.0271",
+      "altitude": 15,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/26184407",
+          "distanceM": 4,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/531584012",
+          "distanceM": 494,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1465169629",
+          "distanceM": 59,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    }
+  ]
 }

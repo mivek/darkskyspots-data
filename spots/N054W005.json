@@ -1,233 +1,981 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N054W005",
-    "spots": [
-        {
-            "lat": 54.827083333333334,
-            "lon": -4.647916666666671,
-            "darkness": 1.0,
-            "country": "GB",
-            "bortle": 1,
-            "near": "Glenluce",
-            "name": "Mochrum Loch",
-            "nameDistanceKm": 0.707,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2642399,
-            "id": "54.8271_-4.6479",
-            "altitude": 106
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N054W005",
+  "spots": [
+    {
+      "lat": 54.827083333333334,
+      "lon": -4.647916666666671,
+      "darkness": 1.0,
+      "country": "GB",
+      "bortle": 1,
+      "near": "Glenluce",
+      "name": "Mochrum Loch",
+      "nameDistanceKm": 0.707,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2642399,
+      "id": "54.8271_-4.6479",
+      "altitude": 106,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/90288167",
+          "distanceM": 192,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
         },
-        {
-            "lat": 54.81458333333333,
-            "lon": -4.414583333333336,
-            "darkness": 1.0,
-            "country": "GB",
-            "bortle": 1,
-            "near": "Wigtown",
-            "name": "North Balfern",
-            "nameDistanceKm": 2.228,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13282560,
-            "id": "54.8146_-4.4146",
-            "altitude": 47
+        "track": {
+          "status": "found",
+          "osm": "way/590281193",
+          "distanceM": 94,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 54.864583333333336,
-            "lon": -4.4895833333333375,
-            "darkness": 0.995951558370749,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Wigtown",
-            "name": "Bladnoch",
-            "nameDistanceKm": 2.087,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2655417,
-            "id": "54.8646_-4.4896",
-            "altitude": 10
+        "path": {
+          "status": "not_found_within_radius"
         },
-        {
-            "lat": 54.79375,
-            "lon": -4.172916666666671,
-            "darkness": 0.9882689871271958,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Kirkcudbright",
-            "name": "Kirkandrews",
-            "nameDistanceKm": 1.716,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13279041,
-            "id": "54.7938_-4.1729",
-            "altitude": 51
-        },
-        {
-            "lat": 54.83125,
-            "lon": -4.7395833333333375,
-            "darkness": 0.980095229703186,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Glenluce",
-            "name": "Gillespie",
-            "nameDistanceKm": 0.462,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2648661,
-            "id": "54.8312_-4.7396",
-            "altitude": 58
-        },
-        {
-            "lat": 54.635416666666664,
-            "lon": -4.8645833333333375,
-            "darkness": 0.976865813483788,
-            "country": "GB",
-            "bortle": 2,
-            "near": "",
-            "name": "Mull of Galloway",
-            "nameDistanceKm": 0.641,
-            "nameFeatureCode": "CAPE",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2648914,
-            "id": "54.6354_-4.8646",
-            "altitude": 51
-        },
-        {
-            "lat": 54.95625,
-            "lon": -4.22291666666667,
-            "darkness": 0.9530235708951476,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Gatehouse of Fleet",
-            "name": "Isle of Pins",
-            "nameDistanceKm": 1.81,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13286433,
-            "id": "54.9562_-4.2229",
-            "altitude": 165
-        },
-        {
-            "lat": 54.99791666666667,
-            "lon": -4.831250000000004,
-            "darkness": 0.9211350959168962,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Cairnryan",
-            "name": "Glenwhilly",
-            "nameDistanceKm": 2.271,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2648414,
-            "id": "54.9979_-4.8313",
-            "altitude": 188
-        },
-        {
-            "lat": 54.77291666666667,
-            "lon": -4.9687500000000036,
-            "darkness": 0.9164077071315595,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Portpatrick",
-            "name": "Clachanmore",
-            "nameDistanceKm": 0.996,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 13279411,
-            "id": "54.7729_-4.9688",
-            "altitude": 35
-        },
-        {
-            "lat": 54.885416666666664,
-            "lon": -4.9687500000000036,
-            "darkness": 0.8381261139901872,
-            "country": "GB",
-            "bortle": 3,
-            "near": "Stranraer",
-            "name": "Soulseat Loch",
-            "nameDistanceKm": 0.267,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2637502,
-            "id": "54.8854_-4.9688",
-            "altitude": 23
-        },
-        {
-            "lat": 54.99791666666667,
-            "lon": -4.002083333333337,
-            "darkness": 0.8856292949204583,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Castle Douglas",
-            "name": "Parton Ward",
-            "nameDistanceKm": 1.104,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13285745,
-            "id": "54.9979_-4.0021",
-            "altitude": 49
-        },
-        {
-            "lat": 54.95625,
-            "lon": -4.639583333333338,
-            "darkness": 0.9613856600486486,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Newton Stewart",
-            "name": "Isle-na-Gower",
-            "nameDistanceKm": 3.079,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 13284565,
-            "id": "54.9562_-4.6396",
-            "altitude": 141
-        },
-        {
-            "lat": 54.98125,
-            "lon": -4.047916666666671,
-            "darkness": 0.9081702614983642,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Castle Douglas",
-            "name": "Laurieston",
-            "nameDistanceKm": 1.627,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2644808,
-            "id": "54.9813_-4.0479",
-            "altitude": 104
-        },
-        {
-            "lat": 54.95625,
-            "lon": -4.647916666666671,
-            "darkness": 0.9607780017033037,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Newton Stewart",
-            "name": "Loch Heron",
-            "nameDistanceKm": 3.398,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 2647054,
-            "id": "54.9562_-4.6479",
-            "altitude": 85
-        },
-        {
-            "lat": 54.95625,
-            "lon": -4.34791666666667,
-            "darkness": 0.9593148974632892,
-            "country": "GB",
-            "bortle": 2,
-            "near": "Creetown",
-            "name": "Cairnsmore of Fleet",
-            "nameDistanceKm": 2.156,
-            "nameFeatureCode": "MT",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2654052,
-            "id": "54.9562_-4.3479",
-            "altitude": 312
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
         }
-    ]
+      }
+    },
+    {
+      "lat": 54.81458333333333,
+      "lon": -4.414583333333336,
+      "darkness": 1.0,
+      "country": "GB",
+      "bortle": 1,
+      "near": "Wigtown",
+      "name": "North Balfern",
+      "nameDistanceKm": 2.228,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13282560,
+      "id": "54.8146_-4.4146",
+      "altitude": 47,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/37589605",
+          "distanceM": 82,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/486830093",
+          "distanceM": 432,
+          "elevationDeltaM": 20,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1304900806",
+          "distanceM": 30,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.864583333333336,
+      "lon": -4.4895833333333375,
+      "darkness": 0.995951558370749,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Wigtown",
+      "name": "Bladnoch",
+      "nameDistanceKm": 2.087,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2655417,
+      "id": "54.8646_-4.4896",
+      "altitude": 10,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/43567791",
+          "distanceM": 191,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/591203277",
+          "distanceM": 314,
+          "elevationDeltaM": -23,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.79375,
+      "lon": -4.172916666666671,
+      "darkness": 0.9882689871271958,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Kirkcudbright",
+      "name": "Kirkandrews",
+      "nameDistanceKm": 1.716,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13279041,
+      "id": "54.7938_-4.1729",
+      "altitude": 51,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/380986795",
+          "distanceM": 483,
+          "elevationDeltaM": 11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/380986789",
+          "distanceM": 249,
+          "elevationDeltaM": 11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1078053869",
+          "distanceM": 311,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.83125,
+      "lon": -4.7395833333333375,
+      "darkness": 0.980095229703186,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Glenluce",
+      "name": "Gillespie",
+      "nameDistanceKm": 0.462,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2648661,
+      "id": "54.8312_-4.7396",
+      "altitude": 58,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/589703115",
+          "distanceM": 226,
+          "elevationDeltaM": 29,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/589703111",
+          "distanceM": 269,
+          "elevationDeltaM": 26,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/589702978",
+          "distanceM": 387,
+          "elevationDeltaM": 54,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.635416666666664,
+      "lon": -4.8645833333333375,
+      "darkness": 0.976865813483788,
+      "country": "GB",
+      "bortle": 2,
+      "near": "",
+      "name": "Mull of Galloway",
+      "nameDistanceKm": 0.641,
+      "nameFeatureCode": "CAPE",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2648914,
+      "id": "54.6354_-4.8646",
+      "altitude": 51,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/808075288",
+          "distanceM": 32,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/58828138",
+          "distanceM": 886,
+          "elevationDeltaM": 44,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/850237699",
+          "distanceM": 55,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.95625,
+      "lon": -4.22291666666667,
+      "darkness": 0.9530235708951476,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Gatehouse of Fleet",
+      "name": "Isle of Pins",
+      "nameDistanceKm": 1.81,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 13286433,
+      "id": "54.9562_-4.2229",
+      "altitude": 165,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/380251078",
+          "distanceM": 965,
+          "elevationDeltaM": 123,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -4.831250000000004,
+      "darkness": 0.9211350959168962,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Cairnryan",
+      "name": "Glenwhilly",
+      "nameDistanceKm": 2.271,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2648414,
+      "id": "54.9979_-4.8313",
+      "altitude": 188,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/828592446",
+          "distanceM": 501,
+          "elevationDeltaM": -22,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.77291666666667,
+      "lon": -4.9687500000000036,
+      "darkness": 0.9164077071315595,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Portpatrick",
+      "name": "Clachanmore",
+      "nameDistanceKm": 0.996,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 13279411,
+      "id": "54.7729_-4.9688",
+      "altitude": 35,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/377127486",
+          "distanceM": 3,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/377112009",
+          "distanceM": 105,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1192965959",
+          "distanceM": 966,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.885416666666664,
+      "lon": -4.9687500000000036,
+      "darkness": 0.8381261139901872,
+      "country": "GB",
+      "bortle": 3,
+      "near": "Stranraer",
+      "name": "Soulseat Loch",
+      "nameDistanceKm": 0.267,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2637502,
+      "id": "54.8854_-4.9688",
+      "altitude": 23,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/827484693",
+          "distanceM": 137,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1153438613",
+          "distanceM": 552,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.99791666666667,
+      "lon": -4.002083333333337,
+      "darkness": 0.8856292949204583,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Castle Douglas",
+      "name": "Parton Ward",
+      "nameDistanceKm": 1.104,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 13285745,
+      "id": "54.9979_-4.0021",
+      "altitude": 49,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/202299227",
+          "distanceM": 186,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/339297452",
+          "distanceM": 278,
+          "elevationDeltaM": -35,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/28238587",
+          "distanceM": 308,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "foot",
+              "value": "permissive"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.95625,
+      "lon": -4.639583333333338,
+      "darkness": 0.9613856600486486,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Newton Stewart",
+      "name": "Isle-na-Gower",
+      "nameDistanceKm": 3.079,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 13284565,
+      "id": "54.9562_-4.6396",
+      "altitude": 141,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/216267069",
+          "distanceM": 171,
+          "elevationDeltaM": 37,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.98125,
+      "lon": -4.047916666666671,
+      "darkness": 0.9081702614983642,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Castle Douglas",
+      "name": "Laurieston",
+      "nameDistanceKm": 1.627,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2644808,
+      "id": "54.9813_-4.0479",
+      "altitude": 104,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/202564559",
+          "distanceM": 236,
+          "elevationDeltaM": 21,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/202564564",
+          "distanceM": 296,
+          "elevationDeltaM": 19,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1176282072",
+          "distanceM": 807,
+          "elevationDeltaM": -54,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.95625,
+      "lon": -4.647916666666671,
+      "darkness": 0.9607780017033037,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Newton Stewart",
+      "name": "Loch Heron",
+      "nameDistanceKm": 3.398,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 2647054,
+      "id": "54.9562_-4.6479",
+      "altitude": 85,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/216392016",
+          "distanceM": 827,
+          "elevationDeltaM": -9,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/216267070",
+          "distanceM": 20,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    },
+    {
+      "lat": 54.95625,
+      "lon": -4.34791666666667,
+      "darkness": 0.9593148974632892,
+      "country": "GB",
+      "bortle": 2,
+      "near": "Creetown",
+      "name": "Cairnsmore of Fleet",
+      "nameDistanceKm": 2.156,
+      "nameFeatureCode": "MT",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2654052,
+      "id": "54.9562_-4.3479",
+      "altitude": 312,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-gb-6c09638734244e9a",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/70287989",
+          "distanceM": 438,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/37850680",
+          "distanceM": 713,
+          "elevationDeltaM": -99,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "unknown",
+          "reason": "incomplete_geometry"
+        }
+      }
+    }
+  ]
 }

@@ -1,218 +1,1075 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N051W009",
-    "spots": [
-        {
-            "lat": 51.55208333333333,
-            "lon": -8.906250000000004,
-            "darkness": 0.9025095693258084,
-            "country": "IE",
-            "bortle": 2,
-            "near": "Clonakilty",
-            "name": "Ballynoe",
-            "nameDistanceKm": 0.435,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3293487,
-            "id": "51.5521_-8.9063",
-            "altitude": 60
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N051W009",
+  "spots": [
+    {
+      "lat": 51.55208333333333,
+      "lon": -8.906250000000004,
+      "darkness": 0.9025095693258084,
+      "country": "IE",
+      "bortle": 2,
+      "near": "Clonakilty",
+      "name": "Ballynoe",
+      "nameDistanceKm": 0.435,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3293487,
+      "id": "51.5521_-8.9063",
+      "altitude": 60,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/232599728",
+          "distanceM": 111,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
         },
-        {
-            "lat": 51.59375,
-            "lon": -8.77291666666667,
-            "darkness": 0.8413219176641145,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Courtmacsherry",
-            "name": "Lehenagh",
-            "nameDistanceKm": 0.236,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3293514,
-            "id": "51.5938_-8.7729",
-            "altitude": 27
+        "track": {
+          "status": "found",
+          "osm": "way/656251520",
+          "distanceM": 122,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 51.61875,
-            "lon": -8.543750000000003,
-            "darkness": 0.7459510773839032,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Kinsale",
-            "name": "Black Head",
-            "nameDistanceKm": 1.208,
-            "nameFeatureCode": "CAPE",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3230130,
-            "id": "51.6187_-8.5438",
-            "altitude": 14
+        "path": {
+          "status": "found",
+          "osm": "way/656251540",
+          "distanceM": 216,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "path"
         },
-        {
-            "lat": 51.91875,
-            "lon": -8.952083333333338,
-            "darkness": 0.7457806456319424,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Macroom",
-            "name": "Kill",
-            "nameDistanceKm": 0.84,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3291498,
-            "id": "51.9188_-8.9521",
-            "altitude": 145
-        },
-        {
-            "lat": 51.639583333333334,
-            "lon": -8.66041666666667,
-            "darkness": 0.7367148861702643,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Courtmacsherry",
-            "name": "Sea View",
-            "nameDistanceKm": 1.642,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3293583,
-            "id": "51.6396_-8.6604",
-            "altitude": 48
-        },
-        {
-            "lat": 51.74791666666667,
-            "lon": -8.86041666666667,
-            "darkness": 0.7266035934078271,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Enniskeane",
-            "name": "Kilcolman Park",
-            "nameDistanceKm": 1.821,
-            "nameFeatureCode": "PRK",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3293812,
-            "id": "51.7479_-8.8604",
-            "altitude": 73
-        },
-        {
-            "lat": 51.69375,
-            "lon": -8.43541666666667,
-            "darkness": 0.588438867695142,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Belgooly",
-            "name": "Big Doon",
-            "nameDistanceKm": 0.565,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3293802,
-            "id": "51.6938_-8.4354",
-            "altitude": 63
-        },
-        {
-            "lat": 51.80625,
-            "lon": -8.131250000000005,
-            "darkness": 0.5523163656449761,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Cloyne",
-            "name": "Ballyrobin South",
-            "nameDistanceKm": 0.903,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3294222,
-            "id": "51.8062_-8.1313",
-            "altitude": 16
-        },
-        {
-            "lat": 51.79375,
-            "lon": -8.631250000000005,
-            "darkness": 0.5045336029148367,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Innishannon",
-            "name": "Barna Cross Roads",
-            "nameDistanceKm": 0.872,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3293863,
-            "id": "51.7938_-8.6313",
-            "altitude": 52
-        },
-        {
-            "lat": 51.75625,
-            "lon": -8.306250000000004,
-            "darkness": 0.4969411471860019,
-            "country": "IE",
-            "bortle": 5,
-            "near": "Fountainstown",
-            "name": "Morris Head",
-            "nameDistanceKm": 0.663,
-            "nameFeatureCode": "CAPE",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 3230147,
-            "id": "51.7563_-8.3063",
-            "altitude": 69
-        },
-        {
-            "lat": 51.92708333333333,
-            "lon": -8.131250000000005,
-            "darkness": 0.495623055499018,
-            "country": "IE",
-            "bortle": 5,
-            "near": "Midleton",
-            "name": "Bilberry",
-            "nameDistanceKm": 0.319,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3299781,
-            "id": "51.9271_-8.1313",
-            "altitude": 11
-        },
-        {
-            "lat": 51.83958333333333,
-            "lon": -8.677083333333337,
-            "darkness": 0.4880506035154457,
-            "country": "IE",
-            "bortle": 5,
-            "near": "Aherla",
-            "name": "Black Cross Roads",
-            "nameDistanceKm": 1.757,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3294141,
-            "id": "51.8396_-8.6771",
-            "altitude": 154
-        },
-        {
-            "lat": 51.92708333333333,
-            "lon": -8.58541666666667,
-            "darkness": 0.34756424953534804,
-            "country": "IE",
-            "bortle": 6,
-            "near": "Blarney",
-            "name": "Blarney Lake",
-            "nameDistanceKm": 0.994,
-            "nameFeatureCode": "LK",
-            "nameFeatureClass": "H",
-            "nameGeoNameId": 3292021,
-            "id": "51.9271_-8.5854",
-            "altitude": 24
-        },
-        {
-            "lat": 51.92708333333333,
-            "lon": -8.268750000000004,
-            "darkness": 0.3470911521107567,
-            "country": "IE",
-            "bortle": 6,
-            "near": "Carrigtwohill",
-            "name": "Greenville",
-            "nameDistanceKm": 0.993,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3299510,
-            "id": "51.9271_-8.2688",
-            "altitude": 115
+        "parking": {
+          "status": "not_found_within_radius"
         }
-    ]
+      }
+    },
+    {
+      "lat": 51.59375,
+      "lon": -8.77291666666667,
+      "darkness": 0.8413219176641145,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Courtmacsherry",
+      "name": "Lehenagh",
+      "nameDistanceKm": 0.236,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3293514,
+      "id": "51.5938_-8.7729",
+      "altitude": 27,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/238128089",
+          "distanceM": 103,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/617584447",
+          "distanceM": 322,
+          "elevationDeltaM": 5,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/618211379",
+          "distanceM": 783,
+          "elevationDeltaM": -25,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.61875,
+      "lon": -8.543750000000003,
+      "darkness": 0.7459510773839032,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Kinsale",
+      "name": "Black Head",
+      "nameDistanceKm": 1.208,
+      "nameFeatureCode": "CAPE",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 3230130,
+      "id": "51.6187_-8.5438",
+      "altitude": 14,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/208885093",
+          "distanceM": 113,
+          "elevationDeltaM": -72,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/496057452",
+          "distanceM": 338,
+          "elevationDeltaM": -68,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/177782782",
+          "distanceM": 119,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "node/1404603567",
+          "distanceM": 140,
+          "elevationDeltaM": -40,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 51.91875,
+      "lon": -8.952083333333338,
+      "darkness": 0.7457806456319424,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Macroom",
+      "name": "Kill",
+      "nameDistanceKm": 0.84,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3291498,
+      "id": "51.9188_-8.9521",
+      "altitude": 145,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1218597759",
+          "distanceM": 38,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1243814968",
+          "distanceM": 152,
+          "elevationDeltaM": 13,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/186484890",
+          "distanceM": 623,
+          "elevationDeltaM": 52,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.639583333333334,
+      "lon": -8.66041666666667,
+      "darkness": 0.7367148861702643,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Courtmacsherry",
+      "name": "Sea View",
+      "nameDistanceKm": 1.642,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3293583,
+      "id": "51.6396_-8.6604",
+      "altitude": 48,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/509167481",
+          "distanceM": 32,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/509167488",
+          "distanceM": 43,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/508915761",
+          "distanceM": 644,
+          "elevationDeltaM": 41,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.74791666666667,
+      "lon": -8.86041666666667,
+      "darkness": 0.7266035934078271,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Enniskeane",
+      "name": "Kilcolman Park",
+      "nameDistanceKm": 1.821,
+      "nameFeatureCode": "PRK",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3293812,
+      "id": "51.7479_-8.8604",
+      "altitude": 73,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/208985011",
+          "distanceM": 18,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/897229682",
+          "distanceM": 197,
+          "elevationDeltaM": -8,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/686629108",
+          "distanceM": 767,
+          "elevationDeltaM": 32,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.69375,
+      "lon": -8.43541666666667,
+      "darkness": 0.588438867695142,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Belgooly",
+      "name": "Big Doon",
+      "nameDistanceKm": 0.565,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 3293802,
+      "id": "51.6938_-8.4354",
+      "altitude": 63,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/34637519",
+          "distanceM": 287,
+          "elevationDeltaM": 17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/738358727",
+          "distanceM": 232,
+          "elevationDeltaM": 31,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/511848314",
+          "distanceM": 828,
+          "elevationDeltaM": 50,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.80625,
+      "lon": -8.131250000000005,
+      "darkness": 0.5523163656449761,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Cloyne",
+      "name": "Ballyrobin South",
+      "nameDistanceKm": 0.903,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3294222,
+      "id": "51.8062_-8.1313",
+      "altitude": 16,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/236109294",
+          "distanceM": 221,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1296990834",
+          "distanceM": 262,
+          "elevationDeltaM": -34,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/352864955",
+          "distanceM": 336,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 51.79375,
+      "lon": -8.631250000000005,
+      "darkness": 0.5045336029148367,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Innishannon",
+      "name": "Barna Cross Roads",
+      "nameDistanceKm": 0.872,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3293863,
+      "id": "51.7938_-8.6313",
+      "altitude": 52,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/682853572",
+          "distanceM": 145,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/682853574",
+          "distanceM": 25,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.75625,
+      "lon": -8.306250000000004,
+      "darkness": 0.4969411471860019,
+      "country": "IE",
+      "bortle": 5,
+      "near": "Fountainstown",
+      "name": "Morris Head",
+      "nameDistanceKm": 0.663,
+      "nameFeatureCode": "CAPE",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 3230147,
+      "id": "51.7563_-8.3063",
+      "altitude": 69,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/34637529",
+          "distanceM": 263,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/726983672",
+          "distanceM": 34,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.92708333333333,
+      "lon": -8.131250000000005,
+      "darkness": 0.495623055499018,
+      "country": "IE",
+      "bortle": 5,
+      "near": "Midleton",
+      "name": "Bilberry",
+      "nameDistanceKm": 0.319,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3299781,
+      "id": "51.9271_-8.1313",
+      "altitude": 11,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/37770211",
+          "distanceM": 270,
+          "elevationDeltaM": -29,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1290367425",
+          "distanceM": 463,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 51.83958333333333,
+      "lon": -8.677083333333337,
+      "darkness": 0.4880506035154457,
+      "country": "IE",
+      "bortle": 5,
+      "near": "Aherla",
+      "name": "Black Cross Roads",
+      "nameDistanceKm": 1.757,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3294141,
+      "id": "51.8396_-8.6771",
+      "altitude": 154,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/41190961",
+          "distanceM": 169,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/726825382",
+          "distanceM": 419,
+          "elevationDeltaM": -9,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/941605079",
+          "distanceM": 494,
+          "elevationDeltaM": -13,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/941605078",
+          "distanceM": 491,
+          "elevationDeltaM": -14,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "customers"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "customers"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 51.92708333333333,
+      "lon": -8.58541666666667,
+      "darkness": 0.34756424953534804,
+      "country": "IE",
+      "bortle": 6,
+      "near": "Blarney",
+      "name": "Blarney Lake",
+      "nameDistanceKm": 0.994,
+      "nameFeatureCode": "LK",
+      "nameFeatureClass": "H",
+      "nameGeoNameId": 3292021,
+      "id": "51.9271_-8.5854",
+      "altitude": 24,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/373505958",
+          "distanceM": 152,
+          "elevationDeltaM": -15,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/761758741",
+          "distanceM": 113,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/290579980",
+          "distanceM": 207,
+          "elevationDeltaM": -21,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "node/351128863",
+          "distanceM": 698,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 51.92708333333333,
+      "lon": -8.268750000000004,
+      "darkness": 0.3470911521107567,
+      "country": "IE",
+      "bortle": 6,
+      "near": "Carrigtwohill",
+      "name": "Greenville",
+      "nameDistanceKm": 0.993,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3299510,
+      "id": "51.9271_-8.2688",
+      "altitude": 115,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/694979302",
+          "distanceM": 429,
+          "elevationDeltaM": -18,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/694979298",
+          "distanceM": 188,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/809243044",
+          "distanceM": 994,
+          "elevationDeltaM": 88,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    }
+  ]
 }

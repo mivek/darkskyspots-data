@@ -1,413 +1,1989 @@
 {
-    "version": "2025.9",
-    "source": "VIIRS/2025/uk_ireland",
-    "generated": "2026-11-03T00:00:00Z",
-    "tile": "N052W007",
-    "spots": [
-        {
-            "lat": 52.18125,
-            "lon": -6.581250000000004,
-            "darkness": 0.8726886124524518,
-            "country": "IE",
-            "bortle": 2,
-            "near": "Piercetown",
-            "name": "Kilmore Quay",
-            "nameDistanceKm": 1.087,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2963252,
-            "id": "52.1812_-6.5813",
-            "altitude": 12
+  "version": "2025.9",
+  "source": "VIIRS/2025/uk_ireland",
+  "generated": "2026-11-03T00:00:00Z",
+  "tile": "N052W007",
+  "spots": [
+    {
+      "lat": 52.18125,
+      "lon": -6.581250000000004,
+      "darkness": 0.8726886124524518,
+      "country": "IE",
+      "bortle": 2,
+      "near": "Piercetown",
+      "name": "Kilmore Quay",
+      "nameDistanceKm": 1.087,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2963252,
+      "id": "52.1812_-6.5813",
+      "altitude": 12,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/261964844",
+          "distanceM": 42,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
         },
-        {
-            "lat": 52.52708333333333,
-            "lon": -6.227083333333336,
-            "darkness": 0.8632309801036235,
-            "country": "IE",
-            "bortle": 2,
-            "near": "Ford",
-            "name": "Tinnacree",
-            "nameDistanceKm": 1.601,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3304375,
-            "id": "52.5271_-6.2271",
-            "altitude": 7
+        "track": {
+          "status": "found",
+          "osm": "way/261964863",
+          "distanceM": 92,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
         },
-        {
-            "lat": 52.20625,
-            "lon": -6.627083333333337,
-            "darkness": 0.8470285856362374,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Piercetown",
-            "name": "Park",
-            "nameDistanceKm": 0.42,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3302016,
-            "id": "52.2062_-6.6271",
-            "altitude": 1
+        "path": {
+          "status": "found",
+          "osm": "way/58697241",
+          "distanceM": 639,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "pedestrian"
         },
-        {
-            "lat": 52.48125,
-            "lon": -6.297916666666671,
-            "darkness": 0.8441875770676255,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Kilmuckridge",
-            "name": "Killincooly",
-            "nameDistanceKm": 1.005,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3304267,
-            "id": "52.4813_-6.2979",
-            "altitude": 38
-        },
-        {
-            "lat": 52.18125,
-            "lon": -6.389583333333338,
-            "darkness": 0.8333031252292049,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Kilrane",
-            "name": "Inish",
-            "nameDistanceKm": 0.46,
-            "nameFeatureCode": "ISL",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2963670,
-            "id": "52.1812_-6.3896",
-            "altitude": 16
-        },
-        {
-            "lat": 52.53958333333333,
-            "lon": -6.81041666666667,
-            "darkness": 0.8025213038911564,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Graiguenamanagh",
-            "name": "Blackstairs Mountain",
-            "nameDistanceKm": 0.99,
-            "nameFeatureCode": "MT",
-            "nameFeatureClass": "T",
-            "nameGeoNameId": 2966123,
-            "id": "52.5396_-6.8104",
-            "altitude": 422
-        },
-        {
-            "lat": 52.61458333333333,
-            "lon": -6.389583333333338,
-            "darkness": 0.7939214352938071,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Ballycanew",
-            "name": "Camolin",
-            "nameDistanceKm": 2.094,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2965828,
-            "id": "52.6146_-6.3896",
-            "altitude": 51
-        },
-        {
-            "lat": 52.43958333333333,
-            "lon": -6.66041666666667,
-            "darkness": 0.7901317435657794,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Enniscorthy",
-            "name": "Ballyeden Bridge",
-            "nameDistanceKm": 1.017,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3302633,
-            "id": "52.4396_-6.6604",
-            "altitude": 47
-        },
-        {
-            "lat": 52.65208333333333,
-            "lon": -6.652083333333337,
-            "darkness": 0.7785130048542912,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Bunclody",
-            "name": "Bunclody",
-            "nameDistanceKm": 0.372,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2965932,
-            "id": "52.6521_-6.6521",
-            "altitude": 42
-        },
-        {
-            "lat": 52.172916666666666,
-            "lon": -6.84791666666667,
-            "darkness": 0.7764332154667413,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Dunmore East",
-            "name": "Graigue Great",
-            "nameDistanceKm": 0.565,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2963907,
-            "id": "52.1729_-6.8479",
-            "altitude": 28
-        },
-        {
-            "lat": 52.71041666666667,
-            "lon": -6.1770833333333375,
-            "darkness": 0.7432755492882591,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Castletown",
-            "name": "Kilgorman",
-            "nameDistanceKm": 0.276,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12112853,
-            "id": "52.7104_-6.1771",
-            "altitude": 10
-        },
-        {
-            "lat": 52.75625,
-            "lon": -6.510416666666671,
-            "darkness": 0.7411881007439096,
-            "country": "IE",
-            "bortle": 3,
-            "near": "Carnew",
-            "name": "Mill Wood",
-            "nameDistanceKm": 0.237,
-            "nameFeatureCode": "FRST",
-            "nameFeatureClass": "V",
-            "nameGeoNameId": 3304893,
-            "id": "52.7563_-6.5104",
-            "altitude": 124
-        },
-        {
-            "lat": 52.70625,
-            "lon": -6.181250000000004,
-            "darkness": 0.7385820494302258,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Castletown",
-            "name": "Kilbegnet",
-            "nameDistanceKm": 0.233,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12112854,
-            "id": "52.7062_-6.1813",
-            "altitude": 12
-        },
-        {
-            "lat": 52.75625,
-            "lon": -6.572916666666671,
-            "darkness": 0.7382905588224822,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Carnew",
-            "name": "Crone",
-            "nameDistanceKm": 0.7,
-            "nameFeatureCode": "PPLL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 12113144,
-            "id": "52.7563_-6.5729",
-            "altitude": 194
-        },
-        {
-            "lat": 52.50208333333333,
-            "lon": -6.568750000000003,
-            "darkness": 0.738009751722615,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Enniscorthy",
-            "name": "Enniscorthy",
-            "nameDistanceKm": 0.756,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 2964403,
-            "id": "52.5021_-6.5688",
-            "altitude": 20
-        },
-        {
-            "lat": 52.43125,
-            "lon": -6.84791666666667,
-            "darkness": 0.7373840338114601,
-            "country": "IE",
-            "bortle": 4,
-            "near": "New Ross",
-            "name": "Rathgarogue",
-            "nameDistanceKm": 0.789,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3302579,
-            "id": "52.4312_-6.8479",
-            "altitude": 84
-        },
-        {
-            "lat": 52.25208333333333,
-            "lon": -6.477083333333336,
-            "darkness": 0.7275639948785677,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Piercetown",
-            "name": "Walshestown",
-            "nameDistanceKm": 0.481,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3302097,
-            "id": "52.2521_-6.4771",
-            "altitude": 9
-        },
-        {
-            "lat": 52.25208333333333,
-            "lon": -6.84791666666667,
-            "darkness": 0.7273794045595412,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Passage East",
-            "name": "Curraghmore",
-            "nameDistanceKm": 0.097,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3301852,
-            "id": "52.2521_-6.8479",
-            "altitude": 29
-        },
-        {
-            "lat": 52.71041666666667,
-            "lon": -6.8020833333333375,
-            "darkness": 0.7267696997139412,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Ballon",
-            "name": "Tailor’s Cross Roads",
-            "nameDistanceKm": 0.638,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3303099,
-            "id": "52.7104_-6.8021",
-            "altitude": 93
-        },
-        {
-            "lat": 52.385416666666664,
-            "lon": -6.393750000000004,
-            "darkness": 0.7038815809913364,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Castlebridge",
-            "name": "Curracloe",
-            "nameDistanceKm": 0.864,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 8411052,
-            "id": "52.3854_-6.3938",
-            "altitude": 2
-        },
-        {
-            "lat": 52.84791666666666,
-            "lon": -6.385416666666671,
-            "darkness": 0.6847450855976489,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Mucklagh",
-            "name": "Preban",
-            "nameDistanceKm": 0.798,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3304963,
-            "id": "52.8479_-6.3854",
-            "altitude": 339
-        },
-        {
-            "lat": 52.860416666666666,
-            "lon": -6.072916666666671,
-            "darkness": 0.6712633202292116,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Arklow",
-            "name": "Ardanairy",
-            "nameDistanceKm": 0.413,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3305138,
-            "id": "52.8604_-6.0729",
-            "altitude": 18
-        },
-        {
-            "lat": 52.89375,
-            "lon": -6.618750000000004,
-            "darkness": 0.6500115443876876,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Rathvilly",
-            "name": "Tiknock",
-            "nameDistanceKm": 0.325,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3303854,
-            "id": "52.8937_-6.6188",
-            "altitude": 145
-        },
-        {
-            "lat": 52.92708333333333,
-            "lon": -6.889583333333338,
-            "darkness": 0.6145080037716606,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Castledermot",
-            "name": "Johnstown North",
-            "nameDistanceKm": 2.168,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3314155,
-            "id": "52.9271_-6.8896",
-            "altitude": 84
-        },
-        {
-            "lat": 52.80208333333333,
-            "lon": -6.981250000000005,
-            "darkness": 0.5684810406164529,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Carlow",
-            "name": "Raheendoran",
-            "nameDistanceKm": 1.081,
-            "nameFeatureCode": "LCTY",
-            "nameFeatureClass": "L",
-            "nameGeoNameId": 3303123,
-            "id": "52.8021_-6.9813",
-            "altitude": 91
-        },
-        {
-            "lat": 52.985416666666666,
-            "lon": -6.431250000000004,
-            "darkness": 0.554445667350594,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Rathdrum",
-            "name": "Baravore",
-            "nameDistanceKm": 0.884,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3315035,
-            "id": "52.9854_-6.4313",
-            "altitude": 302
-        },
-        {
-            "lat": 52.985416666666666,
-            "lon": -6.202083333333338,
-            "darkness": 0.5190087686815064,
-            "country": "IE",
-            "bortle": 4,
-            "near": "Glenealy",
-            "name": "Garryduff Cross Roads",
-            "nameDistanceKm": 1.513,
-            "nameFeatureCode": "PPL",
-            "nameFeatureClass": "P",
-            "nameGeoNameId": 3314998,
-            "id": "52.9854_-6.2021",
-            "altitude": 190
+        "parking": {
+          "status": "found",
+          "osm": "way/146829871",
+          "distanceM": 384,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
         }
-    ]
+      }
+    },
+    {
+      "lat": 52.52708333333333,
+      "lon": -6.227083333333336,
+      "darkness": 0.8632309801036235,
+      "country": "IE",
+      "bortle": 2,
+      "near": "Ford",
+      "name": "Tinnacree",
+      "nameDistanceKm": 1.601,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3304375,
+      "id": "52.5271_-6.2271",
+      "altitude": 7,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/200828358",
+          "distanceM": 20,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/184653761",
+          "distanceM": 149,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/184653777",
+          "distanceM": 155,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.20625,
+      "lon": -6.627083333333337,
+      "darkness": 0.8470285856362374,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Piercetown",
+      "name": "Park",
+      "nameDistanceKm": 0.42,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3302016,
+      "id": "52.2062_-6.6271",
+      "altitude": 1,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/260640310",
+          "distanceM": 374,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/260640303",
+          "distanceM": 101,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1555099910",
+          "distanceM": 493,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.48125,
+      "lon": -6.297916666666671,
+      "darkness": 0.8441875770676255,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Kilmuckridge",
+      "name": "Killincooly",
+      "nameDistanceKm": 1.005,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3304267,
+      "id": "52.4813_-6.2979",
+      "altitude": 38,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/180338916",
+          "distanceM": 44,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/180338988",
+          "distanceM": 238,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1157178727",
+          "distanceM": 949,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.18125,
+      "lon": -6.389583333333338,
+      "darkness": 0.8333031252292049,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Kilrane",
+      "name": "Inish",
+      "nameDistanceKm": 0.46,
+      "nameFeatureCode": "ISL",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2963670,
+      "id": "52.1812_-6.3896",
+      "altitude": 16,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/278909650",
+          "distanceM": 307,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/278909645",
+          "distanceM": 250,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "no"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "no"
+            }
+          },
+          "highway": "track",
+          "service": "driveway"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/689341314",
+          "distanceM": 136,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/278909728",
+          "distanceM": 286,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.53958333333333,
+      "lon": -6.81041666666667,
+      "darkness": 0.8025213038911564,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Graiguenamanagh",
+      "name": "Blackstairs Mountain",
+      "nameDistanceKm": 0.99,
+      "nameFeatureCode": "MT",
+      "nameFeatureClass": "T",
+      "nameGeoNameId": 2966123,
+      "id": "52.5396_-6.8104",
+      "altitude": 422,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/192514461",
+          "distanceM": 868,
+          "elevationDeltaM": 125,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/34386689",
+          "distanceM": 497,
+          "elevationDeltaM": -136,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path",
+          "sacScale": "mountain_hiking"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.61458333333333,
+      "lon": -6.389583333333338,
+      "darkness": 0.7939214352938071,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Ballycanew",
+      "name": "Camolin",
+      "nameDistanceKm": 2.094,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2965828,
+      "id": "52.6146_-6.3896",
+      "altitude": 51,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/881563496",
+          "distanceM": 97,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1445277595",
+          "distanceM": 219,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.43958333333333,
+      "lon": -6.66041666666667,
+      "darkness": 0.7901317435657794,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Enniscorthy",
+      "name": "Ballyeden Bridge",
+      "nameDistanceKm": 1.017,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3302633,
+      "id": "52.4396_-6.6604",
+      "altitude": 47,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/36868820",
+          "distanceM": 247,
+          "elevationDeltaM": 11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/201771240",
+          "distanceM": 153,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.65208333333333,
+      "lon": -6.652083333333337,
+      "darkness": 0.7785130048542912,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Bunclody",
+      "name": "Bunclody",
+      "nameDistanceKm": 0.372,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2965932,
+      "id": "52.6521_-6.6521",
+      "altitude": 42,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/23098012",
+          "distanceM": 18,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/166901922",
+          "distanceM": 583,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/987134791",
+          "distanceM": 301,
+          "elevationDeltaM": 7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/875920067",
+          "distanceM": 65,
+          "elevationDeltaM": 9,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.172916666666666,
+      "lon": -6.84791666666667,
+      "darkness": 0.7764332154667413,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Dunmore East",
+      "name": "Graigue Great",
+      "nameDistanceKm": 0.565,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2963907,
+      "id": "52.1729_-6.8479",
+      "altitude": 28,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/32283732",
+          "distanceM": 18,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/252497473",
+          "distanceM": 312,
+          "elevationDeltaM": 10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/93102337",
+          "distanceM": 715,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.71041666666667,
+      "lon": -6.1770833333333375,
+      "darkness": 0.7432755492882591,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Castletown",
+      "name": "Kilgorman",
+      "nameDistanceKm": 0.276,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12112853,
+      "id": "52.7104_-6.1771",
+      "altitude": 10,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/28738150",
+          "distanceM": 123,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/134473252",
+          "distanceM": 394,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1340135780",
+          "distanceM": 118,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/219943838",
+          "distanceM": 980,
+          "elevationDeltaM": -15,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.75625,
+      "lon": -6.510416666666671,
+      "darkness": 0.7411881007439096,
+      "country": "IE",
+      "bortle": 3,
+      "near": "Carnew",
+      "name": "Mill Wood",
+      "nameDistanceKm": 0.237,
+      "nameFeatureCode": "FRST",
+      "nameFeatureClass": "V",
+      "nameGeoNameId": 3304893,
+      "id": "52.7563_-6.5104",
+      "altitude": 124,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/146734101",
+          "distanceM": 188,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1362831977",
+          "distanceM": 65,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1363853725",
+          "distanceM": 218,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/146734107",
+          "distanceM": 684,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.70625,
+      "lon": -6.181250000000004,
+      "darkness": 0.7385820494302258,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Castletown",
+      "name": "Kilbegnet",
+      "nameDistanceKm": 0.233,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12112854,
+      "id": "52.7062_-6.1813",
+      "altitude": 12,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/219294761",
+          "distanceM": 33,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/219294776",
+          "distanceM": 332,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1340135780",
+          "distanceM": 400,
+          "elevationDeltaM": 8,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.75625,
+      "lon": -6.572916666666671,
+      "darkness": 0.7382905588224822,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Carnew",
+      "name": "Crone",
+      "nameDistanceKm": 0.7,
+      "nameFeatureCode": "PPLL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 12113144,
+      "id": "52.7563_-6.5729",
+      "altitude": 194,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/142612970",
+          "distanceM": 144,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1382132672",
+          "distanceM": 147,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/135617721",
+          "distanceM": 619,
+          "elevationDeltaM": -50,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.50208333333333,
+      "lon": -6.568750000000003,
+      "darkness": 0.738009751722615,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Enniscorthy",
+      "name": "Enniscorthy",
+      "nameDistanceKm": 0.756,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 2964403,
+      "id": "52.5021_-6.5688",
+      "altitude": 20,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/300893698",
+          "distanceM": 19,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "secondary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/194658016",
+          "distanceM": 715,
+          "elevationDeltaM": -17,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/281059467",
+          "distanceM": 19,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "pedestrian"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/1013867503",
+          "distanceM": 26,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "yes"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.43125,
+      "lon": -6.84791666666667,
+      "darkness": 0.7373840338114601,
+      "country": "IE",
+      "bortle": 4,
+      "near": "New Ross",
+      "name": "Rathgarogue",
+      "nameDistanceKm": 0.789,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3302579,
+      "id": "52.4312_-6.8479",
+      "altitude": 84,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/202985779",
+          "distanceM": 18,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "tertiary"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/202988532",
+          "distanceM": 302,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.25208333333333,
+      "lon": -6.477083333333336,
+      "darkness": 0.7275639948785677,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Piercetown",
+      "name": "Walshestown",
+      "nameDistanceKm": 0.481,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3302097,
+      "id": "52.2521_-6.4771",
+      "altitude": 9,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/285561099",
+          "distanceM": 188,
+          "elevationDeltaM": -10,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/426006484",
+          "distanceM": 77,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/285561097",
+          "distanceM": 141,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.25208333333333,
+      "lon": -6.84791666666667,
+      "darkness": 0.7273794045595412,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Passage East",
+      "name": "Curraghmore",
+      "nameDistanceKm": 0.097,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3301852,
+      "id": "52.2521_-6.8479",
+      "altitude": 29,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/253079760",
+          "distanceM": 138,
+          "elevationDeltaM": -6,
+          "access": {
+            "foot": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            },
+            "motorcar": {
+              "state": "tagged",
+              "key": "access",
+              "value": "private"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/253079759",
+          "distanceM": 48,
+          "elevationDeltaM": -1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/248720227",
+          "distanceM": 490,
+          "elevationDeltaM": 12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.71041666666667,
+      "lon": -6.8020833333333375,
+      "darkness": 0.7267696997139412,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Ballon",
+      "name": "Tailor’s Cross Roads",
+      "nameDistanceKm": 0.638,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3303099,
+      "id": "52.7104_-6.8021",
+      "altitude": 93,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/164296978",
+          "distanceM": 9,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/783185568",
+          "distanceM": 798,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.385416666666664,
+      "lon": -6.393750000000004,
+      "darkness": 0.7038815809913364,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Castlebridge",
+      "name": "Curracloe",
+      "nameDistanceKm": 0.864,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 8411052,
+      "id": "52.3854_-6.3938",
+      "altitude": 2,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/138318290",
+          "distanceM": 244,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/221095188",
+          "distanceM": 359,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/996584347",
+          "distanceM": 879,
+          "elevationDeltaM": -11,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/996584355",
+          "distanceM": 830,
+          "elevationDeltaM": -9,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.84791666666666,
+      "lon": -6.385416666666671,
+      "darkness": 0.6847450855976489,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Mucklagh",
+      "name": "Preban",
+      "nameDistanceKm": 0.798,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3304963,
+      "id": "52.8479_-6.3854",
+      "altitude": 339,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/146626971",
+          "distanceM": 75,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1030062536",
+          "distanceM": 996,
+          "elevationDeltaM": -12,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.860416666666666,
+      "lon": -6.072916666666671,
+      "darkness": 0.6712633202292116,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Arklow",
+      "name": "Ardanairy",
+      "nameDistanceKm": 0.413,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3305138,
+      "id": "52.8604_-6.0729",
+      "altitude": 18,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/143489971",
+          "distanceM": 23,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1373354691",
+          "distanceM": 82,
+          "elevationDeltaM": 1,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/143489960",
+          "distanceM": 92,
+          "elevationDeltaM": 2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "footway"
+        },
+        "parking": {
+          "status": "found",
+          "osm": "way/143490007",
+          "distanceM": 13,
+          "elevationDeltaM": 0,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          }
+        }
+      }
+    },
+    {
+      "lat": 52.89375,
+      "lon": -6.618750000000004,
+      "darkness": 0.6500115443876876,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Rathvilly",
+      "name": "Tiknock",
+      "nameDistanceKm": 0.325,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3303854,
+      "id": "52.8937_-6.6188",
+      "altitude": 145,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/792955727",
+          "distanceM": 74,
+          "elevationDeltaM": -2,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/773856450",
+          "distanceM": 251,
+          "elevationDeltaM": -4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.92708333333333,
+      "lon": -6.889583333333338,
+      "darkness": 0.6145080037716606,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Castledermot",
+      "name": "Johnstown North",
+      "nameDistanceKm": 2.168,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3314155,
+      "id": "52.9271_-6.8896",
+      "altitude": 84,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/1006524667",
+          "distanceM": 415,
+          "elevationDeltaM": 4,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service"
+        },
+        "track": {
+          "status": "not_found_within_radius"
+        },
+        "path": {
+          "status": "not_found_within_radius"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.80208333333333,
+      "lon": -6.981250000000005,
+      "darkness": 0.5684810406164529,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Carlow",
+      "name": "Raheendoran",
+      "nameDistanceKm": 1.081,
+      "nameFeatureCode": "LCTY",
+      "nameFeatureClass": "L",
+      "nameGeoNameId": 3303123,
+      "id": "52.8021_-6.9813",
+      "altitude": 91,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/167233249",
+          "distanceM": 524,
+          "elevationDeltaM": 6,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "service",
+          "service": "driveway"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/675860157",
+          "distanceM": 610,
+          "elevationDeltaM": -98,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/1444235366",
+          "distanceM": 617,
+          "elevationDeltaM": -91,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.985416666666666,
+      "lon": -6.431250000000004,
+      "darkness": 0.554445667350594,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Rathdrum",
+      "name": "Baravore",
+      "nameDistanceKm": 0.884,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3315035,
+      "id": "52.9854_-6.4313",
+      "altitude": 302,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "not_found_within_radius"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/34378789",
+          "distanceM": 22,
+          "elevationDeltaM": -5,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/515307308",
+          "distanceM": 306,
+          "elevationDeltaM": -7,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    },
+    {
+      "lat": 52.985416666666666,
+      "lon": -6.202083333333338,
+      "darkness": 0.5190087686815064,
+      "country": "IE",
+      "bortle": 4,
+      "near": "Glenealy",
+      "name": "Garryduff Cross Roads",
+      "nameDistanceKm": 1.513,
+      "nameFeatureCode": "PPL",
+      "nameFeatureClass": "P",
+      "nameGeoNameId": 3314998,
+      "id": "52.9854_-6.2021",
+      "altitude": 190,
+      "accessibility": {
+        "schema": 1,
+        "source": "g2-ie-ni-b4a5a01dc4c1f51f",
+        "radiusM": 1000,
+        "road": {
+          "status": "found",
+          "osm": "way/157553308",
+          "distanceM": 55,
+          "elevationDeltaM": 3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "unclassified"
+        },
+        "track": {
+          "status": "found",
+          "osm": "way/1360977916",
+          "distanceM": 196,
+          "elevationDeltaM": -3,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "track"
+        },
+        "path": {
+          "status": "found",
+          "osm": "way/108200089",
+          "distanceM": 944,
+          "elevationDeltaM": -27,
+          "access": {
+            "foot": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            },
+            "motorcar": {
+              "state": "unknown",
+              "reason": "missing_tag"
+            }
+          },
+          "highway": "path"
+        },
+        "parking": {
+          "status": "not_found_within_radius"
+        }
+      }
+    }
+  ]
 }
