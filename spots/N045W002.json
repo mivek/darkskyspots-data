@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/france",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N045W002",
@@ -92,7 +92,10 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3012059,
             "id": "45.2896_-1.1271",
-            "altitude": 20
+            "altitude": 20,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 45.102083333333326,
@@ -107,7 +110,10 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3028645,
             "id": "45.1021_-1.1896",
-            "altitude": 8
+            "altitude": 8,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 45.981249999999996,
@@ -122,7 +128,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3232732,
             "id": "45.9812_-1.3021",
-            "altitude": 6
+            "altitude": 6,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 45.43124999999999,
@@ -137,7 +146,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3225117,
             "id": "45.4312_-1.1438",
-            "altitude": 18
+            "altitude": 18,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 45.697916666666664,
@@ -152,7 +164,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3225179,
             "id": "45.6979_-1.1729",
-            "altitude": 3
+            "altitude": 3,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 45.981249999999996,
@@ -182,7 +197,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2973507,
             "id": "45.0104_-1.0813",
-            "altitude": 18
+            "altitude": 18,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 45.70208333333333,

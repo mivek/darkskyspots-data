@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/canaries",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N029W014",
@@ -107,7 +107,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2518338,
             "id": "29.0729_-13.5104",
-            "altitude": 232
+            "altitude": 232,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 29.027083333333337,

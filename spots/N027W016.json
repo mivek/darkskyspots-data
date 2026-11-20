@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/canaries",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N027W016",
@@ -32,7 +32,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2515324,
             "id": "27.9854_-15.7979",
-            "altitude": 109
+            "altitude": 109,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 27.835416666666667,
@@ -62,7 +65,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2518548,
             "id": "27.9771_-15.6604",
-            "altitude": 869
+            "altitude": 869,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 27.835416666666667,
@@ -77,7 +83,10 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2571564,
             "id": "27.8354_-15.7063",
-            "altitude": 528
+            "altitude": 528,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 27.78541666666667,
@@ -107,7 +116,10 @@
             "nameFeatureClass": "L",
             "nameGeoNameId": 10346770,
             "id": "27.9313_-15.5229",
-            "altitude": 1300
+            "altitude": 1300,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 27.814583333333335,
@@ -122,7 +134,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 8051266,
             "id": "27.8146_-15.4313",
-            "altitude": 31
+            "altitude": 31,
+            "skyDarknessArea": {
+                "v": 1
+            }
         }
     ]
 }

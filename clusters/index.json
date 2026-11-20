@@ -1,12 +1,12 @@
 {
     "data_year": 2025,
-    "generated": "2026-11-12T07:48:10Z",
+    "generated": "2026-11-20T08:08:41.928022839Z",
     "levels": [
         {
             "cell_deg": 0.3,
             "files": [
                 {
-                    "hash": "70ab429eda0d24828b7c3ac976310a867590aa1edd416421c5b9fc12964ab7c7",
+                    "hash": "9bf6a17ca554e7e51f1a2a61c3f32c237317838e6c09cd2d38cd1026fa191f2f",
                     "path": "L1.json"
                 }
             ],
@@ -20,7 +20,7 @@
             "cell_deg": 0.6,
             "files": [
                 {
-                    "hash": "c7ca89c4655c203b999ac72ba31131ac1f5191cba088e710fe153837296e07af",
+                    "hash": "b6607a7cca7a98ad61d52dfe7e407b130f31ca8c41be308fa06eb893fa31d6e6",
                     "path": "L2.json"
                 }
             ],
@@ -34,7 +34,7 @@
             "cell_deg": 1.2,
             "files": [
                 {
-                    "hash": "b220bec4810a8e849497ac66b3d181abe545212c481d5eb5f88bed31ba12fe4a",
+                    "hash": "97be0cc4a9ff1a1bd5abf85aa1294fa0538af03e23fdbbb93d749a35e3803942",
                     "path": "L3.json"
                 }
             ],
@@ -48,7 +48,7 @@
             "cell_deg": 2.4,
             "files": [
                 {
-                    "hash": "7974ce549471bb82f9ddf1a3ab32de09d8b68b9c68116862a2a83603171ce850",
+                    "hash": "3229cb6a40a3db3cd978020df31f71afe39b1786e7935bcd734d5db906a2f0f2",
                     "path": "L4.json"
                 }
             ],
@@ -62,7 +62,7 @@
             "cell_deg": 4.8,
             "files": [
                 {
-                    "hash": "67c0302cc80158586c7562543ca6308346aa1241a07ca36eda34085dcd1ba2e6",
+                    "hash": "6d6477705f4f6b41829fba649adae625feddbf4357ce2fc6442408ecc54876a9",
                     "path": "L5.json"
                 }
             ],
@@ -76,7 +76,7 @@
             "cell_deg": 9.6,
             "files": [
                 {
-                    "hash": "23d5f6957ca22679083bf711e4b8c1bfc16fc19d3bf7b14cc5b7d5ea80954237",
+                    "hash": "f2055e3366652de55b0aa5add2e1d214eea91e8bca08686c0e180baf537696a9",
                     "path": "L6.json"
                 }
             ],

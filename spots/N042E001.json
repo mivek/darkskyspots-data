@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/france",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N042E001",
@@ -17,7 +17,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3032716,
             "id": "42.9146_1.3229",
-            "altitude": 1023
+            "altitude": 1023,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 42.90208333333333,
@@ -32,7 +35,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2974093,
             "id": "42.9021_1.2062",
-            "altitude": 546
+            "altitude": 546,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 42.92708333333333,
@@ -47,7 +53,10 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 12573847,
             "id": "42.9271_1.3937",
-            "altitude": 1078
+            "altitude": 1078,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 42.96458333333333,
@@ -62,7 +71,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2980671,
             "id": "42.9646_1.9646",
-            "altitude": 440
+            "altitude": 440,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 42.947916666666664,
@@ -77,7 +89,10 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 9653610,
             "id": "42.9479_1.7521",
-            "altitude": 835
+            "altitude": 835,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 42.93958333333333,
@@ -92,7 +107,10 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 12746873,
             "id": "42.9396_1.6562",
-            "altitude": 634
+            "altitude": 634,
+            "skyDarknessArea": {
+                "v": 1
+            }
         }
     ]
 }

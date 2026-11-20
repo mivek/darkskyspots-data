@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/france",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N047W003",
@@ -17,7 +17,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3005208,
             "id": "47.9937_-2.3229",
-            "altitude": 85
+            "altitude": 85,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.947916666666664,
@@ -32,7 +35,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3007512,
             "id": "47.9479_-2.6646",
-            "altitude": 117
+            "altitude": 117,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.789583333333326,
@@ -47,7 +53,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12320222,
             "id": "47.7896_-2.2479",
-            "altitude": 61
+            "altitude": 61,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.885416666666664,
@@ -62,7 +71,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2984705,
             "id": "47.8854_-2.4854",
-            "altitude": 130
+            "altitude": 130,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.50208333333333,
@@ -92,7 +104,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12320348,
             "id": "47.6604_-2.3229",
-            "altitude": 80
+            "altitude": 80,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.80208333333333,
@@ -107,7 +122,10 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 2981377,
             "id": "47.8021_-2.6438",
-            "altitude": 111
+            "altitude": 111,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.81458333333333,
@@ -122,7 +140,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12315653,
             "id": "47.8146_-2.0438",
-            "altitude": 18
+            "altitude": 18,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.82708333333333,
@@ -137,7 +158,10 @@
             "nameFeatureClass": "V",
             "nameGeoNameId": 3018234,
             "id": "47.8271_-2.9354",
-            "altitude": 143
+            "altitude": 143,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.539583333333326,
@@ -152,7 +176,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3037899,
             "id": "47.5396_-2.5729",
-            "altitude": 18
+            "altitude": 18,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.95208333333333,
@@ -167,7 +194,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3008661,
             "id": "47.9521_-2.0146",
-            "altitude": 112
+            "altitude": 112,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.539583333333326,
@@ -182,7 +212,10 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 11073120,
             "id": "47.5396_-2.7479",
-            "altitude": 11
+            "altitude": 11,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.48958333333333,
@@ -197,7 +230,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2971920,
             "id": "47.4896_-2.4521",
-            "altitude": 4
+            "altitude": 4,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.58125,
@@ -212,7 +248,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12320393,
             "id": "47.5812_-2.1604",
-            "altitude": 10
+            "altitude": 10,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.76458333333333,
@@ -227,7 +266,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12320210,
             "id": "47.7646_-2.6896",
-            "altitude": 59
+            "altitude": 59,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.631249999999994,
@@ -242,7 +284,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3004075,
             "id": "47.6312_-2.5979",
-            "altitude": 32
+            "altitude": 32,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.01458333333333,
@@ -257,7 +302,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12313214,
             "id": "47.0146_-2.0021",
-            "altitude": 0
+            "altitude": 0,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.297916666666666,
@@ -302,7 +350,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2980345,
             "id": "47.4437_-2.2104",
-            "altitude": 2
+            "altitude": 2,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.172916666666666,
@@ -317,7 +368,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3025826,
             "id": "47.1729_-2.0104",
-            "altitude": 27
+            "altitude": 27,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.39375,
@@ -332,7 +386,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12313029,
             "id": "47.3937_-2.1979",
-            "altitude": 4
+            "altitude": 4,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.30624999999999,
@@ -347,7 +404,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3011584,
             "id": "47.3062_-2.3646",
-            "altitude": 41
+            "altitude": 41,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.352083333333326,
@@ -362,7 +422,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3006168,
             "id": "47.3521_-2.0021",
-            "altitude": 6
+            "altitude": 6,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 47.352083333333326,
@@ -377,7 +440,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 12313026,
             "id": "47.3521_-2.0938",
-            "altitude": 7
+            "altitude": 7,
+            "skyDarknessArea": {
+                "v": 1
+            }
         }
     ]
 }

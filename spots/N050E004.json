@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/france",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N050E004",
@@ -17,7 +17,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2967493,
             "id": "50.0437_4.1646",
-            "altitude": 217
+            "altitude": 217,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 50.106249999999996,
@@ -32,7 +35,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 7628403,
             "id": "50.1062_4.8479",
-            "altitude": 162
+            "altitude": 162,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 50.106249999999996,
@@ -47,7 +53,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2991348,
             "id": "50.1062_4.1854",
-            "altitude": 187
+            "altitude": 187,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 50.16041666666666,
@@ -62,7 +71,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3015904,
             "id": "50.1604_4.8146",
-            "altitude": 127
+            "altitude": 127,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 50.24375,
@@ -77,7 +89,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2983865,
             "id": "50.2437_4.1979",
-            "altitude": 209
+            "altitude": 209,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 50.197916666666664,

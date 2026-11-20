@@ -1,5 +1,5 @@
 {
-    "version": "2025.9",
+    "version": "2025.10",
     "source": "VIIRS/2025/france",
     "generated": "2026-11-03T00:00:00Z",
     "tile": "N042E002",
@@ -17,7 +17,10 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 3030928,
             "id": "42.9812_2.1729",
-            "altitude": 342
+            "altitude": 342,
+            "skyDarknessArea": {
+                "v": 1
+            }
         },
         {
             "lat": 42.99374999999999,
