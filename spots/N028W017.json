@@ -1,7 +1,7 @@
 {
-    "version": "2025.10",
+    "version": "2025.11",
     "source": "VIIRS/2025/canaries",
-    "generated": "2026-11-03T00:00:00Z",
+    "generated": "2026-11-24T14:00:44Z",
     "tile": "N028W017",
     "spots": [
         {
@@ -17,7 +17,79 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2520760,
             "id": "28.3521_-16.9146",
-            "altitude": 51
+            "altitude": 51,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/201337409",
+                    "distanceM": 46,
+                    "elevationDeltaM": -5,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "secondary"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/261067508",
+                    "distanceM": 32,
+                    "elevationDeltaM": -3,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/940510835",
+                    "distanceM": 6,
+                    "elevationDeltaM": -1,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "node/1215898358",
+                    "distanceM": 709,
+                    "elevationDeltaM": -34,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.58125,
@@ -32,7 +104,40 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2518289,
             "id": "28.5813_-16.1396",
-            "altitude": 218
+            "altitude": 218,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "not_found_within_radius"
+                },
+                "track": {
+                    "status": "not_found_within_radius"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/50587241",
+                    "distanceM": 61,
+                    "elevationDeltaM": -21,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "designated"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "mountain_hiking"
+                },
+                "parking": {
+                    "status": "not_found_within_radius"
+                }
+            }
         },
         {
             "lat": 28.302083333333336,
@@ -50,6 +155,83 @@
             "altitude": 981,
             "skyDarknessArea": {
                 "v": 1
+            },
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/260939467",
+                    "distanceM": 421,
+                    "elevationDeltaM": 6,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "service",
+                    "service": "driveway"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/50115170",
+                    "distanceM": 80,
+                    "elevationDeltaM": -4,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/92240409",
+                    "distanceM": 23,
+                    "elevationDeltaM": 0,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "designated"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "hiking"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/201333249",
+                    "distanceM": 708,
+                    "elevationDeltaM": -45,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "yes"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "yes"
+                        }
+                    }
+                }
             }
         },
         {
@@ -65,7 +247,83 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2518499,
             "id": "28.5729_-16.1688",
-            "altitude": 576
+            "altitude": 576,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/1042169244",
+                    "distanceM": 972,
+                    "elevationDeltaM": 96,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "residential"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/27003135",
+                    "distanceM": 386,
+                    "elevationDeltaM": -184,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "yes"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "motorcar",
+                            "value": "agricultural"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/134681593",
+                    "distanceM": 86,
+                    "elevationDeltaM": -117,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "yes"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "mountain_hiking"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/1289090182",
+                    "distanceM": 977,
+                    "elevationDeltaM": 96,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.24791666666667,
@@ -83,6 +341,39 @@
             "altitude": 2647,
             "skyDarknessArea": {
                 "v": 1
+            },
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "not_found_within_radius"
+                },
+                "track": {
+                    "status": "not_found_within_radius"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/32223762",
+                    "distanceM": 180,
+                    "elevationDeltaM": 28,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "designated"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "mountain_hiking"
+                },
+                "parking": {
+                    "status": "not_found_within_radius"
+                }
             }
         },
         {
@@ -98,7 +389,81 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2516472,
             "id": "28.1938_-16.4229",
-            "altitude": 7
+            "altitude": 7,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/252342736",
+                    "distanceM": 23,
+                    "elevationDeltaM": 0,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "residential"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/1122137649",
+                    "distanceM": 168,
+                    "elevationDeltaM": -4,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/252342734",
+                    "distanceM": 13,
+                    "elevationDeltaM": 0,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "footway"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/1122137661",
+                    "distanceM": 46,
+                    "elevationDeltaM": -3,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "yes"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "yes"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.397916666666667,
@@ -116,6 +481,78 @@
             "altitude": 65,
             "skyDarknessArea": {
                 "v": 1
+            },
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/167070549",
+                    "distanceM": 152,
+                    "elevationDeltaM": 15,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "unclassified"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/560135199",
+                    "distanceM": 362,
+                    "elevationDeltaM": -25,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/487063209",
+                    "distanceM": 141,
+                    "elevationDeltaM": 6,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/195010426",
+                    "distanceM": 453,
+                    "elevationDeltaM": 24,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
             }
         },
         {
@@ -134,6 +571,67 @@
             "altitude": 1130,
             "skyDarknessArea": {
                 "v": 1
+            },
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/113693316",
+                    "distanceM": 301,
+                    "elevationDeltaM": -27,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "unclassified"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/50223844",
+                    "distanceM": 40,
+                    "elevationDeltaM": 11,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/51183227",
+                    "distanceM": 38,
+                    "elevationDeltaM": 6,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "yes"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "hiking"
+                },
+                "parking": {
+                    "status": "not_found_within_radius"
+                }
             }
         },
         {
@@ -152,6 +650,83 @@
             "altitude": 987,
             "skyDarknessArea": {
                 "v": 1
+            },
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/1228800123",
+                    "distanceM": 732,
+                    "elevationDeltaM": 443,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "private"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "private"
+                        }
+                    },
+                    "highway": "service"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/165846627",
+                    "distanceM": 206,
+                    "elevationDeltaM": -186,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "motor_vehicle",
+                            "value": "yes"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/1154534468",
+                    "distanceM": 133,
+                    "elevationDeltaM": null,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "elevationUnknownReason": "surface_not_ground",
+                    "highway": "path",
+                    "sacScale": "mountain_hiking"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "node/6749248023",
+                    "distanceM": 783,
+                    "elevationDeltaM": 459,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
             }
         },
         {
@@ -167,7 +742,68 @@
             "nameFeatureClass": "T",
             "nameGeoNameId": 2510734,
             "id": "28.5646_-16.2604",
-            "altitude": 352
+            "altitude": 352,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/43634113",
+                    "distanceM": 658,
+                    "elevationDeltaM": -283,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "motor_vehicle",
+                            "value": "destination"
+                        }
+                    },
+                    "highway": "service"
+                },
+                "track": {
+                    "status": "not_found_within_radius"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/43634062",
+                    "distanceM": 36,
+                    "elevationDeltaM": 42,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "foot",
+                            "value": "yes"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "mountain_hiking"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/443072726",
+                    "distanceM": 976,
+                    "elevationDeltaM": -270,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.15625,
@@ -182,7 +818,79 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 6544346,
             "id": "28.1562_-16.7896",
-            "altitude": 150
+            "altitude": 150,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/144885931",
+                    "distanceM": 36,
+                    "elevationDeltaM": -11,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "unclassified"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/492593381",
+                    "distanceM": 495,
+                    "elevationDeltaM": 53,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/1361682417",
+                    "distanceM": 628,
+                    "elevationDeltaM": -55,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/443458859",
+                    "distanceM": 960,
+                    "elevationDeltaM": 70,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.402083333333337,
@@ -200,6 +908,80 @@
             "altitude": 107,
             "skyDarknessArea": {
                 "v": 1
+            },
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/25531652",
+                    "distanceM": 28,
+                    "elevationDeltaM": 1,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "residential"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/151418569",
+                    "distanceM": 94,
+                    "elevationDeltaM": -6,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "no"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "no"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/910568479",
+                    "distanceM": 64,
+                    "elevationDeltaM": 6,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "footway"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/151381569",
+                    "distanceM": 35,
+                    "elevationDeltaM": -7,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
             }
         },
         {
@@ -215,7 +997,52 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 8693001,
             "id": "28.0021_-16.6938",
-            "altitude": 18
+            "altitude": 18,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "not_found_within_radius"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/289266495",
+                    "distanceM": 16,
+                    "elevationDeltaM": 0,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/53129389",
+                    "distanceM": 50,
+                    "elevationDeltaM": 1,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path"
+                },
+                "parking": {
+                    "status": "not_found_within_radius"
+                }
+            }
         },
         {
             "lat": 28.47291666666667,
@@ -230,7 +1057,79 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2511012,
             "id": "28.4729_-16.4396",
-            "altitude": 240
+            "altitude": 240,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/203378293",
+                    "distanceM": 25,
+                    "elevationDeltaM": 0,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "unclassified"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/203378284",
+                    "distanceM": 209,
+                    "elevationDeltaM": -51,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/690680968",
+                    "distanceM": 168,
+                    "elevationDeltaM": -18,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/133327111",
+                    "distanceM": 274,
+                    "elevationDeltaM": -42,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.389583333333334,
@@ -245,7 +1144,79 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2514670,
             "id": "28.3896_-16.3479",
-            "altitude": 128
+            "altitude": 128,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/217806073",
+                    "distanceM": 48,
+                    "elevationDeltaM": 12,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "motorway"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/155162435",
+                    "distanceM": 28,
+                    "elevationDeltaM": 6,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/584009619",
+                    "distanceM": 69,
+                    "elevationDeltaM": 3,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "way/1475153877",
+                    "distanceM": 681,
+                    "elevationDeltaM": -6,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         },
         {
             "lat": 28.522916666666667,
@@ -260,7 +1231,82 @@
             "nameFeatureClass": "P",
             "nameGeoNameId": 2515321,
             "id": "28.5229_-16.3021",
-            "altitude": 745
+            "altitude": 745,
+            "accessibility": {
+                "schema": 1,
+                "source": "can-g1-a7ffe1cfa7d88565",
+                "radiusM": 1000,
+                "road": {
+                    "status": "found",
+                    "osm": "way/101622126",
+                    "distanceM": 325,
+                    "elevationDeltaM": 46,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "residential"
+                },
+                "track": {
+                    "status": "found",
+                    "osm": "way/195412086",
+                    "distanceM": 49,
+                    "elevationDeltaM": 28,
+                    "access": {
+                        "foot": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "private"
+                        },
+                        "motorcar": {
+                            "state": "tagged",
+                            "key": "access",
+                            "value": "private"
+                        }
+                    },
+                    "highway": "track"
+                },
+                "path": {
+                    "status": "found",
+                    "osm": "way/369006735",
+                    "distanceM": 198,
+                    "elevationDeltaM": -73,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    },
+                    "highway": "path",
+                    "sacScale": "mountain_hiking"
+                },
+                "parking": {
+                    "status": "found",
+                    "osm": "node/3164452731",
+                    "distanceM": 862,
+                    "elevationDeltaM": 131,
+                    "access": {
+                        "foot": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        },
+                        "motorcar": {
+                            "state": "unknown",
+                            "reason": "missing_tag"
+                        }
+                    }
+                }
+            }
         }
     ]
 }
